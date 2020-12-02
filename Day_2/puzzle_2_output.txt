@@ -1,0 +1,6000 @@
+6 8 s svsssszslpsp
+Count -- 7
+Passed (Sled Rental) -- 1
+firstPos -- s, index(non zero) -- 6
+secondPos -- s, index(non zero) -- 8
+Failed (Toboggan Rental) -- 1
+3 4 n gncn
+Count -- 2
+Failed (Sled Rental) -- 1
+firstPos -- c, index(non zero) -- 3
+secondPos -- n, index(non zero) -- 4
+Passed (Toboggan Rental) -- 1
+4 8 v vkvmvdmvhttvvrgvvwv
+Count -- 9
+Failed (Sled Rental) -- 2
+firstPos -- m, index(non zero) -- 4
+secondPos -- v, index(non zero) -- 8
+Passed (Toboggan Rental) -- 2
+16 18 j jjjjjjjjjjjjjjjjjf
+Count -- 17
+Passed (Sled Rental) -- 2
+firstPos -- j, index(non zero) -- 16
+secondPos -- f, index(non zero) -- 18
+Passed (Toboggan Rental) -- 3
+13 15 p pppppppvppppxxppp
+Count -- 14
+Passed (Sled Rental) -- 3
+firstPos -- x, index(non zero) -- 13
+secondPos -- p, index(non zero) -- 15
+Passed (Toboggan Rental) -- 4
+3 4 k bkksggqbtwkkkzqcz
+Count -- 5
+Failed (Sled Rental) -- 3
+firstPos -- k, index(non zero) -- 3
+secondPos -- s, index(non zero) -- 4
+Passed (Toboggan Rental) -- 5
+8 18 x qxphxxtczxxxxxrbxxl
+Count -- 10
+Passed (Sled Rental) -- 4
+firstPos -- c, index(non zero) -- 8
+secondPos -- x, index(non zero) -- 18
+Passed (Toboggan Rental) -- 6
+6 11 c dccxcccccchrcfdckcsc
+Count -- 12
+Failed (Sled Rental) -- 4
+firstPos -- c, index(non zero) -- 6
+secondPos -- h, index(non zero) -- 11
+Passed (Toboggan Rental) -- 7
+10 11 c ccvxccccccccc
+Count -- 11
+Passed (Sled Rental) -- 5
+firstPos -- c, index(non zero) -- 10
+secondPos -- c, index(non zero) -- 11
+Failed (Toboggan Rental) -- 2
+2 4 f pszff
+Count -- 2
+Passed (Sled Rental) -- 6
+firstPos -- s, index(non zero) -- 2
+secondPos -- f, index(non zero) -- 4
+Passed (Toboggan Rental) -- 8
+18 20 z zzzzzzzzzzwzzzzzzzzj
+Count -- 18
+Passed (Sled Rental) -- 7
+firstPos -- z, index(non zero) -- 18
+secondPos -- j, index(non zero) -- 20
+Passed (Toboggan Rental) -- 9
+1 7 g ggggggpggggggg
+Count -- 13
+Failed (Sled Rental) -- 5
+firstPos -- g, index(non zero) -- 1
+secondPos -- p, index(non zero) -- 7
+Passed (Toboggan Rental) -- 10
+3 5 h hhhhfhh
+Count -- 6
+Failed (Sled Rental) -- 6
+firstPos -- h, index(non zero) -- 3
+secondPos -- f, index(non zero) -- 5
+Passed (Toboggan Rental) -- 11
+2 5 x dxxzxv
+Count -- 3
+Passed (Sled Rental) -- 8
+firstPos -- x, index(non zero) -- 2
+secondPos -- x, index(non zero) -- 5
+Failed (Toboggan Rental) -- 3
+7 8 s ssssssss
+Count -- 8
+Passed (Sled Rental) -- 9
+firstPos -- s, index(non zero) -- 7
+secondPos -- s, index(non zero) -- 8
+Failed (Toboggan Rental) -- 4
+3 9 k ktkkkkkklkck
+Count -- 9
+Passed (Sled Rental) -- 10
+firstPos -- k, index(non zero) -- 3
+secondPos -- l, index(non zero) -- 9
+Passed (Toboggan Rental) -- 12
+2 9 r rzrrrrrrrrrrrr
+Count -- 13
+Failed (Sled Rental) -- 7
+firstPos -- z, index(non zero) -- 2
+secondPos -- r, index(non zero) -- 9
+Passed (Toboggan Rental) -- 13
+5 9 k tkrkhkxbvkbkkkkk
+Count -- 9
+Passed (Sled Rental) -- 11
+firstPos -- h, index(non zero) -- 5
+secondPos -- v, index(non zero) -- 9
+Failed (Toboggan Rental) -- 5
+8 9 n tnnpbnrns
+Count -- 4
+Failed (Sled Rental) -- 8
+firstPos -- n, index(non zero) -- 8
+secondPos -- s, index(non zero) -- 9
+Passed (Toboggan Rental) -- 14
+14 15 q qqqqqqqqqqqqqqqq
+Count -- 16
+Failed (Sled Rental) -- 9
+firstPos -- q, index(non zero) -- 14
+secondPos -- q, index(non zero) -- 15
+Failed (Toboggan Rental) -- 6
+11 12 q cqqqqqqqqqsqqqlqqqqq
+Count -- 17
+Failed (Sled Rental) -- 10
+firstPos -- s, index(non zero) -- 11
+secondPos -- q, index(non zero) -- 12
+Passed (Toboggan Rental) -- 15
+15 17 v vvvvvvvvvvnvvvvvlvvv
+Count -- 18
+Failed (Sled Rental) -- 11
+firstPos -- v, index(non zero) -- 15
+secondPos -- l, index(non zero) -- 17
+Passed (Toboggan Rental) -- 16
+2 10 c ccccccccvgckcccccc
+Count -- 15
+Failed (Sled Rental) -- 12
+firstPos -- c, index(non zero) -- 2
+secondPos -- g, index(non zero) -- 10
+Passed (Toboggan Rental) -- 17
+8 9 h hbhhhhchhhs
+Count -- 8
+Passed (Sled Rental) -- 12
+firstPos -- h, index(non zero) -- 8
+secondPos -- h, index(non zero) -- 9
+Failed (Toboggan Rental) -- 7
+7 13 t thtfttzctpvtn
+Count -- 6
+Failed (Sled Rental) -- 13
+firstPos -- z, index(non zero) -- 7
+secondPos -- n, index(non zero) -- 13
+Failed (Toboggan Rental) -- 8
+14 15 w wwwwwwwvwwwwwppwww
+Count -- 15
+Passed (Sled Rental) -- 13
+firstPos -- p, index(non zero) -- 14
+secondPos -- p, index(non zero) -- 15
+Failed (Toboggan Rental) -- 9
+5 19 m mmmmmjmmmmmmmmcmmmw
+Count -- 16
+Passed (Sled Rental) -- 14
+firstPos -- m, index(non zero) -- 5
+secondPos -- w, index(non zero) -- 19
+Passed (Toboggan Rental) -- 18
+2 8 z mvtnjvzzs
+Count -- 2
+Passed (Sled Rental) -- 15
+firstPos -- v, index(non zero) -- 2
+secondPos -- z, index(non zero) -- 8
+Passed (Toboggan Rental) -- 19
+8 10 c cccccccxcccc
+Count -- 11
+Failed (Sled Rental) -- 14
+firstPos -- x, index(non zero) -- 8
+secondPos -- c, index(non zero) -- 10
+Passed (Toboggan Rental) -- 20
+8 11 m mmmmmmmmmmxmmmmk
+Count -- 14
+Failed (Sled Rental) -- 15
+firstPos -- m, index(non zero) -- 8
+secondPos -- x, index(non zero) -- 11
+Passed (Toboggan Rental) -- 21
+6 7 h hhhhhhhhhhkhh
+Count -- 12
+Failed (Sled Rental) -- 16
+firstPos -- h, index(non zero) -- 6
+secondPos -- h, index(non zero) -- 7
+Failed (Toboggan Rental) -- 10
+6 8 h xmhsphhm
+Count -- 3
+Failed (Sled Rental) -- 17
+firstPos -- h, index(non zero) -- 6
+secondPos -- m, index(non zero) -- 8
+Passed (Toboggan Rental) -- 22
+2 3 b bbgb
+Count -- 3
+Passed (Sled Rental) -- 16
+firstPos -- b, index(non zero) -- 2
+secondPos -- g, index(non zero) -- 3
+Passed (Toboggan Rental) -- 23
+2 14 q qqqqtkqzqqqqqq
+Count -- 11
+Passed (Sled Rental) -- 17
+firstPos -- q, index(non zero) -- 2
+secondPos -- q, index(non zero) -- 14
+Failed (Toboggan Rental) -- 11
+9 15 z zzzzzzzzzzzzzzb
+Count -- 14
+Passed (Sled Rental) -- 18
+firstPos -- z, index(non zero) -- 9
+secondPos -- b, index(non zero) -- 15
+Passed (Toboggan Rental) -- 24
+2 12 n hnmztvzxxwvnrnvlfbs
+Count -- 3
+Passed (Sled Rental) -- 19
+firstPos -- n, index(non zero) -- 2
+secondPos -- n, index(non zero) -- 12
+Failed (Toboggan Rental) -- 12
+8 13 c cccccccccccctccbcc
+Count -- 16
+Failed (Sled Rental) -- 18
+firstPos -- c, index(non zero) -- 8
+secondPos -- t, index(non zero) -- 13
+Passed (Toboggan Rental) -- 25
+10 13 k jkjzqkkkkmkkk
+Count -- 8
+Failed (Sled Rental) -- 19
+firstPos -- m, index(non zero) -- 10
+secondPos -- k, index(non zero) -- 13
+Passed (Toboggan Rental) -- 26
+3 10 m mmmlmmmmmmmm
+Count -- 11
+Failed (Sled Rental) -- 20
+firstPos -- m, index(non zero) -- 3
+secondPos -- m, index(non zero) -- 10
+Failed (Toboggan Rental) -- 13
+1 2 r nprr
+Count -- 2
+Passed (Sled Rental) -- 20
+firstPos -- n, index(non zero) -- 1
+secondPos -- p, index(non zero) -- 2
+Failed (Toboggan Rental) -- 14
+9 15 z zzfjwgczzzzzzvlqz
+Count -- 9
+Passed (Sled Rental) -- 21
+firstPos -- z, index(non zero) -- 9
+secondPos -- l, index(non zero) -- 15
+Passed (Toboggan Rental) -- 27
+5 6 q vqqqqq
+Count -- 5
+Passed (Sled Rental) -- 22
+firstPos -- q, index(non zero) -- 5
+secondPos -- q, index(non zero) -- 6
+Failed (Toboggan Rental) -- 15
+3 10 r rrftrrkrrg
+Count -- 6
+Passed (Sled Rental) -- 23
+firstPos -- f, index(non zero) -- 3
+secondPos -- g, index(non zero) -- 10
+Failed (Toboggan Rental) -- 16
+7 9 r tqfrrcrvbzrkrr
+Count -- 6
+Failed (Sled Rental) -- 21
+firstPos -- r, index(non zero) -- 7
+secondPos -- b, index(non zero) -- 9
+Passed (Toboggan Rental) -- 28
+5 12 j jjjjjjjjjjjjj
+Count -- 13
+Failed (Sled Rental) -- 22
+firstPos -- j, index(non zero) -- 5
+secondPos -- j, index(non zero) -- 12
+Failed (Toboggan Rental) -- 17
+14 18 p phnppvpchpncdppjpf
+Count -- 8
+Failed (Sled Rental) -- 23
+firstPos -- p, index(non zero) -- 14
+secondPos -- f, index(non zero) -- 18
+Passed (Toboggan Rental) -- 29
+3 5 t hdtrtt
+Count -- 3
+Passed (Sled Rental) -- 24
+firstPos -- t, index(non zero) -- 3
+secondPos -- t, index(non zero) -- 5
+Failed (Toboggan Rental) -- 18
+7 9 x xxxxxxxxlx
+Count -- 9
+Passed (Sled Rental) -- 25
+firstPos -- x, index(non zero) -- 7
+secondPos -- l, index(non zero) -- 9
+Passed (Toboggan Rental) -- 30
+3 4 m wmmm
+Count -- 3
+Passed (Sled Rental) -- 26
+firstPos -- m, index(non zero) -- 3
+secondPos -- m, index(non zero) -- 4
+Failed (Toboggan Rental) -- 19
+1 14 l hllllllllllllll
+Count -- 14
+Passed (Sled Rental) -- 27
+firstPos -- h, index(non zero) -- 1
+secondPos -- l, index(non zero) -- 14
+Passed (Toboggan Rental) -- 31
+2 3 g jgmg
+Count -- 2
+Passed (Sled Rental) -- 28
+firstPos -- g, index(non zero) -- 2
+secondPos -- m, index(non zero) -- 3
+Passed (Toboggan Rental) -- 32
+17 18 c ccccccccccccccccctc
+Count -- 18
+Passed (Sled Rental) -- 29
+firstPos -- c, index(non zero) -- 17
+secondPos -- t, index(non zero) -- 18
+Passed (Toboggan Rental) -- 33
+8 13 l lllllllllllldl
+Count -- 13
+Passed (Sled Rental) -- 30
+firstPos -- l, index(non zero) -- 8
+secondPos -- d, index(non zero) -- 13
+Passed (Toboggan Rental) -- 34
+4 9 v sbxvbkvfqvvxvnl
+Count -- 5
+Passed (Sled Rental) -- 31
+firstPos -- v, index(non zero) -- 4
+secondPos -- q, index(non zero) -- 9
+Passed (Toboggan Rental) -- 35
+3 5 g nggxbp
+Count -- 2
+Failed (Sled Rental) -- 24
+firstPos -- g, index(non zero) -- 3
+secondPos -- b, index(non zero) -- 5
+Passed (Toboggan Rental) -- 36
+3 4 t jtthcmtfnct
+Count -- 4
+Passed (Sled Rental) -- 32
+firstPos -- t, index(non zero) -- 3
+secondPos -- h, index(non zero) -- 4
+Passed (Toboggan Rental) -- 37
+5 6 c vccwpcct
+Count -- 4
+Failed (Sled Rental) -- 25
+firstPos -- p, index(non zero) -- 5
+secondPos -- c, index(non zero) -- 6
+Passed (Toboggan Rental) -- 38
+4 8 v vvvvvvvbvv
+Count -- 9
+Failed (Sled Rental) -- 26
+firstPos -- v, index(non zero) -- 4
+secondPos -- b, index(non zero) -- 8
+Passed (Toboggan Rental) -- 39
+1 3 t qttt
+Count -- 3
+Passed (Sled Rental) -- 33
+firstPos -- q, index(non zero) -- 1
+secondPos -- t, index(non zero) -- 3
+Passed (Toboggan Rental) -- 40
+6 7 j mwjxqmljtfxbcrjvjjj
+Count -- 6
+Passed (Sled Rental) -- 34
+firstPos -- m, index(non zero) -- 6
+secondPos -- l, index(non zero) -- 7
+Failed (Toboggan Rental) -- 20
+2 3 d xddxnxmfhvdk
+Count -- 3
+Passed (Sled Rental) -- 35
+firstPos -- d, index(non zero) -- 2
+secondPos -- d, index(non zero) -- 3
+Failed (Toboggan Rental) -- 21
+17 18 j pcjjcwkjjvvdjjvrjb
+Count -- 7
+Failed (Sled Rental) -- 27
+firstPos -- j, index(non zero) -- 17
+secondPos -- b, index(non zero) -- 18
+Passed (Toboggan Rental) -- 41
+3 6 h drplhl
+Count -- 1
+Failed (Sled Rental) -- 28
+firstPos -- p, index(non zero) -- 3
+secondPos -- l, index(non zero) -- 6
+Failed (Toboggan Rental) -- 22
+10 15 g ggggqggggngprggg
+Count -- 12
+Passed (Sled Rental) -- 36
+firstPos -- n, index(non zero) -- 10
+secondPos -- g, index(non zero) -- 15
+Passed (Toboggan Rental) -- 42
+11 13 n nnznnnnnnnrnn
+Count -- 11
+Passed (Sled Rental) -- 37
+firstPos -- r, index(non zero) -- 11
+secondPos -- n, index(non zero) -- 13
+Passed (Toboggan Rental) -- 43
+11 17 p pppppxppprpppprpppp
+Count -- 16
+Passed (Sled Rental) -- 38
+firstPos -- p, index(non zero) -- 11
+secondPos -- p, index(non zero) -- 17
+Failed (Toboggan Rental) -- 23
+14 15 d qdfqdxkqdrqcddr
+Count -- 5
+Failed (Sled Rental) -- 29
+firstPos -- d, index(non zero) -- 14
+secondPos -- r, index(non zero) -- 15
+Passed (Toboggan Rental) -- 44
+3 5 k tkkknr
+Count -- 3
+Passed (Sled Rental) -- 39
+firstPos -- k, index(non zero) -- 3
+secondPos -- n, index(non zero) -- 5
+Passed (Toboggan Rental) -- 45
+10 11 m ncmrmxzsszfj
+Count -- 2
+Failed (Sled Rental) -- 30
+firstPos -- z, index(non zero) -- 10
+secondPos -- f, index(non zero) -- 11
+Failed (Toboggan Rental) -- 24
+19 20 w wwwwwwwwwwwwwwwwtwnm
+Count -- 17
+Failed (Sled Rental) -- 31
+firstPos -- n, index(non zero) -- 19
+secondPos -- m, index(non zero) -- 20
+Failed (Toboggan Rental) -- 25
+4 6 r rrrrrdrrtkf
+Count -- 7
+Failed (Sled Rental) -- 32
+firstPos -- r, index(non zero) -- 4
+secondPos -- d, index(non zero) -- 6
+Passed (Toboggan Rental) -- 46
+8 10 z zzzzzzzzzzz
+Count -- 11
+Failed (Sled Rental) -- 33
+firstPos -- z, index(non zero) -- 8
+secondPos -- z, index(non zero) -- 10
+Failed (Toboggan Rental) -- 26
+4 20 b hmslxbrbrptfcljhblqb
+Count -- 4
+Passed (Sled Rental) -- 40
+firstPos -- l, index(non zero) -- 4
+secondPos -- b, index(non zero) -- 20
+Passed (Toboggan Rental) -- 47
+6 9 p pgtpptpnn
+Count -- 4
+Failed (Sled Rental) -- 34
+firstPos -- t, index(non zero) -- 6
+secondPos -- n, index(non zero) -- 9
+Failed (Toboggan Rental) -- 27
+5 6 l lllldl
+Count -- 5
+Passed (Sled Rental) -- 41
+firstPos -- d, index(non zero) -- 5
+secondPos -- l, index(non zero) -- 6
+Passed (Toboggan Rental) -- 48
+1 4 c cccw
+Count -- 3
+Passed (Sled Rental) -- 42
+firstPos -- c, index(non zero) -- 1
+secondPos -- w, index(non zero) -- 4
+Passed (Toboggan Rental) -- 49
+6 11 n tnnnnnnpnnvb
+Count -- 8
+Passed (Sled Rental) -- 43
+firstPos -- n, index(non zero) -- 6
+secondPos -- v, index(non zero) -- 11
+Passed (Toboggan Rental) -- 50
+6 8 m rwxcrbmmvdmqmd
+Count -- 4
+Failed (Sled Rental) -- 35
+firstPos -- b, index(non zero) -- 6
+secondPos -- m, index(non zero) -- 8
+Passed (Toboggan Rental) -- 51
+7 8 l llllllll
+Count -- 8
+Passed (Sled Rental) -- 44
+firstPos -- l, index(non zero) -- 7
+secondPos -- l, index(non zero) -- 8
+Failed (Toboggan Rental) -- 28
+10 11 s ssssvssnsslsss
+Count -- 11
+Passed (Sled Rental) -- 45
+firstPos -- s, index(non zero) -- 10
+secondPos -- l, index(non zero) -- 11
+Passed (Toboggan Rental) -- 52
+1 3 f ffkh
+Count -- 2
+Passed (Sled Rental) -- 46
+firstPos -- f, index(non zero) -- 1
+secondPos -- k, index(non zero) -- 3
+Passed (Toboggan Rental) -- 53
+4 5 j jlzhjj
+Count -- 3
+Failed (Sled Rental) -- 36
+firstPos -- h, index(non zero) -- 4
+secondPos -- j, index(non zero) -- 5
+Passed (Toboggan Rental) -- 54
+1 3 x xxxxxxxx
+Count -- 8
+Failed (Sled Rental) -- 37
+firstPos -- x, index(non zero) -- 1
+secondPos -- x, index(non zero) -- 3
+Failed (Toboggan Rental) -- 29
+3 5 r jvrrrr
+Count -- 4
+Passed (Sled Rental) -- 47
+firstPos -- r, index(non zero) -- 3
+secondPos -- r, index(non zero) -- 5
+Failed (Toboggan Rental) -- 30
+18 20 n nnnnnnhdnxnnnnngnnvv
+Count -- 14
+Failed (Sled Rental) -- 38
+firstPos -- n, index(non zero) -- 18
+secondPos -- v, index(non zero) -- 20
+Passed (Toboggan Rental) -- 55
+12 13 n nnnnnnnnnmnkn
+Count -- 11
+Failed (Sled Rental) -- 39
+firstPos -- k, index(non zero) -- 12
+secondPos -- n, index(non zero) -- 13
+Passed (Toboggan Rental) -- 56
+8 11 h qhhhhhslhqhhhwfm
+Count -- 9
+Passed (Sled Rental) -- 48
+firstPos -- l, index(non zero) -- 8
+secondPos -- h, index(non zero) -- 11
+Passed (Toboggan Rental) -- 57
+5 18 j hgzmdpkfpnjcmpwtqj
+Count -- 2
+Failed (Sled Rental) -- 40
+firstPos -- d, index(non zero) -- 5
+secondPos -- j, index(non zero) -- 18
+Passed (Toboggan Rental) -- 58
+9 10 c cccccccckc
+Count -- 9
+Passed (Sled Rental) -- 49
+firstPos -- k, index(non zero) -- 9
+secondPos -- c, index(non zero) -- 10
+Passed (Toboggan Rental) -- 59
+3 4 g gggs
+Count -- 3
+Passed (Sled Rental) -- 50
+firstPos -- g, index(non zero) -- 3
+secondPos -- s, index(non zero) -- 4
+Passed (Toboggan Rental) -- 60
+9 16 s ssllsssvkshssjsth
+Count -- 9
+Passed (Sled Rental) -- 51
+firstPos -- k, index(non zero) -- 9
+secondPos -- t, index(non zero) -- 16
+Failed (Toboggan Rental) -- 31
+10 12 v sbnpkfdmnvqpvkvv
+Count -- 4
+Failed (Sled Rental) -- 41
+firstPos -- v, index(non zero) -- 10
+secondPos -- p, index(non zero) -- 12
+Passed (Toboggan Rental) -- 61
+6 7 t sfssstp
+Count -- 1
+Failed (Sled Rental) -- 42
+firstPos -- t, index(non zero) -- 6
+secondPos -- p, index(non zero) -- 7
+Passed (Toboggan Rental) -- 62
+1 5 c hqccccfcccrcmcchc
+Count -- 11
+Failed (Sled Rental) -- 43
+firstPos -- h, index(non zero) -- 1
+secondPos -- c, index(non zero) -- 5
+Passed (Toboggan Rental) -- 63
+6 8 d qrdwflbdd
+Count -- 3
+Failed (Sled Rental) -- 44
+firstPos -- l, index(non zero) -- 6
+secondPos -- d, index(non zero) -- 8
+Passed (Toboggan Rental) -- 64
+1 2 h ghwh
+Count -- 2
+Passed (Sled Rental) -- 52
+firstPos -- g, index(non zero) -- 1
+secondPos -- h, index(non zero) -- 2
+Passed (Toboggan Rental) -- 65
+9 10 v vvvvvvvvcn
+Count -- 8
+Failed (Sled Rental) -- 45
+firstPos -- c, index(non zero) -- 9
+secondPos -- n, index(non zero) -- 10
+Failed (Toboggan Rental) -- 32
+12 14 l hlzxblbkkrhtllfnn
+Count -- 4
+Failed (Sled Rental) -- 46
+firstPos -- t, index(non zero) -- 12
+secondPos -- l, index(non zero) -- 14
+Passed (Toboggan Rental) -- 66
+1 4 b sbbbbbbbb
+Count -- 8
+Failed (Sled Rental) -- 47
+firstPos -- s, index(non zero) -- 1
+secondPos -- b, index(non zero) -- 4
+Passed (Toboggan Rental) -- 67
+6 7 l lhlllql
+Count -- 5
+Failed (Sled Rental) -- 48
+firstPos -- q, index(non zero) -- 6
+secondPos -- l, index(non zero) -- 7
+Passed (Toboggan Rental) -- 68
+13 14 z jgzcqqgmvdzzzq
+Count -- 4
+Failed (Sled Rental) -- 49
+firstPos -- z, index(non zero) -- 13
+secondPos -- q, index(non zero) -- 14
+Passed (Toboggan Rental) -- 69
+5 14 h tnrhhmqknqhmhfht
+Count -- 5
+Passed (Sled Rental) -- 53
+firstPos -- h, index(non zero) -- 5
+secondPos -- f, index(non zero) -- 14
+Passed (Toboggan Rental) -- 70
+2 4 h chhxjfksc
+Count -- 2
+Passed (Sled Rental) -- 54
+firstPos -- h, index(non zero) -- 2
+secondPos -- x, index(non zero) -- 4
+Passed (Toboggan Rental) -- 71
+6 10 s ljmsgsssstscsps
+Count -- 8
+Passed (Sled Rental) -- 55
+firstPos -- s, index(non zero) -- 6
+secondPos -- t, index(non zero) -- 10
+Passed (Toboggan Rental) -- 72
+7 8 k mgpzkkkg
+Count -- 3
+Failed (Sled Rental) -- 50
+firstPos -- k, index(non zero) -- 7
+secondPos -- g, index(non zero) -- 8
+Passed (Toboggan Rental) -- 73
+6 7 s sjskmscfssss
+Count -- 7
+Passed (Sled Rental) -- 56
+firstPos -- s, index(non zero) -- 6
+secondPos -- c, index(non zero) -- 7
+Passed (Toboggan Rental) -- 74
+11 12 f fffffffffffdff
+Count -- 13
+Failed (Sled Rental) -- 51
+firstPos -- f, index(non zero) -- 11
+secondPos -- d, index(non zero) -- 12
+Passed (Toboggan Rental) -- 75
+1 8 x xxqjxmgtxz
+Count -- 4
+Passed (Sled Rental) -- 57
+firstPos -- x, index(non zero) -- 1
+secondPos -- t, index(non zero) -- 8
+Passed (Toboggan Rental) -- 76
+12 13 l llllllllllllfl
+Count -- 13
+Passed (Sled Rental) -- 58
+firstPos -- l, index(non zero) -- 12
+secondPos -- f, index(non zero) -- 13
+Passed (Toboggan Rental) -- 77
+9 12 c ccbpccdcgccc
+Count -- 8
+Failed (Sled Rental) -- 52
+firstPos -- g, index(non zero) -- 9
+secondPos -- c, index(non zero) -- 12
+Passed (Toboggan Rental) -- 78
+5 7 f hjfrbgk
+Count -- 1
+Failed (Sled Rental) -- 53
+firstPos -- b, index(non zero) -- 5
+secondPos -- k, index(non zero) -- 7
+Failed (Toboggan Rental) -- 33
+15 18 x kwmttbfvqcxxjbmhvx
+Count -- 3
+Failed (Sled Rental) -- 54
+firstPos -- m, index(non zero) -- 15
+secondPos -- x, index(non zero) -- 18
+Passed (Toboggan Rental) -- 79
+3 8 q rqqfqblmc
+Count -- 3
+Passed (Sled Rental) -- 59
+firstPos -- q, index(non zero) -- 3
+secondPos -- m, index(non zero) -- 8
+Passed (Toboggan Rental) -- 80
+3 4 l nlsqf
+Count -- 1
+Failed (Sled Rental) -- 55
+firstPos -- s, index(non zero) -- 3
+secondPos -- q, index(non zero) -- 4
+Failed (Toboggan Rental) -- 34
+7 9 x jgdmhzxxs
+Count -- 2
+Failed (Sled Rental) -- 56
+firstPos -- x, index(non zero) -- 7
+secondPos -- s, index(non zero) -- 9
+Passed (Toboggan Rental) -- 81
+2 8 g ggqtqgkgfggfmg
+Count -- 7
+Passed (Sled Rental) -- 60
+firstPos -- g, index(non zero) -- 2
+secondPos -- g, index(non zero) -- 8
+Failed (Toboggan Rental) -- 35
+2 8 k wpkzwwkm
+Count -- 2
+Passed (Sled Rental) -- 61
+firstPos -- p, index(non zero) -- 2
+secondPos -- m, index(non zero) -- 8
+Failed (Toboggan Rental) -- 36
+1 9 n nnnnnnztpnnnn
+Count -- 10
+Failed (Sled Rental) -- 57
+firstPos -- n, index(non zero) -- 1
+secondPos -- p, index(non zero) -- 9
+Passed (Toboggan Rental) -- 82
+3 16 m lxmqlcpwdfqhrmztsd
+Count -- 2
+Failed (Sled Rental) -- 58
+firstPos -- m, index(non zero) -- 3
+secondPos -- t, index(non zero) -- 16
+Passed (Toboggan Rental) -- 83
+14 16 l lllllllllllllbllln
+Count -- 16
+Passed (Sled Rental) -- 62
+firstPos -- b, index(non zero) -- 14
+secondPos -- l, index(non zero) -- 16
+Passed (Toboggan Rental) -- 84
+7 8 b bbbbbbbxbbbbb
+Count -- 12
+Failed (Sled Rental) -- 59
+firstPos -- b, index(non zero) -- 7
+secondPos -- x, index(non zero) -- 8
+Passed (Toboggan Rental) -- 85
+9 10 f ffffffjbmf
+Count -- 7
+Failed (Sled Rental) -- 60
+firstPos -- m, index(non zero) -- 9
+secondPos -- f, index(non zero) -- 10
+Passed (Toboggan Rental) -- 86
+9 10 w jrwwwwzmkwwfw
+Count -- 7
+Failed (Sled Rental) -- 61
+firstPos -- k, index(non zero) -- 9
+secondPos -- w, index(non zero) -- 10
+Passed (Toboggan Rental) -- 87
+4 5 c ccctc
+Count -- 4
+Passed (Sled Rental) -- 63
+firstPos -- t, index(non zero) -- 4
+secondPos -- c, index(non zero) -- 5
+Passed (Toboggan Rental) -- 88
+1 6 l cllllg
+Count -- 4
+Passed (Sled Rental) -- 64
+firstPos -- c, index(non zero) -- 1
+secondPos -- g, index(non zero) -- 6
+Failed (Toboggan Rental) -- 37
+2 6 k kwkkqk
+Count -- 4
+Passed (Sled Rental) -- 65
+firstPos -- w, index(non zero) -- 2
+secondPos -- k, index(non zero) -- 6
+Passed (Toboggan Rental) -- 89
+6 13 d zdjddkxmdqrddtbdgbd
+Count -- 8
+Passed (Sled Rental) -- 66
+firstPos -- k, index(non zero) -- 6
+secondPos -- d, index(non zero) -- 13
+Passed (Toboggan Rental) -- 90
+6 8 k kkkkkkkqk
+Count -- 8
+Passed (Sled Rental) -- 67
+firstPos -- k, index(non zero) -- 6
+secondPos -- q, index(non zero) -- 8
+Passed (Toboggan Rental) -- 91
+3 4 g twgsprvgm
+Count -- 2
+Failed (Sled Rental) -- 62
+firstPos -- g, index(non zero) -- 3
+secondPos -- s, index(non zero) -- 4
+Passed (Toboggan Rental) -- 92
+9 10 b ckbmbshbhbbbbb
+Count -- 8
+Failed (Sled Rental) -- 63
+firstPos -- h, index(non zero) -- 9
+secondPos -- b, index(non zero) -- 10
+Passed (Toboggan Rental) -- 93
+9 15 q qqqqqqkqqqqqqqlqh
+Count -- 14
+Passed (Sled Rental) -- 68
+firstPos -- q, index(non zero) -- 9
+secondPos -- l, index(non zero) -- 15
+Passed (Toboggan Rental) -- 94
+6 12 n nnnnnnnnnnnn
+Count -- 12
+Passed (Sled Rental) -- 69
+firstPos -- n, index(non zero) -- 6
+secondPos -- n, index(non zero) -- 12
+Failed (Toboggan Rental) -- 38
+2 6 j cjnxjzljjlq
+Count -- 4
+Passed (Sled Rental) -- 70
+firstPos -- j, index(non zero) -- 2
+secondPos -- z, index(non zero) -- 6
+Passed (Toboggan Rental) -- 95
+14 16 v vvvvvvvvvvvvvvvm
+Count -- 15
+Passed (Sled Rental) -- 71
+firstPos -- v, index(non zero) -- 14
+secondPos -- m, index(non zero) -- 16
+Passed (Toboggan Rental) -- 96
+6 13 f gxffsfgdfpfffffffs
+Count -- 11
+Passed (Sled Rental) -- 72
+firstPos -- f, index(non zero) -- 6
+secondPos -- f, index(non zero) -- 13
+Failed (Toboggan Rental) -- 39
+12 13 l qdltpbdlzjvllftq
+Count -- 4
+Failed (Sled Rental) -- 64
+firstPos -- l, index(non zero) -- 12
+secondPos -- l, index(non zero) -- 13
+Failed (Toboggan Rental) -- 40
+13 14 j jjjjjjjjjgjjjj
+Count -- 13
+Passed (Sled Rental) -- 73
+firstPos -- j, index(non zero) -- 13
+secondPos -- j, index(non zero) -- 14
+Failed (Toboggan Rental) -- 41
+7 10 x sxxxlxwxxxjsxxzqxxt
+Count -- 11
+Failed (Sled Rental) -- 65
+firstPos -- w, index(non zero) -- 7
+secondPos -- x, index(non zero) -- 10
+Passed (Toboggan Rental) -- 97
+2 10 q qjqqqkqqkqq
+Count -- 8
+Passed (Sled Rental) -- 74
+firstPos -- j, index(non zero) -- 2
+secondPos -- q, index(non zero) -- 10
+Passed (Toboggan Rental) -- 98
+1 2 r rcdwrr
+Count -- 3
+Failed (Sled Rental) -- 66
+firstPos -- r, index(non zero) -- 1
+secondPos -- c, index(non zero) -- 2
+Passed (Toboggan Rental) -- 99
+1 6 j jjjjjjj
+Count -- 7
+Failed (Sled Rental) -- 67
+firstPos -- j, index(non zero) -- 1
+secondPos -- j, index(non zero) -- 6
+Failed (Toboggan Rental) -- 42
+9 12 n nndnncnnnnqn
+Count -- 9
+Passed (Sled Rental) -- 75
+firstPos -- n, index(non zero) -- 9
+secondPos -- n, index(non zero) -- 12
+Failed (Toboggan Rental) -- 43
+12 16 p tbwnppzjpnpptpncp
+Count -- 7
+Failed (Sled Rental) -- 68
+firstPos -- p, index(non zero) -- 12
+secondPos -- c, index(non zero) -- 16
+Passed (Toboggan Rental) -- 100
+8 9 q qzqhqqqgqqqqqtqqq
+Count -- 13
+Failed (Sled Rental) -- 69
+firstPos -- g, index(non zero) -- 8
+secondPos -- q, index(non zero) -- 9
+Passed (Toboggan Rental) -- 101
+14 15 c ccccccccccccmhd
+Count -- 12
+Failed (Sled Rental) -- 70
+firstPos -- h, index(non zero) -- 14
+secondPos -- d, index(non zero) -- 15
+Failed (Toboggan Rental) -- 44
+7 8 b jpbfjsbb
+Count -- 3
+Failed (Sled Rental) -- 71
+firstPos -- b, index(non zero) -- 7
+secondPos -- b, index(non zero) -- 8
+Failed (Toboggan Rental) -- 45
+2 7 j jjjjjjqj
+Count -- 7
+Passed (Sled Rental) -- 76
+firstPos -- j, index(non zero) -- 2
+secondPos -- q, index(non zero) -- 7
+Passed (Toboggan Rental) -- 102
+3 5 j lrzgxjhlx
+Count -- 1
+Failed (Sled Rental) -- 72
+firstPos -- z, index(non zero) -- 3
+secondPos -- x, index(non zero) -- 5
+Failed (Toboggan Rental) -- 46
+5 9 r rrrrrmrrm
+Count -- 7
+Passed (Sled Rental) -- 77
+firstPos -- r, index(non zero) -- 5
+secondPos -- m, index(non zero) -- 9
+Passed (Toboggan Rental) -- 103
+8 11 k kkwkkkkbkzk
+Count -- 8
+Passed (Sled Rental) -- 78
+firstPos -- b, index(non zero) -- 8
+secondPos -- k, index(non zero) -- 11
+Passed (Toboggan Rental) -- 104
+2 4 b nbqpbtzkdrdm
+Count -- 2
+Passed (Sled Rental) -- 79
+firstPos -- b, index(non zero) -- 2
+secondPos -- p, index(non zero) -- 4
+Passed (Toboggan Rental) -- 105
+2 13 b bpxltqdxbxbjbl
+Count -- 4
+Passed (Sled Rental) -- 80
+firstPos -- p, index(non zero) -- 2
+secondPos -- b, index(non zero) -- 13
+Passed (Toboggan Rental) -- 106
+2 5 h jhhhz
+Count -- 3
+Passed (Sled Rental) -- 81
+firstPos -- h, index(non zero) -- 2
+secondPos -- z, index(non zero) -- 5
+Passed (Toboggan Rental) -- 107
+5 8 c cncccvcn
+Count -- 5
+Passed (Sled Rental) -- 82
+firstPos -- c, index(non zero) -- 5
+secondPos -- n, index(non zero) -- 8
+Passed (Toboggan Rental) -- 108
+9 11 h pfhhjhhhhsh
+Count -- 7
+Failed (Sled Rental) -- 73
+firstPos -- h, index(non zero) -- 9
+secondPos -- h, index(non zero) -- 11
+Failed (Toboggan Rental) -- 47
+1 9 v jvvvvvvvsv
+Count -- 8
+Passed (Sled Rental) -- 83
+firstPos -- j, index(non zero) -- 1
+secondPos -- s, index(non zero) -- 9
+Failed (Toboggan Rental) -- 48
+7 11 b bxzxpbbmxfgrkxb
+Count -- 4
+Failed (Sled Rental) -- 74
+firstPos -- b, index(non zero) -- 7
+secondPos -- g, index(non zero) -- 11
+Passed (Toboggan Rental) -- 109
+2 7 d ddddddddd
+Count -- 9
+Failed (Sled Rental) -- 75
+firstPos -- d, index(non zero) -- 2
+secondPos -- d, index(non zero) -- 7
+Failed (Toboggan Rental) -- 49
+6 11 r rzczrrtljhzkrkrrbrrr
+Count -- 9
+Passed (Sled Rental) -- 84
+firstPos -- r, index(non zero) -- 6
+secondPos -- z, index(non zero) -- 11
+Passed (Toboggan Rental) -- 110
+7 17 h jshjhqcrphlsgxlqh
+Count -- 4
+Failed (Sled Rental) -- 76
+firstPos -- c, index(non zero) -- 7
+secondPos -- h, index(non zero) -- 17
+Passed (Toboggan Rental) -- 111
+1 2 n npkn
+Count -- 2
+Passed (Sled Rental) -- 85
+firstPos -- n, index(non zero) -- 1
+secondPos -- p, index(non zero) -- 2
+Passed (Toboggan Rental) -- 112
+14 18 n nnnkzntnnnnnnnxnnknn
+Count -- 15
+Passed (Sled Rental) -- 86
+firstPos -- n, index(non zero) -- 14
+secondPos -- k, index(non zero) -- 18
+Passed (Toboggan Rental) -- 113
+6 8 g ggmfgggb
+Count -- 5
+Failed (Sled Rental) -- 77
+firstPos -- g, index(non zero) -- 6
+secondPos -- b, index(non zero) -- 8
+Passed (Toboggan Rental) -- 114
+7 19 l llllllwlllllllllllll
+Count -- 19
+Passed (Sled Rental) -- 87
+firstPos -- w, index(non zero) -- 7
+secondPos -- l, index(non zero) -- 19
+Passed (Toboggan Rental) -- 115
+2 5 t qdftt
+Count -- 2
+Passed (Sled Rental) -- 88
+firstPos -- d, index(non zero) -- 2
+secondPos -- t, index(non zero) -- 5
+Passed (Toboggan Rental) -- 116
+8 10 g gggggggpgg
+Count -- 9
+Passed (Sled Rental) -- 89
+firstPos -- p, index(non zero) -- 8
+secondPos -- g, index(non zero) -- 10
+Passed (Toboggan Rental) -- 117
+3 7 h gbtdhwhhkl
+Count -- 3
+Passed (Sled Rental) -- 90
+firstPos -- t, index(non zero) -- 3
+secondPos -- h, index(non zero) -- 7
+Passed (Toboggan Rental) -- 118
+2 7 q glqqrqqzpvqz
+Count -- 5
+Passed (Sled Rental) -- 91
+firstPos -- l, index(non zero) -- 2
+secondPos -- q, index(non zero) -- 7
+Passed (Toboggan Rental) -- 119
+5 11 p pcllpxgpldnk
+Count -- 3
+Failed (Sled Rental) -- 78
+firstPos -- p, index(non zero) -- 5
+secondPos -- n, index(non zero) -- 11
+Passed (Toboggan Rental) -- 120
+8 16 v fvvvvnvvvrqwvvzf
+Count -- 9
+Passed (Sled Rental) -- 92
+firstPos -- v, index(non zero) -- 8
+secondPos -- f, index(non zero) -- 16
+Passed (Toboggan Rental) -- 121
+2 3 k kbkk
+Count -- 3
+Passed (Sled Rental) -- 93
+firstPos -- b, index(non zero) -- 2
+secondPos -- k, index(non zero) -- 3
+Passed (Toboggan Rental) -- 122
+3 5 x xxqxvtz
+Count -- 3
+Passed (Sled Rental) -- 94
+firstPos -- q, index(non zero) -- 3
+secondPos -- v, index(non zero) -- 5
+Failed (Toboggan Rental) -- 50
+2 3 m jnmmdzzx
+Count -- 2
+Passed (Sled Rental) -- 95
+firstPos -- n, index(non zero) -- 2
+secondPos -- m, index(non zero) -- 3
+Passed (Toboggan Rental) -- 123
+1 6 p zvppppppppppd
+Count -- 10
+Failed (Sled Rental) -- 79
+firstPos -- z, index(non zero) -- 1
+secondPos -- p, index(non zero) -- 6
+Passed (Toboggan Rental) -- 124
+2 10 z zslzzzzdzzzzmz
+Count -- 10
+Passed (Sled Rental) -- 96
+firstPos -- s, index(non zero) -- 2
+secondPos -- z, index(non zero) -- 10
+Passed (Toboggan Rental) -- 125
+2 5 s skssrsssssssssssss
+Count -- 16
+Failed (Sled Rental) -- 80
+firstPos -- k, index(non zero) -- 2
+secondPos -- r, index(non zero) -- 5
+Failed (Toboggan Rental) -- 51
+2 6 b zbbzbb
+Count -- 4
+Passed (Sled Rental) -- 97
+firstPos -- b, index(non zero) -- 2
+secondPos -- b, index(non zero) -- 6
+Failed (Toboggan Rental) -- 52
+1 3 w twrw
+Count -- 2
+Passed (Sled Rental) -- 98
+firstPos -- t, index(non zero) -- 1
+secondPos -- r, index(non zero) -- 3
+Failed (Toboggan Rental) -- 53
+2 10 k hkkhtkskvk
+Count -- 5
+Passed (Sled Rental) -- 99
+firstPos -- k, index(non zero) -- 2
+secondPos -- k, index(non zero) -- 10
+Failed (Toboggan Rental) -- 54
+5 8 q qqqqqqqf
+Count -- 7
+Passed (Sled Rental) -- 100
+firstPos -- q, index(non zero) -- 5
+secondPos -- f, index(non zero) -- 8
+Passed (Toboggan Rental) -- 126
+6 8 l qrspqlkdcscclllkltkl
+Count -- 6
+Passed (Sled Rental) -- 101
+firstPos -- l, index(non zero) -- 6
+secondPos -- d, index(non zero) -- 8
+Passed (Toboggan Rental) -- 127
+2 10 j jjjjjjjjjcj
+Count -- 10
+Passed (Sled Rental) -- 102
+firstPos -- j, index(non zero) -- 2
+secondPos -- c, index(non zero) -- 10
+Passed (Toboggan Rental) -- 128
+4 11 t ckttqtlhclhv
+Count -- 3
+Failed (Sled Rental) -- 81
+firstPos -- t, index(non zero) -- 4
+secondPos -- h, index(non zero) -- 11
+Passed (Toboggan Rental) -- 129
+13 15 p ghsdsmrjwppmmxp
+Count -- 3
+Failed (Sled Rental) -- 82
+firstPos -- m, index(non zero) -- 13
+secondPos -- p, index(non zero) -- 15
+Passed (Toboggan Rental) -- 130
+7 8 j btrhmpjk
+Count -- 1
+Failed (Sled Rental) -- 83
+firstPos -- j, index(non zero) -- 7
+secondPos -- k, index(non zero) -- 8
+Passed (Toboggan Rental) -- 131
+6 10 g ckkxpmqmxgg
+Count -- 2
+Failed (Sled Rental) -- 84
+firstPos -- m, index(non zero) -- 6
+secondPos -- g, index(non zero) -- 10
+Passed (Toboggan Rental) -- 132
+1 3 t tnmrhtlztgttxxztxv
+Count -- 6
+Failed (Sled Rental) -- 85
+firstPos -- t, index(non zero) -- 1
+secondPos -- m, index(non zero) -- 3
+Passed (Toboggan Rental) -- 133
+2 4 n kknnnnnnk
+Count -- 6
+Failed (Sled Rental) -- 86
+firstPos -- k, index(non zero) -- 2
+secondPos -- n, index(non zero) -- 4
+Passed (Toboggan Rental) -- 134
+3 6 q qcqqqwnfqrj
+Count -- 5
+Passed (Sled Rental) -- 103
+firstPos -- q, index(non zero) -- 3
+secondPos -- w, index(non zero) -- 6
+Passed (Toboggan Rental) -- 135
+1 14 v wvvvvvvvvvvvvvvv
+Count -- 15
+Failed (Sled Rental) -- 87
+firstPos -- w, index(non zero) -- 1
+secondPos -- v, index(non zero) -- 14
+Passed (Toboggan Rental) -- 136
+10 11 j btvbnjckfmjfpjjzc
+Count -- 4
+Failed (Sled Rental) -- 88
+firstPos -- m, index(non zero) -- 10
+secondPos -- j, index(non zero) -- 11
+Passed (Toboggan Rental) -- 137
+15 18 d ddddddddddddddfddddd
+Count -- 19
+Failed (Sled Rental) -- 89
+firstPos -- f, index(non zero) -- 15
+secondPos -- d, index(non zero) -- 18
+Passed (Toboggan Rental) -- 138
+8 12 q qqqqqqqqqqqqqk
+Count -- 13
+Failed (Sled Rental) -- 90
+firstPos -- q, index(non zero) -- 8
+secondPos -- q, index(non zero) -- 12
+Failed (Toboggan Rental) -- 55
+4 6 d qdzxddddnd
+Count -- 6
+Passed (Sled Rental) -- 104
+firstPos -- x, index(non zero) -- 4
+secondPos -- d, index(non zero) -- 6
+Passed (Toboggan Rental) -- 139
+8 11 s sssssndmssdsssss
+Count -- 12
+Failed (Sled Rental) -- 91
+firstPos -- m, index(non zero) -- 8
+secondPos -- d, index(non zero) -- 11
+Failed (Toboggan Rental) -- 56
+2 4 d qdhjddnd
+Count -- 4
+Passed (Sled Rental) -- 105
+firstPos -- d, index(non zero) -- 2
+secondPos -- j, index(non zero) -- 4
+Passed (Toboggan Rental) -- 140
+5 8 f ffffzffdf
+Count -- 7
+Passed (Sled Rental) -- 106
+firstPos -- z, index(non zero) -- 5
+secondPos -- d, index(non zero) -- 8
+Failed (Toboggan Rental) -- 57
+12 15 f lzfjpkhswmdrphf
+Count -- 2
+Failed (Sled Rental) -- 92
+firstPos -- r, index(non zero) -- 12
+secondPos -- f, index(non zero) -- 15
+Passed (Toboggan Rental) -- 141
+3 6 x xbxxtx
+Count -- 4
+Passed (Sled Rental) -- 107
+firstPos -- x, index(non zero) -- 3
+secondPos -- x, index(non zero) -- 6
+Failed (Toboggan Rental) -- 58
+8 12 m mmmmmmmqmmmmmm
+Count -- 13
+Failed (Sled Rental) -- 93
+firstPos -- q, index(non zero) -- 8
+secondPos -- m, index(non zero) -- 12
+Passed (Toboggan Rental) -- 142
+8 9 v zvzqgvjvtvv
+Count -- 5
+Failed (Sled Rental) -- 94
+firstPos -- v, index(non zero) -- 8
+secondPos -- t, index(non zero) -- 9
+Passed (Toboggan Rental) -- 143
+2 11 w bwskvwsqbcbnl
+Count -- 2
+Passed (Sled Rental) -- 108
+firstPos -- w, index(non zero) -- 2
+secondPos -- b, index(non zero) -- 11
+Passed (Toboggan Rental) -- 144
+7 14 p lpgpxqppppplpvlwxx
+Count -- 8
+Passed (Sled Rental) -- 109
+firstPos -- p, index(non zero) -- 7
+secondPos -- v, index(non zero) -- 14
+Passed (Toboggan Rental) -- 145
+10 11 l lllllllllnll
+Count -- 11
+Passed (Sled Rental) -- 110
+firstPos -- n, index(non zero) -- 10
+secondPos -- l, index(non zero) -- 11
+Passed (Toboggan Rental) -- 146
+15 16 q qqqqqqqqqqqqqqqcqq
+Count -- 17
+Failed (Sled Rental) -- 95
+firstPos -- q, index(non zero) -- 15
+secondPos -- c, index(non zero) -- 16
+Passed (Toboggan Rental) -- 147
+8 14 v vgqvvjxwvvzvvv
+Count -- 8
+Passed (Sled Rental) -- 111
+firstPos -- w, index(non zero) -- 8
+secondPos -- v, index(non zero) -- 14
+Passed (Toboggan Rental) -- 148
+3 13 v vcvzclwbtvbgcngwghh
+Count -- 3
+Passed (Sled Rental) -- 112
+firstPos -- v, index(non zero) -- 3
+secondPos -- c, index(non zero) -- 13
+Passed (Toboggan Rental) -- 149
+3 5 w zwwnrwww
+Count -- 5
+Passed (Sled Rental) -- 113
+firstPos -- w, index(non zero) -- 3
+secondPos -- r, index(non zero) -- 5
+Passed (Toboggan Rental) -- 150
+3 4 k hkkkkk
+Count -- 5
+Failed (Sled Rental) -- 96
+firstPos -- k, index(non zero) -- 3
+secondPos -- k, index(non zero) -- 4
+Failed (Toboggan Rental) -- 59
+3 13 h whhhgqzwjkjqfjc
+Count -- 3
+Passed (Sled Rental) -- 114
+firstPos -- h, index(non zero) -- 3
+secondPos -- f, index(non zero) -- 13
+Passed (Toboggan Rental) -- 151
+4 5 m mmmmmmm
+Count -- 7
+Failed (Sled Rental) -- 97
+firstPos -- m, index(non zero) -- 4
+secondPos -- m, index(non zero) -- 5
+Failed (Toboggan Rental) -- 60
+5 7 k pkkkkxxkkk
+Count -- 7
+Passed (Sled Rental) -- 115
+firstPos -- k, index(non zero) -- 5
+secondPos -- x, index(non zero) -- 7
+Passed (Toboggan Rental) -- 152
+1 4 f pqkff
+Count -- 2
+Passed (Sled Rental) -- 116
+firstPos -- p, index(non zero) -- 1
+secondPos -- f, index(non zero) -- 4
+Passed (Toboggan Rental) -- 153
+1 5 x xxxxvx
+Count -- 5
+Passed (Sled Rental) -- 117
+firstPos -- x, index(non zero) -- 1
+secondPos -- v, index(non zero) -- 5
+Passed (Toboggan Rental) -- 154
+1 3 t mtht
+Count -- 2
+Passed (Sled Rental) -- 118
+firstPos -- m, index(non zero) -- 1
+secondPos -- h, index(non zero) -- 3
+Failed (Toboggan Rental) -- 61
+4 6 j jvjrcfl
+Count -- 2
+Failed (Sled Rental) -- 98
+firstPos -- r, index(non zero) -- 4
+secondPos -- f, index(non zero) -- 6
+Failed (Toboggan Rental) -- 62
+1 5 t jtmtttc
+Count -- 4
+Passed (Sled Rental) -- 119
+firstPos -- j, index(non zero) -- 1
+secondPos -- t, index(non zero) -- 5
+Passed (Toboggan Rental) -- 155
+7 8 k kkkpkkkkkrkkqk
+Count -- 11
+Failed (Sled Rental) -- 99
+firstPos -- k, index(non zero) -- 7
+secondPos -- k, index(non zero) -- 8
+Failed (Toboggan Rental) -- 63
+4 5 t jtttt
+Count -- 4
+Passed (Sled Rental) -- 120
+firstPos -- t, index(non zero) -- 4
+secondPos -- t, index(non zero) -- 5
+Failed (Toboggan Rental) -- 64
+14 19 z zzzzmztzczzrzdzzzzn
+Count -- 13
+Failed (Sled Rental) -- 100
+firstPos -- d, index(non zero) -- 14
+secondPos -- n, index(non zero) -- 19
+Failed (Toboggan Rental) -- 65
+14 16 s nqvfdwmtvbsbtnks
+Count -- 2
+Failed (Sled Rental) -- 101
+firstPos -- n, index(non zero) -- 14
+secondPos -- s, index(non zero) -- 16
+Passed (Toboggan Rental) -- 156
+12 14 g gggggggggggzggg
+Count -- 14
+Passed (Sled Rental) -- 121
+firstPos -- z, index(non zero) -- 12
+secondPos -- g, index(non zero) -- 14
+Passed (Toboggan Rental) -- 157
+6 9 m llcrncdzmqlzh
+Count -- 1
+Failed (Sled Rental) -- 102
+firstPos -- c, index(non zero) -- 6
+secondPos -- m, index(non zero) -- 9
+Passed (Toboggan Rental) -- 158
+7 14 r rnrbbwrglbljrw
+Count -- 4
+Failed (Sled Rental) -- 103
+firstPos -- r, index(non zero) -- 7
+secondPos -- w, index(non zero) -- 14
+Passed (Toboggan Rental) -- 159
+4 11 c ctccccctcch
+Count -- 8
+Passed (Sled Rental) -- 122
+firstPos -- c, index(non zero) -- 4
+secondPos -- h, index(non zero) -- 11
+Passed (Toboggan Rental) -- 160
+18 20 j jjjjjjjjtjjjjjjjjjjj
+Count -- 19
+Passed (Sled Rental) -- 123
+firstPos -- j, index(non zero) -- 18
+secondPos -- j, index(non zero) -- 20
+Failed (Toboggan Rental) -- 66
+5 6 c ncccrc
+Count -- 4
+Failed (Sled Rental) -- 104
+firstPos -- r, index(non zero) -- 5
+secondPos -- c, index(non zero) -- 6
+Passed (Toboggan Rental) -- 161
+2 4 b wbbk
+Count -- 2
+Passed (Sled Rental) -- 124
+firstPos -- b, index(non zero) -- 2
+secondPos -- k, index(non zero) -- 4
+Passed (Toboggan Rental) -- 162
+1 2 t tstf
+Count -- 2
+Passed (Sled Rental) -- 125
+firstPos -- t, index(non zero) -- 1
+secondPos -- s, index(non zero) -- 2
+Passed (Toboggan Rental) -- 163
+15 17 h hhhhhzhhhhhhhhxhhh
+Count -- 16
+Passed (Sled Rental) -- 126
+firstPos -- x, index(non zero) -- 15
+secondPos -- h, index(non zero) -- 17
+Passed (Toboggan Rental) -- 164
+11 14 k kkkkkkkkkkgkkkk
+Count -- 14
+Passed (Sled Rental) -- 127
+firstPos -- g, index(non zero) -- 11
+secondPos -- k, index(non zero) -- 14
+Passed (Toboggan Rental) -- 165
+9 13 n vcqnnnlcnnnnq
+Count -- 7
+Failed (Sled Rental) -- 105
+firstPos -- n, index(non zero) -- 9
+secondPos -- q, index(non zero) -- 13
+Passed (Toboggan Rental) -- 166
+2 5 s slssn
+Count -- 3
+Passed (Sled Rental) -- 128
+firstPos -- l, index(non zero) -- 2
+secondPos -- n, index(non zero) -- 5
+Failed (Toboggan Rental) -- 67
+6 8 m bmmmmmqwmmmm
+Count -- 9
+Failed (Sled Rental) -- 106
+firstPos -- m, index(non zero) -- 6
+secondPos -- w, index(non zero) -- 8
+Passed (Toboggan Rental) -- 167
+8 9 c cnccccccrc
+Count -- 8
+Passed (Sled Rental) -- 129
+firstPos -- c, index(non zero) -- 8
+secondPos -- r, index(non zero) -- 9
+Passed (Toboggan Rental) -- 168
+3 4 s zcss
+Count -- 2
+Failed (Sled Rental) -- 107
+firstPos -- s, index(non zero) -- 3
+secondPos -- s, index(non zero) -- 4
+Failed (Toboggan Rental) -- 68
+13 15 c cccjgccchjcmccrdcccc
+Count -- 13
+Passed (Sled Rental) -- 130
+firstPos -- c, index(non zero) -- 13
+secondPos -- r, index(non zero) -- 15
+Passed (Toboggan Rental) -- 169
+4 6 r fkvpfjnflkrrccz
+Count -- 2
+Failed (Sled Rental) -- 108
+firstPos -- p, index(non zero) -- 4
+secondPos -- j, index(non zero) -- 6
+Failed (Toboggan Rental) -- 69
+2 6 s shssssssss
+Count -- 9
+Failed (Sled Rental) -- 109
+firstPos -- h, index(non zero) -- 2
+secondPos -- s, index(non zero) -- 6
+Passed (Toboggan Rental) -- 170
+12 14 r rrrrrrrrrrrrrv
+Count -- 13
+Passed (Sled Rental) -- 131
+firstPos -- r, index(non zero) -- 12
+secondPos -- v, index(non zero) -- 14
+Passed (Toboggan Rental) -- 171
+5 19 h hhhhmhhhhhhhhghhhhhh
+Count -- 18
+Passed (Sled Rental) -- 132
+firstPos -- m, index(non zero) -- 5
+secondPos -- h, index(non zero) -- 19
+Passed (Toboggan Rental) -- 172
+4 9 b gjntfbwtb
+Count -- 2
+Failed (Sled Rental) -- 110
+firstPos -- t, index(non zero) -- 4
+secondPos -- b, index(non zero) -- 9
+Passed (Toboggan Rental) -- 173
+12 15 n nzndcrnjnnnnnngnd
+Count -- 10
+Failed (Sled Rental) -- 111
+firstPos -- n, index(non zero) -- 12
+secondPos -- g, index(non zero) -- 15
+Passed (Toboggan Rental) -- 174
+11 12 z vqzjftszbzzz
+Count -- 5
+Failed (Sled Rental) -- 112
+firstPos -- z, index(non zero) -- 11
+secondPos -- z, index(non zero) -- 12
+Failed (Toboggan Rental) -- 70
+16 18 w wlxwzwwczqwmtrpwbwg
+Count -- 7
+Failed (Sled Rental) -- 113
+firstPos -- w, index(non zero) -- 16
+secondPos -- w, index(non zero) -- 18
+Failed (Toboggan Rental) -- 71
+3 11 g qmgghrggggt
+Count -- 6
+Passed (Sled Rental) -- 133
+firstPos -- g, index(non zero) -- 3
+secondPos -- t, index(non zero) -- 11
+Passed (Toboggan Rental) -- 175
+2 3 v vntvvvvvvv
+Count -- 8
+Failed (Sled Rental) -- 114
+firstPos -- n, index(non zero) -- 2
+secondPos -- t, index(non zero) -- 3
+Failed (Toboggan Rental) -- 72
+7 11 b bbbbbbbbbblb
+Count -- 11
+Passed (Sled Rental) -- 134
+firstPos -- b, index(non zero) -- 7
+secondPos -- l, index(non zero) -- 11
+Passed (Toboggan Rental) -- 176
+2 3 t nctttjgr
+Count -- 3
+Passed (Sled Rental) -- 135
+firstPos -- c, index(non zero) -- 2
+secondPos -- t, index(non zero) -- 3
+Passed (Toboggan Rental) -- 177
+1 8 t nrlrtnptztstnfstx
+Count -- 5
+Passed (Sled Rental) -- 136
+firstPos -- n, index(non zero) -- 1
+secondPos -- t, index(non zero) -- 8
+Passed (Toboggan Rental) -- 178
+1 4 r rrrz
+Count -- 3
+Passed (Sled Rental) -- 137
+firstPos -- r, index(non zero) -- 1
+secondPos -- z, index(non zero) -- 4
+Passed (Toboggan Rental) -- 179
+12 13 z zzznzzzvzzzzhczz
+Count -- 12
+Passed (Sled Rental) -- 138
+firstPos -- z, index(non zero) -- 12
+secondPos -- h, index(non zero) -- 13
+Passed (Toboggan Rental) -- 180
+12 13 n gnjqqnnnnnnnnnnnsnnc
+Count -- 14
+Failed (Sled Rental) -- 115
+firstPos -- n, index(non zero) -- 12
+secondPos -- n, index(non zero) -- 13
+Failed (Toboggan Rental) -- 73
+11 12 g ggggggghgrjg
+Count -- 9
+Failed (Sled Rental) -- 116
+firstPos -- j, index(non zero) -- 11
+secondPos -- g, index(non zero) -- 12
+Passed (Toboggan Rental) -- 181
+2 7 q ljsvqlq
+Count -- 2
+Passed (Sled Rental) -- 139
+firstPos -- j, index(non zero) -- 2
+secondPos -- q, index(non zero) -- 7
+Passed (Toboggan Rental) -- 182
+3 9 h wlkfhjvthpfhzln
+Count -- 3
+Passed (Sled Rental) -- 140
+firstPos -- k, index(non zero) -- 3
+secondPos -- h, index(non zero) -- 9
+Passed (Toboggan Rental) -- 183
+8 10 j jkxzjjjbjjjjjf
+Count -- 9
+Passed (Sled Rental) -- 141
+firstPos -- b, index(non zero) -- 8
+secondPos -- j, index(non zero) -- 10
+Passed (Toboggan Rental) -- 184
+2 5 p pqppp
+Count -- 4
+Passed (Sled Rental) -- 142
+firstPos -- q, index(non zero) -- 2
+secondPos -- p, index(non zero) -- 5
+Passed (Toboggan Rental) -- 185
+2 7 c cmhgqwswwwjvwx
+Count -- 1
+Failed (Sled Rental) -- 117
+firstPos -- m, index(non zero) -- 2
+secondPos -- s, index(non zero) -- 7
+Failed (Toboggan Rental) -- 74
+3 4 w wwww
+Count -- 4
+Passed (Sled Rental) -- 143
+firstPos -- w, index(non zero) -- 3
+secondPos -- w, index(non zero) -- 4
+Failed (Toboggan Rental) -- 75
+6 7 z nfxmzdzk
+Count -- 2
+Failed (Sled Rental) -- 118
+firstPos -- d, index(non zero) -- 6
+secondPos -- z, index(non zero) -- 7
+Passed (Toboggan Rental) -- 186
+7 12 q rqqbqxqdwchf
+Count -- 4
+Failed (Sled Rental) -- 119
+firstPos -- q, index(non zero) -- 7
+secondPos -- f, index(non zero) -- 12
+Passed (Toboggan Rental) -- 187
+3 4 l llzrl
+Count -- 3
+Passed (Sled Rental) -- 144
+firstPos -- z, index(non zero) -- 3
+secondPos -- r, index(non zero) -- 4
+Failed (Toboggan Rental) -- 76
+4 5 h hftdhw
+Count -- 2
+Failed (Sled Rental) -- 120
+firstPos -- d, index(non zero) -- 4
+secondPos -- h, index(non zero) -- 5
+Passed (Toboggan Rental) -- 188
+8 15 x pxcdzxldgxgmpxxmxsv
+Count -- 6
+Failed (Sled Rental) -- 121
+firstPos -- d, index(non zero) -- 8
+secondPos -- x, index(non zero) -- 15
+Passed (Toboggan Rental) -- 189
+8 10 h hjhkhdkgghhhhhwh
+Count -- 9
+Passed (Sled Rental) -- 145
+firstPos -- g, index(non zero) -- 8
+secondPos -- h, index(non zero) -- 10
+Passed (Toboggan Rental) -- 190
+10 14 n npnnnnnnndnnnn
+Count -- 12
+Passed (Sled Rental) -- 146
+firstPos -- d, index(non zero) -- 10
+secondPos -- n, index(non zero) -- 14
+Passed (Toboggan Rental) -- 191
+3 7 m dhmtmhnx
+Count -- 2
+Failed (Sled Rental) -- 122
+firstPos -- m, index(non zero) -- 3
+secondPos -- n, index(non zero) -- 7
+Passed (Toboggan Rental) -- 192
+3 4 p fphp
+Count -- 2
+Failed (Sled Rental) -- 123
+firstPos -- h, index(non zero) -- 3
+secondPos -- p, index(non zero) -- 4
+Passed (Toboggan Rental) -- 193
+1 2 t tttmvv
+Count -- 3
+Failed (Sled Rental) -- 124
+firstPos -- t, index(non zero) -- 1
+secondPos -- t, index(non zero) -- 2
+Failed (Toboggan Rental) -- 77
+13 17 j qrjvzjbvjvvjjsjhg
+Count -- 6
+Failed (Sled Rental) -- 125
+firstPos -- j, index(non zero) -- 13
+secondPos -- g, index(non zero) -- 17
+Passed (Toboggan Rental) -- 194
+14 19 v bvvvwdvbngqnzfnvvvv
+Count -- 8
+Failed (Sled Rental) -- 126
+firstPos -- f, index(non zero) -- 14
+secondPos -- v, index(non zero) -- 19
+Passed (Toboggan Rental) -- 195
+4 7 c ccczccccq
+Count -- 7
+Passed (Sled Rental) -- 147
+firstPos -- z, index(non zero) -- 4
+secondPos -- c, index(non zero) -- 7
+Passed (Toboggan Rental) -- 196
+3 13 h hxsghhnhhhhhhhh
+Count -- 11
+Passed (Sled Rental) -- 148
+firstPos -- s, index(non zero) -- 3
+secondPos -- h, index(non zero) -- 13
+Passed (Toboggan Rental) -- 197
+2 7 n nnfnnnnnnh
+Count -- 8
+Failed (Sled Rental) -- 127
+firstPos -- n, index(non zero) -- 2
+secondPos -- n, index(non zero) -- 7
+Failed (Toboggan Rental) -- 78
+13 14 w wwwwwwwwwwwwwjw
+Count -- 14
+Passed (Sled Rental) -- 149
+firstPos -- w, index(non zero) -- 13
+secondPos -- j, index(non zero) -- 14
+Passed (Toboggan Rental) -- 198
+6 11 d mdcddbdrddd
+Count -- 7
+Passed (Sled Rental) -- 150
+firstPos -- b, index(non zero) -- 6
+secondPos -- d, index(non zero) -- 11
+Passed (Toboggan Rental) -- 199
+15 19 r rrgrrrrprrrrrrdrrrrr
+Count -- 17
+Passed (Sled Rental) -- 151
+firstPos -- d, index(non zero) -- 15
+secondPos -- r, index(non zero) -- 19
+Passed (Toboggan Rental) -- 200
+11 16 x xxxkxxxxxxmsxxxxxxx
+Count -- 16
+Passed (Sled Rental) -- 152
+firstPos -- m, index(non zero) -- 11
+secondPos -- x, index(non zero) -- 16
+Passed (Toboggan Rental) -- 201
+4 13 v xvqkhfpvlsvvvvs
+Count -- 6
+Passed (Sled Rental) -- 153
+firstPos -- k, index(non zero) -- 4
+secondPos -- v, index(non zero) -- 13
+Passed (Toboggan Rental) -- 202
+2 3 x jxjbxbq
+Count -- 2
+Passed (Sled Rental) -- 154
+firstPos -- x, index(non zero) -- 2
+secondPos -- j, index(non zero) -- 3
+Passed (Toboggan Rental) -- 203
+11 14 s fdjtpsgsrgdlksskm
+Count -- 4
+Failed (Sled Rental) -- 128
+firstPos -- d, index(non zero) -- 11
+secondPos -- s, index(non zero) -- 14
+Passed (Toboggan Rental) -- 204
+7 8 x rdsxpbzwxnkxvd
+Count -- 3
+Failed (Sled Rental) -- 129
+firstPos -- z, index(non zero) -- 7
+secondPos -- w, index(non zero) -- 8
+Failed (Toboggan Rental) -- 79
+10 11 f ffffgffvfft
+Count -- 8
+Failed (Sled Rental) -- 130
+firstPos -- f, index(non zero) -- 10
+secondPos -- t, index(non zero) -- 11
+Passed (Toboggan Rental) -- 205
+10 11 p pwjzmsnqbps
+Count -- 2
+Failed (Sled Rental) -- 131
+firstPos -- p, index(non zero) -- 10
+secondPos -- s, index(non zero) -- 11
+Passed (Toboggan Rental) -- 206
+13 14 b bbbbtbbbbbbbdj
+Count -- 11
+Failed (Sled Rental) -- 132
+firstPos -- d, index(non zero) -- 13
+secondPos -- j, index(non zero) -- 14
+Failed (Toboggan Rental) -- 80
+1 4 x xxxgg
+Count -- 3
+Passed (Sled Rental) -- 155
+firstPos -- x, index(non zero) -- 1
+secondPos -- g, index(non zero) -- 4
+Passed (Toboggan Rental) -- 207
+11 16 c ccwlggccckwccccccc
+Count -- 12
+Passed (Sled Rental) -- 156
+firstPos -- w, index(non zero) -- 11
+secondPos -- c, index(non zero) -- 16
+Passed (Toboggan Rental) -- 208
+10 12 g ggggggbggkgqgg
+Count -- 11
+Passed (Sled Rental) -- 157
+firstPos -- k, index(non zero) -- 10
+secondPos -- q, index(non zero) -- 12
+Failed (Toboggan Rental) -- 81
+3 4 q kzfqqc
+Count -- 2
+Failed (Sled Rental) -- 133
+firstPos -- f, index(non zero) -- 3
+secondPos -- q, index(non zero) -- 4
+Passed (Toboggan Rental) -- 209
+2 10 r rsrrrrxbgrrrrhrrrrdr
+Count -- 14
+Failed (Sled Rental) -- 134
+firstPos -- s, index(non zero) -- 2
+secondPos -- r, index(non zero) -- 10
+Passed (Toboggan Rental) -- 210
+1 2 s mssksf
+Count -- 3
+Failed (Sled Rental) -- 135
+firstPos -- m, index(non zero) -- 1
+secondPos -- s, index(non zero) -- 2
+Passed (Toboggan Rental) -- 211
+2 5 q bqnwqpmtglphq
+Count -- 3
+Passed (Sled Rental) -- 158
+firstPos -- q, index(non zero) -- 2
+secondPos -- q, index(non zero) -- 5
+Failed (Toboggan Rental) -- 82
+4 11 h hhhmhhhhhhhh
+Count -- 11
+Passed (Sled Rental) -- 159
+firstPos -- m, index(non zero) -- 4
+secondPos -- h, index(non zero) -- 11
+Passed (Toboggan Rental) -- 212
+5 7 w wwwwnwxww
+Count -- 7
+Passed (Sled Rental) -- 160
+firstPos -- n, index(non zero) -- 5
+secondPos -- x, index(non zero) -- 7
+Failed (Toboggan Rental) -- 83
+3 4 n nmxc
+Count -- 1
+Failed (Sled Rental) -- 136
+firstPos -- x, index(non zero) -- 3
+secondPos -- c, index(non zero) -- 4
+Failed (Toboggan Rental) -- 84
+7 8 c wcrcmccq
+Count -- 4
+Failed (Sled Rental) -- 137
+firstPos -- c, index(non zero) -- 7
+secondPos -- q, index(non zero) -- 8
+Passed (Toboggan Rental) -- 213
+2 10 x qxctcjtmvbj
+Count -- 1
+Failed (Sled Rental) -- 138
+firstPos -- x, index(non zero) -- 2
+secondPos -- b, index(non zero) -- 10
+Passed (Toboggan Rental) -- 214
+8 14 w gwrtwflwfsgwzwmmw
+Count -- 6
+Failed (Sled Rental) -- 139
+firstPos -- w, index(non zero) -- 8
+secondPos -- w, index(non zero) -- 14
+Failed (Toboggan Rental) -- 85
+2 4 z wzjzlc
+Count -- 2
+Passed (Sled Rental) -- 161
+firstPos -- z, index(non zero) -- 2
+secondPos -- z, index(non zero) -- 4
+Failed (Toboggan Rental) -- 86
+2 11 m zmctnwcvwhmgcq
+Count -- 2
+Passed (Sled Rental) -- 162
+firstPos -- m, index(non zero) -- 2
+secondPos -- m, index(non zero) -- 11
+Failed (Toboggan Rental) -- 87
+5 19 v gcmvfvvkvxdmvvxvwgvv
+Count -- 9
+Passed (Sled Rental) -- 163
+firstPos -- f, index(non zero) -- 5
+secondPos -- v, index(non zero) -- 19
+Passed (Toboggan Rental) -- 215
+11 13 c cccccpcccwcphcc
+Count -- 11
+Passed (Sled Rental) -- 164
+firstPos -- c, index(non zero) -- 11
+secondPos -- h, index(non zero) -- 13
+Passed (Toboggan Rental) -- 216
+5 6 j pjjtcbprsjjhnz
+Count -- 4
+Failed (Sled Rental) -- 140
+firstPos -- c, index(non zero) -- 5
+secondPos -- b, index(non zero) -- 6
+Failed (Toboggan Rental) -- 88
+6 8 h hktwdmsc
+Count -- 1
+Failed (Sled Rental) -- 141
+firstPos -- m, index(non zero) -- 6
+secondPos -- c, index(non zero) -- 8
+Failed (Toboggan Rental) -- 89
+2 4 x kxxlx
+Count -- 3
+Passed (Sled Rental) -- 165
+firstPos -- x, index(non zero) -- 2
+secondPos -- l, index(non zero) -- 4
+Passed (Toboggan Rental) -- 217
+3 4 l tblq
+Count -- 1
+Failed (Sled Rental) -- 142
+firstPos -- l, index(non zero) -- 3
+secondPos -- q, index(non zero) -- 4
+Passed (Toboggan Rental) -- 218
+5 7 r lpqbmmrhtmwrcvlt
+Count -- 2
+Failed (Sled Rental) -- 143
+firstPos -- m, index(non zero) -- 5
+secondPos -- r, index(non zero) -- 7
+Passed (Toboggan Rental) -- 219
+3 4 z zbhzmz
+Count -- 3
+Passed (Sled Rental) -- 166
+firstPos -- h, index(non zero) -- 3
+secondPos -- z, index(non zero) -- 4
+Passed (Toboggan Rental) -- 220
+9 11 n nnnnnnqnnnn
+Count -- 10
+Passed (Sled Rental) -- 167
+firstPos -- n, index(non zero) -- 9
+secondPos -- n, index(non zero) -- 11
+Failed (Toboggan Rental) -- 90
+3 4 g cdgd
+Count -- 1
+Failed (Sled Rental) -- 144
+firstPos -- g, index(non zero) -- 3
+secondPos -- d, index(non zero) -- 4
+Passed (Toboggan Rental) -- 221
+4 7 j jnqjssh
+Count -- 2
+Failed (Sled Rental) -- 145
+firstPos -- j, index(non zero) -- 4
+secondPos -- h, index(non zero) -- 7
+Passed (Toboggan Rental) -- 222
+6 9 p prlsjpmmn
+Count -- 2
+Failed (Sled Rental) -- 146
+firstPos -- p, index(non zero) -- 6
+secondPos -- n, index(non zero) -- 9
+Passed (Toboggan Rental) -- 223
+10 11 f fffffffpkzqqffrf
+Count -- 10
+Passed (Sled Rental) -- 168
+firstPos -- z, index(non zero) -- 10
+secondPos -- q, index(non zero) -- 11
+Failed (Toboggan Rental) -- 91
+3 7 k kktkkkkk
+Count -- 7
+Passed (Sled Rental) -- 169
+firstPos -- t, index(non zero) -- 3
+secondPos -- k, index(non zero) -- 7
+Passed (Toboggan Rental) -- 224
+1 4 q qqqrqqqqqqq
+Count -- 10
+Failed (Sled Rental) -- 147
+firstPos -- q, index(non zero) -- 1
+secondPos -- r, index(non zero) -- 4
+Passed (Toboggan Rental) -- 225
+10 13 l llllllsllnpllllll
+Count -- 14
+Failed (Sled Rental) -- 148
+firstPos -- n, index(non zero) -- 10
+secondPos -- l, index(non zero) -- 13
+Passed (Toboggan Rental) -- 226
+2 6 d hdxhvdz
+Count -- 2
+Passed (Sled Rental) -- 170
+firstPos -- d, index(non zero) -- 2
+secondPos -- d, index(non zero) -- 6
+Failed (Toboggan Rental) -- 92
+3 4 s kssjq
+Count -- 2
+Failed (Sled Rental) -- 149
+firstPos -- s, index(non zero) -- 3
+secondPos -- j, index(non zero) -- 4
+Passed (Toboggan Rental) -- 227
+8 10 t rtdttdcttp
+Count -- 5
+Failed (Sled Rental) -- 150
+firstPos -- t, index(non zero) -- 8
+secondPos -- p, index(non zero) -- 10
+Passed (Toboggan Rental) -- 228
+1 2 x xxjxxxxbx
+Count -- 7
+Failed (Sled Rental) -- 151
+firstPos -- x, index(non zero) -- 1
+secondPos -- x, index(non zero) -- 2
+Failed (Toboggan Rental) -- 93
+11 13 x xxvxxxxxxxxxj
+Count -- 11
+Passed (Sled Rental) -- 171
+firstPos -- x, index(non zero) -- 11
+secondPos -- j, index(non zero) -- 13
+Passed (Toboggan Rental) -- 229
+6 10 n xnnnkfwgnn
+Count -- 5
+Failed (Sled Rental) -- 152
+firstPos -- f, index(non zero) -- 6
+secondPos -- n, index(non zero) -- 10
+Passed (Toboggan Rental) -- 230
+3 4 c cwfcc
+Count -- 3
+Passed (Sled Rental) -- 172
+firstPos -- f, index(non zero) -- 3
+secondPos -- c, index(non zero) -- 4
+Passed (Toboggan Rental) -- 231
+16 18 j jjjjjjjjjjjjjjjjjpjj
+Count -- 19
+Failed (Sled Rental) -- 153
+firstPos -- j, index(non zero) -- 16
+secondPos -- p, index(non zero) -- 18
+Passed (Toboggan Rental) -- 232
+4 7 n lnqnlndbnf
+Count -- 4
+Passed (Sled Rental) -- 173
+firstPos -- n, index(non zero) -- 4
+secondPos -- d, index(non zero) -- 7
+Passed (Toboggan Rental) -- 233
+11 14 k nkkkkkkkkkkdkkkkk
+Count -- 15
+Failed (Sled Rental) -- 154
+firstPos -- k, index(non zero) -- 11
+secondPos -- k, index(non zero) -- 14
+Failed (Toboggan Rental) -- 94
+2 6 j jjjjjcj
+Count -- 6
+Passed (Sled Rental) -- 174
+firstPos -- j, index(non zero) -- 2
+secondPos -- c, index(non zero) -- 6
+Passed (Toboggan Rental) -- 234
+13 14 v vvvvvvvvvvvvvvvv
+Count -- 16
+Failed (Sled Rental) -- 155
+firstPos -- v, index(non zero) -- 13
+secondPos -- v, index(non zero) -- 14
+Failed (Toboggan Rental) -- 95
+10 12 v vvvvvvvvvwvv
+Count -- 11
+Passed (Sled Rental) -- 175
+firstPos -- w, index(non zero) -- 10
+secondPos -- v, index(non zero) -- 12
+Passed (Toboggan Rental) -- 235
+3 13 z nzhzvmzcbzzzzzj
+Count -- 8
+Passed (Sled Rental) -- 176
+firstPos -- h, index(non zero) -- 3
+secondPos -- z, index(non zero) -- 13
+Passed (Toboggan Rental) -- 236
+2 6 d dddhthddddddq
+Count -- 9
+Failed (Sled Rental) -- 156
+firstPos -- d, index(non zero) -- 2
+secondPos -- h, index(non zero) -- 6
+Passed (Toboggan Rental) -- 237
+6 7 s ssssscs
+Count -- 6
+Passed (Sled Rental) -- 177
+firstPos -- c, index(non zero) -- 6
+secondPos -- s, index(non zero) -- 7
+Passed (Toboggan Rental) -- 238
+5 8 f ffxffffdff
+Count -- 8
+Passed (Sled Rental) -- 178
+firstPos -- f, index(non zero) -- 5
+secondPos -- d, index(non zero) -- 8
+Passed (Toboggan Rental) -- 239
+10 14 r rvdzskgrmrrsxgc
+Count -- 4
+Failed (Sled Rental) -- 157
+firstPos -- r, index(non zero) -- 10
+secondPos -- g, index(non zero) -- 14
+Passed (Toboggan Rental) -- 240
+8 9 s sssssssss
+Count -- 9
+Passed (Sled Rental) -- 179
+firstPos -- s, index(non zero) -- 8
+secondPos -- s, index(non zero) -- 9
+Failed (Toboggan Rental) -- 96
+3 5 g khgkl
+Count -- 1
+Failed (Sled Rental) -- 158
+firstPos -- g, index(non zero) -- 3
+secondPos -- l, index(non zero) -- 5
+Passed (Toboggan Rental) -- 241
+5 6 n nnnbnnn
+Count -- 6
+Passed (Sled Rental) -- 180
+firstPos -- n, index(non zero) -- 5
+secondPos -- n, index(non zero) -- 6
+Failed (Toboggan Rental) -- 97
+1 9 w wwqpwhwcdw
+Count -- 5
+Passed (Sled Rental) -- 181
+firstPos -- w, index(non zero) -- 1
+secondPos -- d, index(non zero) -- 9
+Passed (Toboggan Rental) -- 242
+7 8 g gxgggrgcggg
+Count -- 8
+Passed (Sled Rental) -- 182
+firstPos -- g, index(non zero) -- 7
+secondPos -- c, index(non zero) -- 8
+Passed (Toboggan Rental) -- 243
+5 8 w wswwnwwwwxwwwwwwwww
+Count -- 16
+Failed (Sled Rental) -- 159
+firstPos -- n, index(non zero) -- 5
+secondPos -- w, index(non zero) -- 8
+Passed (Toboggan Rental) -- 244
+4 11 b svbwbqsbbbbbnpcbpprb
+Count -- 9
+Passed (Sled Rental) -- 183
+firstPos -- w, index(non zero) -- 4
+secondPos -- b, index(non zero) -- 11
+Passed (Toboggan Rental) -- 245
+6 7 j zjvjmsjjjjnvt
+Count -- 6
+Passed (Sled Rental) -- 184
+firstPos -- s, index(non zero) -- 6
+secondPos -- j, index(non zero) -- 7
+Passed (Toboggan Rental) -- 246
+5 6 l lhlllpll
+Count -- 6
+Passed (Sled Rental) -- 185
+firstPos -- l, index(non zero) -- 5
+secondPos -- p, index(non zero) -- 6
+Passed (Toboggan Rental) -- 247
+1 2 b bxbbxfbxb
+Count -- 5
+Failed (Sled Rental) -- 160
+firstPos -- b, index(non zero) -- 1
+secondPos -- x, index(non zero) -- 2
+Passed (Toboggan Rental) -- 248
+9 12 g gjgqggggzggffgp
+Count -- 9
+Passed (Sled Rental) -- 186
+firstPos -- z, index(non zero) -- 9
+secondPos -- f, index(non zero) -- 12
+Failed (Toboggan Rental) -- 98
+3 4 v wjfvsvd
+Count -- 2
+Failed (Sled Rental) -- 161
+firstPos -- f, index(non zero) -- 3
+secondPos -- v, index(non zero) -- 4
+Passed (Toboggan Rental) -- 249
+2 6 v fvvpvcxnpgd
+Count -- 3
+Passed (Sled Rental) -- 187
+firstPos -- v, index(non zero) -- 2
+secondPos -- c, index(non zero) -- 6
+Passed (Toboggan Rental) -- 250
+9 10 q qqvqqqqrrq
+Count -- 7
+Failed (Sled Rental) -- 162
+firstPos -- r, index(non zero) -- 9
+secondPos -- q, index(non zero) -- 10
+Passed (Toboggan Rental) -- 251
+15 18 k kjkkklkkxkkqnsgqwkt
+Count -- 9
+Failed (Sled Rental) -- 163
+firstPos -- g, index(non zero) -- 15
+secondPos -- k, index(non zero) -- 18
+Passed (Toboggan Rental) -- 252
+1 4 z zsjf
+Count -- 1
+Passed (Sled Rental) -- 188
+firstPos -- z, index(non zero) -- 1
+secondPos -- f, index(non zero) -- 4
+Passed (Toboggan Rental) -- 253
+2 6 l dvcsllhw
+Count -- 2
+Passed (Sled Rental) -- 189
+firstPos -- v, index(non zero) -- 2
+secondPos -- l, index(non zero) -- 6
+Passed (Toboggan Rental) -- 254
+10 12 x xxxxxxxxxxxxx
+Count -- 13
+Failed (Sled Rental) -- 164
+firstPos -- x, index(non zero) -- 10
+secondPos -- x, index(non zero) -- 12
+Failed (Toboggan Rental) -- 99
+5 6 g dtggpgggcwvvdw
+Count -- 5
+Passed (Sled Rental) -- 190
+firstPos -- p, index(non zero) -- 5
+secondPos -- g, index(non zero) -- 6
+Passed (Toboggan Rental) -- 255
+5 13 p ppppkppppdpvdpzdlppp
+Count -- 13
+Passed (Sled Rental) -- 191
+firstPos -- k, index(non zero) -- 5
+secondPos -- d, index(non zero) -- 13
+Failed (Toboggan Rental) -- 100
+3 7 d ddwddddlddd
+Count -- 9
+Failed (Sled Rental) -- 165
+firstPos -- w, index(non zero) -- 3
+secondPos -- d, index(non zero) -- 7
+Passed (Toboggan Rental) -- 256
+7 12 r jrxbrprrgngzpjjc
+Count -- 4
+Failed (Sled Rental) -- 166
+firstPos -- r, index(non zero) -- 7
+secondPos -- z, index(non zero) -- 12
+Passed (Toboggan Rental) -- 257
+4 7 m mmxzmfmmlmm
+Count -- 7
+Passed (Sled Rental) -- 192
+firstPos -- z, index(non zero) -- 4
+secondPos -- m, index(non zero) -- 7
+Passed (Toboggan Rental) -- 258
+3 5 m pgtmz
+Count -- 1
+Failed (Sled Rental) -- 167
+firstPos -- t, index(non zero) -- 3
+secondPos -- z, index(non zero) -- 5
+Failed (Toboggan Rental) -- 101
+6 13 z dzpdlrsnxzshkbtlxvmn
+Count -- 2
+Failed (Sled Rental) -- 168
+firstPos -- r, index(non zero) -- 6
+secondPos -- k, index(non zero) -- 13
+Failed (Toboggan Rental) -- 102
+6 12 x trszxlcdxknxnnj
+Count -- 3
+Failed (Sled Rental) -- 169
+firstPos -- l, index(non zero) -- 6
+secondPos -- x, index(non zero) -- 12
+Passed (Toboggan Rental) -- 259
+6 11 k xgkbsqkgnkk
+Count -- 4
+Failed (Sled Rental) -- 170
+firstPos -- q, index(non zero) -- 6
+secondPos -- k, index(non zero) -- 11
+Passed (Toboggan Rental) -- 260
+7 10 r rrrrrrxrrsrr
+Count -- 10
+Passed (Sled Rental) -- 193
+firstPos -- x, index(non zero) -- 7
+secondPos -- s, index(non zero) -- 10
+Failed (Toboggan Rental) -- 103
+6 7 t ctwmxntbdl
+Count -- 2
+Failed (Sled Rental) -- 171
+firstPos -- n, index(non zero) -- 6
+secondPos -- t, index(non zero) -- 7
+Passed (Toboggan Rental) -- 261
+5 6 d dbcddc
+Count -- 3
+Failed (Sled Rental) -- 172
+firstPos -- d, index(non zero) -- 5
+secondPos -- c, index(non zero) -- 6
+Passed (Toboggan Rental) -- 262
+8 18 m wtmtmtvmcmmjsmmxmmmm
+Count -- 11
+Passed (Sled Rental) -- 194
+firstPos -- m, index(non zero) -- 8
+secondPos -- m, index(non zero) -- 18
+Failed (Toboggan Rental) -- 104
+3 5 k dnvxk
+Count -- 1
+Failed (Sled Rental) -- 173
+firstPos -- v, index(non zero) -- 3
+secondPos -- k, index(non zero) -- 5
+Passed (Toboggan Rental) -- 263
+6 7 b bbbbbbl
+Count -- 6
+Passed (Sled Rental) -- 195
+firstPos -- b, index(non zero) -- 6
+secondPos -- l, index(non zero) -- 7
+Passed (Toboggan Rental) -- 264
+1 5 c cqzfcjhnccjwwjftkx
+Count -- 4
+Passed (Sled Rental) -- 196
+firstPos -- c, index(non zero) -- 1
+secondPos -- c, index(non zero) -- 5
+Failed (Toboggan Rental) -- 105
+6 9 d hwsbcdmrldpszh
+Count -- 2
+Failed (Sled Rental) -- 174
+firstPos -- d, index(non zero) -- 6
+secondPos -- l, index(non zero) -- 9
+Passed (Toboggan Rental) -- 265
+3 7 f gffffff
+Count -- 6
+Passed (Sled Rental) -- 197
+firstPos -- f, index(non zero) -- 3
+secondPos -- f, index(non zero) -- 7
+Failed (Toboggan Rental) -- 106
+13 17 b bbbtbbbzbbbbsbbbjbbk
+Count -- 15
+Passed (Sled Rental) -- 198
+firstPos -- s, index(non zero) -- 13
+secondPos -- j, index(non zero) -- 17
+Failed (Toboggan Rental) -- 107
+1 3 w wwwhw
+Count -- 4
+Failed (Sled Rental) -- 175
+firstPos -- w, index(non zero) -- 1
+secondPos -- w, index(non zero) -- 3
+Failed (Toboggan Rental) -- 108
+5 6 b xqbgbxblbbb
+Count -- 6
+Passed (Sled Rental) -- 199
+firstPos -- b, index(non zero) -- 5
+secondPos -- x, index(non zero) -- 6
+Passed (Toboggan Rental) -- 266
+5 9 p phhpqppppgtppp
+Count -- 9
+Passed (Sled Rental) -- 200
+firstPos -- q, index(non zero) -- 5
+secondPos -- p, index(non zero) -- 9
+Passed (Toboggan Rental) -- 267
+3 8 z zzzzcrjbzzwzzzckzz
+Count -- 11
+Failed (Sled Rental) -- 176
+firstPos -- z, index(non zero) -- 3
+secondPos -- b, index(non zero) -- 8
+Passed (Toboggan Rental) -- 268
+1 3 b lbrbnbbbb
+Count -- 6
+Failed (Sled Rental) -- 177
+firstPos -- l, index(non zero) -- 1
+secondPos -- r, index(non zero) -- 3
+Failed (Toboggan Rental) -- 109
+3 5 q gqqgf
+Count -- 2
+Failed (Sled Rental) -- 178
+firstPos -- q, index(non zero) -- 3
+secondPos -- f, index(non zero) -- 5
+Passed (Toboggan Rental) -- 269
+10 11 c jcccccjzccmcc
+Count -- 9
+Failed (Sled Rental) -- 179
+firstPos -- c, index(non zero) -- 10
+secondPos -- m, index(non zero) -- 11
+Passed (Toboggan Rental) -- 270
+4 6 l dlpggl
+Count -- 2
+Failed (Sled Rental) -- 180
+firstPos -- g, index(non zero) -- 4
+secondPos -- l, index(non zero) -- 6
+Passed (Toboggan Rental) -- 271
+5 7 n nnnnpnnn
+Count -- 7
+Passed (Sled Rental) -- 201
+firstPos -- p, index(non zero) -- 5
+secondPos -- n, index(non zero) -- 7
+Passed (Toboggan Rental) -- 272
+4 6 f sffnfslkffdfff
+Count -- 8
+Failed (Sled Rental) -- 181
+firstPos -- n, index(non zero) -- 4
+secondPos -- s, index(non zero) -- 6
+Failed (Toboggan Rental) -- 110
+4 5 s dsssj
+Count -- 3
+Failed (Sled Rental) -- 182
+firstPos -- s, index(non zero) -- 4
+secondPos -- j, index(non zero) -- 5
+Passed (Toboggan Rental) -- 273
+2 5 v vvvnnhvv
+Count -- 5
+Passed (Sled Rental) -- 202
+firstPos -- v, index(non zero) -- 2
+secondPos -- n, index(non zero) -- 5
+Passed (Toboggan Rental) -- 274
+1 3 f bfff
+Count -- 3
+Passed (Sled Rental) -- 203
+firstPos -- b, index(non zero) -- 1
+secondPos -- f, index(non zero) -- 3
+Passed (Toboggan Rental) -- 275
+8 14 g gcndkmgfnpmsmtm
+Count -- 2
+Failed (Sled Rental) -- 183
+firstPos -- f, index(non zero) -- 8
+secondPos -- t, index(non zero) -- 14
+Failed (Toboggan Rental) -- 111
+1 12 d dddddddtddcdd
+Count -- 11
+Passed (Sled Rental) -- 204
+firstPos -- d, index(non zero) -- 1
+secondPos -- d, index(non zero) -- 12
+Failed (Toboggan Rental) -- 112
+12 14 t ttttttttttxttttttttt
+Count -- 19
+Failed (Sled Rental) -- 184
+firstPos -- t, index(non zero) -- 12
+secondPos -- t, index(non zero) -- 14
+Failed (Toboggan Rental) -- 113
+2 6 w mwwmvmpwzwpzkn
+Count -- 4
+Passed (Sled Rental) -- 205
+firstPos -- w, index(non zero) -- 2
+secondPos -- m, index(non zero) -- 6
+Passed (Toboggan Rental) -- 276
+9 12 c ccccmcccmccbcccc
+Count -- 13
+Failed (Sled Rental) -- 185
+firstPos -- m, index(non zero) -- 9
+secondPos -- b, index(non zero) -- 12
+Failed (Toboggan Rental) -- 114
+1 7 c ccgncfc
+Count -- 4
+Passed (Sled Rental) -- 206
+firstPos -- c, index(non zero) -- 1
+secondPos -- c, index(non zero) -- 7
+Failed (Toboggan Rental) -- 115
+3 6 w wrrwwww
+Count -- 5
+Passed (Sled Rental) -- 207
+firstPos -- r, index(non zero) -- 3
+secondPos -- w, index(non zero) -- 6
+Passed (Toboggan Rental) -- 277
+6 7 s szpvlbhsbtktl
+Count -- 2
+Failed (Sled Rental) -- 186
+firstPos -- b, index(non zero) -- 6
+secondPos -- h, index(non zero) -- 7
+Failed (Toboggan Rental) -- 116
+3 4 f wfmfw
+Count -- 2
+Failed (Sled Rental) -- 187
+firstPos -- m, index(non zero) -- 3
+secondPos -- f, index(non zero) -- 4
+Passed (Toboggan Rental) -- 278
+12 17 n nnnnbnnxncnnvnpnjnr
+Count -- 12
+Passed (Sled Rental) -- 208
+firstPos -- n, index(non zero) -- 12
+secondPos -- j, index(non zero) -- 17
+Passed (Toboggan Rental) -- 279
+5 6 h hhhhth
+Count -- 5
+Passed (Sled Rental) -- 209
+firstPos -- t, index(non zero) -- 5
+secondPos -- h, index(non zero) -- 6
+Passed (Toboggan Rental) -- 280
+1 3 q qnbqf
+Count -- 2
+Passed (Sled Rental) -- 210
+firstPos -- q, index(non zero) -- 1
+secondPos -- b, index(non zero) -- 3
+Passed (Toboggan Rental) -- 281
+3 4 s fmsj
+Count -- 1
+Failed (Sled Rental) -- 188
+firstPos -- s, index(non zero) -- 3
+secondPos -- j, index(non zero) -- 4
+Passed (Toboggan Rental) -- 282
+7 9 l nlwlflsllllk
+Count -- 7
+Passed (Sled Rental) -- 211
+firstPos -- s, index(non zero) -- 7
+secondPos -- l, index(non zero) -- 9
+Passed (Toboggan Rental) -- 283
+9 16 s xxpzsmvhbsssdkps
+Count -- 5
+Failed (Sled Rental) -- 189
+firstPos -- b, index(non zero) -- 9
+secondPos -- s, index(non zero) -- 16
+Passed (Toboggan Rental) -- 284
+6 9 p pstppplpr
+Count -- 5
+Failed (Sled Rental) -- 190
+firstPos -- p, index(non zero) -- 6
+secondPos -- r, index(non zero) -- 9
+Passed (Toboggan Rental) -- 285
+4 6 r rrrrrr
+Count -- 6
+Passed (Sled Rental) -- 212
+firstPos -- r, index(non zero) -- 4
+secondPos -- r, index(non zero) -- 6
+Failed (Toboggan Rental) -- 117
+1 10 j hjjjljjjjwjjj
+Count -- 10
+Passed (Sled Rental) -- 213
+firstPos -- h, index(non zero) -- 1
+secondPos -- w, index(non zero) -- 10
+Failed (Toboggan Rental) -- 118
+13 20 c qclflvdlmzwmtgfctwhc
+Count -- 3
+Failed (Sled Rental) -- 191
+firstPos -- t, index(non zero) -- 13
+secondPos -- c, index(non zero) -- 20
+Passed (Toboggan Rental) -- 286
+6 7 b bbbcbdb
+Count -- 5
+Failed (Sled Rental) -- 192
+firstPos -- d, index(non zero) -- 6
+secondPos -- b, index(non zero) -- 7
+Passed (Toboggan Rental) -- 287
+8 13 r wrrzbcwvfqkfr
+Count -- 3
+Failed (Sled Rental) -- 193
+firstPos -- v, index(non zero) -- 8
+secondPos -- r, index(non zero) -- 13
+Passed (Toboggan Rental) -- 288
+13 14 r rrrrrrrrrrrrrg
+Count -- 13
+Passed (Sled Rental) -- 214
+firstPos -- r, index(non zero) -- 13
+secondPos -- g, index(non zero) -- 14
+Passed (Toboggan Rental) -- 289
+2 15 j jhhjnvgxzbjskjjj
+Count -- 6
+Passed (Sled Rental) -- 215
+firstPos -- h, index(non zero) -- 2
+secondPos -- j, index(non zero) -- 15
+Passed (Toboggan Rental) -- 290
+2 4 p ppghp
+Count -- 3
+Passed (Sled Rental) -- 216
+firstPos -- p, index(non zero) -- 2
+secondPos -- h, index(non zero) -- 4
+Passed (Toboggan Rental) -- 291
+4 5 s gjmsrksvqqssslss
+Count -- 7
+Failed (Sled Rental) -- 194
+firstPos -- s, index(non zero) -- 4
+secondPos -- r, index(non zero) -- 5
+Passed (Toboggan Rental) -- 292
+15 17 h hhhhhshhhhhhhhhhh
+Count -- 16
+Passed (Sled Rental) -- 217
+firstPos -- h, index(non zero) -- 15
+secondPos -- h, index(non zero) -- 17
+Failed (Toboggan Rental) -- 119
+3 5 c lcclm
+Count -- 2
+Failed (Sled Rental) -- 195
+firstPos -- c, index(non zero) -- 3
+secondPos -- m, index(non zero) -- 5
+Passed (Toboggan Rental) -- 293
+5 6 j gjnjgv
+Count -- 2
+Failed (Sled Rental) -- 196
+firstPos -- g, index(non zero) -- 5
+secondPos -- v, index(non zero) -- 6
+Failed (Toboggan Rental) -- 120
+9 10 z lzzzzzzrtdzqzz
+Count -- 9
+Passed (Sled Rental) -- 218
+firstPos -- t, index(non zero) -- 9
+secondPos -- d, index(non zero) -- 10
+Failed (Toboggan Rental) -- 121
+2 3 s qksnrsvvb
+Count -- 2
+Passed (Sled Rental) -- 219
+firstPos -- k, index(non zero) -- 2
+secondPos -- s, index(non zero) -- 3
+Passed (Toboggan Rental) -- 294
+5 11 d ddfvzdddkrgrddr
+Count -- 7
+Passed (Sled Rental) -- 220
+firstPos -- z, index(non zero) -- 5
+secondPos -- g, index(non zero) -- 11
+Failed (Toboggan Rental) -- 122
+15 18 v vtcvvlqsqvpkvvmvhv
+Count -- 8
+Failed (Sled Rental) -- 197
+firstPos -- m, index(non zero) -- 15
+secondPos -- v, index(non zero) -- 18
+Passed (Toboggan Rental) -- 295
+3 6 j kbgjshj
+Count -- 2
+Failed (Sled Rental) -- 198
+firstPos -- g, index(non zero) -- 3
+secondPos -- h, index(non zero) -- 6
+Failed (Toboggan Rental) -- 123
+1 4 r rrcrrrhltr
+Count -- 6
+Failed (Sled Rental) -- 199
+firstPos -- r, index(non zero) -- 1
+secondPos -- r, index(non zero) -- 4
+Failed (Toboggan Rental) -- 124
+3 4 q qvfq
+Count -- 2
+Failed (Sled Rental) -- 200
+firstPos -- f, index(non zero) -- 3
+secondPos -- q, index(non zero) -- 4
+Passed (Toboggan Rental) -- 296
+4 8 w mzwwswwttnxmkp
+Count -- 4
+Passed (Sled Rental) -- 221
+firstPos -- w, index(non zero) -- 4
+secondPos -- t, index(non zero) -- 8
+Passed (Toboggan Rental) -- 297
+2 3 b zblbsbncbk
+Count -- 4
+Failed (Sled Rental) -- 201
+firstPos -- b, index(non zero) -- 2
+secondPos -- l, index(non zero) -- 3
+Passed (Toboggan Rental) -- 298
+7 13 k tdksbkckckkjk
+Count -- 6
+Failed (Sled Rental) -- 202
+firstPos -- c, index(non zero) -- 7
+secondPos -- k, index(non zero) -- 13
+Passed (Toboggan Rental) -- 299
+8 9 h hmpzhxhkhmlhzhkqph
+Count -- 7
+Failed (Sled Rental) -- 203
+firstPos -- k, index(non zero) -- 8
+secondPos -- h, index(non zero) -- 9
+Passed (Toboggan Rental) -- 300
+3 9 p ctrjcknnrzpxklt
+Count -- 1
+Failed (Sled Rental) -- 204
+firstPos -- r, index(non zero) -- 3
+secondPos -- r, index(non zero) -- 9
+Failed (Toboggan Rental) -- 125
+1 3 d ddgd
+Count -- 3
+Passed (Sled Rental) -- 222
+firstPos -- d, index(non zero) -- 1
+secondPos -- g, index(non zero) -- 3
+Passed (Toboggan Rental) -- 301
+8 10 t xttttdttqs
+Count -- 6
+Failed (Sled Rental) -- 205
+firstPos -- t, index(non zero) -- 8
+secondPos -- s, index(non zero) -- 10
+Passed (Toboggan Rental) -- 302
+4 5 k bkkmk
+Count -- 3
+Failed (Sled Rental) -- 206
+firstPos -- m, index(non zero) -- 4
+secondPos -- k, index(non zero) -- 5
+Passed (Toboggan Rental) -- 303
+6 7 k kxtxkkcpbfb
+Count -- 3
+Failed (Sled Rental) -- 207
+firstPos -- k, index(non zero) -- 6
+secondPos -- c, index(non zero) -- 7
+Passed (Toboggan Rental) -- 304
+11 13 r znbhrsrrrdrrc
+Count -- 6
+Failed (Sled Rental) -- 208
+firstPos -- r, index(non zero) -- 11
+secondPos -- c, index(non zero) -- 13
+Passed (Toboggan Rental) -- 305
+14 16 x xxxxxdxxxxxqxlxx
+Count -- 13
+Failed (Sled Rental) -- 209
+firstPos -- l, index(non zero) -- 14
+secondPos -- x, index(non zero) -- 16
+Passed (Toboggan Rental) -- 306
+6 15 x hxlxxxxxxqpjtxwxxxxx
+Count -- 13
+Passed (Sled Rental) -- 223
+firstPos -- x, index(non zero) -- 6
+secondPos -- w, index(non zero) -- 15
+Passed (Toboggan Rental) -- 307
+8 16 l qlqwrlllphlllllxglll
+Count -- 12
+Passed (Sled Rental) -- 224
+firstPos -- l, index(non zero) -- 8
+secondPos -- x, index(non zero) -- 16
+Passed (Toboggan Rental) -- 308
+14 16 m mssmmfmwlqznhndh
+Count -- 4
+Failed (Sled Rental) -- 210
+firstPos -- n, index(non zero) -- 14
+secondPos -- h, index(non zero) -- 16
+Failed (Toboggan Rental) -- 126
+1 9 h hhchhhhhfhhsmhhhh
+Count -- 13
+Failed (Sled Rental) -- 211
+firstPos -- h, index(non zero) -- 1
+secondPos -- f, index(non zero) -- 9
+Passed (Toboggan Rental) -- 309
+6 9 b bbbbbbbbt
+Count -- 8
+Passed (Sled Rental) -- 225
+firstPos -- b, index(non zero) -- 6
+secondPos -- t, index(non zero) -- 9
+Passed (Toboggan Rental) -- 310
+5 6 r mrfrjr
+Count -- 3
+Failed (Sled Rental) -- 212
+firstPos -- j, index(non zero) -- 5
+secondPos -- r, index(non zero) -- 6
+Passed (Toboggan Rental) -- 311
+7 8 x nxxxlxlxbxx
+Count -- 7
+Passed (Sled Rental) -- 226
+firstPos -- l, index(non zero) -- 7
+secondPos -- x, index(non zero) -- 8
+Passed (Toboggan Rental) -- 312
+6 19 t tkhdtvtblvnlqbjsvct
+Count -- 4
+Failed (Sled Rental) -- 213
+firstPos -- v, index(non zero) -- 6
+secondPos -- t, index(non zero) -- 19
+Passed (Toboggan Rental) -- 313
+4 14 p vpnpntggdzctqpbrl
+Count -- 3
+Failed (Sled Rental) -- 214
+firstPos -- p, index(non zero) -- 4
+secondPos -- p, index(non zero) -- 14
+Failed (Toboggan Rental) -- 127
+9 11 n nnnbnnnnnhnn
+Count -- 10
+Passed (Sled Rental) -- 227
+firstPos -- n, index(non zero) -- 9
+secondPos -- n, index(non zero) -- 11
+Failed (Toboggan Rental) -- 128
+1 2 p whppppwpppppzpqppp
+Count -- 13
+Failed (Sled Rental) -- 215
+firstPos -- w, index(non zero) -- 1
+secondPos -- h, index(non zero) -- 2
+Failed (Toboggan Rental) -- 129
+2 3 m bbqxwvjxmnxh
+Count -- 1
+Failed (Sled Rental) -- 216
+firstPos -- b, index(non zero) -- 2
+secondPos -- q, index(non zero) -- 3
+Failed (Toboggan Rental) -- 130
+2 4 c nczcwqwkctzwl
+Count -- 3
+Passed (Sled Rental) -- 228
+firstPos -- c, index(non zero) -- 2
+secondPos -- c, index(non zero) -- 4
+Failed (Toboggan Rental) -- 131
+3 4 x xxxvxx
+Count -- 5
+Failed (Sled Rental) -- 217
+firstPos -- x, index(non zero) -- 3
+secondPos -- v, index(non zero) -- 4
+Passed (Toboggan Rental) -- 314
+10 13 w bzqgckszwwjtl
+Count -- 2
+Failed (Sled Rental) -- 218
+firstPos -- w, index(non zero) -- 10
+secondPos -- l, index(non zero) -- 13
+Passed (Toboggan Rental) -- 315
+6 9 g qhggzggjfjgghwrkfbg
+Count -- 7
+Passed (Sled Rental) -- 229
+firstPos -- g, index(non zero) -- 6
+secondPos -- f, index(non zero) -- 9
+Passed (Toboggan Rental) -- 316
+15 16 n nmnnnnncnnnnnnnkndn
+Count -- 15
+Passed (Sled Rental) -- 230
+firstPos -- n, index(non zero) -- 15
+secondPos -- k, index(non zero) -- 16
+Passed (Toboggan Rental) -- 317
+3 11 r frrrrrprrrgrrr
+Count -- 11
+Passed (Sled Rental) -- 231
+firstPos -- r, index(non zero) -- 3
+secondPos -- g, index(non zero) -- 11
+Passed (Toboggan Rental) -- 318
+6 7 p pppdppg
+Count -- 5
+Failed (Sled Rental) -- 219
+firstPos -- p, index(non zero) -- 6
+secondPos -- g, index(non zero) -- 7
+Passed (Toboggan Rental) -- 319
+3 8 s lzdthfbsfskk
+Count -- 2
+Failed (Sled Rental) -- 220
+firstPos -- d, index(non zero) -- 3
+secondPos -- s, index(non zero) -- 8
+Passed (Toboggan Rental) -- 320
+4 9 h bmrhdrzbhtmx
+Count -- 2
+Failed (Sled Rental) -- 221
+firstPos -- h, index(non zero) -- 4
+secondPos -- h, index(non zero) -- 9
+Failed (Toboggan Rental) -- 132
+10 11 m mmgtmmmmmgmmm
+Count -- 10
+Passed (Sled Rental) -- 232
+firstPos -- g, index(non zero) -- 10
+secondPos -- m, index(non zero) -- 11
+Passed (Toboggan Rental) -- 321
+7 8 k kkkkkfxkkkkkkkkbk
+Count -- 14
+Failed (Sled Rental) -- 222
+firstPos -- x, index(non zero) -- 7
+secondPos -- k, index(non zero) -- 8
+Passed (Toboggan Rental) -- 322
+3 5 n nnnnnn
+Count -- 6
+Failed (Sled Rental) -- 223
+firstPos -- n, index(non zero) -- 3
+secondPos -- n, index(non zero) -- 5
+Failed (Toboggan Rental) -- 133
+2 4 f sxxfbpshndbkkmwf
+Count -- 2
+Passed (Sled Rental) -- 233
+firstPos -- x, index(non zero) -- 2
+secondPos -- f, index(non zero) -- 4
+Passed (Toboggan Rental) -- 323
+12 13 p prpppppppppfppp
+Count -- 13
+Passed (Sled Rental) -- 234
+firstPos -- f, index(non zero) -- 12
+secondPos -- p, index(non zero) -- 13
+Passed (Toboggan Rental) -- 324
+2 3 f wtff
+Count -- 2
+Passed (Sled Rental) -- 235
+firstPos -- t, index(non zero) -- 2
+secondPos -- f, index(non zero) -- 3
+Passed (Toboggan Rental) -- 325
+2 4 m pdmmm
+Count -- 3
+Passed (Sled Rental) -- 236
+firstPos -- d, index(non zero) -- 2
+secondPos -- m, index(non zero) -- 4
+Passed (Toboggan Rental) -- 326
+2 3 d dddd
+Count -- 4
+Failed (Sled Rental) -- 224
+firstPos -- d, index(non zero) -- 2
+secondPos -- d, index(non zero) -- 3
+Failed (Toboggan Rental) -- 134
+10 11 m mmmmmmmmmqnmm
+Count -- 11
+Passed (Sled Rental) -- 237
+firstPos -- q, index(non zero) -- 10
+secondPos -- n, index(non zero) -- 11
+Failed (Toboggan Rental) -- 135
+1 3 w wpcwwnwkr
+Count -- 4
+Failed (Sled Rental) -- 225
+firstPos -- w, index(non zero) -- 1
+secondPos -- c, index(non zero) -- 3
+Passed (Toboggan Rental) -- 327
+1 5 q wqqqqqsqqqqqc
+Count -- 10
+Failed (Sled Rental) -- 226
+firstPos -- w, index(non zero) -- 1
+secondPos -- q, index(non zero) -- 5
+Passed (Toboggan Rental) -- 328
+1 4 h mrhhh
+Count -- 3
+Passed (Sled Rental) -- 238
+firstPos -- m, index(non zero) -- 1
+secondPos -- h, index(non zero) -- 4
+Passed (Toboggan Rental) -- 329
+4 6 w wxlwvwbhzwwkps
+Count -- 5
+Passed (Sled Rental) -- 239
+firstPos -- w, index(non zero) -- 4
+secondPos -- w, index(non zero) -- 6
+Failed (Toboggan Rental) -- 136
+7 8 z pnzgfkzhqfw
+Count -- 2
+Failed (Sled Rental) -- 227
+firstPos -- z, index(non zero) -- 7
+secondPos -- h, index(non zero) -- 8
+Passed (Toboggan Rental) -- 330
+1 3 z zzqz
+Count -- 3
+Passed (Sled Rental) -- 240
+firstPos -- z, index(non zero) -- 1
+secondPos -- q, index(non zero) -- 3
+Passed (Toboggan Rental) -- 331
+3 9 r rrmrrrrrrrrrr
+Count -- 12
+Failed (Sled Rental) -- 228
+firstPos -- m, index(non zero) -- 3
+secondPos -- r, index(non zero) -- 9
+Passed (Toboggan Rental) -- 332
+2 5 f ffffqffjn
+Count -- 6
+Failed (Sled Rental) -- 229
+firstPos -- f, index(non zero) -- 2
+secondPos -- q, index(non zero) -- 5
+Passed (Toboggan Rental) -- 333
+2 6 p rpqtkc
+Count -- 1
+Failed (Sled Rental) -- 230
+firstPos -- p, index(non zero) -- 2
+secondPos -- c, index(non zero) -- 6
+Passed (Toboggan Rental) -- 334
+1 3 s gsss
+Count -- 3
+Passed (Sled Rental) -- 241
+firstPos -- g, index(non zero) -- 1
+secondPos -- s, index(non zero) -- 3
+Passed (Toboggan Rental) -- 335
+3 5 t tkttttwtkjxlq
+Count -- 6
+Failed (Sled Rental) -- 231
+firstPos -- t, index(non zero) -- 3
+secondPos -- t, index(non zero) -- 5
+Failed (Toboggan Rental) -- 137
+5 7 w wkmwnpbw
+Count -- 3
+Failed (Sled Rental) -- 232
+firstPos -- n, index(non zero) -- 5
+secondPos -- b, index(non zero) -- 7
+Failed (Toboggan Rental) -- 138
+3 10 v vvnvxvcjvvzcvcvvtv
+Count -- 10
+Passed (Sled Rental) -- 242
+firstPos -- n, index(non zero) -- 3
+secondPos -- v, index(non zero) -- 10
+Passed (Toboggan Rental) -- 336
+1 3 v vvwvt
+Count -- 3
+Passed (Sled Rental) -- 243
+firstPos -- v, index(non zero) -- 1
+secondPos -- w, index(non zero) -- 3
+Passed (Toboggan Rental) -- 337
+2 15 t ttttttttttktttnttt
+Count -- 16
+Failed (Sled Rental) -- 233
+firstPos -- t, index(non zero) -- 2
+secondPos -- n, index(non zero) -- 15
+Passed (Toboggan Rental) -- 338
+15 17 w qrcfnqkflswwwlxwzwdl
+Count -- 5
+Failed (Sled Rental) -- 234
+firstPos -- x, index(non zero) -- 15
+secondPos -- z, index(non zero) -- 17
+Failed (Toboggan Rental) -- 139
+6 8 d sddvdjdmdmd
+Count -- 6
+Passed (Sled Rental) -- 244
+firstPos -- j, index(non zero) -- 6
+secondPos -- m, index(non zero) -- 8
+Failed (Toboggan Rental) -- 140
+1 3 p kppppppcp
+Count -- 7
+Failed (Sled Rental) -- 235
+firstPos -- k, index(non zero) -- 1
+secondPos -- p, index(non zero) -- 3
+Passed (Toboggan Rental) -- 339
+8 17 v mtrbwzbvzjvtmmzxw
+Count -- 2
+Failed (Sled Rental) -- 236
+firstPos -- v, index(non zero) -- 8
+secondPos -- w, index(non zero) -- 17
+Passed (Toboggan Rental) -- 340
+3 5 s mnsss
+Count -- 3
+Passed (Sled Rental) -- 245
+firstPos -- s, index(non zero) -- 3
+secondPos -- s, index(non zero) -- 5
+Failed (Toboggan Rental) -- 141
+1 9 b jbbbbbbbbbvlhbbb
+Count -- 12
+Failed (Sled Rental) -- 237
+firstPos -- j, index(non zero) -- 1
+secondPos -- b, index(non zero) -- 9
+Passed (Toboggan Rental) -- 341
+8 13 f fffffffffffdvfff
+Count -- 14
+Failed (Sled Rental) -- 238
+firstPos -- f, index(non zero) -- 8
+secondPos -- v, index(non zero) -- 13
+Passed (Toboggan Rental) -- 342
+11 12 f fffffffffffm
+Count -- 11
+Passed (Sled Rental) -- 246
+firstPos -- f, index(non zero) -- 11
+secondPos -- m, index(non zero) -- 12
+Passed (Toboggan Rental) -- 343
+1 4 z zznq
+Count -- 2
+Passed (Sled Rental) -- 247
+firstPos -- z, index(non zero) -- 1
+secondPos -- q, index(non zero) -- 4
+Passed (Toboggan Rental) -- 344
+10 12 t tttttttttttmtttrtt
+Count -- 16
+Failed (Sled Rental) -- 239
+firstPos -- t, index(non zero) -- 10
+secondPos -- m, index(non zero) -- 12
+Passed (Toboggan Rental) -- 345
+8 10 g gggggggxggvgpg
+Count -- 11
+Failed (Sled Rental) -- 240
+firstPos -- x, index(non zero) -- 8
+secondPos -- g, index(non zero) -- 10
+Passed (Toboggan Rental) -- 346
+8 9 d ddddddgdwrpdd
+Count -- 9
+Passed (Sled Rental) -- 248
+firstPos -- d, index(non zero) -- 8
+secondPos -- w, index(non zero) -- 9
+Passed (Toboggan Rental) -- 347
+9 10 b dfsbqbrbjbptrlxrbzf
+Count -- 5
+Failed (Sled Rental) -- 241
+firstPos -- j, index(non zero) -- 9
+secondPos -- b, index(non zero) -- 10
+Passed (Toboggan Rental) -- 348
+2 8 c hcczwkwcspccrcckc
+Count -- 8
+Passed (Sled Rental) -- 249
+firstPos -- c, index(non zero) -- 2
+secondPos -- c, index(non zero) -- 8
+Failed (Toboggan Rental) -- 142
+7 12 s rhmtjmsjhdsqpr
+Count -- 2
+Failed (Sled Rental) -- 242
+firstPos -- s, index(non zero) -- 7
+secondPos -- q, index(non zero) -- 12
+Passed (Toboggan Rental) -- 349
+9 14 q wqqqgqqqvgvhvqlqv
+Count -- 8
+Failed (Sled Rental) -- 243
+firstPos -- v, index(non zero) -- 9
+secondPos -- q, index(non zero) -- 14
+Passed (Toboggan Rental) -- 350
+4 6 s jbgnsss
+Count -- 3
+Failed (Sled Rental) -- 244
+firstPos -- n, index(non zero) -- 4
+secondPos -- s, index(non zero) -- 6
+Passed (Toboggan Rental) -- 351
+2 9 k jkjbktwdrdnn
+Count -- 2
+Passed (Sled Rental) -- 250
+firstPos -- k, index(non zero) -- 2
+secondPos -- r, index(non zero) -- 9
+Passed (Toboggan Rental) -- 352
+4 11 n nnnnnnnnnngnnnn
+Count -- 14
+Failed (Sled Rental) -- 245
+firstPos -- n, index(non zero) -- 4
+secondPos -- g, index(non zero) -- 11
+Passed (Toboggan Rental) -- 353
+11 12 j bswbpbkdjzkj
+Count -- 2
+Failed (Sled Rental) -- 246
+firstPos -- k, index(non zero) -- 11
+secondPos -- j, index(non zero) -- 12
+Passed (Toboggan Rental) -- 354
+3 4 j crjjqc
+Count -- 2
+Failed (Sled Rental) -- 247
+firstPos -- j, index(non zero) -- 3
+secondPos -- j, index(non zero) -- 4
+Failed (Toboggan Rental) -- 143
+7 8 g gggtzglg
+Count -- 5
+Failed (Sled Rental) -- 248
+firstPos -- l, index(non zero) -- 7
+secondPos -- g, index(non zero) -- 8
+Passed (Toboggan Rental) -- 355
+3 4 r gzdr
+Count -- 1
+Failed (Sled Rental) -- 249
+firstPos -- d, index(non zero) -- 3
+secondPos -- r, index(non zero) -- 4
+Passed (Toboggan Rental) -- 356
+4 5 h hpkhsrhshcht
+Count -- 5
+Passed (Sled Rental) -- 251
+firstPos -- h, index(non zero) -- 4
+secondPos -- s, index(non zero) -- 5
+Passed (Toboggan Rental) -- 357
+6 9 h mhhhhhhht
+Count -- 7
+Passed (Sled Rental) -- 252
+firstPos -- h, index(non zero) -- 6
+secondPos -- t, index(non zero) -- 9
+Passed (Toboggan Rental) -- 358
+4 9 l dxbqtftsl
+Count -- 1
+Failed (Sled Rental) -- 250
+firstPos -- q, index(non zero) -- 4
+secondPos -- l, index(non zero) -- 9
+Passed (Toboggan Rental) -- 359
+3 4 k qfkkkkn
+Count -- 4
+Passed (Sled Rental) -- 253
+firstPos -- k, index(non zero) -- 3
+secondPos -- k, index(non zero) -- 4
+Failed (Toboggan Rental) -- 144
+8 10 p jwhmxpppfhjhzdj
+Count -- 3
+Failed (Sled Rental) -- 251
+firstPos -- p, index(non zero) -- 8
+secondPos -- h, index(non zero) -- 10
+Passed (Toboggan Rental) -- 360
+6 7 g bgcgggh
+Count -- 4
+Failed (Sled Rental) -- 252
+firstPos -- g, index(non zero) -- 6
+secondPos -- h, index(non zero) -- 7
+Passed (Toboggan Rental) -- 361
+7 15 x zxxxvxxxmksxxxnxxrr
+Count -- 11
+Passed (Sled Rental) -- 254
+firstPos -- x, index(non zero) -- 7
+secondPos -- n, index(non zero) -- 15
+Passed (Toboggan Rental) -- 362
+4 5 v vvdpvnv
+Count -- 4
+Passed (Sled Rental) -- 255
+firstPos -- p, index(non zero) -- 4
+secondPos -- v, index(non zero) -- 5
+Passed (Toboggan Rental) -- 363
+5 9 l llrqhllcl
+Count -- 5
+Passed (Sled Rental) -- 256
+firstPos -- h, index(non zero) -- 5
+secondPos -- l, index(non zero) -- 9
+Passed (Toboggan Rental) -- 364
+4 5 q vqqqk
+Count -- 3
+Failed (Sled Rental) -- 253
+firstPos -- q, index(non zero) -- 4
+secondPos -- k, index(non zero) -- 5
+Passed (Toboggan Rental) -- 365
+11 13 d drddwqlddcdsddzzxb
+Count -- 8
+Failed (Sled Rental) -- 254
+firstPos -- d, index(non zero) -- 11
+secondPos -- d, index(non zero) -- 13
+Failed (Toboggan Rental) -- 145
+1 2 g gmdjg
+Count -- 2
+Passed (Sled Rental) -- 257
+firstPos -- g, index(non zero) -- 1
+secondPos -- m, index(non zero) -- 2
+Passed (Toboggan Rental) -- 366
+10 11 b bbbbbbbbbbmbbb
+Count -- 13
+Failed (Sled Rental) -- 255
+firstPos -- b, index(non zero) -- 10
+secondPos -- m, index(non zero) -- 11
+Passed (Toboggan Rental) -- 367
+9 16 d ddddddddtddddcddddd
+Count -- 17
+Failed (Sled Rental) -- 256
+firstPos -- t, index(non zero) -- 9
+secondPos -- d, index(non zero) -- 16
+Passed (Toboggan Rental) -- 368
+6 10 j jxjjrjmvwwjjsjjcth
+Count -- 8
+Passed (Sled Rental) -- 258
+firstPos -- j, index(non zero) -- 6
+secondPos -- w, index(non zero) -- 10
+Passed (Toboggan Rental) -- 369
+3 4 f fqnfdqt
+Count -- 2
+Failed (Sled Rental) -- 257
+firstPos -- n, index(non zero) -- 3
+secondPos -- f, index(non zero) -- 4
+Passed (Toboggan Rental) -- 370
+2 7 p mppmnpp
+Count -- 4
+Passed (Sled Rental) -- 259
+firstPos -- p, index(non zero) -- 2
+secondPos -- p, index(non zero) -- 7
+Failed (Toboggan Rental) -- 146
+3 5 z lzzzzzjz
+Count -- 6
+Failed (Sled Rental) -- 258
+firstPos -- z, index(non zero) -- 3
+secondPos -- z, index(non zero) -- 5
+Failed (Toboggan Rental) -- 147
+1 10 m msbjbgmmkw
+Count -- 3
+Passed (Sled Rental) -- 260
+firstPos -- m, index(non zero) -- 1
+secondPos -- w, index(non zero) -- 10
+Passed (Toboggan Rental) -- 371
+18 19 t lzttqtttkttttstjbtr
+Count -- 11
+Failed (Sled Rental) -- 259
+firstPos -- t, index(non zero) -- 18
+secondPos -- r, index(non zero) -- 19
+Passed (Toboggan Rental) -- 372
+1 2 b bkbzb
+Count -- 3
+Failed (Sled Rental) -- 260
+firstPos -- b, index(non zero) -- 1
+secondPos -- k, index(non zero) -- 2
+Passed (Toboggan Rental) -- 373
+2 11 v vgwrcfcszcvlwt
+Count -- 2
+Passed (Sled Rental) -- 261
+firstPos -- g, index(non zero) -- 2
+secondPos -- v, index(non zero) -- 11
+Passed (Toboggan Rental) -- 374
+3 4 z jzzx
+Count -- 2
+Failed (Sled Rental) -- 261
+firstPos -- z, index(non zero) -- 3
+secondPos -- x, index(non zero) -- 4
+Passed (Toboggan Rental) -- 375
+3 8 t ttttttkttfkt
+Count -- 9
+Failed (Sled Rental) -- 262
+firstPos -- t, index(non zero) -- 3
+secondPos -- t, index(non zero) -- 8
+Failed (Toboggan Rental) -- 148
+11 18 b vjhvwjbwcwbffmpbbr
+Count -- 4
+Failed (Sled Rental) -- 263
+firstPos -- b, index(non zero) -- 11
+secondPos -- r, index(non zero) -- 18
+Passed (Toboggan Rental) -- 376
+6 19 d kgwqcwbphdwwrddzkzd
+Count -- 4
+Failed (Sled Rental) -- 264
+firstPos -- w, index(non zero) -- 6
+secondPos -- d, index(non zero) -- 19
+Passed (Toboggan Rental) -- 377
+6 7 p pppbbcpm
+Count -- 4
+Failed (Sled Rental) -- 265
+firstPos -- c, index(non zero) -- 6
+secondPos -- p, index(non zero) -- 7
+Passed (Toboggan Rental) -- 378
+2 7 p ppdwknp
+Count -- 3
+Passed (Sled Rental) -- 262
+firstPos -- p, index(non zero) -- 2
+secondPos -- p, index(non zero) -- 7
+Failed (Toboggan Rental) -- 149
+4 8 t rjdtmftjgftwt
+Count -- 4
+Passed (Sled Rental) -- 263
+firstPos -- t, index(non zero) -- 4
+secondPos -- j, index(non zero) -- 8
+Passed (Toboggan Rental) -- 379
+3 7 l clljldl
+Count -- 4
+Passed (Sled Rental) -- 264
+firstPos -- l, index(non zero) -- 3
+secondPos -- l, index(non zero) -- 7
+Failed (Toboggan Rental) -- 150
+6 7 c qpcsczccccccmrh
+Count -- 8
+Failed (Sled Rental) -- 266
+firstPos -- z, index(non zero) -- 6
+secondPos -- c, index(non zero) -- 7
+Passed (Toboggan Rental) -- 380
+6 8 f fffffcsf
+Count -- 6
+Passed (Sled Rental) -- 265
+firstPos -- c, index(non zero) -- 6
+secondPos -- f, index(non zero) -- 8
+Passed (Toboggan Rental) -- 381
+10 14 v lvvlklxxvvsnvk
+Count -- 5
+Failed (Sled Rental) -- 267
+firstPos -- v, index(non zero) -- 10
+secondPos -- k, index(non zero) -- 14
+Passed (Toboggan Rental) -- 382
+10 11 f ffffffffffgf
+Count -- 11
+Passed (Sled Rental) -- 266
+firstPos -- f, index(non zero) -- 10
+secondPos -- g, index(non zero) -- 11
+Passed (Toboggan Rental) -- 383
+10 12 v vswclpclcqtvvrrzf
+Count -- 3
+Failed (Sled Rental) -- 268
+firstPos -- q, index(non zero) -- 10
+secondPos -- v, index(non zero) -- 12
+Passed (Toboggan Rental) -- 384
+6 8 g gjgggpggghsgggggg
+Count -- 13
+Failed (Sled Rental) -- 269
+firstPos -- p, index(non zero) -- 6
+secondPos -- g, index(non zero) -- 8
+Passed (Toboggan Rental) -- 385
+2 13 k kkkwckkckkkkvkkkk
+Count -- 13
+Passed (Sled Rental) -- 267
+firstPos -- k, index(non zero) -- 2
+secondPos -- v, index(non zero) -- 13
+Passed (Toboggan Rental) -- 386
+9 16 r jtrrrbqrnrpjrrshxc
+Count -- 7
+Failed (Sled Rental) -- 270
+firstPos -- n, index(non zero) -- 9
+secondPos -- h, index(non zero) -- 16
+Failed (Toboggan Rental) -- 151
+7 8 f pvmjhfhg
+Count -- 1
+Failed (Sled Rental) -- 271
+firstPos -- h, index(non zero) -- 7
+secondPos -- g, index(non zero) -- 8
+Failed (Toboggan Rental) -- 152
+7 8 d xdddddnddd
+Count -- 8
+Passed (Sled Rental) -- 268
+firstPos -- n, index(non zero) -- 7
+secondPos -- d, index(non zero) -- 8
+Passed (Toboggan Rental) -- 387
+2 4 r srxrrphrb
+Count -- 4
+Passed (Sled Rental) -- 269
+firstPos -- r, index(non zero) -- 2
+secondPos -- r, index(non zero) -- 4
+Failed (Toboggan Rental) -- 153
+2 3 v vvkgd
+Count -- 2
+Passed (Sled Rental) -- 270
+firstPos -- v, index(non zero) -- 2
+secondPos -- k, index(non zero) -- 3
+Passed (Toboggan Rental) -- 388
+2 5 z bzzzzhh
+Count -- 4
+Passed (Sled Rental) -- 271
+firstPos -- z, index(non zero) -- 2
+secondPos -- z, index(non zero) -- 5
+Failed (Toboggan Rental) -- 154
+11 16 h hnchhhhhhhghhhhh
+Count -- 13
+Passed (Sled Rental) -- 272
+firstPos -- g, index(non zero) -- 11
+secondPos -- h, index(non zero) -- 16
+Passed (Toboggan Rental) -- 389
+10 12 p pzppqppppppb
+Count -- 9
+Failed (Sled Rental) -- 272
+firstPos -- p, index(non zero) -- 10
+secondPos -- b, index(non zero) -- 12
+Passed (Toboggan Rental) -- 390
+13 14 p pppppppppppppkpppppp
+Count -- 19
+Failed (Sled Rental) -- 273
+firstPos -- p, index(non zero) -- 13
+secondPos -- k, index(non zero) -- 14
+Passed (Toboggan Rental) -- 391
+12 15 z zzzzzzpzzzzzzzfzzdz
+Count -- 16
+Failed (Sled Rental) -- 274
+firstPos -- z, index(non zero) -- 12
+secondPos -- f, index(non zero) -- 15
+Passed (Toboggan Rental) -- 392
+9 10 z zzzzzzzzpz
+Count -- 9
+Passed (Sled Rental) -- 273
+firstPos -- p, index(non zero) -- 9
+secondPos -- z, index(non zero) -- 10
+Passed (Toboggan Rental) -- 393
+4 9 j wfjjntmjxpdq
+Count -- 3
+Failed (Sled Rental) -- 275
+firstPos -- j, index(non zero) -- 4
+secondPos -- x, index(non zero) -- 9
+Passed (Toboggan Rental) -- 394
+9 11 t tklpbmlntjs
+Count -- 2
+Failed (Sled Rental) -- 276
+firstPos -- t, index(non zero) -- 9
+secondPos -- s, index(non zero) -- 11
+Passed (Toboggan Rental) -- 395
+3 15 m qmxmwjmmjgmsmwmz
+Count -- 7
+Passed (Sled Rental) -- 274
+firstPos -- x, index(non zero) -- 3
+secondPos -- m, index(non zero) -- 15
+Passed (Toboggan Rental) -- 396
+2 3 g hgggp
+Count -- 3
+Passed (Sled Rental) -- 275
+firstPos -- g, index(non zero) -- 2
+secondPos -- g, index(non zero) -- 3
+Failed (Toboggan Rental) -- 155
+1 8 d ldddddldfddd
+Count -- 9
+Failed (Sled Rental) -- 277
+firstPos -- l, index(non zero) -- 1
+secondPos -- d, index(non zero) -- 8
+Passed (Toboggan Rental) -- 397
+7 10 t ttcttttztw
+Count -- 7
+Passed (Sled Rental) -- 276
+firstPos -- t, index(non zero) -- 7
+secondPos -- w, index(non zero) -- 10
+Passed (Toboggan Rental) -- 398
+6 8 n nwcjdgbnmnndltr
+Count -- 4
+Failed (Sled Rental) -- 278
+firstPos -- g, index(non zero) -- 6
+secondPos -- n, index(non zero) -- 8
+Passed (Toboggan Rental) -- 399
+11 12 t ttttqqtttnhttvttt
+Count -- 12
+Passed (Sled Rental) -- 277
+firstPos -- h, index(non zero) -- 11
+secondPos -- t, index(non zero) -- 12
+Passed (Toboggan Rental) -- 400
+6 11 r rnrhrrrrrrcgtr
+Count -- 9
+Passed (Sled Rental) -- 278
+firstPos -- r, index(non zero) -- 6
+secondPos -- c, index(non zero) -- 11
+Passed (Toboggan Rental) -- 401
+10 12 l rlllrxwljlwtzl
+Count -- 6
+Failed (Sled Rental) -- 279
+firstPos -- l, index(non zero) -- 10
+secondPos -- t, index(non zero) -- 12
+Passed (Toboggan Rental) -- 402
+18 19 m mmmmwmmmmmmmmmmmmnmm
+Count -- 18
+Passed (Sled Rental) -- 279
+firstPos -- n, index(non zero) -- 18
+secondPos -- m, index(non zero) -- 19
+Passed (Toboggan Rental) -- 403
+7 8 v fsvvvdvkvnvgwvvv
+Count -- 9
+Failed (Sled Rental) -- 280
+firstPos -- v, index(non zero) -- 7
+secondPos -- k, index(non zero) -- 8
+Passed (Toboggan Rental) -- 404
+16 17 m mmmmmdmmmmmmmmcsmmm
+Count -- 16
+Passed (Sled Rental) -- 280
+firstPos -- s, index(non zero) -- 16
+secondPos -- m, index(non zero) -- 17
+Passed (Toboggan Rental) -- 405
+7 8 p pppppwpfb
+Count -- 6
+Failed (Sled Rental) -- 281
+firstPos -- p, index(non zero) -- 7
+secondPos -- f, index(non zero) -- 8
+Passed (Toboggan Rental) -- 406
+5 8 j vtjcsjjcjlj
+Count -- 5
+Passed (Sled Rental) -- 281
+firstPos -- s, index(non zero) -- 5
+secondPos -- c, index(non zero) -- 8
+Failed (Toboggan Rental) -- 156
+6 11 t ttttttttgmqttt
+Count -- 11
+Passed (Sled Rental) -- 282
+firstPos -- t, index(non zero) -- 6
+secondPos -- q, index(non zero) -- 11
+Passed (Toboggan Rental) -- 407
+4 13 t vkmtvvqxclcpmtrpl
+Count -- 2
+Failed (Sled Rental) -- 282
+firstPos -- t, index(non zero) -- 4
+secondPos -- m, index(non zero) -- 13
+Passed (Toboggan Rental) -- 408
+1 9 s dsssssssds
+Count -- 8
+Passed (Sled Rental) -- 283
+firstPos -- d, index(non zero) -- 1
+secondPos -- d, index(non zero) -- 9
+Failed (Toboggan Rental) -- 157
+5 6 d dddddpdt
+Count -- 6
+Passed (Sled Rental) -- 284
+firstPos -- d, index(non zero) -- 5
+secondPos -- p, index(non zero) -- 6
+Passed (Toboggan Rental) -- 409
+1 9 p pppppppptppp
+Count -- 11
+Failed (Sled Rental) -- 283
+firstPos -- p, index(non zero) -- 1
+secondPos -- t, index(non zero) -- 9
+Passed (Toboggan Rental) -- 410
+15 16 f pqfjqfdpfxcvwbnf
+Count -- 4
+Failed (Sled Rental) -- 284
+firstPos -- n, index(non zero) -- 15
+secondPos -- f, index(non zero) -- 16
+Passed (Toboggan Rental) -- 411
+5 6 d tcgdwd
+Count -- 2
+Failed (Sled Rental) -- 285
+firstPos -- w, index(non zero) -- 5
+secondPos -- d, index(non zero) -- 6
+Passed (Toboggan Rental) -- 412
+3 11 f tpfqgzkfrvqrjfhrrf
+Count -- 4
+Passed (Sled Rental) -- 285
+firstPos -- f, index(non zero) -- 3
+secondPos -- q, index(non zero) -- 11
+Passed (Toboggan Rental) -- 413
+1 3 t ttltt
+Count -- 4
+Failed (Sled Rental) -- 286
+firstPos -- t, index(non zero) -- 1
+secondPos -- l, index(non zero) -- 3
+Passed (Toboggan Rental) -- 414
+11 12 q pqlqjqcwjqqv
+Count -- 5
+Failed (Sled Rental) -- 287
+firstPos -- q, index(non zero) -- 11
+secondPos -- v, index(non zero) -- 12
+Passed (Toboggan Rental) -- 415
+1 8 f vqtdxgsfkjmncxdkqdfb
+Count -- 2
+Passed (Sled Rental) -- 286
+firstPos -- v, index(non zero) -- 1
+secondPos -- f, index(non zero) -- 8
+Passed (Toboggan Rental) -- 416
+4 5 n nnnnnn
+Count -- 6
+Failed (Sled Rental) -- 288
+firstPos -- n, index(non zero) -- 4
+secondPos -- n, index(non zero) -- 5
+Failed (Toboggan Rental) -- 158
+9 10 g jgggfgqglgghxgg
+Count -- 9
+Passed (Sled Rental) -- 287
+firstPos -- l, index(non zero) -- 9
+secondPos -- g, index(non zero) -- 10
+Passed (Toboggan Rental) -- 417
+7 12 x xdxxkcxcxxxm
+Count -- 7
+Passed (Sled Rental) -- 288
+firstPos -- x, index(non zero) -- 7
+secondPos -- m, index(non zero) -- 12
+Passed (Toboggan Rental) -- 418
+5 13 f fdglsggrwpmxfnm
+Count -- 2
+Failed (Sled Rental) -- 289
+firstPos -- s, index(non zero) -- 5
+secondPos -- f, index(non zero) -- 13
+Passed (Toboggan Rental) -- 419
+1 11 x wxxxxxxxxxgx
+Count -- 10
+Passed (Sled Rental) -- 289
+firstPos -- w, index(non zero) -- 1
+secondPos -- g, index(non zero) -- 11
+Failed (Toboggan Rental) -- 159
+13 15 d dddbdkwdldzdddd
+Count -- 10
+Failed (Sled Rental) -- 290
+firstPos -- d, index(non zero) -- 13
+secondPos -- d, index(non zero) -- 15
+Failed (Toboggan Rental) -- 160
+5 10 g cpgggccpvkzggzgbgtgg
+Count -- 9
+Passed (Sled Rental) -- 290
+firstPos -- g, index(non zero) -- 5
+secondPos -- k, index(non zero) -- 10
+Passed (Toboggan Rental) -- 420
+1 4 w wwzvq
+Count -- 2
+Passed (Sled Rental) -- 291
+firstPos -- w, index(non zero) -- 1
+secondPos -- v, index(non zero) -- 4
+Passed (Toboggan Rental) -- 421
+3 13 h zzhnhnjhhkplhhwph
+Count -- 7
+Passed (Sled Rental) -- 292
+firstPos -- h, index(non zero) -- 3
+secondPos -- h, index(non zero) -- 13
+Failed (Toboggan Rental) -- 161
+4 6 f fffkfff
+Count -- 6
+Passed (Sled Rental) -- 293
+firstPos -- k, index(non zero) -- 4
+secondPos -- f, index(non zero) -- 6
+Passed (Toboggan Rental) -- 422
+6 7 v vvvvvvdv
+Count -- 7
+Passed (Sled Rental) -- 294
+firstPos -- v, index(non zero) -- 6
+secondPos -- d, index(non zero) -- 7
+Passed (Toboggan Rental) -- 423
+3 4 v ktvttmvsc
+Count -- 2
+Failed (Sled Rental) -- 291
+firstPos -- v, index(non zero) -- 3
+secondPos -- t, index(non zero) -- 4
+Passed (Toboggan Rental) -- 424
+11 13 c cccccccccctccccccc
+Count -- 17
+Failed (Sled Rental) -- 292
+firstPos -- t, index(non zero) -- 11
+secondPos -- c, index(non zero) -- 13
+Passed (Toboggan Rental) -- 425
+15 18 j jjjjjjjjjrjjjjxjjvj
+Count -- 16
+Passed (Sled Rental) -- 295
+firstPos -- x, index(non zero) -- 15
+secondPos -- v, index(non zero) -- 18
+Failed (Toboggan Rental) -- 162
+5 13 v vvvqzvvvvvvvvvvv
+Count -- 14
+Failed (Sled Rental) -- 293
+firstPos -- z, index(non zero) -- 5
+secondPos -- v, index(non zero) -- 13
+Passed (Toboggan Rental) -- 426
+5 17 q szncqqqlmcspmcbgqhq
+Count -- 5
+Passed (Sled Rental) -- 296
+firstPos -- q, index(non zero) -- 5
+secondPos -- q, index(non zero) -- 17
+Failed (Toboggan Rental) -- 163
+2 7 s tsrnhjslffbsv
+Count -- 3
+Passed (Sled Rental) -- 297
+firstPos -- s, index(non zero) -- 2
+secondPos -- s, index(non zero) -- 7
+Failed (Toboggan Rental) -- 164
+13 17 b vvbhmbmlzsqbwbpkb
+Count -- 5
+Failed (Sled Rental) -- 294
+firstPos -- w, index(non zero) -- 13
+secondPos -- b, index(non zero) -- 17
+Passed (Toboggan Rental) -- 427
+16 19 f nftvgftdfdrffjtfgvf
+Count -- 7
+Failed (Sled Rental) -- 295
+firstPos -- f, index(non zero) -- 16
+secondPos -- f, index(non zero) -- 19
+Failed (Toboggan Rental) -- 165
+15 20 n nnmnnsnnlnnncnnnnncn
+Count -- 15
+Passed (Sled Rental) -- 298
+firstPos -- n, index(non zero) -- 15
+secondPos -- n, index(non zero) -- 20
+Failed (Toboggan Rental) -- 166
+18 19 f fffffffffffffffffkf
+Count -- 18
+Passed (Sled Rental) -- 299
+firstPos -- k, index(non zero) -- 18
+secondPos -- f, index(non zero) -- 19
+Passed (Toboggan Rental) -- 428
+3 5 b bhnbbm
+Count -- 3
+Passed (Sled Rental) -- 300
+firstPos -- n, index(non zero) -- 3
+secondPos -- b, index(non zero) -- 5
+Passed (Toboggan Rental) -- 429
+1 6 j jbjjwjjjjjj
+Count -- 9
+Failed (Sled Rental) -- 296
+firstPos -- j, index(non zero) -- 1
+secondPos -- j, index(non zero) -- 6
+Failed (Toboggan Rental) -- 167
+3 8 h hhhhhhhlhh
+Count -- 9
+Failed (Sled Rental) -- 297
+firstPos -- h, index(non zero) -- 3
+secondPos -- l, index(non zero) -- 8
+Passed (Toboggan Rental) -- 430
+13 16 k hkxtvdkgpkpkkcfdtkr
+Count -- 6
+Failed (Sled Rental) -- 298
+firstPos -- k, index(non zero) -- 13
+secondPos -- d, index(non zero) -- 16
+Passed (Toboggan Rental) -- 431
+12 13 q qqqqqqqqqqqjq
+Count -- 12
+Passed (Sled Rental) -- 301
+firstPos -- j, index(non zero) -- 12
+secondPos -- q, index(non zero) -- 13
+Passed (Toboggan Rental) -- 432
+2 3 g ggkgggg
+Count -- 6
+Failed (Sled Rental) -- 299
+firstPos -- g, index(non zero) -- 2
+secondPos -- k, index(non zero) -- 3
+Passed (Toboggan Rental) -- 433
+11 13 c xcdxpcnzcsckl
+Count -- 4
+Failed (Sled Rental) -- 300
+firstPos -- c, index(non zero) -- 11
+secondPos -- l, index(non zero) -- 13
+Passed (Toboggan Rental) -- 434
+2 11 l xlbsbrrnlllpl
+Count -- 5
+Passed (Sled Rental) -- 302
+firstPos -- l, index(non zero) -- 2
+secondPos -- l, index(non zero) -- 11
+Failed (Toboggan Rental) -- 168
+3 4 l llml
+Count -- 3
+Passed (Sled Rental) -- 303
+firstPos -- m, index(non zero) -- 3
+secondPos -- l, index(non zero) -- 4
+Passed (Toboggan Rental) -- 435
+2 7 c wscrkcvncc
+Count -- 4
+Passed (Sled Rental) -- 304
+firstPos -- s, index(non zero) -- 2
+secondPos -- v, index(non zero) -- 7
+Failed (Toboggan Rental) -- 169
+9 12 k dlwkkrhfhkkkkbvfrw
+Count -- 6
+Failed (Sled Rental) -- 301
+firstPos -- h, index(non zero) -- 9
+secondPos -- k, index(non zero) -- 12
+Passed (Toboggan Rental) -- 436
+8 14 w xggjtvwbxccdqww
+Count -- 3
+Failed (Sled Rental) -- 302
+firstPos -- b, index(non zero) -- 8
+secondPos -- w, index(non zero) -- 14
+Passed (Toboggan Rental) -- 437
+2 4 w lcswnmwsprkhg
+Count -- 2
+Passed (Sled Rental) -- 305
+firstPos -- c, index(non zero) -- 2
+secondPos -- w, index(non zero) -- 4
+Passed (Toboggan Rental) -- 438
+12 13 b btfpmbbbsxzbb
+Count -- 6
+Failed (Sled Rental) -- 303
+firstPos -- b, index(non zero) -- 12
+secondPos -- b, index(non zero) -- 13
+Failed (Toboggan Rental) -- 170
+10 12 p ppjppppvpppqpp
+Count -- 11
+Passed (Sled Rental) -- 306
+firstPos -- p, index(non zero) -- 10
+secondPos -- q, index(non zero) -- 12
+Passed (Toboggan Rental) -- 439
+7 8 r rrwvcglg
+Count -- 2
+Failed (Sled Rental) -- 304
+firstPos -- l, index(non zero) -- 7
+secondPos -- g, index(non zero) -- 8
+Failed (Toboggan Rental) -- 171
+7 19 p pmrhpppppppsppppjspp
+Count -- 14
+Passed (Sled Rental) -- 307
+firstPos -- p, index(non zero) -- 7
+secondPos -- p, index(non zero) -- 19
+Failed (Toboggan Rental) -- 172
+2 4 l xllxb
+Count -- 2
+Passed (Sled Rental) -- 308
+firstPos -- l, index(non zero) -- 2
+secondPos -- x, index(non zero) -- 4
+Passed (Toboggan Rental) -- 440
+6 15 k ktknghkkstkkjkkx
+Count -- 8
+Passed (Sled Rental) -- 309
+firstPos -- h, index(non zero) -- 6
+secondPos -- k, index(non zero) -- 15
+Passed (Toboggan Rental) -- 441
+3 4 p pppq
+Count -- 3
+Passed (Sled Rental) -- 310
+firstPos -- p, index(non zero) -- 3
+secondPos -- q, index(non zero) -- 4
+Passed (Toboggan Rental) -- 442
+5 6 g svmgpgcvbjh
+Count -- 2
+Failed (Sled Rental) -- 305
+firstPos -- p, index(non zero) -- 5
+secondPos -- g, index(non zero) -- 6
+Passed (Toboggan Rental) -- 443
+4 5 n svnnnrnpn
+Count -- 5
+Passed (Sled Rental) -- 311
+firstPos -- n, index(non zero) -- 4
+secondPos -- n, index(non zero) -- 5
+Failed (Toboggan Rental) -- 173
+5 7 b vsbgpjl
+Count -- 1
+Failed (Sled Rental) -- 306
+firstPos -- p, index(non zero) -- 5
+secondPos -- l, index(non zero) -- 7
+Failed (Toboggan Rental) -- 174
+4 7 m mmsmmmnhmmmm
+Count -- 9
+Failed (Sled Rental) -- 307
+firstPos -- m, index(non zero) -- 4
+secondPos -- n, index(non zero) -- 7
+Passed (Toboggan Rental) -- 444
+5 7 t lvdxtpx
+Count -- 1
+Failed (Sled Rental) -- 308
+firstPos -- t, index(non zero) -- 5
+secondPos -- x, index(non zero) -- 7
+Passed (Toboggan Rental) -- 445
+5 10 k sxkkgrkkqt
+Count -- 4
+Failed (Sled Rental) -- 309
+firstPos -- g, index(non zero) -- 5
+secondPos -- t, index(non zero) -- 10
+Failed (Toboggan Rental) -- 175
+7 10 k sskkqxzhkkpzkkvhkkb
+Count -- 8
+Passed (Sled Rental) -- 312
+firstPos -- z, index(non zero) -- 7
+secondPos -- k, index(non zero) -- 10
+Passed (Toboggan Rental) -- 446
+7 13 s zskccbtsbssdctlmvsss
+Count -- 7
+Passed (Sled Rental) -- 313
+firstPos -- t, index(non zero) -- 7
+secondPos -- c, index(non zero) -- 13
+Failed (Toboggan Rental) -- 176
+7 8 r lrsrrrscr
+Count -- 5
+Failed (Sled Rental) -- 310
+firstPos -- s, index(non zero) -- 7
+secondPos -- c, index(non zero) -- 8
+Failed (Toboggan Rental) -- 177
+7 13 p ppfppvpppmppdppvfpg
+Count -- 12
+Passed (Sled Rental) -- 314
+firstPos -- p, index(non zero) -- 7
+secondPos -- d, index(non zero) -- 13
+Passed (Toboggan Rental) -- 447
+7 8 d ddddhhjd
+Count -- 5
+Failed (Sled Rental) -- 311
+firstPos -- j, index(non zero) -- 7
+secondPos -- d, index(non zero) -- 8
+Passed (Toboggan Rental) -- 448
+2 5 r thbkr
+Count -- 1
+Failed (Sled Rental) -- 312
+firstPos -- h, index(non zero) -- 2
+secondPos -- r, index(non zero) -- 5
+Passed (Toboggan Rental) -- 449
+2 4 k kkkkk
+Count -- 5
+Failed (Sled Rental) -- 313
+firstPos -- k, index(non zero) -- 2
+secondPos -- k, index(non zero) -- 4
+Failed (Toboggan Rental) -- 178
+5 11 x xxxxzxxxxxx
+Count -- 10
+Passed (Sled Rental) -- 315
+firstPos -- z, index(non zero) -- 5
+secondPos -- x, index(non zero) -- 11
+Passed (Toboggan Rental) -- 450
+7 8 v zbcfxnlv
+Count -- 1
+Failed (Sled Rental) -- 314
+firstPos -- l, index(non zero) -- 7
+secondPos -- v, index(non zero) -- 8
+Passed (Toboggan Rental) -- 451
+3 5 w nmwvjw
+Count -- 2
+Failed (Sled Rental) -- 315
+firstPos -- w, index(non zero) -- 3
+secondPos -- j, index(non zero) -- 5
+Passed (Toboggan Rental) -- 452
+1 10 h fqhqhhhhhhhhhhzh
+Count -- 12
+Failed (Sled Rental) -- 316
+firstPos -- f, index(non zero) -- 1
+secondPos -- h, index(non zero) -- 10
+Passed (Toboggan Rental) -- 453
+15 17 j jjjjjjpjjjjjjjljj
+Count -- 15
+Passed (Sled Rental) -- 316
+firstPos -- l, index(non zero) -- 15
+secondPos -- j, index(non zero) -- 17
+Passed (Toboggan Rental) -- 454
+11 12 f ffffffqmffmfff
+Count -- 11
+Passed (Sled Rental) -- 317
+firstPos -- m, index(non zero) -- 11
+secondPos -- f, index(non zero) -- 12
+Passed (Toboggan Rental) -- 455
+5 7 p ppppmpp
+Count -- 6
+Passed (Sled Rental) -- 318
+firstPos -- m, index(non zero) -- 5
+secondPos -- p, index(non zero) -- 7
+Passed (Toboggan Rental) -- 456
+6 11 n nnnvkjrqwnwn
+Count -- 5
+Failed (Sled Rental) -- 317
+firstPos -- j, index(non zero) -- 6
+secondPos -- w, index(non zero) -- 11
+Failed (Toboggan Rental) -- 179
+1 4 n nnnccb
+Count -- 3
+Passed (Sled Rental) -- 319
+firstPos -- n, index(non zero) -- 1
+secondPos -- c, index(non zero) -- 4
+Passed (Toboggan Rental) -- 457
+3 5 t tnkttwbttchst
+Count -- 6
+Failed (Sled Rental) -- 318
+firstPos -- k, index(non zero) -- 3
+secondPos -- t, index(non zero) -- 5
+Passed (Toboggan Rental) -- 458
+4 5 v nvdpvtrvt
+Count -- 3
+Failed (Sled Rental) -- 319
+firstPos -- p, index(non zero) -- 4
+secondPos -- v, index(non zero) -- 5
+Passed (Toboggan Rental) -- 459
+12 14 d dddddddddbddddrd
+Count -- 14
+Passed (Sled Rental) -- 320
+firstPos -- d, index(non zero) -- 12
+secondPos -- d, index(non zero) -- 14
+Failed (Toboggan Rental) -- 180
+2 8 l clvlhdxtqqzdsd
+Count -- 2
+Passed (Sled Rental) -- 321
+firstPos -- l, index(non zero) -- 2
+secondPos -- t, index(non zero) -- 8
+Passed (Toboggan Rental) -- 460
+9 12 z bzzkzzrzzzzhz
+Count -- 9
+Passed (Sled Rental) -- 322
+firstPos -- z, index(non zero) -- 9
+secondPos -- h, index(non zero) -- 12
+Passed (Toboggan Rental) -- 461
+3 4 p jpqlkgl
+Count -- 1
+Failed (Sled Rental) -- 320
+firstPos -- q, index(non zero) -- 3
+secondPos -- l, index(non zero) -- 4
+Failed (Toboggan Rental) -- 181
+4 5 j jjjjp
+Count -- 4
+Passed (Sled Rental) -- 323
+firstPos -- j, index(non zero) -- 4
+secondPos -- p, index(non zero) -- 5
+Passed (Toboggan Rental) -- 462
+2 8 f vfnnlxfrll
+Count -- 2
+Passed (Sled Rental) -- 324
+firstPos -- f, index(non zero) -- 2
+secondPos -- r, index(non zero) -- 8
+Passed (Toboggan Rental) -- 463
+8 11 p ppqppppwpplpp
+Count -- 10
+Passed (Sled Rental) -- 325
+firstPos -- w, index(non zero) -- 8
+secondPos -- l, index(non zero) -- 11
+Failed (Toboggan Rental) -- 182
+9 11 k kkkkkkkkkkk
+Count -- 11
+Passed (Sled Rental) -- 326
+firstPos -- k, index(non zero) -- 9
+secondPos -- k, index(non zero) -- 11
+Failed (Toboggan Rental) -- 183
+3 4 l lkjl
+Count -- 2
+Failed (Sled Rental) -- 321
+firstPos -- j, index(non zero) -- 3
+secondPos -- l, index(non zero) -- 4
+Passed (Toboggan Rental) -- 464
+1 2 q qnccf
+Count -- 1
+Passed (Sled Rental) -- 327
+firstPos -- q, index(non zero) -- 1
+secondPos -- n, index(non zero) -- 2
+Passed (Toboggan Rental) -- 465
+3 5 x wxkxzxcjk
+Count -- 3
+Passed (Sled Rental) -- 328
+firstPos -- k, index(non zero) -- 3
+secondPos -- z, index(non zero) -- 5
+Failed (Toboggan Rental) -- 184
+13 14 g rzwvvthgrlfjgd
+Count -- 2
+Failed (Sled Rental) -- 322
+firstPos -- g, index(non zero) -- 13
+secondPos -- d, index(non zero) -- 14
+Passed (Toboggan Rental) -- 466
+16 18 d dfdldddddddddddhddd
+Count -- 16
+Passed (Sled Rental) -- 329
+firstPos -- h, index(non zero) -- 16
+secondPos -- d, index(non zero) -- 18
+Passed (Toboggan Rental) -- 467
+12 16 s sssdssqdrsssssss
+Count -- 12
+Passed (Sled Rental) -- 330
+firstPos -- s, index(non zero) -- 12
+secondPos -- s, index(non zero) -- 16
+Failed (Toboggan Rental) -- 185
+1 7 k kdkkwkkvk
+Count -- 6
+Passed (Sled Rental) -- 331
+firstPos -- k, index(non zero) -- 1
+secondPos -- k, index(non zero) -- 7
+Failed (Toboggan Rental) -- 186
+4 6 l mvrlllzn
+Count -- 3
+Failed (Sled Rental) -- 323
+firstPos -- l, index(non zero) -- 4
+secondPos -- l, index(non zero) -- 6
+Failed (Toboggan Rental) -- 187
+5 7 l lwdhgzl
+Count -- 2
+Failed (Sled Rental) -- 324
+firstPos -- g, index(non zero) -- 5
+secondPos -- l, index(non zero) -- 7
+Passed (Toboggan Rental) -- 468
+4 11 h dvhhjdhhjkhbcbhb
+Count -- 6
+Passed (Sled Rental) -- 332
+firstPos -- h, index(non zero) -- 4
+secondPos -- h, index(non zero) -- 11
+Failed (Toboggan Rental) -- 188
+15 17 p sppppppppvppppppn
+Count -- 14
+Failed (Sled Rental) -- 325
+firstPos -- p, index(non zero) -- 15
+secondPos -- n, index(non zero) -- 17
+Passed (Toboggan Rental) -- 469
+1 3 c cccc
+Count -- 4
+Failed (Sled Rental) -- 326
+firstPos -- c, index(non zero) -- 1
+secondPos -- c, index(non zero) -- 3
+Failed (Toboggan Rental) -- 189
+4 5 r pdrbrfbnvbrgwxtwstlj
+Count -- 3
+Failed (Sled Rental) -- 327
+firstPos -- b, index(non zero) -- 4
+secondPos -- r, index(non zero) -- 5
+Passed (Toboggan Rental) -- 470
+16 18 p pnpphvpppwppknpxpp
+Count -- 11
+Failed (Sled Rental) -- 328
+firstPos -- x, index(non zero) -- 16
+secondPos -- p, index(non zero) -- 18
+Passed (Toboggan Rental) -- 471
+1 8 p zppppppbp
+Count -- 7
+Passed (Sled Rental) -- 333
+firstPos -- z, index(non zero) -- 1
+secondPos -- b, index(non zero) -- 8
+Failed (Toboggan Rental) -- 190
+1 2 k xckk
+Count -- 2
+Passed (Sled Rental) -- 334
+firstPos -- x, index(non zero) -- 1
+secondPos -- c, index(non zero) -- 2
+Failed (Toboggan Rental) -- 191
+1 4 d dddgd
+Count -- 4
+Passed (Sled Rental) -- 335
+firstPos -- d, index(non zero) -- 1
+secondPos -- g, index(non zero) -- 4
+Passed (Toboggan Rental) -- 472
+16 17 p ppppppppppppppppf
+Count -- 16
+Passed (Sled Rental) -- 336
+firstPos -- p, index(non zero) -- 16
+secondPos -- f, index(non zero) -- 17
+Passed (Toboggan Rental) -- 473
+3 4 v vqmv
+Count -- 2
+Failed (Sled Rental) -- 329
+firstPos -- m, index(non zero) -- 3
+secondPos -- v, index(non zero) -- 4
+Passed (Toboggan Rental) -- 474
+4 5 n ncknqlwnrnjn
+Count -- 5
+Passed (Sled Rental) -- 337
+firstPos -- n, index(non zero) -- 4
+secondPos -- q, index(non zero) -- 5
+Passed (Toboggan Rental) -- 475
+8 9 t tttttttpt
+Count -- 8
+Passed (Sled Rental) -- 338
+firstPos -- p, index(non zero) -- 8
+secondPos -- t, index(non zero) -- 9
+Passed (Toboggan Rental) -- 476
+3 6 m bfpvxmtzmw
+Count -- 2
+Failed (Sled Rental) -- 330
+firstPos -- p, index(non zero) -- 3
+secondPos -- m, index(non zero) -- 6
+Passed (Toboggan Rental) -- 477
+1 7 g qgggjggggggg
+Count -- 10
+Failed (Sled Rental) -- 331
+firstPos -- q, index(non zero) -- 1
+secondPos -- g, index(non zero) -- 7
+Passed (Toboggan Rental) -- 478
+2 4 j nwwjrmckjjg
+Count -- 3
+Passed (Sled Rental) -- 339
+firstPos -- w, index(non zero) -- 2
+secondPos -- j, index(non zero) -- 4
+Passed (Toboggan Rental) -- 479
+6 8 d hdcjwgddpwhkt
+Count -- 3
+Failed (Sled Rental) -- 332
+firstPos -- g, index(non zero) -- 6
+secondPos -- d, index(non zero) -- 8
+Passed (Toboggan Rental) -- 480
+6 13 r rrkrrrrrrrrrjrr
+Count -- 13
+Passed (Sled Rental) -- 340
+firstPos -- r, index(non zero) -- 6
+secondPos -- j, index(non zero) -- 13
+Passed (Toboggan Rental) -- 481
+13 14 n nnznsnnnnhnnnnnnn
+Count -- 14
+Passed (Sled Rental) -- 341
+firstPos -- n, index(non zero) -- 13
+secondPos -- n, index(non zero) -- 14
+Failed (Toboggan Rental) -- 192
+3 7 h kbhhhhhbqhhhqhhh
+Count -- 11
+Failed (Sled Rental) -- 333
+firstPos -- h, index(non zero) -- 3
+secondPos -- h, index(non zero) -- 7
+Failed (Toboggan Rental) -- 193
+6 9 k kkkkkkhkkkkk
+Count -- 11
+Failed (Sled Rental) -- 334
+firstPos -- k, index(non zero) -- 6
+secondPos -- k, index(non zero) -- 9
+Failed (Toboggan Rental) -- 194
+3 5 d wthbpm
+Count -- 0
+Failed (Sled Rental) -- 335
+firstPos -- h, index(non zero) -- 3
+secondPos -- p, index(non zero) -- 5
+Failed (Toboggan Rental) -- 195
+6 7 s ssscsstsss
+Count -- 8
+Failed (Sled Rental) -- 336
+firstPos -- s, index(non zero) -- 6
+secondPos -- t, index(non zero) -- 7
+Passed (Toboggan Rental) -- 482
+5 12 s ssbsjsssssssssssss
+Count -- 16
+Failed (Sled Rental) -- 337
+firstPos -- j, index(non zero) -- 5
+secondPos -- s, index(non zero) -- 12
+Passed (Toboggan Rental) -- 483
+4 5 k wzsnxlk
+Count -- 1
+Failed (Sled Rental) -- 338
+firstPos -- n, index(non zero) -- 4
+secondPos -- x, index(non zero) -- 5
+Failed (Toboggan Rental) -- 196
+10 11 q qqqqqqqqqjqqq
+Count -- 12
+Failed (Sled Rental) -- 339
+firstPos -- j, index(non zero) -- 10
+secondPos -- q, index(non zero) -- 11
+Passed (Toboggan Rental) -- 484
+6 7 r trrrrrdr
+Count -- 6
+Passed (Sled Rental) -- 342
+firstPos -- r, index(non zero) -- 6
+secondPos -- d, index(non zero) -- 7
+Passed (Toboggan Rental) -- 485
+2 4 l hjhljhl
+Count -- 2
+Passed (Sled Rental) -- 343
+firstPos -- j, index(non zero) -- 2
+secondPos -- l, index(non zero) -- 4
+Passed (Toboggan Rental) -- 486
+2 4 v vhbv
+Count -- 2
+Passed (Sled Rental) -- 344
+firstPos -- h, index(non zero) -- 2
+secondPos -- v, index(non zero) -- 4
+Passed (Toboggan Rental) -- 487
+16 17 j rjnjjxtbjjjjjjvjn
+Count -- 10
+Failed (Sled Rental) -- 340
+firstPos -- j, index(non zero) -- 16
+secondPos -- n, index(non zero) -- 17
+Passed (Toboggan Rental) -- 488
+4 8 w nwswjktwznhwtzbdrp
+Count -- 4
+Passed (Sled Rental) -- 345
+firstPos -- w, index(non zero) -- 4
+secondPos -- w, index(non zero) -- 8
+Failed (Toboggan Rental) -- 197
+6 10 f ffpfbsvcfm
+Count -- 4
+Failed (Sled Rental) -- 341
+firstPos -- s, index(non zero) -- 6
+secondPos -- m, index(non zero) -- 10
+Failed (Toboggan Rental) -- 198
+10 12 b kbbbbbbblxbb
+Count -- 9
+Failed (Sled Rental) -- 342
+firstPos -- x, index(non zero) -- 10
+secondPos -- b, index(non zero) -- 12
+Passed (Toboggan Rental) -- 489
+4 5 x qxxcxx
+Count -- 4
+Passed (Sled Rental) -- 346
+firstPos -- c, index(non zero) -- 4
+secondPos -- x, index(non zero) -- 5
+Passed (Toboggan Rental) -- 490
+6 8 d bhdcpdmrwg
+Count -- 2
+Failed (Sled Rental) -- 343
+firstPos -- d, index(non zero) -- 6
+secondPos -- r, index(non zero) -- 8
+Passed (Toboggan Rental) -- 491
+5 11 d xdmdvkdddddxddd
+Count -- 10
+Passed (Sled Rental) -- 347
+firstPos -- v, index(non zero) -- 5
+secondPos -- d, index(non zero) -- 11
+Passed (Toboggan Rental) -- 492
+3 4 d ddddp
+Count -- 4
+Passed (Sled Rental) -- 348
+firstPos -- d, index(non zero) -- 3
+secondPos -- d, index(non zero) -- 4
+Failed (Toboggan Rental) -- 199
+1 4 q xqvq
+Count -- 2
+Passed (Sled Rental) -- 349
+firstPos -- x, index(non zero) -- 1
+secondPos -- q, index(non zero) -- 4
+Passed (Toboggan Rental) -- 493
+1 5 x xxxxzxx
+Count -- 6
+Failed (Sled Rental) -- 344
+firstPos -- x, index(non zero) -- 1
+secondPos -- z, index(non zero) -- 5
+Passed (Toboggan Rental) -- 494
+10 11 x xxxxxxxxxxzx
+Count -- 11
+Passed (Sled Rental) -- 350
+firstPos -- x, index(non zero) -- 10
+secondPos -- z, index(non zero) -- 11
+Passed (Toboggan Rental) -- 495
+7 8 n nqdnnnhrnn
+Count -- 6
+Failed (Sled Rental) -- 345
+firstPos -- h, index(non zero) -- 7
+secondPos -- r, index(non zero) -- 8
+Failed (Toboggan Rental) -- 200
+9 10 q zqqnqtxgpq
+Count -- 4
+Failed (Sled Rental) -- 346
+firstPos -- p, index(non zero) -- 9
+secondPos -- q, index(non zero) -- 10
+Passed (Toboggan Rental) -- 496
+2 7 g ggwgrfwgzg
+Count -- 5
+Passed (Sled Rental) -- 351
+firstPos -- g, index(non zero) -- 2
+secondPos -- w, index(non zero) -- 7
+Passed (Toboggan Rental) -- 497
+4 5 p prppp
+Count -- 4
+Passed (Sled Rental) -- 352
+firstPos -- p, index(non zero) -- 4
+secondPos -- p, index(non zero) -- 5
+Failed (Toboggan Rental) -- 201
+2 4 d glnmd
+Count -- 1
+Failed (Sled Rental) -- 347
+firstPos -- l, index(non zero) -- 2
+secondPos -- m, index(non zero) -- 4
+Failed (Toboggan Rental) -- 202
+1 3 f fflf
+Count -- 3
+Passed (Sled Rental) -- 353
+firstPos -- f, index(non zero) -- 1
+secondPos -- l, index(non zero) -- 3
+Passed (Toboggan Rental) -- 498
+3 9 w zwbwdzqzw
+Count -- 3
+Passed (Sled Rental) -- 354
+firstPos -- b, index(non zero) -- 3
+secondPos -- w, index(non zero) -- 9
+Passed (Toboggan Rental) -- 499
+4 5 t tvttt
+Count -- 4
+Passed (Sled Rental) -- 355
+firstPos -- t, index(non zero) -- 4
+secondPos -- t, index(non zero) -- 5
+Failed (Toboggan Rental) -- 203
+10 17 c cflcrfcccsfzcftvcgc
+Count -- 8
+Failed (Sled Rental) -- 348
+firstPos -- s, index(non zero) -- 10
+secondPos -- c, index(non zero) -- 17
+Passed (Toboggan Rental) -- 500
+5 8 x xxxxxxxt
+Count -- 7
+Passed (Sled Rental) -- 356
+firstPos -- x, index(non zero) -- 5
+secondPos -- t, index(non zero) -- 8
+Passed (Toboggan Rental) -- 501
+3 5 j hjljjj
+Count -- 4
+Passed (Sled Rental) -- 357
+firstPos -- l, index(non zero) -- 3
+secondPos -- j, index(non zero) -- 5
+Passed (Toboggan Rental) -- 502
+18 19 z zzzzzzzzzzzzzzzzzzd
+Count -- 18
+Passed (Sled Rental) -- 358
+firstPos -- z, index(non zero) -- 18
+secondPos -- d, index(non zero) -- 19
+Passed (Toboggan Rental) -- 503
+17 19 l llbhjllrlllllllgrllf
+Count -- 13
+Failed (Sled Rental) -- 349
+firstPos -- r, index(non zero) -- 17
+secondPos -- l, index(non zero) -- 19
+Passed (Toboggan Rental) -- 504
+14 16 f vffmmfffwfrqgfdmd
+Count -- 7
+Failed (Sled Rental) -- 350
+firstPos -- f, index(non zero) -- 14
+secondPos -- m, index(non zero) -- 16
+Passed (Toboggan Rental) -- 505
+3 4 c ccckcgccd
+Count -- 6
+Failed (Sled Rental) -- 351
+firstPos -- c, index(non zero) -- 3
+secondPos -- k, index(non zero) -- 4
+Passed (Toboggan Rental) -- 506
+6 8 m lxwmxmkrk
+Count -- 2
+Failed (Sled Rental) -- 352
+firstPos -- m, index(non zero) -- 6
+secondPos -- r, index(non zero) -- 8
+Passed (Toboggan Rental) -- 507
+9 11 j jmjjsjxjnjdj
+Count -- 7
+Failed (Sled Rental) -- 353
+firstPos -- n, index(non zero) -- 9
+secondPos -- d, index(non zero) -- 11
+Failed (Toboggan Rental) -- 204
+9 10 r xhpccrrrsr
+Count -- 4
+Failed (Sled Rental) -- 354
+firstPos -- s, index(non zero) -- 9
+secondPos -- r, index(non zero) -- 10
+Passed (Toboggan Rental) -- 508
+5 12 q qqqqxqwqqpfrqqqq
+Count -- 11
+Passed (Sled Rental) -- 359
+firstPos -- x, index(non zero) -- 5
+secondPos -- r, index(non zero) -- 12
+Failed (Toboggan Rental) -- 205
+3 5 m mxmtc
+Count -- 2
+Failed (Sled Rental) -- 355
+firstPos -- m, index(non zero) -- 3
+secondPos -- c, index(non zero) -- 5
+Passed (Toboggan Rental) -- 509
+4 11 b gbzxxbjrrctlrrv
+Count -- 2
+Failed (Sled Rental) -- 356
+firstPos -- x, index(non zero) -- 4
+secondPos -- t, index(non zero) -- 11
+Failed (Toboggan Rental) -- 206
+8 12 m mmmmmmmlmmmm
+Count -- 11
+Passed (Sled Rental) -- 360
+firstPos -- l, index(non zero) -- 8
+secondPos -- m, index(non zero) -- 12
+Passed (Toboggan Rental) -- 510
+7 10 s sssssssspfr
+Count -- 8
+Passed (Sled Rental) -- 361
+firstPos -- s, index(non zero) -- 7
+secondPos -- f, index(non zero) -- 10
+Passed (Toboggan Rental) -- 511
+2 3 n xnhn
+Count -- 2
+Passed (Sled Rental) -- 362
+firstPos -- n, index(non zero) -- 2
+secondPos -- h, index(non zero) -- 3
+Passed (Toboggan Rental) -- 512
+1 3 p btppz
+Count -- 2
+Passed (Sled Rental) -- 363
+firstPos -- b, index(non zero) -- 1
+secondPos -- p, index(non zero) -- 3
+Passed (Toboggan Rental) -- 513
+12 16 l lllxllllllljlllll
+Count -- 15
+Passed (Sled Rental) -- 364
+firstPos -- j, index(non zero) -- 12
+secondPos -- l, index(non zero) -- 16
+Passed (Toboggan Rental) -- 514
+2 5 d zddtm
+Count -- 2
+Passed (Sled Rental) -- 365
+firstPos -- d, index(non zero) -- 2
+secondPos -- m, index(non zero) -- 5
+Passed (Toboggan Rental) -- 515
+5 14 p pppppppppppppsp
+Count -- 14
+Passed (Sled Rental) -- 366
+firstPos -- p, index(non zero) -- 5
+secondPos -- s, index(non zero) -- 14
+Passed (Toboggan Rental) -- 516
+9 11 k kgkkmdzfkjkzpnz
+Count -- 5
+Failed (Sled Rental) -- 357
+firstPos -- k, index(non zero) -- 9
+secondPos -- k, index(non zero) -- 11
+Failed (Toboggan Rental) -- 207
+11 16 c kbccczcccccnhccq
+Count -- 10
+Failed (Sled Rental) -- 358
+firstPos -- c, index(non zero) -- 11
+secondPos -- q, index(non zero) -- 16
+Passed (Toboggan Rental) -- 517
+1 2 p pvph
+Count -- 2
+Passed (Sled Rental) -- 367
+firstPos -- p, index(non zero) -- 1
+secondPos -- v, index(non zero) -- 2
+Passed (Toboggan Rental) -- 518
+2 3 l llfxvq
+Count -- 2
+Passed (Sled Rental) -- 368
+firstPos -- l, index(non zero) -- 2
+secondPos -- f, index(non zero) -- 3
+Passed (Toboggan Rental) -- 519
+12 16 l lhhdzwczgrsxgkqd
+Count -- 1
+Failed (Sled Rental) -- 359
+firstPos -- x, index(non zero) -- 12
+secondPos -- d, index(non zero) -- 16
+Failed (Toboggan Rental) -- 208
+6 9 c ccccccccqctccccccc
+Count -- 16
+Failed (Sled Rental) -- 360
+firstPos -- c, index(non zero) -- 6
+secondPos -- q, index(non zero) -- 9
+Passed (Toboggan Rental) -- 520
+8 9 r rrrrrrrsr
+Count -- 8
+Passed (Sled Rental) -- 369
+firstPos -- s, index(non zero) -- 8
+secondPos -- r, index(non zero) -- 9
+Passed (Toboggan Rental) -- 521
+2 7 c slccmjcccc
+Count -- 6
+Passed (Sled Rental) -- 370
+firstPos -- l, index(non zero) -- 2
+secondPos -- c, index(non zero) -- 7
+Passed (Toboggan Rental) -- 522
+2 14 n whwqmdlrxmxzzdz
+Count -- 0
+Failed (Sled Rental) -- 361
+firstPos -- h, index(non zero) -- 2
+secondPos -- d, index(non zero) -- 14
+Failed (Toboggan Rental) -- 209
+10 11 v vwvvkvvvvvvvvv
+Count -- 12
+Failed (Sled Rental) -- 362
+firstPos -- v, index(non zero) -- 10
+secondPos -- v, index(non zero) -- 11
+Failed (Toboggan Rental) -- 210
+5 6 j dfjkjbcsjqjjhkjmg
+Count -- 6
+Passed (Sled Rental) -- 371
+firstPos -- j, index(non zero) -- 5
+secondPos -- b, index(non zero) -- 6
+Passed (Toboggan Rental) -- 523
+6 8 f fffffffff
+Count -- 9
+Failed (Sled Rental) -- 363
+firstPos -- f, index(non zero) -- 6
+secondPos -- f, index(non zero) -- 8
+Failed (Toboggan Rental) -- 211
+8 15 s tsszssjsssssmsss
+Count -- 12
+Passed (Sled Rental) -- 372
+firstPos -- s, index(non zero) -- 8
+secondPos -- s, index(non zero) -- 15
+Failed (Toboggan Rental) -- 212
+1 5 k kkrblv
+Count -- 2
+Passed (Sled Rental) -- 373
+firstPos -- k, index(non zero) -- 1
+secondPos -- l, index(non zero) -- 5
+Passed (Toboggan Rental) -- 524
+6 7 j jjjjjjv
+Count -- 6
+Passed (Sled Rental) -- 374
+firstPos -- j, index(non zero) -- 6
+secondPos -- v, index(non zero) -- 7
+Passed (Toboggan Rental) -- 525
+2 7 q dvrnqtq
+Count -- 2
+Passed (Sled Rental) -- 375
+firstPos -- v, index(non zero) -- 2
+secondPos -- q, index(non zero) -- 7
+Passed (Toboggan Rental) -- 526
+6 7 v vnvqwkvvcxpjmvvmg
+Count -- 6
+Passed (Sled Rental) -- 376
+firstPos -- k, index(non zero) -- 6
+secondPos -- v, index(non zero) -- 7
+Passed (Toboggan Rental) -- 527
+13 15 h hhhhhhhhhhhhkhth
+Count -- 14
+Passed (Sled Rental) -- 377
+firstPos -- k, index(non zero) -- 13
+secondPos -- t, index(non zero) -- 15
+Failed (Toboggan Rental) -- 213
+10 11 s skvssssssds
+Count -- 8
+Failed (Sled Rental) -- 364
+firstPos -- d, index(non zero) -- 10
+secondPos -- s, index(non zero) -- 11
+Passed (Toboggan Rental) -- 528
+3 5 b zbmjbhbbcbbbg
+Count -- 7
+Failed (Sled Rental) -- 365
+firstPos -- m, index(non zero) -- 3
+secondPos -- b, index(non zero) -- 5
+Passed (Toboggan Rental) -- 529
+6 7 x kxxstwfwbcxdxvjj
+Count -- 4
+Failed (Sled Rental) -- 366
+firstPos -- w, index(non zero) -- 6
+secondPos -- f, index(non zero) -- 7
+Failed (Toboggan Rental) -- 214
+3 9 l lljlllllrll
+Count -- 9
+Passed (Sled Rental) -- 378
+firstPos -- j, index(non zero) -- 3
+secondPos -- r, index(non zero) -- 9
+Failed (Toboggan Rental) -- 215
+12 13 p pppqppppppnpp
+Count -- 11
+Failed (Sled Rental) -- 367
+firstPos -- p, index(non zero) -- 12
+secondPos -- p, index(non zero) -- 13
+Failed (Toboggan Rental) -- 216
+4 5 s pfmpn
+Count -- 0
+Failed (Sled Rental) -- 368
+firstPos -- p, index(non zero) -- 4
+secondPos -- n, index(non zero) -- 5
+Failed (Toboggan Rental) -- 217
+7 8 v vkjvvvvb
+Count -- 5
+Failed (Sled Rental) -- 369
+firstPos -- v, index(non zero) -- 7
+secondPos -- b, index(non zero) -- 8
+Passed (Toboggan Rental) -- 530
+8 11 t tttxtlfhtftttwbttt
+Count -- 11
+Passed (Sled Rental) -- 379
+firstPos -- h, index(non zero) -- 8
+secondPos -- t, index(non zero) -- 11
+Passed (Toboggan Rental) -- 531
+4 5 h hvshsjhvb
+Count -- 3
+Failed (Sled Rental) -- 370
+firstPos -- h, index(non zero) -- 4
+secondPos -- s, index(non zero) -- 5
+Passed (Toboggan Rental) -- 532
+14 16 b bbbbbbbbbbbbbbbw
+Count -- 15
+Passed (Sled Rental) -- 380
+firstPos -- b, index(non zero) -- 14
+secondPos -- w, index(non zero) -- 16
+Passed (Toboggan Rental) -- 533
+6 9 l lxzklmgll
+Count -- 4
+Failed (Sled Rental) -- 371
+firstPos -- m, index(non zero) -- 6
+secondPos -- l, index(non zero) -- 9
+Passed (Toboggan Rental) -- 534
+2 7 n nnnnnnnn
+Count -- 8
+Failed (Sled Rental) -- 372
+firstPos -- n, index(non zero) -- 2
+secondPos -- n, index(non zero) -- 7
+Failed (Toboggan Rental) -- 218
+1 8 x nxxxxxxxxxxx
+Count -- 11
+Failed (Sled Rental) -- 373
+firstPos -- n, index(non zero) -- 1
+secondPos -- x, index(non zero) -- 8
+Passed (Toboggan Rental) -- 535
+16 17 q qqqqqqqsqqqqqqqwf
+Count -- 14
+Failed (Sled Rental) -- 374
+firstPos -- w, index(non zero) -- 16
+secondPos -- f, index(non zero) -- 17
+Failed (Toboggan Rental) -- 219
+4 17 c cgndccccscchqhxcbcc
+Count -- 10
+Passed (Sled Rental) -- 381
+firstPos -- d, index(non zero) -- 4
+secondPos -- b, index(non zero) -- 17
+Failed (Toboggan Rental) -- 220
+4 7 b bbbbbmn
+Count -- 5
+Passed (Sled Rental) -- 382
+firstPos -- b, index(non zero) -- 4
+secondPos -- n, index(non zero) -- 7
+Passed (Toboggan Rental) -- 536
+12 14 p pppppppppppppdp
+Count -- 14
+Passed (Sled Rental) -- 383
+firstPos -- p, index(non zero) -- 12
+secondPos -- d, index(non zero) -- 14
+Passed (Toboggan Rental) -- 537
+3 4 t nttttrvrtd
+Count -- 5
+Failed (Sled Rental) -- 375
+firstPos -- t, index(non zero) -- 3
+secondPos -- t, index(non zero) -- 4
+Failed (Toboggan Rental) -- 221
+5 17 p pxhbppfpjzzkpgdvb
+Count -- 5
+Passed (Sled Rental) -- 384
+firstPos -- p, index(non zero) -- 5
+secondPos -- b, index(non zero) -- 17
+Passed (Toboggan Rental) -- 538
+7 12 c ccccccccsccvccjcc
+Count -- 14
+Failed (Sled Rental) -- 376
+firstPos -- c, index(non zero) -- 7
+secondPos -- v, index(non zero) -- 12
+Passed (Toboggan Rental) -- 539
+1 11 t tjsjxctpbngtdvbdmlm
+Count -- 3
+Passed (Sled Rental) -- 385
+firstPos -- t, index(non zero) -- 1
+secondPos -- g, index(non zero) -- 11
+Passed (Toboggan Rental) -- 540
+3 5 n wgmwnjwnnnkcnlqqr
+Count -- 5
+Passed (Sled Rental) -- 386
+firstPos -- m, index(non zero) -- 3
+secondPos -- n, index(non zero) -- 5
+Passed (Toboggan Rental) -- 541
+19 20 p hwfknlcbnhmvkcrpjwvp
+Count -- 2
+Failed (Sled Rental) -- 377
+firstPos -- v, index(non zero) -- 19
+secondPos -- p, index(non zero) -- 20
+Passed (Toboggan Rental) -- 542
+4 7 f gvlhxkffvd
+Count -- 2
+Failed (Sled Rental) -- 378
+firstPos -- h, index(non zero) -- 4
+secondPos -- f, index(non zero) -- 7
+Passed (Toboggan Rental) -- 543
+4 7 d ddddrmhfdddfxf
+Count -- 7
+Passed (Sled Rental) -- 387
+firstPos -- d, index(non zero) -- 4
+secondPos -- h, index(non zero) -- 7
+Passed (Toboggan Rental) -- 544
+1 2 q qxnq
+Count -- 2
+Passed (Sled Rental) -- 388
+firstPos -- q, index(non zero) -- 1
+secondPos -- x, index(non zero) -- 2
+Passed (Toboggan Rental) -- 545
+3 7 k kqkqskcslcqbxkdsr
+Count -- 4
+Passed (Sled Rental) -- 389
+firstPos -- k, index(non zero) -- 3
+secondPos -- c, index(non zero) -- 7
+Passed (Toboggan Rental) -- 546
+3 6 w wngwxz
+Count -- 2
+Failed (Sled Rental) -- 379
+firstPos -- g, index(non zero) -- 3
+secondPos -- z, index(non zero) -- 6
+Failed (Toboggan Rental) -- 222
+18 19 k kkkkkkkkkkkkkkkkkkqk
+Count -- 19
+Passed (Sled Rental) -- 390
+firstPos -- k, index(non zero) -- 18
+secondPos -- q, index(non zero) -- 19
+Passed (Toboggan Rental) -- 547
+6 7 v vvvvvvtvxq
+Count -- 7
+Passed (Sled Rental) -- 391
+firstPos -- v, index(non zero) -- 6
+secondPos -- t, index(non zero) -- 7
+Passed (Toboggan Rental) -- 548
+1 4 w wwkrmwwf
+Count -- 4
+Passed (Sled Rental) -- 392
+firstPos -- w, index(non zero) -- 1
+secondPos -- r, index(non zero) -- 4
+Passed (Toboggan Rental) -- 549
+2 3 c ccdcw
+Count -- 3
+Passed (Sled Rental) -- 393
+firstPos -- c, index(non zero) -- 2
+secondPos -- d, index(non zero) -- 3
+Passed (Toboggan Rental) -- 550
+5 6 w wwwwsw
+Count -- 5
+Passed (Sled Rental) -- 394
+firstPos -- s, index(non zero) -- 5
+secondPos -- w, index(non zero) -- 6
+Passed (Toboggan Rental) -- 551
+10 11 f fcfwgfrdzbwfffx
+Count -- 6
+Failed (Sled Rental) -- 380
+firstPos -- b, index(non zero) -- 10
+secondPos -- w, index(non zero) -- 11
+Failed (Toboggan Rental) -- 223
+7 10 d dddddmdphbtdpdddd
+Count -- 11
+Failed (Sled Rental) -- 381
+firstPos -- d, index(non zero) -- 7
+secondPos -- b, index(non zero) -- 10
+Passed (Toboggan Rental) -- 552
+2 4 t dmtt
+Count -- 2
+Passed (Sled Rental) -- 395
+firstPos -- m, index(non zero) -- 2
+secondPos -- t, index(non zero) -- 4
+Passed (Toboggan Rental) -- 553
+18 19 s xsdssssnnnssxqcvssg
+Count -- 9
+Failed (Sled Rental) -- 382
+firstPos -- s, index(non zero) -- 18
+secondPos -- g, index(non zero) -- 19
+Passed (Toboggan Rental) -- 554
+8 9 q qqqqqqqqqq
+Count -- 10
+Failed (Sled Rental) -- 383
+firstPos -- q, index(non zero) -- 8
+secondPos -- q, index(non zero) -- 9
+Failed (Toboggan Rental) -- 224
+18 19 c ccxccccmccfccsbcbcc
+Count -- 13
+Failed (Sled Rental) -- 384
+firstPos -- c, index(non zero) -- 18
+secondPos -- c, index(non zero) -- 19
+Failed (Toboggan Rental) -- 225
+1 3 k kqdwsfkdxl
+Count -- 2
+Passed (Sled Rental) -- 396
+firstPos -- k, index(non zero) -- 1
+secondPos -- d, index(non zero) -- 3
+Passed (Toboggan Rental) -- 555
+5 7 t vtdtntttlrtt
+Count -- 7
+Passed (Sled Rental) -- 397
+firstPos -- n, index(non zero) -- 5
+secondPos -- t, index(non zero) -- 7
+Passed (Toboggan Rental) -- 556
+2 10 w wvnfvctwmwwwqr
+Count -- 5
+Passed (Sled Rental) -- 398
+firstPos -- v, index(non zero) -- 2
+secondPos -- w, index(non zero) -- 10
+Passed (Toboggan Rental) -- 557
+1 11 c lccccccccccc
+Count -- 11
+Passed (Sled Rental) -- 399
+firstPos -- l, index(non zero) -- 1
+secondPos -- c, index(non zero) -- 11
+Passed (Toboggan Rental) -- 558
+6 14 t qbtkgmscnbztcth
+Count -- 3
+Failed (Sled Rental) -- 385
+firstPos -- m, index(non zero) -- 6
+secondPos -- t, index(non zero) -- 14
+Passed (Toboggan Rental) -- 559
+2 6 n mnjrfnpmwnlhwvksmmss
+Count -- 3
+Passed (Sled Rental) -- 400
+firstPos -- n, index(non zero) -- 2
+secondPos -- n, index(non zero) -- 6
+Failed (Toboggan Rental) -- 226
+8 13 m mzzmmpmmmmwmz
+Count -- 8
+Passed (Sled Rental) -- 401
+firstPos -- m, index(non zero) -- 8
+secondPos -- z, index(non zero) -- 13
+Passed (Toboggan Rental) -- 560
+4 7 t nqvtjnttfsmc
+Count -- 3
+Failed (Sled Rental) -- 386
+firstPos -- t, index(non zero) -- 4
+secondPos -- t, index(non zero) -- 7
+Failed (Toboggan Rental) -- 227
+8 13 p pppppppppppts
+Count -- 11
+Passed (Sled Rental) -- 402
+firstPos -- p, index(non zero) -- 8
+secondPos -- s, index(non zero) -- 13
+Passed (Toboggan Rental) -- 561
+10 12 b bbbbbblbbvbbbb
+Count -- 12
+Passed (Sled Rental) -- 403
+firstPos -- v, index(non zero) -- 10
+secondPos -- b, index(non zero) -- 12
+Passed (Toboggan Rental) -- 562
+2 3 b bbzdv
+Count -- 2
+Passed (Sled Rental) -- 404
+firstPos -- b, index(non zero) -- 2
+secondPos -- z, index(non zero) -- 3
+Passed (Toboggan Rental) -- 563
+5 6 x tmxxwx
+Count -- 3
+Failed (Sled Rental) -- 387
+firstPos -- w, index(non zero) -- 5
+secondPos -- x, index(non zero) -- 6
+Passed (Toboggan Rental) -- 564
+7 11 q kqbqqqqqtqfx
+Count -- 7
+Passed (Sled Rental) -- 405
+firstPos -- q, index(non zero) -- 7
+secondPos -- f, index(non zero) -- 11
+Passed (Toboggan Rental) -- 565
+1 11 n tnlnxpcqnnn
+Count -- 5
+Passed (Sled Rental) -- 406
+firstPos -- t, index(non zero) -- 1
+secondPos -- n, index(non zero) -- 11
+Passed (Toboggan Rental) -- 566
+4 6 j jdjxcjbggjcdjpknx
+Count -- 5
+Passed (Sled Rental) -- 407
+firstPos -- x, index(non zero) -- 4
+secondPos -- j, index(non zero) -- 6
+Passed (Toboggan Rental) -- 567
+6 11 w stxldwdvstwf
+Count -- 2
+Failed (Sled Rental) -- 388
+firstPos -- w, index(non zero) -- 6
+secondPos -- w, index(non zero) -- 11
+Failed (Toboggan Rental) -- 228
+3 10 g qggqjgfxqgmjdgv
+Count -- 5
+Passed (Sled Rental) -- 408
+firstPos -- g, index(non zero) -- 3
+secondPos -- g, index(non zero) -- 10
+Failed (Toboggan Rental) -- 229
+10 15 n nwnrnnrwnnnnnnc
+Count -- 10
+Passed (Sled Rental) -- 409
+firstPos -- n, index(non zero) -- 10
+secondPos -- c, index(non zero) -- 15
+Passed (Toboggan Rental) -- 568
+6 15 l lflldhzbllzlbklx
+Count -- 7
+Passed (Sled Rental) -- 410
+firstPos -- h, index(non zero) -- 6
+secondPos -- l, index(non zero) -- 15
+Passed (Toboggan Rental) -- 569
+1 2 s hsgsj
+Count -- 2
+Passed (Sled Rental) -- 411
+firstPos -- h, index(non zero) -- 1
+secondPos -- s, index(non zero) -- 2
+Passed (Toboggan Rental) -- 570
+5 6 f ffffdff
+Count -- 6
+Passed (Sled Rental) -- 412
+firstPos -- d, index(non zero) -- 5
+secondPos -- f, index(non zero) -- 6
+Passed (Toboggan Rental) -- 571
+1 5 m bmhmm
+Count -- 3
+Passed (Sled Rental) -- 413
+firstPos -- b, index(non zero) -- 1
+secondPos -- m, index(non zero) -- 5
+Passed (Toboggan Rental) -- 572
+2 6 m bmlbslbgjm
+Count -- 2
+Passed (Sled Rental) -- 414
+firstPos -- m, index(non zero) -- 2
+secondPos -- l, index(non zero) -- 6
+Passed (Toboggan Rental) -- 573
+14 16 r rrrbrrjfrrqrfcrrr
+Count -- 11
+Failed (Sled Rental) -- 389
+firstPos -- c, index(non zero) -- 14
+secondPos -- r, index(non zero) -- 16
+Passed (Toboggan Rental) -- 574
+3 4 x pxtx
+Count -- 2
+Failed (Sled Rental) -- 390
+firstPos -- t, index(non zero) -- 3
+secondPos -- x, index(non zero) -- 4
+Passed (Toboggan Rental) -- 575
+7 9 b bbbbbbwbb
+Count -- 8
+Passed (Sled Rental) -- 415
+firstPos -- w, index(non zero) -- 7
+secondPos -- b, index(non zero) -- 9
+Passed (Toboggan Rental) -- 576
+15 17 q qfqqzqqqqqqqqqqqnqq
+Count -- 16
+Passed (Sled Rental) -- 416
+firstPos -- q, index(non zero) -- 15
+secondPos -- n, index(non zero) -- 17
+Passed (Toboggan Rental) -- 577
+1 4 j tjjjjj
+Count -- 5
+Failed (Sled Rental) -- 391
+firstPos -- t, index(non zero) -- 1
+secondPos -- j, index(non zero) -- 4
+Passed (Toboggan Rental) -- 578
+1 10 v vvvvvvvvxvvvvk
+Count -- 12
+Failed (Sled Rental) -- 392
+firstPos -- v, index(non zero) -- 1
+secondPos -- v, index(non zero) -- 10
+Failed (Toboggan Rental) -- 230
+3 4 h hhzhh
+Count -- 4
+Passed (Sled Rental) -- 417
+firstPos -- z, index(non zero) -- 3
+secondPos -- h, index(non zero) -- 4
+Passed (Toboggan Rental) -- 579
+1 6 h hhhhhxh
+Count -- 6
+Passed (Sled Rental) -- 418
+firstPos -- h, index(non zero) -- 1
+secondPos -- x, index(non zero) -- 6
+Passed (Toboggan Rental) -- 580
+1 9 s smwssfhsvs
+Count -- 5
+Passed (Sled Rental) -- 419
+firstPos -- s, index(non zero) -- 1
+secondPos -- v, index(non zero) -- 9
+Passed (Toboggan Rental) -- 581
+13 14 s tswmwsgtnlpwsn
+Count -- 3
+Failed (Sled Rental) -- 393
+firstPos -- s, index(non zero) -- 13
+secondPos -- n, index(non zero) -- 14
+Passed (Toboggan Rental) -- 582
+4 5 v vnkvvzs
+Count -- 3
+Failed (Sled Rental) -- 394
+firstPos -- v, index(non zero) -- 4
+secondPos -- v, index(non zero) -- 5
+Failed (Toboggan Rental) -- 231
+11 14 x xxxxxxxxxxcxxxx
+Count -- 14
+Passed (Sled Rental) -- 420
+firstPos -- c, index(non zero) -- 11
+secondPos -- x, index(non zero) -- 14
+Passed (Toboggan Rental) -- 583
+14 16 n nnnnnnnknnnnhpnnb
+Count -- 13
+Failed (Sled Rental) -- 395
+firstPos -- p, index(non zero) -- 14
+secondPos -- n, index(non zero) -- 16
+Passed (Toboggan Rental) -- 584
+7 9 k kkkkkkrkkkkk
+Count -- 11
+Failed (Sled Rental) -- 396
+firstPos -- r, index(non zero) -- 7
+secondPos -- k, index(non zero) -- 9
+Passed (Toboggan Rental) -- 585
+3 5 q qqqgxscqm
+Count -- 4
+Passed (Sled Rental) -- 421
+firstPos -- q, index(non zero) -- 3
+secondPos -- x, index(non zero) -- 5
+Passed (Toboggan Rental) -- 586
+17 18 n njhmndnnpnvnnnnnnn
+Count -- 12
+Failed (Sled Rental) -- 397
+firstPos -- n, index(non zero) -- 17
+secondPos -- n, index(non zero) -- 18
+Failed (Toboggan Rental) -- 232
+4 5 h chshwj
+Count -- 2
+Failed (Sled Rental) -- 398
+firstPos -- h, index(non zero) -- 4
+secondPos -- w, index(non zero) -- 5
+Passed (Toboggan Rental) -- 587
+11 13 z zzzzzzzkzzlhfz
+Count -- 10
+Failed (Sled Rental) -- 399
+firstPos -- l, index(non zero) -- 11
+secondPos -- f, index(non zero) -- 13
+Failed (Toboggan Rental) -- 233
+7 14 q qqqqqqlqqqqqqqq
+Count -- 14
+Passed (Sled Rental) -- 422
+firstPos -- l, index(non zero) -- 7
+secondPos -- q, index(non zero) -- 14
+Passed (Toboggan Rental) -- 588
+17 19 v dvvvxtdgpxvbvvvzvvmv
+Count -- 10
+Failed (Sled Rental) -- 400
+firstPos -- v, index(non zero) -- 17
+secondPos -- m, index(non zero) -- 19
+Passed (Toboggan Rental) -- 589
+7 9 f rmffffffc
+Count -- 6
+Failed (Sled Rental) -- 401
+firstPos -- f, index(non zero) -- 7
+secondPos -- c, index(non zero) -- 9
+Passed (Toboggan Rental) -- 590
+4 8 r rwrqrlzrxrrqsccq
+Count -- 6
+Passed (Sled Rental) -- 423
+firstPos -- q, index(non zero) -- 4
+secondPos -- r, index(non zero) -- 8
+Passed (Toboggan Rental) -- 591
+2 3 v vtvv
+Count -- 3
+Passed (Sled Rental) -- 424
+firstPos -- t, index(non zero) -- 2
+secondPos -- v, index(non zero) -- 3
+Passed (Toboggan Rental) -- 592
+4 5 x qxgrnxxzbv
+Count -- 3
+Failed (Sled Rental) -- 402
+firstPos -- r, index(non zero) -- 4
+secondPos -- n, index(non zero) -- 5
+Failed (Toboggan Rental) -- 234
+14 16 w wwwwwwwwwwwwwwwc
+Count -- 15
+Passed (Sled Rental) -- 425
+firstPos -- w, index(non zero) -- 14
+secondPos -- c, index(non zero) -- 16
+Passed (Toboggan Rental) -- 593
+2 6 c tcvmrcht
+Count -- 2
+Passed (Sled Rental) -- 426
+firstPos -- c, index(non zero) -- 2
+secondPos -- c, index(non zero) -- 6
+Failed (Toboggan Rental) -- 235
+6 9 z zzzzzzzzz
+Count -- 9
+Passed (Sled Rental) -- 427
+firstPos -- z, index(non zero) -- 6
+secondPos -- z, index(non zero) -- 9
+Failed (Toboggan Rental) -- 236
+9 14 n nnnswrnnnqmvcnnb
+Count -- 8
+Failed (Sled Rental) -- 403
+firstPos -- n, index(non zero) -- 9
+secondPos -- n, index(non zero) -- 14
+Failed (Toboggan Rental) -- 237
+3 4 f frxfdff
+Count -- 4
+Passed (Sled Rental) -- 428
+firstPos -- x, index(non zero) -- 3
+secondPos -- f, index(non zero) -- 4
+Passed (Toboggan Rental) -- 594
+8 9 n nnnhnnzsn
+Count -- 6
+Failed (Sled Rental) -- 404
+firstPos -- s, index(non zero) -- 8
+secondPos -- n, index(non zero) -- 9
+Passed (Toboggan Rental) -- 595
+2 13 w wmwwwvwlwwwwttqjjwc
+Count -- 10
+Passed (Sled Rental) -- 429
+firstPos -- m, index(non zero) -- 2
+secondPos -- t, index(non zero) -- 13
+Failed (Toboggan Rental) -- 238
+5 6 l lllllj
+Count -- 5
+Passed (Sled Rental) -- 430
+firstPos -- l, index(non zero) -- 5
+secondPos -- j, index(non zero) -- 6
+Passed (Toboggan Rental) -- 596
+8 11 w pwrbjlwwwhvxhnsvwh
+Count -- 5
+Failed (Sled Rental) -- 405
+firstPos -- w, index(non zero) -- 8
+secondPos -- v, index(non zero) -- 11
+Passed (Toboggan Rental) -- 597
+3 7 n kndzxnsnn
+Count -- 4
+Passed (Sled Rental) -- 431
+firstPos -- d, index(non zero) -- 3
+secondPos -- s, index(non zero) -- 7
+Failed (Toboggan Rental) -- 239
+13 14 x xxxtxxxbzxxxxnx
+Count -- 11
+Failed (Sled Rental) -- 406
+firstPos -- x, index(non zero) -- 13
+secondPos -- n, index(non zero) -- 14
+Passed (Toboggan Rental) -- 598
+13 15 c ccccccccccccccz
+Count -- 14
+Passed (Sled Rental) -- 432
+firstPos -- c, index(non zero) -- 13
+secondPos -- z, index(non zero) -- 15
+Passed (Toboggan Rental) -- 599
+12 15 n nnnnnnnnnnnsnnsnn
+Count -- 15
+Passed (Sled Rental) -- 433
+firstPos -- s, index(non zero) -- 12
+secondPos -- s, index(non zero) -- 15
+Failed (Toboggan Rental) -- 240
+4 10 w wwwrwwwwwwww
+Count -- 11
+Failed (Sled Rental) -- 407
+firstPos -- r, index(non zero) -- 4
+secondPos -- w, index(non zero) -- 10
+Passed (Toboggan Rental) -- 600
+12 16 r wrrrrrrrrrrgrrrrr
+Count -- 15
+Passed (Sled Rental) -- 434
+firstPos -- g, index(non zero) -- 12
+secondPos -- r, index(non zero) -- 16
+Passed (Toboggan Rental) -- 601
+8 11 l nlllxllzllll
+Count -- 9
+Passed (Sled Rental) -- 435
+firstPos -- z, index(non zero) -- 8
+secondPos -- l, index(non zero) -- 11
+Passed (Toboggan Rental) -- 602
+3 5 d prdfhhvdrpd
+Count -- 3
+Passed (Sled Rental) -- 436
+firstPos -- d, index(non zero) -- 3
+secondPos -- h, index(non zero) -- 5
+Passed (Toboggan Rental) -- 603
+2 3 t wttzbp
+Count -- 2
+Passed (Sled Rental) -- 437
+firstPos -- t, index(non zero) -- 2
+secondPos -- t, index(non zero) -- 3
+Failed (Toboggan Rental) -- 241
+3 5 h jhxhhdztw
+Count -- 3
+Passed (Sled Rental) -- 438
+firstPos -- x, index(non zero) -- 3
+secondPos -- h, index(non zero) -- 5
+Passed (Toboggan Rental) -- 604
+2 7 r qrwcxjhtrrlw
+Count -- 3
+Passed (Sled Rental) -- 439
+firstPos -- r, index(non zero) -- 2
+secondPos -- h, index(non zero) -- 7
+Passed (Toboggan Rental) -- 605
+11 13 d ddddddddddfpdd
+Count -- 12
+Passed (Sled Rental) -- 440
+firstPos -- f, index(non zero) -- 11
+secondPos -- d, index(non zero) -- 13
+Passed (Toboggan Rental) -- 606
+10 11 q xqztlqqqqqk
+Count -- 6
+Failed (Sled Rental) -- 408
+firstPos -- q, index(non zero) -- 10
+secondPos -- k, index(non zero) -- 11
+Passed (Toboggan Rental) -- 607
+1 11 z jzzzzznzzzq
+Count -- 8
+Passed (Sled Rental) -- 441
+firstPos -- j, index(non zero) -- 1
+secondPos -- q, index(non zero) -- 11
+Failed (Toboggan Rental) -- 242
+9 10 b zbbbbbbbtb
+Count -- 8
+Failed (Sled Rental) -- 409
+firstPos -- t, index(non zero) -- 9
+secondPos -- b, index(non zero) -- 10
+Passed (Toboggan Rental) -- 608
+9 10 k xktkkkpgnpkskkkzjkm
+Count -- 9
+Passed (Sled Rental) -- 442
+firstPos -- n, index(non zero) -- 9
+secondPos -- p, index(non zero) -- 10
+Failed (Toboggan Rental) -- 243
+14 15 j jjwjjvjjjjjjjjvjj
+Count -- 14
+Passed (Sled Rental) -- 443
+firstPos -- j, index(non zero) -- 14
+secondPos -- v, index(non zero) -- 15
+Passed (Toboggan Rental) -- 609
+2 6 l lntrlllx
+Count -- 4
+Passed (Sled Rental) -- 444
+firstPos -- n, index(non zero) -- 2
+secondPos -- l, index(non zero) -- 6
+Passed (Toboggan Rental) -- 610
+12 13 g lgggggblghggmg
+Count -- 9
+Failed (Sled Rental) -- 410
+firstPos -- g, index(non zero) -- 12
+secondPos -- m, index(non zero) -- 13
+Passed (Toboggan Rental) -- 611
+11 12 x xxxxxxxxxxvxxx
+Count -- 13
+Failed (Sled Rental) -- 411
+firstPos -- v, index(non zero) -- 11
+secondPos -- x, index(non zero) -- 12
+Passed (Toboggan Rental) -- 612
+3 5 l llllm
+Count -- 4
+Passed (Sled Rental) -- 445
+firstPos -- l, index(non zero) -- 3
+secondPos -- m, index(non zero) -- 5
+Passed (Toboggan Rental) -- 613
+7 12 x ffqrxjxxhbbp
+Count -- 3
+Failed (Sled Rental) -- 412
+firstPos -- x, index(non zero) -- 7
+secondPos -- p, index(non zero) -- 12
+Passed (Toboggan Rental) -- 614
+16 17 j jjjjjjjjjjsgjjjjb
+Count -- 14
+Failed (Sled Rental) -- 413
+firstPos -- j, index(non zero) -- 16
+secondPos -- b, index(non zero) -- 17
+Passed (Toboggan Rental) -- 615
+1 5 g hcfjntzgcxk
+Count -- 1
+Passed (Sled Rental) -- 446
+firstPos -- h, index(non zero) -- 1
+secondPos -- n, index(non zero) -- 5
+Failed (Toboggan Rental) -- 244
+3 6 v vvqvvqvvv
+Count -- 7
+Failed (Sled Rental) -- 414
+firstPos -- q, index(non zero) -- 3
+secondPos -- q, index(non zero) -- 6
+Failed (Toboggan Rental) -- 245
+1 12 p pwjdppqpcgpplgwz
+Count -- 6
+Passed (Sled Rental) -- 447
+firstPos -- p, index(non zero) -- 1
+secondPos -- p, index(non zero) -- 12
+Failed (Toboggan Rental) -- 246
+5 6 d ddbdpd
+Count -- 4
+Failed (Sled Rental) -- 415
+firstPos -- p, index(non zero) -- 5
+secondPos -- d, index(non zero) -- 6
+Passed (Toboggan Rental) -- 616
+8 10 t twhttnrnpt
+Count -- 4
+Failed (Sled Rental) -- 416
+firstPos -- n, index(non zero) -- 8
+secondPos -- t, index(non zero) -- 10
+Passed (Toboggan Rental) -- 617
+15 17 v vvvvvvvvvvvkvvvvxvv
+Count -- 17
+Passed (Sled Rental) -- 448
+firstPos -- v, index(non zero) -- 15
+secondPos -- x, index(non zero) -- 17
+Passed (Toboggan Rental) -- 618
+13 15 f dffjnhmxhbwlfkv
+Count -- 3
+Failed (Sled Rental) -- 417
+firstPos -- f, index(non zero) -- 13
+secondPos -- v, index(non zero) -- 15
+Passed (Toboggan Rental) -- 619
+4 12 c ccccccccdzccccc
+Count -- 13
+Failed (Sled Rental) -- 418
+firstPos -- c, index(non zero) -- 4
+secondPos -- c, index(non zero) -- 12
+Failed (Toboggan Rental) -- 247
+3 12 p rvpgssncpbqlkjc
+Count -- 2
+Failed (Sled Rental) -- 419
+firstPos -- p, index(non zero) -- 3
+secondPos -- l, index(non zero) -- 12
+Passed (Toboggan Rental) -- 620
+1 2 h hhhl
+Count -- 3
+Failed (Sled Rental) -- 420
+firstPos -- h, index(non zero) -- 1
+secondPos -- h, index(non zero) -- 2
+Failed (Toboggan Rental) -- 248
+1 2 j jkjrxqj
+Count -- 3
+Failed (Sled Rental) -- 421
+firstPos -- j, index(non zero) -- 1
+secondPos -- k, index(non zero) -- 2
+Passed (Toboggan Rental) -- 621
+4 13 b bbvbbbbbbbbbbbbbbb
+Count -- 17
+Failed (Sled Rental) -- 422
+firstPos -- b, index(non zero) -- 4
+secondPos -- b, index(non zero) -- 13
+Failed (Toboggan Rental) -- 249
+6 11 q ntqqhqvgqhkhz
+Count -- 4
+Failed (Sled Rental) -- 423
+firstPos -- q, index(non zero) -- 6
+secondPos -- k, index(non zero) -- 11
+Passed (Toboggan Rental) -- 622
+10 13 c cdcckjgcwdcsct
+Count -- 6
+Failed (Sled Rental) -- 424
+firstPos -- d, index(non zero) -- 10
+secondPos -- c, index(non zero) -- 13
+Passed (Toboggan Rental) -- 623
+9 10 f fffhffvqff
+Count -- 7
+Failed (Sled Rental) -- 425
+firstPos -- f, index(non zero) -- 9
+secondPos -- f, index(non zero) -- 10
+Failed (Toboggan Rental) -- 250
+5 7 m mmsmklm
+Count -- 4
+Failed (Sled Rental) -- 426
+firstPos -- k, index(non zero) -- 5
+secondPos -- m, index(non zero) -- 7
+Passed (Toboggan Rental) -- 624
+7 8 z zzzzzpzxlzzg
+Count -- 8
+Passed (Sled Rental) -- 449
+firstPos -- z, index(non zero) -- 7
+secondPos -- x, index(non zero) -- 8
+Passed (Toboggan Rental) -- 625
+2 12 f nddlfsjrlhqv
+Count -- 1
+Failed (Sled Rental) -- 427
+firstPos -- d, index(non zero) -- 2
+secondPos -- v, index(non zero) -- 12
+Failed (Toboggan Rental) -- 251
+5 7 m bvmxmwmlxpmmwt
+Count -- 5
+Passed (Sled Rental) -- 450
+firstPos -- m, index(non zero) -- 5
+secondPos -- m, index(non zero) -- 7
+Failed (Toboggan Rental) -- 252
+1 11 n fbsghrrzbtnmn
+Count -- 2
+Passed (Sled Rental) -- 451
+firstPos -- f, index(non zero) -- 1
+secondPos -- n, index(non zero) -- 11
+Passed (Toboggan Rental) -- 626
+13 14 h hhjtlhhhhhhhfhphbhh
+Count -- 13
+Passed (Sled Rental) -- 452
+firstPos -- f, index(non zero) -- 13
+secondPos -- h, index(non zero) -- 14
+Passed (Toboggan Rental) -- 627
+5 7 p ppppdpspp
+Count -- 7
+Passed (Sled Rental) -- 453
+firstPos -- d, index(non zero) -- 5
+secondPos -- s, index(non zero) -- 7
+Failed (Toboggan Rental) -- 253
+6 7 v vdvvvvhv
+Count -- 6
+Passed (Sled Rental) -- 454
+firstPos -- v, index(non zero) -- 6
+secondPos -- h, index(non zero) -- 7
+Passed (Toboggan Rental) -- 628
+6 9 k kkkmknkkkkbc
+Count -- 8
+Passed (Sled Rental) -- 455
+firstPos -- n, index(non zero) -- 6
+secondPos -- k, index(non zero) -- 9
+Passed (Toboggan Rental) -- 629
+2 9 k jvpczkkcnvfvm
+Count -- 2
+Passed (Sled Rental) -- 456
+firstPos -- v, index(non zero) -- 2
+secondPos -- n, index(non zero) -- 9
+Failed (Toboggan Rental) -- 254
+5 6 g vgkggb
+Count -- 3
+Failed (Sled Rental) -- 428
+firstPos -- g, index(non zero) -- 5
+secondPos -- b, index(non zero) -- 6
+Passed (Toboggan Rental) -- 630
+4 9 m mttsgntmmq
+Count -- 3
+Failed (Sled Rental) -- 429
+firstPos -- s, index(non zero) -- 4
+secondPos -- m, index(non zero) -- 9
+Passed (Toboggan Rental) -- 631
+4 9 x vxxxxxxxz
+Count -- 7
+Passed (Sled Rental) -- 457
+firstPos -- x, index(non zero) -- 4
+secondPos -- z, index(non zero) -- 9
+Passed (Toboggan Rental) -- 632
+2 5 h gqhhhh
+Count -- 4
+Passed (Sled Rental) -- 458
+firstPos -- q, index(non zero) -- 2
+secondPos -- h, index(non zero) -- 5
+Passed (Toboggan Rental) -- 633
+1 9 m nkcwjmqmmgldxwm
+Count -- 4
+Passed (Sled Rental) -- 459
+firstPos -- n, index(non zero) -- 1
+secondPos -- m, index(non zero) -- 9
+Passed (Toboggan Rental) -- 634
+3 5 v vvvvvv
+Count -- 6
+Failed (Sled Rental) -- 430
+firstPos -- v, index(non zero) -- 3
+secondPos -- v, index(non zero) -- 5
+Failed (Toboggan Rental) -- 255
+5 12 z zzzzzzzzzzzwzzzz
+Count -- 15
+Failed (Sled Rental) -- 431
+firstPos -- z, index(non zero) -- 5
+secondPos -- w, index(non zero) -- 12
+Passed (Toboggan Rental) -- 635
+4 5 l llglt
+Count -- 3
+Failed (Sled Rental) -- 432
+firstPos -- l, index(non zero) -- 4
+secondPos -- t, index(non zero) -- 5
+Passed (Toboggan Rental) -- 636
+2 8 w wqwbwkzwsc
+Count -- 4
+Passed (Sled Rental) -- 460
+firstPos -- q, index(non zero) -- 2
+secondPos -- w, index(non zero) -- 8
+Passed (Toboggan Rental) -- 637
+4 6 c ccctccc
+Count -- 6
+Passed (Sled Rental) -- 461
+firstPos -- t, index(non zero) -- 4
+secondPos -- c, index(non zero) -- 6
+Passed (Toboggan Rental) -- 638
+8 9 g gggggggpgggg
+Count -- 11
+Failed (Sled Rental) -- 433
+firstPos -- p, index(non zero) -- 8
+secondPos -- g, index(non zero) -- 9
+Passed (Toboggan Rental) -- 639
+6 9 x xxxxxpxxc
+Count -- 7
+Passed (Sled Rental) -- 462
+firstPos -- p, index(non zero) -- 6
+secondPos -- c, index(non zero) -- 9
+Failed (Toboggan Rental) -- 256
+5 6 k fcbffhkbtr
+Count -- 1
+Failed (Sled Rental) -- 434
+firstPos -- f, index(non zero) -- 5
+secondPos -- h, index(non zero) -- 6
+Failed (Toboggan Rental) -- 257
+4 5 f bffvfffff
+Count -- 7
+Failed (Sled Rental) -- 435
+firstPos -- v, index(non zero) -- 4
+secondPos -- f, index(non zero) -- 5
+Passed (Toboggan Rental) -- 640
+2 5 w wjtgw
+Count -- 2
+Passed (Sled Rental) -- 463
+firstPos -- j, index(non zero) -- 2
+secondPos -- w, index(non zero) -- 5
+Passed (Toboggan Rental) -- 641
+13 16 z zmzzzztzjpzzzqzw
+Count -- 10
+Failed (Sled Rental) -- 436
+firstPos -- z, index(non zero) -- 13
+secondPos -- w, index(non zero) -- 16
+Passed (Toboggan Rental) -- 642
+10 12 q qrqqxqqkjqqcqq
+Count -- 9
+Failed (Sled Rental) -- 437
+firstPos -- q, index(non zero) -- 10
+secondPos -- c, index(non zero) -- 12
+Passed (Toboggan Rental) -- 643
+2 9 n nnnnnnnnnnnwnnnnnn
+Count -- 17
+Failed (Sled Rental) -- 438
+firstPos -- n, index(non zero) -- 2
+secondPos -- n, index(non zero) -- 9
+Failed (Toboggan Rental) -- 258
+3 5 l hlsgqtvv
+Count -- 1
+Failed (Sled Rental) -- 439
+firstPos -- s, index(non zero) -- 3
+secondPos -- q, index(non zero) -- 5
+Failed (Toboggan Rental) -- 259
+4 6 c gcccnscccllfq
+Count -- 6
+Passed (Sled Rental) -- 464
+firstPos -- c, index(non zero) -- 4
+secondPos -- s, index(non zero) -- 6
+Passed (Toboggan Rental) -- 644
+16 17 l llllllllllllllldlll
+Count -- 18
+Failed (Sled Rental) -- 440
+firstPos -- d, index(non zero) -- 16
+secondPos -- l, index(non zero) -- 17
+Passed (Toboggan Rental) -- 645
+6 9 h lhhhhbhhj
+Count -- 6
+Passed (Sled Rental) -- 465
+firstPos -- b, index(non zero) -- 6
+secondPos -- j, index(non zero) -- 9
+Failed (Toboggan Rental) -- 260
+15 17 r rznrrrhltxfrrkpjwrrr
+Count -- 9
+Failed (Sled Rental) -- 441
+firstPos -- p, index(non zero) -- 15
+secondPos -- w, index(non zero) -- 17
+Failed (Toboggan Rental) -- 261
+7 8 t tttttstt
+Count -- 7
+Passed (Sled Rental) -- 466
+firstPos -- t, index(non zero) -- 7
+secondPos -- t, index(non zero) -- 8
+Failed (Toboggan Rental) -- 262
+7 16 j kmjjcfjjcjjjjbwjjpjr
+Count -- 11
+Passed (Sled Rental) -- 467
+firstPos -- j, index(non zero) -- 7
+secondPos -- j, index(non zero) -- 16
+Failed (Toboggan Rental) -- 263
+10 13 s sqjvssssstrhd
+Count -- 6
+Failed (Sled Rental) -- 442
+firstPos -- t, index(non zero) -- 10
+secondPos -- d, index(non zero) -- 13
+Failed (Toboggan Rental) -- 264
+8 11 q qqqqqqqsqqtqq
+Count -- 11
+Passed (Sled Rental) -- 468
+firstPos -- s, index(non zero) -- 8
+secondPos -- t, index(non zero) -- 11
+Failed (Toboggan Rental) -- 265
+8 11 m xzhlmnmnmkw
+Count -- 3
+Failed (Sled Rental) -- 443
+firstPos -- n, index(non zero) -- 8
+secondPos -- w, index(non zero) -- 11
+Failed (Toboggan Rental) -- 266
+17 18 r rrrrrrrrrrrrrrrrpk
+Count -- 16
+Failed (Sled Rental) -- 444
+firstPos -- p, index(non zero) -- 17
+secondPos -- k, index(non zero) -- 18
+Failed (Toboggan Rental) -- 267
+1 3 l xljlml
+Count -- 3
+Passed (Sled Rental) -- 469
+firstPos -- x, index(non zero) -- 1
+secondPos -- j, index(non zero) -- 3
+Failed (Toboggan Rental) -- 268
+8 11 m jwtdhpmkqmqphms
+Count -- 3
+Failed (Sled Rental) -- 445
+firstPos -- k, index(non zero) -- 8
+secondPos -- q, index(non zero) -- 11
+Failed (Toboggan Rental) -- 269
+9 11 h zhhrhhhsthhhhhr
+Count -- 10
+Passed (Sled Rental) -- 470
+firstPos -- t, index(non zero) -- 9
+secondPos -- h, index(non zero) -- 11
+Passed (Toboggan Rental) -- 646
+5 14 n rkndnhgbnnwnnzgn
+Count -- 7
+Passed (Sled Rental) -- 471
+firstPos -- n, index(non zero) -- 5
+secondPos -- z, index(non zero) -- 14
+Passed (Toboggan Rental) -- 647
+8 9 f lfnfvdgfw
+Count -- 3
+Failed (Sled Rental) -- 446
+firstPos -- f, index(non zero) -- 8
+secondPos -- w, index(non zero) -- 9
+Passed (Toboggan Rental) -- 648
+2 8 q sdqqqqqqqqq
+Count -- 9
+Failed (Sled Rental) -- 447
+firstPos -- d, index(non zero) -- 2
+secondPos -- q, index(non zero) -- 8
+Passed (Toboggan Rental) -- 649
+1 3 c jtcm
+Count -- 1
+Passed (Sled Rental) -- 472
+firstPos -- j, index(non zero) -- 1
+secondPos -- c, index(non zero) -- 3
+Passed (Toboggan Rental) -- 650
+1 2 v vvxv
+Count -- 3
+Failed (Sled Rental) -- 448
+firstPos -- v, index(non zero) -- 1
+secondPos -- v, index(non zero) -- 2
+Failed (Toboggan Rental) -- 270
+2 7 b bbbbgbz
+Count -- 5
+Passed (Sled Rental) -- 473
+firstPos -- b, index(non zero) -- 2
+secondPos -- z, index(non zero) -- 7
+Passed (Toboggan Rental) -- 651
+5 6 v vvvvvvv
+Count -- 7
+Failed (Sled Rental) -- 449
+firstPos -- v, index(non zero) -- 5
+secondPos -- v, index(non zero) -- 6
+Failed (Toboggan Rental) -- 271
+3 4 n hnnmgqt
+Count -- 2
+Failed (Sled Rental) -- 450
+firstPos -- n, index(non zero) -- 3
+secondPos -- m, index(non zero) -- 4
+Passed (Toboggan Rental) -- 652
+10 11 r rrrrrrrrbrbqr
+Count -- 10
+Passed (Sled Rental) -- 474
+firstPos -- r, index(non zero) -- 10
+secondPos -- b, index(non zero) -- 11
+Passed (Toboggan Rental) -- 653
+3 4 x xxxcxk
+Count -- 4
+Passed (Sled Rental) -- 475
+firstPos -- x, index(non zero) -- 3
+secondPos -- c, index(non zero) -- 4
+Passed (Toboggan Rental) -- 654
+2 3 j jnjjjj
+Count -- 5
+Failed (Sled Rental) -- 451
+firstPos -- n, index(non zero) -- 2
+secondPos -- j, index(non zero) -- 3
+Passed (Toboggan Rental) -- 655
+10 12 f fffffffffffcf
+Count -- 12
+Passed (Sled Rental) -- 476
+firstPos -- f, index(non zero) -- 10
+secondPos -- c, index(non zero) -- 12
+Passed (Toboggan Rental) -- 656
+13 16 d dplpbdkxzjdlddddm
+Count -- 7
+Failed (Sled Rental) -- 452
+firstPos -- d, index(non zero) -- 13
+secondPos -- d, index(non zero) -- 16
+Failed (Toboggan Rental) -- 272
+2 10 h hjhhhhhhhjhhhh
+Count -- 12
+Failed (Sled Rental) -- 453
+firstPos -- j, index(non zero) -- 2
+secondPos -- j, index(non zero) -- 10
+Failed (Toboggan Rental) -- 273
+8 17 q xzszqwgpmscpcfqwkp
+Count -- 2
+Failed (Sled Rental) -- 454
+firstPos -- p, index(non zero) -- 8
+secondPos -- k, index(non zero) -- 17
+Failed (Toboggan Rental) -- 274
+8 11 q qqqqqqqvqqqq
+Count -- 11
+Passed (Sled Rental) -- 477
+firstPos -- v, index(non zero) -- 8
+secondPos -- q, index(non zero) -- 11
+Passed (Toboggan Rental) -- 657
+3 4 j lsjj
+Count -- 2
+Failed (Sled Rental) -- 455
+firstPos -- j, index(non zero) -- 3
+secondPos -- j, index(non zero) -- 4
+Failed (Toboggan Rental) -- 275
+8 9 z nszzjzzczzzptgkbd
+Count -- 7
+Failed (Sled Rental) -- 456
+firstPos -- c, index(non zero) -- 8
+secondPos -- z, index(non zero) -- 9
+Passed (Toboggan Rental) -- 658
+7 16 n nnnnnnnnnnnsnnnlnnnn
+Count -- 18
+Failed (Sled Rental) -- 457
+firstPos -- n, index(non zero) -- 7
+secondPos -- l, index(non zero) -- 16
+Passed (Toboggan Rental) -- 659
+2 16 p xswnqpctbvmllwjpw
+Count -- 2
+Passed (Sled Rental) -- 478
+firstPos -- s, index(non zero) -- 2
+secondPos -- p, index(non zero) -- 16
+Passed (Toboggan Rental) -- 660
+1 3 r rrgrrlr
+Count -- 5
+Failed (Sled Rental) -- 458
+firstPos -- r, index(non zero) -- 1
+secondPos -- g, index(non zero) -- 3
+Passed (Toboggan Rental) -- 661
+3 5 w wwlwh
+Count -- 3
+Passed (Sled Rental) -- 479
+firstPos -- l, index(non zero) -- 3
+secondPos -- h, index(non zero) -- 5
+Failed (Toboggan Rental) -- 276
+3 9 f bffktxcwpfhckffr
+Count -- 5
+Passed (Sled Rental) -- 480
+firstPos -- f, index(non zero) -- 3
+secondPos -- p, index(non zero) -- 9
+Passed (Toboggan Rental) -- 662
+5 6 g ghrjzg
+Count -- 2
+Failed (Sled Rental) -- 459
+firstPos -- z, index(non zero) -- 5
+secondPos -- g, index(non zero) -- 6
+Passed (Toboggan Rental) -- 663
+5 9 k xhnltmktkt
+Count -- 2
+Failed (Sled Rental) -- 460
+firstPos -- t, index(non zero) -- 5
+secondPos -- k, index(non zero) -- 9
+Passed (Toboggan Rental) -- 664
+1 6 x xxxxxxxxx
+Count -- 9
+Failed (Sled Rental) -- 461
+firstPos -- x, index(non zero) -- 1
+secondPos -- x, index(non zero) -- 6
+Failed (Toboggan Rental) -- 277
+1 4 l bllslllbnl
+Count -- 6
+Failed (Sled Rental) -- 462
+firstPos -- b, index(non zero) -- 1
+secondPos -- s, index(non zero) -- 4
+Failed (Toboggan Rental) -- 278
+8 16 v lvvvvvpvzvvvvvgwjvvv
+Count -- 14
+Passed (Sled Rental) -- 481
+firstPos -- v, index(non zero) -- 8
+secondPos -- w, index(non zero) -- 16
+Passed (Toboggan Rental) -- 665
+8 11 j jjcjjfzjjrj
+Count -- 7
+Failed (Sled Rental) -- 463
+firstPos -- j, index(non zero) -- 8
+secondPos -- j, index(non zero) -- 11
+Failed (Toboggan Rental) -- 279
+2 7 c wqcrhxcg
+Count -- 2
+Passed (Sled Rental) -- 482
+firstPos -- q, index(non zero) -- 2
+secondPos -- c, index(non zero) -- 7
+Passed (Toboggan Rental) -- 666
+10 13 p ppdppppppngbpdppz
+Count -- 11
+Passed (Sled Rental) -- 483
+firstPos -- n, index(non zero) -- 10
+secondPos -- p, index(non zero) -- 13
+Passed (Toboggan Rental) -- 667
+1 3 v gbflwpsdgnrzhkdv
+Count -- 1
+Passed (Sled Rental) -- 484
+firstPos -- g, index(non zero) -- 1
+secondPos -- f, index(non zero) -- 3
+Failed (Toboggan Rental) -- 280
+3 6 w pwhbwwwtww
+Count -- 6
+Passed (Sled Rental) -- 485
+firstPos -- h, index(non zero) -- 3
+secondPos -- w, index(non zero) -- 6
+Passed (Toboggan Rental) -- 668
+1 6 f qmfwff
+Count -- 3
+Passed (Sled Rental) -- 486
+firstPos -- q, index(non zero) -- 1
+secondPos -- f, index(non zero) -- 6
+Passed (Toboggan Rental) -- 669
+11 16 x xxnxxbxxxxgxxxsxrx
+Count -- 13
+Passed (Sled Rental) -- 487
+firstPos -- g, index(non zero) -- 11
+secondPos -- x, index(non zero) -- 16
+Passed (Toboggan Rental) -- 670
+3 11 b cztbfcbpcbb
+Count -- 4
+Passed (Sled Rental) -- 488
+firstPos -- t, index(non zero) -- 3
+secondPos -- b, index(non zero) -- 11
+Passed (Toboggan Rental) -- 671
+3 8 l bmljlgkjcw
+Count -- 2
+Failed (Sled Rental) -- 464
+firstPos -- l, index(non zero) -- 3
+secondPos -- j, index(non zero) -- 8
+Passed (Toboggan Rental) -- 672
+11 14 c hccccccccccscp
+Count -- 11
+Passed (Sled Rental) -- 489
+firstPos -- c, index(non zero) -- 11
+secondPos -- p, index(non zero) -- 14
+Passed (Toboggan Rental) -- 673
+4 7 l qlpxbll
+Count -- 3
+Failed (Sled Rental) -- 465
+firstPos -- x, index(non zero) -- 4
+secondPos -- l, index(non zero) -- 7
+Passed (Toboggan Rental) -- 674
+5 6 b kscpwb
+Count -- 1
+Failed (Sled Rental) -- 466
+firstPos -- w, index(non zero) -- 5
+secondPos -- b, index(non zero) -- 6
+Passed (Toboggan Rental) -- 675
+2 4 s sgtsmlhcm
+Count -- 2
+Passed (Sled Rental) -- 490
+firstPos -- g, index(non zero) -- 2
+secondPos -- s, index(non zero) -- 4
+Passed (Toboggan Rental) -- 676
+5 6 n nnnnnt
+Count -- 5
+Passed (Sled Rental) -- 491
+firstPos -- n, index(non zero) -- 5
+secondPos -- t, index(non zero) -- 6
+Passed (Toboggan Rental) -- 677
+8 12 c rcksqgcqcpfc
+Count -- 4
+Failed (Sled Rental) -- 467
+firstPos -- q, index(non zero) -- 8
+secondPos -- c, index(non zero) -- 12
+Passed (Toboggan Rental) -- 678
+3 4 w wclw
+Count -- 2
+Failed (Sled Rental) -- 468
+firstPos -- l, index(non zero) -- 3
+secondPos -- w, index(non zero) -- 4
+Passed (Toboggan Rental) -- 679
+6 10 s wlskbsmjkjngqqs
+Count -- 3
+Failed (Sled Rental) -- 469
+firstPos -- s, index(non zero) -- 6
+secondPos -- j, index(non zero) -- 10
+Passed (Toboggan Rental) -- 680
+16 17 g dfgggggwbgggggggt
+Count -- 12
+Failed (Sled Rental) -- 470
+firstPos -- g, index(non zero) -- 16
+secondPos -- t, index(non zero) -- 17
+Passed (Toboggan Rental) -- 681
+1 2 k kdjb
+Count -- 1
+Passed (Sled Rental) -- 492
+firstPos -- k, index(non zero) -- 1
+secondPos -- d, index(non zero) -- 2
+Passed (Toboggan Rental) -- 682
+2 6 p lmpppp
+Count -- 4
+Passed (Sled Rental) -- 493
+firstPos -- m, index(non zero) -- 2
+secondPos -- p, index(non zero) -- 6
+Passed (Toboggan Rental) -- 683
+3 5 f ffcfh
+Count -- 3
+Passed (Sled Rental) -- 494
+firstPos -- c, index(non zero) -- 3
+secondPos -- h, index(non zero) -- 5
+Failed (Toboggan Rental) -- 281
+3 4 w wwjl
+Count -- 2
+Failed (Sled Rental) -- 471
+firstPos -- j, index(non zero) -- 3
+secondPos -- l, index(non zero) -- 4
+Failed (Toboggan Rental) -- 282
+4 7 v vvtxvwvsqb
+Count -- 4
+Passed (Sled Rental) -- 495
+firstPos -- x, index(non zero) -- 4
+secondPos -- v, index(non zero) -- 7
+Passed (Toboggan Rental) -- 684
+4 6 s stslsxs
+Count -- 4
+Passed (Sled Rental) -- 496
+firstPos -- l, index(non zero) -- 4
+secondPos -- x, index(non zero) -- 6
+Failed (Toboggan Rental) -- 283
+11 15 x xrxcxxxxxxvxxxxcx
+Count -- 13
+Passed (Sled Rental) -- 497
+firstPos -- v, index(non zero) -- 11
+secondPos -- x, index(non zero) -- 15
+Passed (Toboggan Rental) -- 685
+4 7 r xrrlrrrrr
+Count -- 7
+Passed (Sled Rental) -- 498
+firstPos -- l, index(non zero) -- 4
+secondPos -- r, index(non zero) -- 7
+Passed (Toboggan Rental) -- 686
+5 10 v vvbvsvtmtvvvvv
+Count -- 9
+Passed (Sled Rental) -- 499
+firstPos -- s, index(non zero) -- 5
+secondPos -- v, index(non zero) -- 10
+Passed (Toboggan Rental) -- 687
+4 8 b cbjbbmsx
+Count -- 3
+Failed (Sled Rental) -- 472
+firstPos -- b, index(non zero) -- 4
+secondPos -- x, index(non zero) -- 8
+Passed (Toboggan Rental) -- 688
+1 6 t tttttgtt
+Count -- 7
+Failed (Sled Rental) -- 473
+firstPos -- t, index(non zero) -- 1
+secondPos -- g, index(non zero) -- 6
+Passed (Toboggan Rental) -- 689
+3 7 m mmkmmmmm
+Count -- 7
+Passed (Sled Rental) -- 500
+firstPos -- k, index(non zero) -- 3
+secondPos -- m, index(non zero) -- 7
+Passed (Toboggan Rental) -- 690
+13 16 p ppppmdspppgpwbpppplm
+Count -- 12
+Failed (Sled Rental) -- 474
+firstPos -- w, index(non zero) -- 13
+secondPos -- p, index(non zero) -- 16
+Passed (Toboggan Rental) -- 691
+2 6 h tlfdnhz
+Count -- 1
+Failed (Sled Rental) -- 475
+firstPos -- l, index(non zero) -- 2
+secondPos -- h, index(non zero) -- 6
+Passed (Toboggan Rental) -- 692
+6 7 f fsnfdftgsfdt
+Count -- 4
+Failed (Sled Rental) -- 476
+firstPos -- f, index(non zero) -- 6
+secondPos -- t, index(non zero) -- 7
+Passed (Toboggan Rental) -- 693
+9 10 c jcccjwgcccsccxnc
+Count -- 9
+Passed (Sled Rental) -- 501
+firstPos -- c, index(non zero) -- 9
+secondPos -- c, index(non zero) -- 10
+Failed (Toboggan Rental) -- 284
+6 14 h hhphhhrhhhhhhklhhh
+Count -- 14
+Passed (Sled Rental) -- 502
+firstPos -- h, index(non zero) -- 6
+secondPos -- k, index(non zero) -- 14
+Passed (Toboggan Rental) -- 694
+6 8 r xrrrrrrrrg
+Count -- 8
+Passed (Sled Rental) -- 503
+firstPos -- r, index(non zero) -- 6
+secondPos -- r, index(non zero) -- 8
+Failed (Toboggan Rental) -- 285
+8 10 g kgjgzgxgnwg
+Count -- 5
+Failed (Sled Rental) -- 477
+firstPos -- g, index(non zero) -- 8
+secondPos -- w, index(non zero) -- 10
+Passed (Toboggan Rental) -- 695
+5 13 p fdkrpjzttpgpp
+Count -- 4
+Failed (Sled Rental) -- 478
+firstPos -- p, index(non zero) -- 5
+secondPos -- p, index(non zero) -- 13
+Failed (Toboggan Rental) -- 286
+8 12 x xxxxxxxtxxxx
+Count -- 11
+Passed (Sled Rental) -- 504
+firstPos -- t, index(non zero) -- 8
+secondPos -- x, index(non zero) -- 12
+Passed (Toboggan Rental) -- 696
+3 9 v nvprvvvtxvvvv
+Count -- 8
+Passed (Sled Rental) -- 505
+firstPos -- p, index(non zero) -- 3
+secondPos -- x, index(non zero) -- 9
+Failed (Toboggan Rental) -- 287
+5 12 g gggggggggggjg
+Count -- 12
+Passed (Sled Rental) -- 506
+firstPos -- g, index(non zero) -- 5
+secondPos -- j, index(non zero) -- 12
+Passed (Toboggan Rental) -- 697
+2 4 x sxxsxxdxxbqsgxhqqc
+Count -- 7
+Failed (Sled Rental) -- 479
+firstPos -- x, index(non zero) -- 2
+secondPos -- s, index(non zero) -- 4
+Passed (Toboggan Rental) -- 698
+9 10 j jxjgjjmgjcjzjjjjj
+Count -- 11
+Failed (Sled Rental) -- 480
+firstPos -- j, index(non zero) -- 9
+secondPos -- c, index(non zero) -- 10
+Passed (Toboggan Rental) -- 699
+13 14 d ddddddddzdddfvld
+Count -- 12
+Failed (Sled Rental) -- 481
+firstPos -- f, index(non zero) -- 13
+secondPos -- v, index(non zero) -- 14
+Failed (Toboggan Rental) -- 288
+6 8 l lllmllllll
+Count -- 9
+Failed (Sled Rental) -- 482
+firstPos -- l, index(non zero) -- 6
+secondPos -- l, index(non zero) -- 8
+Failed (Toboggan Rental) -- 289
+3 4 k wqqkzwqgkqkk
+Count -- 4
+Passed (Sled Rental) -- 507
+firstPos -- q, index(non zero) -- 3
+secondPos -- k, index(non zero) -- 4
+Passed (Toboggan Rental) -- 700
+1 3 p dppp
+Count -- 3
+Passed (Sled Rental) -- 508
+firstPos -- d, index(non zero) -- 1
+secondPos -- p, index(non zero) -- 3
+Passed (Toboggan Rental) -- 701
+5 9 p ppkpppppjpt
+Count -- 8
+Passed (Sled Rental) -- 509
+firstPos -- p, index(non zero) -- 5
+secondPos -- j, index(non zero) -- 9
+Passed (Toboggan Rental) -- 702
+8 10 r rmqjnrrrrldrn
+Count -- 6
+Failed (Sled Rental) -- 483
+firstPos -- r, index(non zero) -- 8
+secondPos -- l, index(non zero) -- 10
+Passed (Toboggan Rental) -- 703
+14 15 j jjjjhjjjjjjjjjqj
+Count -- 14
+Passed (Sled Rental) -- 510
+firstPos -- j, index(non zero) -- 14
+secondPos -- q, index(non zero) -- 15
+Passed (Toboggan Rental) -- 704
+9 15 q mqsfqcqlqqfpgkbb
+Count -- 5
+Failed (Sled Rental) -- 484
+firstPos -- q, index(non zero) -- 9
+secondPos -- b, index(non zero) -- 15
+Passed (Toboggan Rental) -- 705
+11 14 d ddddhwxdddfrdddd
+Count -- 11
+Passed (Sled Rental) -- 511
+firstPos -- f, index(non zero) -- 11
+secondPos -- d, index(non zero) -- 14
+Passed (Toboggan Rental) -- 706
+5 7 h hhhhhhfh
+Count -- 7
+Passed (Sled Rental) -- 512
+firstPos -- h, index(non zero) -- 5
+secondPos -- f, index(non zero) -- 7
+Passed (Toboggan Rental) -- 707
+6 7 q qqlkdqjq
+Count -- 4
+Failed (Sled Rental) -- 485
+firstPos -- q, index(non zero) -- 6
+secondPos -- j, index(non zero) -- 7
+Passed (Toboggan Rental) -- 708
+10 11 r rrrrrrrrrvrrf
+Count -- 11
+Passed (Sled Rental) -- 513
+firstPos -- v, index(non zero) -- 10
+secondPos -- r, index(non zero) -- 11
+Passed (Toboggan Rental) -- 709
+2 3 k ftkkdc
+Count -- 2
+Passed (Sled Rental) -- 514
+firstPos -- t, index(non zero) -- 2
+secondPos -- k, index(non zero) -- 3
+Passed (Toboggan Rental) -- 710
+2 9 g jpxcgggzgsgngrhght
+Count -- 7
+Passed (Sled Rental) -- 515
+firstPos -- p, index(non zero) -- 2
+secondPos -- g, index(non zero) -- 9
+Passed (Toboggan Rental) -- 711
