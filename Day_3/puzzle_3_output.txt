@@ -1,0 +1,3069 @@
+Position -- 0 -- char .
+Tree Count -- 0
+Position -- 0 -- char .
+Tree Count -- 0
+Position -- 0 -- char .
+Tree Count -- 0
+Position -- 0 -- char .
+Tree Count -- 0
+Position -- 0 -- char .
+Tree Count (2 Down) -- 0
+Position -- 1 -- char .
+Tree Count -- 0
+Position -- 3 -- char #
+Tree Count -- 1
+Position -- 5 -- char .
+Tree Count -- 0
+Position -- 7 -- char .
+Tree Count -- 0
+Line Count-- 1
+Position -- 2 -- char .
+Tree Count -- 0
+Position -- 6 -- char .
+Tree Count -- 1
+Position -- 10 -- char #
+Tree Count -- 1
+Position -- 14 -- char .
+Tree Count -- 0
+Position -- 1 -- char .
+Tree Count (2 Down) -- 0
+Position -- 3 -- char .
+Tree Count -- 0
+Position -- 9 -- char #
+Tree Count -- 2
+Position -- 15 -- char .
+Tree Count -- 1
+Position -- 21 -- char .
+Tree Count -- 0
+Line Count-- 3
+Position -- 4 -- char #
+Tree Count -- 1
+Position -- 12 -- char .
+Tree Count -- 2
+Position -- 20 -- char .
+Tree Count -- 1
+Position -- 28 -- char .
+Tree Count -- 0
+Position -- 2 -- char #
+Tree Count (2 Down) -- 1
+Position -- 5 -- char #
+Tree Count -- 2
+Position -- 15 -- char #
+Tree Count -- 3
+Position -- 25 -- char .
+Tree Count -- 1
+Position -- 4 -- char .
+Tree Count -- 0
+Line Count-- 5
+Position -- 6 -- char .
+Tree Count -- 2
+Position -- 18 -- char #
+Tree Count -- 4
+Position -- 30 -- char .
+Tree Count -- 1
+Position -- 11 -- char .
+Tree Count -- 0
+Position -- 3 -- char #
+Tree Count (2 Down) -- 2
+Position -- 7 -- char .
+Tree Count -- 2
+Position -- 21 -- char .
+Tree Count -- 4
+Position -- 4 -- char .
+Tree Count -- 1
+Position -- 18 -- char #
+Tree Count -- 1
+Line Count-- 7
+Position -- 8 -- char .
+Tree Count -- 2
+Position -- 24 -- char #
+Tree Count -- 5
+Position -- 9 -- char #
+Tree Count -- 2
+Position -- 25 -- char .
+Tree Count -- 1
+Position -- 4 -- char .
+Tree Count (2 Down) -- 2
+Position -- 9 -- char .
+Tree Count -- 2
+Position -- 27 -- char #
+Tree Count -- 6
+Position -- 14 -- char .
+Tree Count -- 2
+Position -- 1 -- char .
+Tree Count -- 1
+Line Count-- 9
+Position -- 10 -- char #
+Tree Count -- 3
+Position -- 30 -- char #
+Tree Count -- 7
+Position -- 19 -- char .
+Tree Count -- 2
+Position -- 8 -- char .
+Tree Count -- 1
+Position -- 5 -- char .
+Tree Count (2 Down) -- 2
+Position -- 11 -- char .
+Tree Count -- 3
+Position -- 2 -- char .
+Tree Count -- 7
+Position -- 24 -- char .
+Tree Count -- 2
+Position -- 15 -- char .
+Tree Count -- 1
+Line Count-- 11
+Position -- 12 -- char .
+Tree Count -- 3
+Position -- 5 -- char #
+Tree Count -- 8
+Position -- 29 -- char .
+Tree Count -- 2
+Position -- 22 -- char .
+Tree Count -- 1
+Position -- 6 -- char #
+Tree Count (2 Down) -- 3
+Position -- 13 -- char .
+Tree Count -- 3
+Position -- 8 -- char .
+Tree Count -- 8
+Position -- 3 -- char .
+Tree Count -- 2
+Position -- 29 -- char .
+Tree Count -- 1
+Line Count-- 13
+Position -- 14 -- char .
+Tree Count -- 3
+Position -- 11 -- char #
+Tree Count -- 9
+Position -- 8 -- char .
+Tree Count -- 2
+Position -- 5 -- char .
+Tree Count -- 1
+Position -- 7 -- char #
+Tree Count (2 Down) -- 4
+Position -- 15 -- char .
+Tree Count -- 3
+Position -- 14 -- char #
+Tree Count -- 10
+Position -- 13 -- char .
+Tree Count -- 2
+Position -- 12 -- char #
+Tree Count -- 2
+Line Count-- 15
+Position -- 16 -- char #
+Tree Count -- 4
+Position -- 17 -- char .
+Tree Count -- 10
+Position -- 18 -- char .
+Tree Count -- 2
+Position -- 19 -- char #
+Tree Count -- 3
+Position -- 8 -- char .
+Tree Count (2 Down) -- 4
+Position -- 17 -- char .
+Tree Count -- 4
+Position -- 20 -- char .
+Tree Count -- 10
+Position -- 23 -- char #
+Tree Count -- 3
+Position -- 26 -- char .
+Tree Count -- 3
+Line Count-- 17
+Position -- 18 -- char .
+Tree Count -- 4
+Position -- 23 -- char #
+Tree Count -- 11
+Position -- 28 -- char .
+Tree Count -- 3
+Position -- 2 -- char .
+Tree Count -- 3
+Position -- 9 -- char .
+Tree Count (2 Down) -- 4
+Position -- 19 -- char .
+Tree Count -- 4
+Position -- 26 -- char #
+Tree Count -- 12
+Position -- 2 -- char .
+Tree Count -- 3
+Position -- 9 -- char #
+Tree Count -- 4
+Line Count-- 19
+Position -- 20 -- char .
+Tree Count -- 4
+Position -- 29 -- char #
+Tree Count -- 13
+Position -- 7 -- char .
+Tree Count -- 3
+Position -- 16 -- char .
+Tree Count -- 4
+Position -- 10 -- char #
+Tree Count (2 Down) -- 5
+Position -- 21 -- char .
+Tree Count -- 4
+Position -- 1 -- char #
+Tree Count -- 14
+Position -- 12 -- char .
+Tree Count -- 3
+Position -- 23 -- char .
+Tree Count -- 4
+Line Count-- 21
+Position -- 22 -- char .
+Tree Count -- 4
+Position -- 4 -- char .
+Tree Count -- 14
+Position -- 17 -- char #
+Tree Count -- 4
+Position -- 30 -- char #
+Tree Count -- 5
+Position -- 11 -- char .
+Tree Count (2 Down) -- 5
+Position -- 23 -- char .
+Tree Count -- 4
+Position -- 7 -- char #
+Tree Count -- 15
+Position -- 22 -- char .
+Tree Count -- 4
+Position -- 6 -- char .
+Tree Count -- 5
+Line Count-- 23
+Position -- 24 -- char .
+Tree Count -- 4
+Position -- 10 -- char #
+Tree Count -- 16
+Position -- 27 -- char .
+Tree Count -- 4
+Position -- 13 -- char .
+Tree Count -- 5
+Position -- 12 -- char .
+Tree Count (2 Down) -- 5
+Position -- 25 -- char #
+Tree Count -- 5
+Position -- 13 -- char #
+Tree Count -- 17
+Position -- 1 -- char .
+Tree Count -- 4
+Position -- 20 -- char .
+Tree Count -- 5
+Line Count-- 25
+Position -- 26 -- char .
+Tree Count -- 5
+Position -- 16 -- char #
+Tree Count -- 18
+Position -- 6 -- char .
+Tree Count -- 4
+Position -- 27 -- char .
+Tree Count -- 5
+Position -- 13 -- char .
+Tree Count (2 Down) -- 5
+Position -- 27 -- char .
+Tree Count -- 5
+Position -- 19 -- char #
+Tree Count -- 19
+Position -- 11 -- char .
+Tree Count -- 4
+Position -- 3 -- char #
+Tree Count -- 6
+Line Count-- 27
+Position -- 28 -- char .
+Tree Count -- 5
+Position -- 22 -- char .
+Tree Count -- 19
+Position -- 16 -- char #
+Tree Count -- 5
+Position -- 10 -- char #
+Tree Count -- 7
+Position -- 14 -- char .
+Tree Count (2 Down) -- 5
+Position -- 29 -- char .
+Tree Count -- 5
+Position -- 25 -- char #
+Tree Count -- 20
+Position -- 21 -- char .
+Tree Count -- 5
+Position -- 17 -- char #
+Tree Count -- 8
+Line Count-- 29
+Position -- 30 -- char #
+Tree Count -- 6
+Position -- 28 -- char #
+Tree Count -- 21
+Position -- 26 -- char #
+Tree Count -- 6
+Position -- 24 -- char .
+Tree Count -- 8
+Position -- 15 -- char #
+Tree Count (2 Down) -- 6
+Position -- 0 -- char #
+Tree Count -- 7
+Position -- 0 -- char #
+Tree Count -- 22
+Position -- 0 -- char #
+Tree Count -- 7
+Position -- 0 -- char #
+Tree Count -- 9
+Line Count-- 31
+Position -- 1 -- char #
+Tree Count -- 8
+Position -- 3 -- char #
+Tree Count -- 23
+Position -- 5 -- char #
+Tree Count -- 8
+Position -- 7 -- char .
+Tree Count -- 9
+Position -- 16 -- char .
+Tree Count (2 Down) -- 6
+Position -- 2 -- char .
+Tree Count -- 8
+Position -- 6 -- char .
+Tree Count -- 23
+Position -- 10 -- char .
+Tree Count -- 8
+Position -- 14 -- char #
+Tree Count -- 10
+Line Count-- 33
+Position -- 3 -- char .
+Tree Count -- 8
+Position -- 9 -- char #
+Tree Count -- 24
+Position -- 15 -- char .
+Tree Count -- 8
+Position -- 21 -- char .
+Tree Count -- 10
+Position -- 17 -- char #
+Tree Count (2 Down) -- 7
+Position -- 4 -- char #
+Tree Count -- 9
+Position -- 12 -- char #
+Tree Count -- 25
+Position -- 20 -- char .
+Tree Count -- 8
+Position -- 28 -- char #
+Tree Count -- 11
+Line Count-- 35
+Position -- 5 -- char .
+Tree Count -- 9
+Position -- 15 -- char #
+Tree Count -- 26
+Position -- 25 -- char .
+Tree Count -- 8
+Position -- 4 -- char .
+Tree Count -- 11
+Position -- 18 -- char .
+Tree Count (2 Down) -- 7
+Position -- 6 -- char .
+Tree Count -- 9
+Position -- 18 -- char .
+Tree Count -- 26
+Position -- 30 -- char .
+Tree Count -- 8
+Position -- 11 -- char #
+Tree Count -- 12
+Line Count-- 37
+Position -- 7 -- char .
+Tree Count -- 9
+Position -- 21 -- char #
+Tree Count -- 27
+Position -- 4 -- char .
+Tree Count -- 8
+Position -- 18 -- char .
+Tree Count -- 12
+Position -- 19 -- char #
+Tree Count (2 Down) -- 8
+Position -- 8 -- char .
+Tree Count -- 9
+Position -- 24 -- char .
+Tree Count -- 27
+Position -- 9 -- char .
+Tree Count -- 8
+Position -- 25 -- char .
+Tree Count -- 12
+Line Count-- 39
+Position -- 9 -- char #
+Tree Count -- 10
+Position -- 27 -- char .
+Tree Count -- 27
+Position -- 14 -- char .
+Tree Count -- 8
+Position -- 1 -- char .
+Tree Count -- 12
+Position -- 20 -- char #
+Tree Count (2 Down) -- 9
+Position -- 10 -- char .
+Tree Count -- 10
+Position -- 30 -- char .
+Tree Count -- 27
+Position -- 19 -- char .
+Tree Count -- 8
+Position -- 8 -- char #
+Tree Count -- 13
+Line Count-- 41
+Position -- 11 -- char .
+Tree Count -- 10
+Position -- 2 -- char #
+Tree Count -- 28
+Position -- 24 -- char .
+Tree Count -- 8
+Position -- 15 -- char .
+Tree Count -- 13
+Position -- 21 -- char #
+Tree Count (2 Down) -- 10
+Position -- 12 -- char #
+Tree Count -- 11
+Position -- 5 -- char .
+Tree Count -- 28
+Position -- 29 -- char .
+Tree Count -- 8
+Position -- 22 -- char .
+Tree Count -- 13
+Line Count-- 43
+Position -- 13 -- char #
+Tree Count -- 12
+Position -- 8 -- char #
+Tree Count -- 29
+Position -- 3 -- char .
+Tree Count -- 8
+Position -- 29 -- char .
+Tree Count -- 13
+Position -- 22 -- char .
+Tree Count (2 Down) -- 10
+Position -- 14 -- char .
+Tree Count -- 12
+Position -- 11 -- char #
+Tree Count -- 30
+Position -- 8 -- char .
+Tree Count -- 8
+Position -- 5 -- char .
+Tree Count -- 13
+Line Count-- 45
+Position -- 15 -- char .
+Tree Count -- 12
+Position -- 14 -- char #
+Tree Count -- 31
+Position -- 13 -- char #
+Tree Count -- 9
+Position -- 12 -- char .
+Tree Count -- 13
+Position -- 23 -- char .
+Tree Count (2 Down) -- 10
+Position -- 16 -- char .
+Tree Count -- 12
+Position -- 17 -- char #
+Tree Count -- 32
+Position -- 18 -- char .
+Tree Count -- 9
+Position -- 19 -- char .
+Tree Count -- 13
+Line Count-- 47
+Position -- 17 -- char #
+Tree Count -- 13
+Position -- 20 -- char #
+Tree Count -- 33
+Position -- 23 -- char .
+Tree Count -- 9
+Position -- 26 -- char .
+Tree Count -- 13
+Position -- 24 -- char .
+Tree Count (2 Down) -- 10
+Position -- 18 -- char .
+Tree Count -- 13
+Position -- 23 -- char .
+Tree Count -- 33
+Position -- 28 -- char #
+Tree Count -- 10
+Position -- 2 -- char .
+Tree Count -- 13
+Line Count-- 49
+Position -- 19 -- char .
+Tree Count -- 13
+Position -- 26 -- char #
+Tree Count -- 34
+Position -- 2 -- char .
+Tree Count -- 10
+Position -- 9 -- char .
+Tree Count -- 13
+Position -- 25 -- char .
+Tree Count (2 Down) -- 10
+Position -- 20 -- char .
+Tree Count -- 13
+Position -- 29 -- char .
+Tree Count -- 34
+Position -- 7 -- char .
+Tree Count -- 10
+Position -- 16 -- char #
+Tree Count -- 14
+Line Count-- 51
+Position -- 21 -- char .
+Tree Count -- 13
+Position -- 1 -- char .
+Tree Count -- 34
+Position -- 12 -- char .
+Tree Count -- 10
+Position -- 23 -- char .
+Tree Count -- 14
+Position -- 26 -- char .
+Tree Count (2 Down) -- 10
+Position -- 22 -- char .
+Tree Count -- 13
+Position -- 4 -- char #
+Tree Count -- 35
+Position -- 17 -- char .
+Tree Count -- 10
+Position -- 30 -- char .
+Tree Count -- 14
+Line Count-- 53
+Position -- 23 -- char .
+Tree Count -- 13
+Position -- 7 -- char .
+Tree Count -- 35
+Position -- 22 -- char .
+Tree Count -- 10
+Position -- 6 -- char .
+Tree Count -- 14
+Position -- 27 -- char .
+Tree Count (2 Down) -- 10
+Position -- 24 -- char #
+Tree Count -- 14
+Position -- 10 -- char #
+Tree Count -- 36
+Position -- 27 -- char .
+Tree Count -- 10
+Position -- 13 -- char .
+Tree Count -- 14
+Line Count-- 55
+Position -- 25 -- char .
+Tree Count -- 14
+Position -- 13 -- char #
+Tree Count -- 37
+Position -- 1 -- char .
+Tree Count -- 10
+Position -- 20 -- char #
+Tree Count -- 15
+Position -- 28 -- char .
+Tree Count (2 Down) -- 10
+Position -- 26 -- char #
+Tree Count -- 15
+Position -- 16 -- char #
+Tree Count -- 38
+Position -- 6 -- char .
+Tree Count -- 10
+Position -- 27 -- char .
+Tree Count -- 15
+Line Count-- 57
+Position -- 27 -- char .
+Tree Count -- 15
+Position -- 19 -- char .
+Tree Count -- 38
+Position -- 11 -- char .
+Tree Count -- 10
+Position -- 3 -- char #
+Tree Count -- 16
+Position -- 29 -- char .
+Tree Count (2 Down) -- 10
+Position -- 28 -- char .
+Tree Count -- 15
+Position -- 22 -- char #
+Tree Count -- 39
+Position -- 16 -- char .
+Tree Count -- 10
+Position -- 10 -- char #
+Tree Count -- 17
+Line Count-- 59
+Position -- 29 -- char .
+Tree Count -- 15
+Position -- 25 -- char #
+Tree Count -- 40
+Position -- 21 -- char .
+Tree Count -- 10
+Position -- 17 -- char #
+Tree Count -- 18
+Position -- 30 -- char #
+Tree Count (2 Down) -- 11
+Position -- 30 -- char .
+Tree Count -- 15
+Position -- 28 -- char #
+Tree Count -- 41
+Position -- 26 -- char #
+Tree Count -- 11
+Position -- 24 -- char .
+Tree Count -- 18
+Line Count-- 61
+Position -- 0 -- char #
+Tree Count -- 16
+Position -- 0 -- char #
+Tree Count -- 42
+Position -- 0 -- char #
+Tree Count -- 12
+Position -- 0 -- char #
+Tree Count -- 19
+Position -- 0 -- char #
+Tree Count (2 Down) -- 12
+Position -- 1 -- char #
+Tree Count -- 17
+Position -- 3 -- char #
+Tree Count -- 43
+Position -- 5 -- char #
+Tree Count -- 13
+Position -- 7 -- char .
+Tree Count -- 19
+Line Count-- 63
+Position -- 2 -- char .
+Tree Count -- 17
+Position -- 6 -- char #
+Tree Count -- 44
+Position -- 10 -- char .
+Tree Count -- 13
+Position -- 14 -- char .
+Tree Count -- 19
+Position -- 1 -- char .
+Tree Count (2 Down) -- 12
+Position -- 3 -- char #
+Tree Count -- 18
+Position -- 9 -- char #
+Tree Count -- 45
+Position -- 15 -- char .
+Tree Count -- 13
+Position -- 21 -- char .
+Tree Count -- 19
+Line Count-- 65
+Position -- 4 -- char .
+Tree Count -- 18
+Position -- 12 -- char #
+Tree Count -- 46
+Position -- 20 -- char .
+Tree Count -- 13
+Position -- 28 -- char #
+Tree Count -- 20
+Position -- 2 -- char .
+Tree Count (2 Down) -- 12
+Position -- 5 -- char #
+Tree Count -- 19
+Position -- 15 -- char #
+Tree Count -- 47
+Position -- 25 -- char .
+Tree Count -- 13
+Position -- 4 -- char #
+Tree Count -- 21
+Line Count-- 67
+Position -- 6 -- char .
+Tree Count -- 19
+Position -- 18 -- char #
+Tree Count -- 48
+Position -- 30 -- char .
+Tree Count -- 13
+Position -- 11 -- char .
+Tree Count -- 21
+Position -- 3 -- char .
+Tree Count (2 Down) -- 12
+Position -- 7 -- char .
+Tree Count -- 19
+Position -- 21 -- char #
+Tree Count -- 49
+Position -- 4 -- char .
+Tree Count -- 13
+Position -- 18 -- char #
+Tree Count -- 22
+Line Count-- 69
+Position -- 8 -- char #
+Tree Count -- 20
+Position -- 24 -- char #
+Tree Count -- 50
+Position -- 9 -- char .
+Tree Count -- 13
+Position -- 25 -- char .
+Tree Count -- 22
+Position -- 4 -- char .
+Tree Count (2 Down) -- 12
+Position -- 9 -- char .
+Tree Count -- 20
+Position -- 27 -- char #
+Tree Count -- 51
+Position -- 14 -- char .
+Tree Count -- 13
+Position -- 1 -- char .
+Tree Count -- 22
+Line Count-- 71
+Position -- 10 -- char #
+Tree Count -- 21
+Position -- 30 -- char #
+Tree Count -- 52
+Position -- 19 -- char #
+Tree Count -- 14
+Position -- 8 -- char #
+Tree Count -- 23
+Position -- 5 -- char .
+Tree Count (2 Down) -- 12
+Position -- 11 -- char .
+Tree Count -- 21
+Position -- 2 -- char #
+Tree Count -- 53
+Position -- 24 -- char #
+Tree Count -- 15
+Position -- 15 -- char .
+Tree Count -- 23
+Line Count-- 73
+Position -- 12 -- char #
+Tree Count -- 22
+Position -- 5 -- char #
+Tree Count -- 54
+Position -- 29 -- char .
+Tree Count -- 15
+Position -- 22 -- char .
+Tree Count -- 23
+Position -- 6 -- char #
+Tree Count (2 Down) -- 13
+Position -- 13 -- char .
+Tree Count -- 22
+Position -- 8 -- char #
+Tree Count -- 55
+Position -- 3 -- char #
+Tree Count -- 16
+Position -- 29 -- char .
+Tree Count -- 23
+Line Count-- 75
+Position -- 14 -- char .
+Tree Count -- 22
+Position -- 11 -- char .
+Tree Count -- 55
+Position -- 8 -- char .
+Tree Count -- 16
+Position -- 5 -- char .
+Tree Count -- 23
+Position -- 7 -- char .
+Tree Count (2 Down) -- 13
+Position -- 15 -- char .
+Tree Count -- 22
+Position -- 14 -- char #
+Tree Count -- 56
+Position -- 13 -- char .
+Tree Count -- 16
+Position -- 12 -- char .
+Tree Count -- 23
+Line Count-- 77
+Position -- 16 -- char .
+Tree Count -- 22
+Position -- 17 -- char #
+Tree Count -- 57
+Position -- 18 -- char .
+Tree Count -- 16
+Position -- 19 -- char .
+Tree Count -- 23
+Position -- 8 -- char .
+Tree Count (2 Down) -- 13
+Position -- 17 -- char .
+Tree Count -- 22
+Position -- 20 -- char #
+Tree Count -- 58
+Position -- 23 -- char .
+Tree Count -- 16
+Position -- 26 -- char .
+Tree Count -- 23
+Line Count-- 79
+Position -- 18 -- char .
+Tree Count -- 22
+Position -- 23 -- char #
+Tree Count -- 59
+Position -- 28 -- char #
+Tree Count -- 17
+Position -- 2 -- char .
+Tree Count -- 23
+Position -- 9 -- char .
+Tree Count (2 Down) -- 13
+Position -- 19 -- char .
+Tree Count -- 22
+Position -- 26 -- char .
+Tree Count -- 59
+Position -- 2 -- char .
+Tree Count -- 17
+Position -- 9 -- char .
+Tree Count -- 23
+Line Count-- 81
+Position -- 20 -- char .
+Tree Count -- 22
+Position -- 29 -- char #
+Tree Count -- 60
+Position -- 7 -- char .
+Tree Count -- 17
+Position -- 16 -- char .
+Tree Count -- 23
+Position -- 10 -- char #
+Tree Count (2 Down) -- 14
+Position -- 21 -- char .
+Tree Count -- 22
+Position -- 1 -- char #
+Tree Count -- 61
+Position -- 12 -- char .
+Tree Count -- 17
+Position -- 23 -- char .
+Tree Count -- 23
+Line Count-- 83
+Position -- 22 -- char .
+Tree Count -- 22
+Position -- 4 -- char #
+Tree Count -- 62
+Position -- 17 -- char #
+Tree Count -- 18
+Position -- 30 -- char .
+Tree Count -- 23
+Position -- 11 -- char #
+Tree Count (2 Down) -- 15
+Position -- 23 -- char .
+Tree Count -- 22
+Position -- 7 -- char #
+Tree Count -- 63
+Position -- 22 -- char #
+Tree Count -- 19
+Position -- 6 -- char .
+Tree Count -- 23
+Line Count-- 85
+Position -- 24 -- char .
+Tree Count -- 22
+Position -- 10 -- char #
+Tree Count -- 64
+Position -- 27 -- char .
+Tree Count -- 19
+Position -- 13 -- char .
+Tree Count -- 23
+Position -- 12 -- char .
+Tree Count (2 Down) -- 15
+Position -- 25 -- char .
+Tree Count -- 22
+Position -- 13 -- char .
+Tree Count -- 64
+Position -- 1 -- char .
+Tree Count -- 19
+Position -- 20 -- char .
+Tree Count -- 23
+Line Count-- 87
+Position -- 26 -- char .
+Tree Count -- 22
+Position -- 16 -- char #
+Tree Count -- 65
+Position -- 6 -- char .
+Tree Count -- 19
+Position -- 27 -- char .
+Tree Count -- 23
+Position -- 13 -- char .
+Tree Count (2 Down) -- 15
+Position -- 27 -- char .
+Tree Count -- 22
+Position -- 19 -- char #
+Tree Count -- 66
+Position -- 11 -- char .
+Tree Count -- 19
+Position -- 3 -- char .
+Tree Count -- 23
+Line Count-- 89
+Position -- 28 -- char #
+Tree Count -- 23
+Position -- 22 -- char .
+Tree Count -- 66
+Position -- 16 -- char .
+Tree Count -- 19
+Position -- 10 -- char .
+Tree Count -- 23
+Position -- 14 -- char .
+Tree Count (2 Down) -- 15
+Position -- 29 -- char .
+Tree Count -- 23
+Position -- 25 -- char #
+Tree Count -- 67
+Position -- 21 -- char .
+Tree Count -- 19
+Position -- 17 -- char .
+Tree Count -- 23
+Line Count-- 91
+Position -- 30 -- char #
+Tree Count -- 24
+Position -- 28 -- char #
+Tree Count -- 68
+Position -- 26 -- char #
+Tree Count -- 20
+Position -- 24 -- char .
+Tree Count -- 23
+Position -- 15 -- char .
+Tree Count (2 Down) -- 15
+Position -- 0 -- char .
+Tree Count -- 24
+Position -- 0 -- char .
+Tree Count -- 68
+Position -- 0 -- char .
+Tree Count -- 20
+Position -- 0 -- char .
+Tree Count -- 23
+Line Count-- 93
+Position -- 1 -- char .
+Tree Count -- 24
+Position -- 3 -- char #
+Tree Count -- 69
+Position -- 5 -- char .
+Tree Count -- 20
+Position -- 7 -- char .
+Tree Count -- 23
+Position -- 16 -- char .
+Tree Count (2 Down) -- 15
+Position -- 2 -- char .
+Tree Count -- 24
+Position -- 6 -- char #
+Tree Count -- 70
+Position -- 10 -- char .
+Tree Count -- 20
+Position -- 14 -- char .
+Tree Count -- 23
+Line Count-- 95
+Position -- 3 -- char .
+Tree Count -- 24
+Position -- 9 -- char #
+Tree Count -- 71
+Position -- 15 -- char .
+Tree Count -- 20
+Position -- 21 -- char .
+Tree Count -- 23
+Position -- 17 -- char .
+Tree Count (2 Down) -- 15
+Position -- 4 -- char .
+Tree Count -- 24
+Position -- 12 -- char #
+Tree Count -- 72
+Position -- 20 -- char .
+Tree Count -- 20
+Position -- 28 -- char .
+Tree Count -- 23
+Line Count-- 97
+Position -- 5 -- char .
+Tree Count -- 24
+Position -- 15 -- char #
+Tree Count -- 73
+Position -- 25 -- char #
+Tree Count -- 21
+Position -- 4 -- char .
+Tree Count -- 23
+Position -- 18 -- char .
+Tree Count (2 Down) -- 15
+Position -- 6 -- char #
+Tree Count -- 25
+Position -- 18 -- char #
+Tree Count -- 74
+Position -- 30 -- char .
+Tree Count -- 21
+Position -- 11 -- char .
+Tree Count -- 23
+Line Count-- 99
+Position -- 7 -- char .
+Tree Count -- 25
+Position -- 21 -- char #
+Tree Count -- 75
+Position -- 4 -- char .
+Tree Count -- 21
+Position -- 18 -- char #
+Tree Count -- 24
+Position -- 19 -- char .
+Tree Count (2 Down) -- 15
+Position -- 8 -- char .
+Tree Count -- 25
+Position -- 24 -- char #
+Tree Count -- 76
+Position -- 9 -- char .
+Tree Count -- 21
+Position -- 25 -- char .
+Tree Count -- 24
+Line Count-- 101
+Position -- 9 -- char #
+Tree Count -- 26
+Position -- 27 -- char .
+Tree Count -- 76
+Position -- 14 -- char #
+Tree Count -- 22
+Position -- 1 -- char .
+Tree Count -- 24
+Position -- 20 -- char .
+Tree Count (2 Down) -- 15
+Position -- 10 -- char #
+Tree Count -- 27
+Position -- 30 -- char .
+Tree Count -- 76
+Position -- 19 -- char .
+Tree Count -- 22
+Position -- 8 -- char #
+Tree Count -- 25
+Line Count-- 103
+Position -- 11 -- char .
+Tree Count -- 27
+Position -- 2 -- char #
+Tree Count -- 77
+Position -- 24 -- char .
+Tree Count -- 22
+Position -- 15 -- char #
+Tree Count -- 26
+Position -- 21 -- char .
+Tree Count (2 Down) -- 15
+Position -- 12 -- char .
+Tree Count -- 27
+Position -- 5 -- char .
+Tree Count -- 77
+Position -- 29 -- char .
+Tree Count -- 22
+Position -- 22 -- char .
+Tree Count -- 26
+Line Count-- 105
+Position -- 13 -- char .
+Tree Count -- 27
+Position -- 8 -- char #
+Tree Count -- 78
+Position -- 3 -- char .
+Tree Count -- 22
+Position -- 29 -- char .
+Tree Count -- 26
+Position -- 22 -- char .
+Tree Count (2 Down) -- 15
+Position -- 14 -- char .
+Tree Count -- 27
+Position -- 11 -- char .
+Tree Count -- 78
+Position -- 8 -- char #
+Tree Count -- 23
+Position -- 5 -- char .
+Tree Count -- 26
+Line Count-- 107
+Position -- 15 -- char .
+Tree Count -- 27
+Position -- 14 -- char #
+Tree Count -- 79
+Position -- 13 -- char .
+Tree Count -- 23
+Position -- 12 -- char .
+Tree Count -- 26
+Position -- 23 -- char .
+Tree Count (2 Down) -- 15
+Position -- 16 -- char .
+Tree Count -- 27
+Position -- 17 -- char #
+Tree Count -- 80
+Position -- 18 -- char #
+Tree Count -- 24
+Position -- 19 -- char .
+Tree Count -- 26
+Line Count-- 109
+Position -- 17 -- char #
+Tree Count -- 28
+Position -- 20 -- char #
+Tree Count -- 81
+Position -- 23 -- char .
+Tree Count -- 24
+Position -- 26 -- char #
+Tree Count -- 27
+Position -- 24 -- char .
+Tree Count (2 Down) -- 15
+Position -- 18 -- char #
+Tree Count -- 29
+Position -- 23 -- char .
+Tree Count -- 81
+Position -- 28 -- char #
+Tree Count -- 25
+Position -- 2 -- char .
+Tree Count -- 27
+Line Count-- 111
+Position -- 19 -- char .
+Tree Count -- 29
+Position -- 26 -- char #
+Tree Count -- 82
+Position -- 2 -- char .
+Tree Count -- 25
+Position -- 9 -- char .
+Tree Count -- 27
+Position -- 25 -- char #
+Tree Count (2 Down) -- 16
+Position -- 20 -- char .
+Tree Count -- 29
+Position -- 29 -- char #
+Tree Count -- 83
+Position -- 7 -- char .
+Tree Count -- 25
+Position -- 16 -- char .
+Tree Count -- 27
+Line Count-- 113
+Position -- 21 -- char .
+Tree Count -- 29
+Position -- 1 -- char #
+Tree Count -- 84
+Position -- 12 -- char #
+Tree Count -- 26
+Position -- 23 -- char .
+Tree Count -- 27
+Position -- 26 -- char .
+Tree Count (2 Down) -- 16
+Position -- 22 -- char .
+Tree Count -- 29
+Position -- 4 -- char #
+Tree Count -- 85
+Position -- 17 -- char #
+Tree Count -- 27
+Position -- 30 -- char .
+Tree Count -- 27
+Line Count-- 115
+Position -- 23 -- char #
+Tree Count -- 30
+Position -- 7 -- char #
+Tree Count -- 86
+Position -- 22 -- char #
+Tree Count -- 28
+Position -- 6 -- char #
+Tree Count -- 28
+Position -- 27 -- char #
+Tree Count (2 Down) -- 17
+Position -- 24 -- char .
+Tree Count -- 30
+Position -- 10 -- char #
+Tree Count -- 87
+Position -- 27 -- char .
+Tree Count -- 28
+Position -- 13 -- char .
+Tree Count -- 28
+Line Count-- 117
+Position -- 25 -- char .
+Tree Count -- 30
+Position -- 13 -- char #
+Tree Count -- 88
+Position -- 1 -- char .
+Tree Count -- 28
+Position -- 20 -- char #
+Tree Count -- 29
+Position -- 28 -- char #
+Tree Count (2 Down) -- 18
+Position -- 26 -- char .
+Tree Count -- 30
+Position -- 16 -- char #
+Tree Count -- 89
+Position -- 6 -- char #
+Tree Count -- 29
+Position -- 27 -- char .
+Tree Count -- 29
+Line Count-- 119
+Position -- 27 -- char .
+Tree Count -- 30
+Position -- 19 -- char #
+Tree Count -- 90
+Position -- 11 -- char #
+Tree Count -- 30
+Position -- 3 -- char #
+Tree Count -- 30
+Position -- 29 -- char #
+Tree Count (2 Down) -- 19
+Position -- 28 -- char .
+Tree Count -- 30
+Position -- 22 -- char .
+Tree Count -- 90
+Position -- 16 -- char .
+Tree Count -- 30
+Position -- 10 -- char .
+Tree Count -- 30
+Line Count-- 121
+Position -- 29 -- char .
+Tree Count -- 30
+Position -- 25 -- char #
+Tree Count -- 91
+Position -- 21 -- char .
+Tree Count -- 30
+Position -- 17 -- char .
+Tree Count -- 30
+Position -- 30 -- char .
+Tree Count (2 Down) -- 19
+Position -- 30 -- char .
+Tree Count -- 30
+Position -- 28 -- char #
+Tree Count -- 92
+Position -- 26 -- char .
+Tree Count -- 30
+Position -- 24 -- char .
+Tree Count -- 30
+Line Count-- 123
+Position -- 0 -- char #
+Tree Count -- 31
+Position -- 0 -- char #
+Tree Count -- 93
+Position -- 0 -- char #
+Tree Count -- 31
+Position -- 0 -- char #
+Tree Count -- 31
+Position -- 0 -- char #
+Tree Count (2 Down) -- 20
+Position -- 1 -- char .
+Tree Count -- 31
+Position -- 3 -- char #
+Tree Count -- 94
+Position -- 5 -- char .
+Tree Count -- 31
+Position -- 7 -- char .
+Tree Count -- 31
+Line Count-- 125
+Position -- 2 -- char .
+Tree Count -- 31
+Position -- 6 -- char .
+Tree Count -- 94
+Position -- 10 -- char .
+Tree Count -- 31
+Position -- 14 -- char .
+Tree Count -- 31
+Position -- 1 -- char #
+Tree Count (2 Down) -- 21
+Position -- 3 -- char .
+Tree Count -- 31
+Position -- 9 -- char #
+Tree Count -- 95
+Position -- 15 -- char .
+Tree Count -- 31
+Position -- 21 -- char .
+Tree Count -- 31
+Line Count-- 127
+Position -- 4 -- char .
+Tree Count -- 31
+Position -- 12 -- char #
+Tree Count -- 96
+Position -- 20 -- char .
+Tree Count -- 31
+Position -- 28 -- char .
+Tree Count -- 31
+Position -- 2 -- char .
+Tree Count (2 Down) -- 21
+Position -- 5 -- char .
+Tree Count -- 31
+Position -- 15 -- char #
+Tree Count -- 97
+Position -- 25 -- char .
+Tree Count -- 31
+Position -- 4 -- char .
+Tree Count -- 31
+Line Count-- 129
+Position -- 6 -- char .
+Tree Count -- 31
+Position -- 18 -- char #
+Tree Count -- 98
+Position -- 30 -- char .
+Tree Count -- 31
+Position -- 11 -- char .
+Tree Count -- 31
+Position -- 3 -- char .
+Tree Count (2 Down) -- 21
+Position -- 7 -- char .
+Tree Count -- 31
+Position -- 21 -- char #
+Tree Count -- 99
+Position -- 4 -- char .
+Tree Count -- 31
+Position -- 18 -- char .
+Tree Count -- 31
+Line Count-- 131
+Position -- 8 -- char .
+Tree Count -- 31
+Position -- 24 -- char #
+Tree Count -- 100
+Position -- 9 -- char .
+Tree Count -- 31
+Position -- 25 -- char .
+Tree Count -- 31
+Position -- 4 -- char .
+Tree Count (2 Down) -- 21
+Position -- 9 -- char .
+Tree Count -- 31
+Position -- 27 -- char .
+Tree Count -- 100
+Position -- 14 -- char .
+Tree Count -- 31
+Position -- 1 -- char #
+Tree Count -- 32
+Line Count-- 133
+Position -- 10 -- char .
+Tree Count -- 31
+Position -- 30 -- char #
+Tree Count -- 101
+Position -- 19 -- char .
+Tree Count -- 31
+Position -- 8 -- char .
+Tree Count -- 32
+Position -- 5 -- char #
+Tree Count (2 Down) -- 22
+Position -- 11 -- char .
+Tree Count -- 31
+Position -- 2 -- char .
+Tree Count -- 101
+Position -- 24 -- char #
+Tree Count -- 32
+Position -- 15 -- char #
+Tree Count -- 33
+Line Count-- 135
+Position -- 12 -- char #
+Tree Count -- 32
+Position -- 5 -- char .
+Tree Count -- 101
+Position -- 29 -- char .
+Tree Count -- 32
+Position -- 22 -- char .
+Tree Count -- 33
+Position -- 6 -- char .
+Tree Count (2 Down) -- 22
+Position -- 13 -- char .
+Tree Count -- 32
+Position -- 8 -- char .
+Tree Count -- 101
+Position -- 3 -- char .
+Tree Count -- 32
+Position -- 29 -- char .
+Tree Count -- 33
+Line Count-- 137
+Position -- 14 -- char .
+Tree Count -- 32
+Position -- 11 -- char #
+Tree Count -- 102
+Position -- 8 -- char #
+Tree Count -- 33
+Position -- 5 -- char .
+Tree Count -- 33
+Position -- 7 -- char .
+Tree Count (2 Down) -- 22
+Position -- 15 -- char #
+Tree Count -- 33
+Position -- 14 -- char #
+Tree Count -- 103
+Position -- 13 -- char .
+Tree Count -- 33
+Position -- 12 -- char .
+Tree Count -- 33
+Line Count-- 139
+Position -- 16 -- char .
+Tree Count -- 33
+Position -- 17 -- char .
+Tree Count -- 103
+Position -- 18 -- char .
+Tree Count -- 33
+Position -- 19 -- char #
+Tree Count -- 34
+Position -- 8 -- char .
+Tree Count (2 Down) -- 22
+Position -- 17 -- char .
+Tree Count -- 33
+Position -- 20 -- char .
+Tree Count -- 103
+Position -- 23 -- char #
+Tree Count -- 34
+Position -- 26 -- char .
+Tree Count -- 34
+Line Count-- 141
+Position -- 18 -- char #
+Tree Count -- 34
+Position -- 23 -- char #
+Tree Count -- 104
+Position -- 28 -- char .
+Tree Count -- 34
+Position -- 2 -- char #
+Tree Count -- 35
+Position -- 9 -- char #
+Tree Count (2 Down) -- 23
+Position -- 19 -- char #
+Tree Count -- 35
+Position -- 26 -- char .
+Tree Count -- 104
+Position -- 2 -- char .
+Tree Count -- 34
+Position -- 9 -- char .
+Tree Count -- 35
+Line Count-- 143
+Position -- 20 -- char #
+Tree Count -- 36
+Position -- 29 -- char .
+Tree Count -- 104
+Position -- 7 -- char .
+Tree Count -- 34
+Position -- 16 -- char .
+Tree Count -- 35
+Position -- 10 -- char .
+Tree Count (2 Down) -- 23
+Position -- 21 -- char .
+Tree Count -- 36
+Position -- 1 -- char #
+Tree Count -- 105
+Position -- 12 -- char #
+Tree Count -- 35
+Position -- 23 -- char .
+Tree Count -- 35
+Line Count-- 145
+Position -- 22 -- char .
+Tree Count -- 36
+Position -- 4 -- char #
+Tree Count -- 106
+Position -- 17 -- char .
+Tree Count -- 35
+Position -- 30 -- char #
+Tree Count -- 36
+Position -- 11 -- char .
+Tree Count (2 Down) -- 23
+Position -- 23 -- char #
+Tree Count -- 37
+Position -- 7 -- char .
+Tree Count -- 106
+Position -- 22 -- char .
+Tree Count -- 35
+Position -- 6 -- char .
+Tree Count -- 36
+Line Count-- 147
+Position -- 24 -- char .
+Tree Count -- 37
+Position -- 10 -- char .
+Tree Count -- 106
+Position -- 27 -- char #
+Tree Count -- 36
+Position -- 13 -- char #
+Tree Count -- 37
+Position -- 12 -- char .
+Tree Count (2 Down) -- 23
+Position -- 25 -- char .
+Tree Count -- 37
+Position -- 13 -- char .
+Tree Count -- 106
+Position -- 1 -- char .
+Tree Count -- 36
+Position -- 20 -- char .
+Tree Count -- 37
+Line Count-- 149
+Position -- 26 -- char .
+Tree Count -- 37
+Position -- 16 -- char #
+Tree Count -- 107
+Position -- 6 -- char .
+Tree Count -- 36
+Position -- 27 -- char #
+Tree Count -- 38
+Position -- 13 -- char .
+Tree Count (2 Down) -- 23
+Position -- 27 -- char .
+Tree Count -- 37
+Position -- 19 -- char #
+Tree Count -- 108
+Position -- 11 -- char .
+Tree Count -- 36
+Position -- 3 -- char .
+Tree Count -- 38
+Line Count-- 151
+Position -- 28 -- char .
+Tree Count -- 37
+Position -- 22 -- char .
+Tree Count -- 108
+Position -- 16 -- char #
+Tree Count -- 37
+Position -- 10 -- char .
+Tree Count -- 38
+Position -- 14 -- char #
+Tree Count (2 Down) -- 24
+Position -- 29 -- char .
+Tree Count -- 37
+Position -- 25 -- char .
+Tree Count -- 108
+Position -- 21 -- char .
+Tree Count -- 37
+Position -- 17 -- char #
+Tree Count -- 39
+Line Count-- 153
+Position -- 30 -- char .
+Tree Count -- 37
+Position -- 28 -- char .
+Tree Count -- 108
+Position -- 26 -- char .
+Tree Count -- 37
+Position -- 24 -- char .
+Tree Count -- 39
+Position -- 15 -- char .
+Tree Count (2 Down) -- 24
+Position -- 0 -- char #
+Tree Count -- 38
+Position -- 0 -- char #
+Tree Count -- 109
+Position -- 0 -- char #
+Tree Count -- 38
+Position -- 0 -- char #
+Tree Count -- 40
+Line Count-- 155
+Position -- 1 -- char .
+Tree Count -- 38
+Position -- 3 -- char .
+Tree Count -- 109
+Position -- 5 -- char .
+Tree Count -- 38
+Position -- 7 -- char #
+Tree Count -- 41
+Position -- 16 -- char .
+Tree Count (2 Down) -- 24
+Position -- 2 -- char .
+Tree Count -- 38
+Position -- 6 -- char .
+Tree Count -- 109
+Position -- 10 -- char .
+Tree Count -- 38
+Position -- 14 -- char .
+Tree Count -- 41
+Line Count-- 157
+Position -- 3 -- char .
+Tree Count -- 38
+Position -- 9 -- char #
+Tree Count -- 110
+Position -- 15 -- char .
+Tree Count -- 38
+Position -- 21 -- char #
+Tree Count -- 42
+Position -- 17 -- char .
+Tree Count (2 Down) -- 24
+Position -- 4 -- char .
+Tree Count -- 38
+Position -- 12 -- char .
+Tree Count -- 110
+Position -- 20 -- char #
+Tree Count -- 39
+Position -- 28 -- char .
+Tree Count -- 42
+Line Count-- 159
+Position -- 5 -- char .
+Tree Count -- 38
+Position -- 15 -- char #
+Tree Count -- 111
+Position -- 25 -- char .
+Tree Count -- 39
+Position -- 4 -- char #
+Tree Count -- 43
+Position -- 18 -- char .
+Tree Count (2 Down) -- 24
+Position -- 6 -- char #
+Tree Count -- 39
+Position -- 18 -- char #
+Tree Count -- 112
+Position -- 30 -- char .
+Tree Count -- 39
+Position -- 11 -- char .
+Tree Count -- 43
+Line Count-- 161
+Position -- 7 -- char .
+Tree Count -- 39
+Position -- 21 -- char #
+Tree Count -- 113
+Position -- 4 -- char .
+Tree Count -- 39
+Position -- 18 -- char .
+Tree Count -- 43
+Position -- 19 -- char #
+Tree Count (2 Down) -- 25
+Position -- 8 -- char #
+Tree Count -- 40
+Position -- 24 -- char #
+Tree Count -- 114
+Position -- 9 -- char #
+Tree Count -- 40
+Position -- 25 -- char .
+Tree Count -- 43
+Line Count-- 163
+Position -- 9 -- char .
+Tree Count -- 40
+Position -- 27 -- char #
+Tree Count -- 115
+Position -- 14 -- char #
+Tree Count -- 41
+Position -- 1 -- char #
+Tree Count -- 44
+Position -- 20 -- char .
+Tree Count (2 Down) -- 25
+Position -- 10 -- char .
+Tree Count -- 40
+Position -- 30 -- char #
+Tree Count -- 116
+Position -- 19 -- char .
+Tree Count -- 41
+Position -- 8 -- char .
+Tree Count -- 44
+Line Count-- 165
+Position -- 11 -- char #
+Tree Count -- 41
+Position -- 2 -- char #
+Tree Count -- 117
+Position -- 24 -- char #
+Tree Count -- 42
+Position -- 15 -- char .
+Tree Count -- 44
+Position -- 21 -- char .
+Tree Count (2 Down) -- 25
+Position -- 12 -- char .
+Tree Count -- 41
+Position -- 5 -- char #
+Tree Count -- 118
+Position -- 29 -- char .
+Tree Count -- 42
+Position -- 22 -- char .
+Tree Count -- 44
+Line Count-- 167
+Position -- 13 -- char .
+Tree Count -- 41
+Position -- 8 -- char #
+Tree Count -- 119
+Position -- 3 -- char .
+Tree Count -- 42
+Position -- 29 -- char .
+Tree Count -- 44
+Position -- 22 -- char #
+Tree Count (2 Down) -- 26
+Position -- 14 -- char .
+Tree Count -- 41
+Position -- 11 -- char #
+Tree Count -- 120
+Position -- 8 -- char .
+Tree Count -- 42
+Position -- 5 -- char #
+Tree Count -- 45
+Line Count-- 169
+Position -- 15 -- char .
+Tree Count -- 41
+Position -- 14 -- char .
+Tree Count -- 120
+Position -- 13 -- char .
+Tree Count -- 42
+Position -- 12 -- char #
+Tree Count -- 46
+Position -- 23 -- char .
+Tree Count (2 Down) -- 26
+Position -- 16 -- char .
+Tree Count -- 41
+Position -- 17 -- char #
+Tree Count -- 121
+Position -- 18 -- char .
+Tree Count -- 42
+Position -- 19 -- char .
+Tree Count -- 46
+Line Count-- 171
+Position -- 17 -- char .
+Tree Count -- 41
+Position -- 20 -- char #
+Tree Count -- 122
+Position -- 23 -- char .
+Tree Count -- 42
+Position -- 26 -- char .
+Tree Count -- 46
+Position -- 24 -- char .
+Tree Count (2 Down) -- 26
+Position -- 18 -- char #
+Tree Count -- 42
+Position -- 23 -- char .
+Tree Count -- 122
+Position -- 28 -- char .
+Tree Count -- 42
+Position -- 2 -- char .
+Tree Count -- 46
+Line Count-- 173
+Position -- 19 -- char .
+Tree Count -- 42
+Position -- 26 -- char #
+Tree Count -- 123
+Position -- 2 -- char .
+Tree Count -- 42
+Position -- 9 -- char #
+Tree Count -- 47
+Position -- 25 -- char .
+Tree Count (2 Down) -- 26
+Position -- 20 -- char .
+Tree Count -- 42
+Position -- 29 -- char #
+Tree Count -- 124
+Position -- 7 -- char .
+Tree Count -- 42
+Position -- 16 -- char .
+Tree Count -- 47
+Line Count-- 175
+Position -- 21 -- char .
+Tree Count -- 42
+Position -- 1 -- char #
+Tree Count -- 125
+Position -- 12 -- char #
+Tree Count -- 43
+Position -- 23 -- char #
+Tree Count -- 48
+Position -- 26 -- char .
+Tree Count (2 Down) -- 26
+Position -- 22 -- char .
+Tree Count -- 42
+Position -- 4 -- char #
+Tree Count -- 126
+Position -- 17 -- char .
+Tree Count -- 43
+Position -- 30 -- char .
+Tree Count -- 48
+Line Count-- 177
+Position -- 23 -- char .
+Tree Count -- 42
+Position -- 7 -- char .
+Tree Count -- 126
+Position -- 22 -- char .
+Tree Count -- 43
+Position -- 6 -- char .
+Tree Count -- 48
+Position -- 27 -- char .
+Tree Count (2 Down) -- 26
+Position -- 24 -- char #
+Tree Count -- 43
+Position -- 10 -- char #
+Tree Count -- 127
+Position -- 27 -- char .
+Tree Count -- 43
+Position -- 13 -- char .
+Tree Count -- 48
+Line Count-- 179
+Position -- 25 -- char #
+Tree Count -- 44
+Position -- 13 -- char #
+Tree Count -- 128
+Position -- 1 -- char #
+Tree Count -- 44
+Position -- 20 -- char #
+Tree Count -- 49
+Position -- 28 -- char #
+Tree Count (2 Down) -- 27
+Position -- 26 -- char .
+Tree Count -- 44
+Position -- 16 -- char #
+Tree Count -- 129
+Position -- 6 -- char .
+Tree Count -- 44
+Position -- 27 -- char .
+Tree Count -- 49
+Line Count-- 181
+Position -- 27 -- char .
+Tree Count -- 44
+Position -- 19 -- char .
+Tree Count -- 129
+Position -- 11 -- char .
+Tree Count -- 44
+Position -- 3 -- char #
+Tree Count -- 50
+Position -- 29 -- char #
+Tree Count (2 Down) -- 28
+Position -- 28 -- char #
+Tree Count -- 45
+Position -- 22 -- char .
+Tree Count -- 129
+Position -- 16 -- char .
+Tree Count -- 44
+Position -- 10 -- char .
+Tree Count -- 50
+Line Count-- 183
+Position -- 29 -- char .
+Tree Count -- 45
+Position -- 25 -- char #
+Tree Count -- 130
+Position -- 21 -- char .
+Tree Count -- 44
+Position -- 17 -- char .
+Tree Count -- 50
+Position -- 30 -- char .
+Tree Count (2 Down) -- 28
+Position -- 30 -- char .
+Tree Count -- 45
+Position -- 28 -- char #
+Tree Count -- 131
+Position -- 26 -- char .
+Tree Count -- 44
+Position -- 24 -- char .
+Tree Count -- 50
+Line Count-- 185
+Position -- 0 -- char #
+Tree Count -- 46
+Position -- 0 -- char #
+Tree Count -- 132
+Position -- 0 -- char #
+Tree Count -- 45
+Position -- 0 -- char #
+Tree Count -- 51
+Position -- 0 -- char #
+Tree Count (2 Down) -- 29
+Position -- 1 -- char .
+Tree Count -- 46
+Position -- 3 -- char .
+Tree Count -- 132
+Position -- 5 -- char .
+Tree Count -- 45
+Position -- 7 -- char .
+Tree Count -- 51
+Line Count-- 187
+Position -- 2 -- char .
+Tree Count -- 46
+Position -- 6 -- char #
+Tree Count -- 133
+Position -- 10 -- char .
+Tree Count -- 45
+Position -- 14 -- char #
+Tree Count -- 52
+Position -- 1 -- char .
+Tree Count (2 Down) -- 29
+Position -- 3 -- char .
+Tree Count -- 46
+Position -- 9 -- char #
+Tree Count -- 134
+Position -- 15 -- char #
+Tree Count -- 46
+Position -- 21 -- char .
+Tree Count -- 52
+Line Count-- 189
+Position -- 4 -- char .
+Tree Count -- 46
+Position -- 12 -- char #
+Tree Count -- 135
+Position -- 20 -- char .
+Tree Count -- 46
+Position -- 28 -- char .
+Tree Count -- 52
+Position -- 2 -- char #
+Tree Count (2 Down) -- 30
+Position -- 5 -- char .
+Tree Count -- 46
+Position -- 15 -- char #
+Tree Count -- 136
+Position -- 25 -- char .
+Tree Count -- 46
+Position -- 4 -- char #
+Tree Count -- 53
+Line Count-- 191
+Position -- 6 -- char .
+Tree Count -- 46
+Position -- 18 -- char .
+Tree Count -- 136
+Position -- 30 -- char #
+Tree Count -- 47
+Position -- 11 -- char #
+Tree Count -- 54
+Position -- 3 -- char .
+Tree Count (2 Down) -- 30
+Position -- 7 -- char .
+Tree Count -- 46
+Position -- 21 -- char #
+Tree Count -- 137
+Position -- 4 -- char .
+Tree Count -- 47
+Position -- 18 -- char .
+Tree Count -- 54
+Line Count-- 193
+Position -- 8 -- char .
+Tree Count -- 46
+Position -- 24 -- char #
+Tree Count -- 138
+Position -- 9 -- char .
+Tree Count -- 47
+Position -- 25 -- char .
+Tree Count -- 54
+Position -- 4 -- char .
+Tree Count (2 Down) -- 30
+Position -- 9 -- char .
+Tree Count -- 46
+Position -- 27 -- char .
+Tree Count -- 138
+Position -- 14 -- char .
+Tree Count -- 47
+Position -- 1 -- char #
+Tree Count -- 55
+Line Count-- 195
+Position -- 10 -- char .
+Tree Count -- 46
+Position -- 30 -- char .
+Tree Count -- 138
+Position -- 19 -- char .
+Tree Count -- 47
+Position -- 8 -- char .
+Tree Count -- 55
+Position -- 5 -- char .
+Tree Count (2 Down) -- 30
+Position -- 11 -- char .
+Tree Count -- 46
+Position -- 2 -- char #
+Tree Count -- 139
+Position -- 24 -- char .
+Tree Count -- 47
+Position -- 15 -- char .
+Tree Count -- 55
+Line Count-- 197
+Position -- 12 -- char .
+Tree Count -- 46
+Position -- 5 -- char #
+Tree Count -- 140
+Position -- 29 -- char .
+Tree Count -- 47
+Position -- 22 -- char .
+Tree Count -- 55
+Position -- 6 -- char .
+Tree Count (2 Down) -- 30
+Position -- 13 -- char .
+Tree Count -- 46
+Position -- 8 -- char #
+Tree Count -- 141
+Position -- 3 -- char .
+Tree Count -- 47
+Position -- 29 -- char .
+Tree Count -- 55
+Line Count-- 199
+Position -- 14 -- char .
+Tree Count -- 46
+Position -- 11 -- char #
+Tree Count -- 142
+Position -- 8 -- char #
+Tree Count -- 48
+Position -- 5 -- char .
+Tree Count -- 55
+Position -- 7 -- char #
+Tree Count (2 Down) -- 31
+Position -- 15 -- char .
+Tree Count -- 46
+Position -- 14 -- char #
+Tree Count -- 143
+Position -- 13 -- char .
+Tree Count -- 48
+Position -- 12 -- char .
+Tree Count -- 55
+Line Count-- 201
+Position -- 16 -- char #
+Tree Count -- 47
+Position -- 17 -- char #
+Tree Count -- 144
+Position -- 18 -- char .
+Tree Count -- 48
+Position -- 19 -- char #
+Tree Count -- 56
+Position -- 8 -- char .
+Tree Count (2 Down) -- 31
+Position -- 17 -- char .
+Tree Count -- 47
+Position -- 20 -- char .
+Tree Count -- 144
+Position -- 23 -- char .
+Tree Count -- 48
+Position -- 26 -- char .
+Tree Count -- 56
+Line Count-- 203
+Position -- 18 -- char .
+Tree Count -- 47
+Position -- 23 -- char #
+Tree Count -- 145
+Position -- 28 -- char #
+Tree Count -- 49
+Position -- 2 -- char #
+Tree Count -- 57
+Position -- 9 -- char .
+Tree Count (2 Down) -- 31
+Position -- 19 -- char #
+Tree Count -- 48
+Position -- 26 -- char #
+Tree Count -- 146
+Position -- 2 -- char .
+Tree Count -- 49
+Position -- 9 -- char .
+Tree Count -- 57
+Line Count-- 205
+Position -- 20 -- char .
+Tree Count -- 48
+Position -- 29 -- char #
+Tree Count -- 147
+Position -- 7 -- char #
+Tree Count -- 50
+Position -- 16 -- char .
+Tree Count -- 57
+Position -- 10 -- char #
+Tree Count (2 Down) -- 32
+Position -- 21 -- char #
+Tree Count -- 49
+Position -- 1 -- char #
+Tree Count -- 148
+Position -- 12 -- char .
+Tree Count -- 50
+Position -- 23 -- char .
+Tree Count -- 57
+Line Count-- 207
+Position -- 22 -- char #
+Tree Count -- 50
+Position -- 4 -- char #
+Tree Count -- 149
+Position -- 17 -- char .
+Tree Count -- 50
+Position -- 30 -- char .
+Tree Count -- 57
+Position -- 11 -- char #
+Tree Count (2 Down) -- 33
+Position -- 23 -- char .
+Tree Count -- 50
+Position -- 7 -- char #
+Tree Count -- 150
+Position -- 22 -- char #
+Tree Count -- 51
+Position -- 6 -- char .
+Tree Count -- 57
+Line Count-- 209
+Position -- 24 -- char #
+Tree Count -- 51
+Position -- 10 -- char #
+Tree Count -- 151
+Position -- 27 -- char .
+Tree Count -- 51
+Position -- 13 -- char .
+Tree Count -- 57
+Position -- 12 -- char .
+Tree Count (2 Down) -- 33
+Position -- 25 -- char .
+Tree Count -- 51
+Position -- 13 -- char #
+Tree Count -- 152
+Position -- 1 -- char .
+Tree Count -- 51
+Position -- 20 -- char .
+Tree Count -- 57
+Line Count-- 211
+Position -- 26 -- char #
+Tree Count -- 52
+Position -- 16 -- char #
+Tree Count -- 153
+Position -- 6 -- char .
+Tree Count -- 51
+Position -- 27 -- char .
+Tree Count -- 57
+Position -- 13 -- char #
+Tree Count (2 Down) -- 34
+Position -- 27 -- char .
+Tree Count -- 52
+Position -- 19 -- char .
+Tree Count -- 153
+Position -- 11 -- char .
+Tree Count -- 51
+Position -- 3 -- char #
+Tree Count -- 58
+Line Count-- 213
+Position -- 28 -- char .
+Tree Count -- 52
+Position -- 22 -- char #
+Tree Count -- 154
+Position -- 16 -- char .
+Tree Count -- 51
+Position -- 10 -- char #
+Tree Count -- 59
+Position -- 14 -- char .
+Tree Count (2 Down) -- 34
+Position -- 29 -- char .
+Tree Count -- 52
+Position -- 25 -- char #
+Tree Count -- 155
+Position -- 21 -- char .
+Tree Count -- 51
+Position -- 17 -- char .
+Tree Count -- 59
+Line Count-- 215
+Position -- 30 -- char #
+Tree Count -- 53
+Position -- 28 -- char #
+Tree Count -- 156
+Position -- 26 -- char .
+Tree Count -- 51
+Position -- 24 -- char .
+Tree Count -- 59
+Position -- 15 -- char .
+Tree Count (2 Down) -- 34
+Position -- 0 -- char #
+Tree Count -- 54
+Position -- 0 -- char #
+Tree Count -- 157
+Position -- 0 -- char #
+Tree Count -- 52
+Position -- 0 -- char #
+Tree Count -- 60
+Line Count-- 217
+Position -- 1 -- char .
+Tree Count -- 54
+Position -- 3 -- char .
+Tree Count -- 157
+Position -- 5 -- char .
+Tree Count -- 52
+Position -- 7 -- char #
+Tree Count -- 61
+Position -- 16 -- char .
+Tree Count (2 Down) -- 34
+Position -- 2 -- char .
+Tree Count -- 54
+Position -- 6 -- char #
+Tree Count -- 158
+Position -- 10 -- char .
+Tree Count -- 52
+Position -- 14 -- char .
+Tree Count -- 61
+Line Count-- 219
+Position -- 3 -- char .
+Tree Count -- 54
+Position -- 9 -- char #
+Tree Count -- 159
+Position -- 15 -- char .
+Tree Count -- 52
+Position -- 21 -- char .
+Tree Count -- 61
+Position -- 17 -- char .
+Tree Count (2 Down) -- 34
+Position -- 4 -- char #
+Tree Count -- 55
+Position -- 12 -- char #
+Tree Count -- 160
+Position -- 20 -- char .
+Tree Count -- 52
+Position -- 28 -- char .
+Tree Count -- 61
+Line Count-- 221
+Position -- 5 -- char #
+Tree Count -- 56
+Position -- 15 -- char #
+Tree Count -- 161
+Position -- 25 -- char .
+Tree Count -- 52
+Position -- 4 -- char .
+Tree Count -- 61
+Position -- 18 -- char .
+Tree Count (2 Down) -- 34
+Position -- 6 -- char .
+Tree Count -- 56
+Position -- 18 -- char .
+Tree Count -- 161
+Position -- 30 -- char #
+Tree Count -- 53
+Position -- 11 -- char .
+Tree Count -- 61
+Line Count-- 223
+Position -- 7 -- char .
+Tree Count -- 56
+Position -- 21 -- char #
+Tree Count -- 162
+Position -- 4 -- char #
+Tree Count -- 54
+Position -- 18 -- char #
+Tree Count -- 62
+Position -- 19 -- char .
+Tree Count (2 Down) -- 34
+Position -- 8 -- char .
+Tree Count -- 56
+Position -- 24 -- char .
+Tree Count -- 162
+Position -- 9 -- char .
+Tree Count -- 54
+Position -- 25 -- char .
+Tree Count -- 62
+Line Count-- 225
+Position -- 9 -- char .
+Tree Count -- 56
+Position -- 27 -- char .
+Tree Count -- 162
+Position -- 14 -- char .
+Tree Count -- 54
+Position -- 1 -- char #
+Tree Count -- 63
+Position -- 20 -- char .
+Tree Count (2 Down) -- 34
+Position -- 10 -- char .
+Tree Count -- 56
+Position -- 30 -- char #
+Tree Count -- 163
+Position -- 19 -- char .
+Tree Count -- 54
+Position -- 8 -- char #
+Tree Count -- 64
+Line Count-- 227
+Position -- 11 -- char .
+Tree Count -- 56
+Position -- 2 -- char .
+Tree Count -- 163
+Position -- 24 -- char .
+Tree Count -- 54
+Position -- 15 -- char .
+Tree Count -- 64
+Position -- 21 -- char .
+Tree Count (2 Down) -- 34
+Position -- 12 -- char .
+Tree Count -- 56
+Position -- 5 -- char #
+Tree Count -- 164
+Position -- 29 -- char .
+Tree Count -- 54
+Position -- 22 -- char .
+Tree Count -- 64
+Line Count-- 229
+Position -- 13 -- char .
+Tree Count -- 56
+Position -- 8 -- char .
+Tree Count -- 164
+Position -- 3 -- char .
+Tree Count -- 54
+Position -- 29 -- char .
+Tree Count -- 64
+Position -- 22 -- char .
+Tree Count (2 Down) -- 34
+Position -- 14 -- char #
+Tree Count -- 57
+Position -- 11 -- char #
+Tree Count -- 165
+Position -- 8 -- char #
+Tree Count -- 55
+Position -- 5 -- char .
+Tree Count -- 64
+Line Count-- 231
+Position -- 15 -- char .
+Tree Count -- 57
+Position -- 14 -- char #
+Tree Count -- 166
+Position -- 13 -- char .
+Tree Count -- 55
+Position -- 12 -- char .
+Tree Count -- 64
+Position -- 23 -- char .
+Tree Count (2 Down) -- 34
+Position -- 16 -- char #
+Tree Count -- 58
+Position -- 17 -- char #
+Tree Count -- 167
+Position -- 18 -- char .
+Tree Count -- 55
+Position -- 19 -- char .
+Tree Count -- 64
+Line Count-- 233
+Position -- 17 -- char .
+Tree Count -- 58
+Position -- 20 -- char #
+Tree Count -- 168
+Position -- 23 -- char #
+Tree Count -- 56
+Position -- 26 -- char #
+Tree Count -- 65
+Position -- 24 -- char #
+Tree Count (2 Down) -- 35
+Position -- 18 -- char .
+Tree Count -- 58
+Position -- 23 -- char #
+Tree Count -- 169
+Position -- 28 -- char .
+Tree Count -- 56
+Position -- 2 -- char .
+Tree Count -- 65
+Line Count-- 235
+Position -- 19 -- char .
+Tree Count -- 58
+Position -- 26 -- char #
+Tree Count -- 170
+Position -- 2 -- char .
+Tree Count -- 56
+Position -- 9 -- char #
+Tree Count -- 66
+Position -- 25 -- char .
+Tree Count (2 Down) -- 35
+Position -- 20 -- char .
+Tree Count -- 58
+Position -- 29 -- char .
+Tree Count -- 170
+Position -- 7 -- char .
+Tree Count -- 56
+Position -- 16 -- char #
+Tree Count -- 67
+Line Count-- 237
+Position -- 21 -- char #
+Tree Count -- 59
+Position -- 1 -- char #
+Tree Count -- 171
+Position -- 12 -- char .
+Tree Count -- 56
+Position -- 23 -- char .
+Tree Count -- 67
+Position -- 26 -- char .
+Tree Count (2 Down) -- 35
+Position -- 22 -- char #
+Tree Count -- 60
+Position -- 4 -- char #
+Tree Count -- 172
+Position -- 17 -- char .
+Tree Count -- 56
+Position -- 30 -- char .
+Tree Count -- 67
+Line Count-- 239
+Position -- 23 -- char .
+Tree Count -- 60
+Position -- 7 -- char .
+Tree Count -- 172
+Position -- 22 -- char #
+Tree Count -- 57
+Position -- 6 -- char .
+Tree Count -- 67
+Position -- 27 -- char .
+Tree Count (2 Down) -- 35
+Position -- 24 -- char .
+Tree Count -- 60
+Position -- 10 -- char #
+Tree Count -- 173
+Position -- 27 -- char .
+Tree Count -- 57
+Position -- 13 -- char .
+Tree Count -- 67
+Line Count-- 241
+Position -- 25 -- char .
+Tree Count -- 60
+Position -- 13 -- char #
+Tree Count -- 174
+Position -- 1 -- char .
+Tree Count -- 57
+Position -- 20 -- char .
+Tree Count -- 67
+Position -- 28 -- char .
+Tree Count (2 Down) -- 35
+Position -- 26 -- char .
+Tree Count -- 60
+Position -- 16 -- char #
+Tree Count -- 175
+Position -- 6 -- char .
+Tree Count -- 57
+Position -- 27 -- char .
+Tree Count -- 67
+Line Count-- 243
+Position -- 27 -- char .
+Tree Count -- 60
+Position -- 19 -- char #
+Tree Count -- 176
+Position -- 11 -- char .
+Tree Count -- 57
+Position -- 3 -- char .
+Tree Count -- 67
+Position -- 29 -- char .
+Tree Count (2 Down) -- 35
+Position -- 28 -- char .
+Tree Count -- 60
+Position -- 22 -- char #
+Tree Count -- 177
+Position -- 16 -- char #
+Tree Count -- 58
+Position -- 10 -- char .
+Tree Count -- 67
+Line Count-- 245
+Position -- 29 -- char .
+Tree Count -- 60
+Position -- 25 -- char .
+Tree Count -- 177
+Position -- 21 -- char .
+Tree Count -- 58
+Position -- 17 -- char .
+Tree Count -- 67
+Position -- 30 -- char .
+Tree Count (2 Down) -- 35
+Position -- 30 -- char .
+Tree Count -- 60
+Position -- 28 -- char #
+Tree Count -- 178
+Position -- 26 -- char .
+Tree Count -- 58
+Position -- 24 -- char .
+Tree Count -- 67
+Line Count-- 247
+Position -- 0 -- char #
+Tree Count -- 61
+Position -- 0 -- char #
+Tree Count -- 179
+Position -- 0 -- char #
+Tree Count -- 59
+Position -- 0 -- char #
+Tree Count -- 68
+Position -- 0 -- char #
+Tree Count (2 Down) -- 36
+Position -- 1 -- char .
+Tree Count -- 61
+Position -- 3 -- char .
+Tree Count -- 179
+Position -- 5 -- char .
+Tree Count -- 59
+Position -- 7 -- char .
+Tree Count -- 68
+Line Count-- 249
+Position -- 2 -- char #
+Tree Count -- 62
+Position -- 6 -- char .
+Tree Count -- 179
+Position -- 10 -- char .
+Tree Count -- 59
+Position -- 14 -- char .
+Tree Count -- 68
+Position -- 1 -- char #
+Tree Count (2 Down) -- 37
+Position -- 3 -- char .
+Tree Count -- 62
+Position -- 9 -- char #
+Tree Count -- 180
+Position -- 15 -- char .
+Tree Count -- 59
+Position -- 21 -- char #
+Tree Count -- 69
+Line Count-- 251
+Position -- 4 -- char .
+Tree Count -- 62
+Position -- 12 -- char #
+Tree Count -- 181
+Position -- 20 -- char .
+Tree Count -- 59
+Position -- 28 -- char #
+Tree Count -- 70
+Position -- 2 -- char .
+Tree Count (2 Down) -- 37
+Position -- 5 -- char #
+Tree Count -- 63
+Position -- 15 -- char #
+Tree Count -- 182
+Position -- 25 -- char .
+Tree Count -- 59
+Position -- 4 -- char #
+Tree Count -- 71
+Line Count-- 253
+Position -- 6 -- char .
+Tree Count -- 63
+Position -- 18 -- char #
+Tree Count -- 183
+Position -- 30 -- char .
+Tree Count -- 59
+Position -- 11 -- char #
+Tree Count -- 72
+Position -- 3 -- char .
+Tree Count (2 Down) -- 37
+Position -- 7 -- char .
+Tree Count -- 63
+Position -- 21 -- char #
+Tree Count -- 184
+Position -- 4 -- char .
+Tree Count -- 59
+Position -- 18 -- char #
+Tree Count -- 73
+Line Count-- 255
+Position -- 8 -- char .
+Tree Count -- 63
+Position -- 24 -- char .
+Tree Count -- 184
+Position -- 9 -- char .
+Tree Count -- 59
+Position -- 25 -- char #
+Tree Count -- 74
+Position -- 4 -- char .
+Tree Count (2 Down) -- 37
+Position -- 9 -- char .
+Tree Count -- 63
+Position -- 27 -- char #
+Tree Count -- 185
+Position -- 14 -- char .
+Tree Count -- 59
+Position -- 1 -- char #
+Tree Count -- 75
+Line Count-- 257
+Position -- 10 -- char .
+Tree Count -- 63
+Position -- 30 -- char #
+Tree Count -- 186
+Position -- 19 -- char .
+Tree Count -- 59
+Position -- 8 -- char .
+Tree Count -- 75
+Position -- 5 -- char .
+Tree Count (2 Down) -- 37
+Position -- 11 -- char .
+Tree Count -- 63
+Position -- 2 -- char #
+Tree Count -- 187
+Position -- 24 -- char #
+Tree Count -- 60
+Position -- 15 -- char .
+Tree Count -- 75
+Line Count-- 259
+Position -- 12 -- char #
+Tree Count -- 64
+Position -- 5 -- char #
+Tree Count -- 188
+Position -- 29 -- char .
+Tree Count -- 60
+Position -- 22 -- char .
+Tree Count -- 75
+Position -- 6 -- char .
+Tree Count (2 Down) -- 37
+Position -- 13 -- char .
+Tree Count -- 64
+Position -- 8 -- char #
+Tree Count -- 189
+Position -- 3 -- char .
+Tree Count -- 60
+Position -- 29 -- char .
+Tree Count -- 75
+Line Count-- 261
+Position -- 14 -- char .
+Tree Count -- 64
+Position -- 11 -- char #
+Tree Count -- 190
+Position -- 8 -- char .
+Tree Count -- 60
+Position -- 5 -- char .
+Tree Count -- 75
+Position -- 7 -- char .
+Tree Count (2 Down) -- 37
+Position -- 15 -- char .
+Tree Count -- 64
+Position -- 14 -- char #
+Tree Count -- 191
+Position -- 13 -- char .
+Tree Count -- 60
+Position -- 12 -- char .
+Tree Count -- 75
+Line Count-- 263
+Position -- 16 -- char #
+Tree Count -- 65
+Position -- 17 -- char #
+Tree Count -- 192
+Position -- 18 -- char .
+Tree Count -- 60
+Position -- 19 -- char .
+Tree Count -- 75
+Position -- 8 -- char .
+Tree Count (2 Down) -- 37
+Position -- 17 -- char .
+Tree Count -- 65
+Position -- 20 -- char #
+Tree Count -- 193
+Position -- 23 -- char .
+Tree Count -- 60
+Position -- 26 -- char .
+Tree Count -- 75
+Line Count-- 265
+Position -- 18 -- char .
+Tree Count -- 65
+Position -- 23 -- char #
+Tree Count -- 194
+Position -- 28 -- char .
+Tree Count -- 60
+Position -- 2 -- char .
+Tree Count -- 75
+Position -- 9 -- char .
+Tree Count (2 Down) -- 37
+Position -- 19 -- char .
+Tree Count -- 65
+Position -- 26 -- char #
+Tree Count -- 195
+Position -- 2 -- char .
+Tree Count -- 60
+Position -- 9 -- char #
+Tree Count -- 76
+Line Count-- 267
+Position -- 20 -- char .
+Tree Count -- 65
+Position -- 29 -- char #
+Tree Count -- 196
+Position -- 7 -- char .
+Tree Count -- 60
+Position -- 16 -- char .
+Tree Count -- 76
+Position -- 10 -- char .
+Tree Count (2 Down) -- 37
+Position -- 21 -- char #
+Tree Count -- 66
+Position -- 1 -- char #
+Tree Count -- 197
+Position -- 12 -- char #
+Tree Count -- 61
+Position -- 23 -- char #
+Tree Count -- 77
+Line Count-- 269
+Position -- 22 -- char .
+Tree Count -- 66
+Position -- 4 -- char #
+Tree Count -- 198
+Position -- 17 -- char .
+Tree Count -- 61
+Position -- 30 -- char .
+Tree Count -- 77
+Position -- 11 -- char #
+Tree Count (2 Down) -- 38
+Position -- 23 -- char .
+Tree Count -- 66
+Position -- 7 -- char #
+Tree Count -- 199
+Position -- 22 -- char .
+Tree Count -- 61
+Position -- 6 -- char .
+Tree Count -- 77
+Line Count-- 271
+Position -- 24 -- char .
+Tree Count -- 66
+Position -- 10 -- char .
+Tree Count -- 199
+Position -- 27 -- char #
+Tree Count -- 62
+Position -- 13 -- char #
+Tree Count -- 78
+Position -- 12 -- char #
+Tree Count (2 Down) -- 39
+Position -- 25 -- char .
+Tree Count -- 66
+Position -- 13 -- char #
+Tree Count -- 200
+Position -- 1 -- char .
+Tree Count -- 62
+Position -- 20 -- char .
+Tree Count -- 78
+Line Count-- 273
+Position -- 26 -- char .
+Tree Count -- 66
+Position -- 16 -- char #
+Tree Count -- 201
+Position -- 6 -- char .
+Tree Count -- 62
+Position -- 27 -- char .
+Tree Count -- 78
+Position -- 13 -- char .
+Tree Count (2 Down) -- 39
+Position -- 27 -- char .
+Tree Count -- 66
+Position -- 19 -- char #
+Tree Count -- 202
+Position -- 11 -- char .
+Tree Count -- 62
+Position -- 3 -- char #
+Tree Count -- 79
+Line Count-- 275
+Position -- 28 -- char .
+Tree Count -- 66
+Position -- 22 -- char #
+Tree Count -- 203
+Position -- 16 -- char .
+Tree Count -- 62
+Position -- 10 -- char .
+Tree Count -- 79
+Position -- 14 -- char #
+Tree Count (2 Down) -- 40
+Position -- 29 -- char .
+Tree Count -- 66
+Position -- 25 -- char #
+Tree Count -- 204
+Position -- 21 -- char .
+Tree Count -- 62
+Position -- 17 -- char .
+Tree Count -- 79
+Line Count-- 277
+Position -- 30 -- char .
+Tree Count -- 66
+Position -- 28 -- char .
+Tree Count -- 204
+Position -- 26 -- char .
+Tree Count -- 62
+Position -- 24 -- char .
+Tree Count -- 79
+Position -- 15 -- char .
+Tree Count (2 Down) -- 40
+Position -- 0 -- char #
+Tree Count -- 67
+Position -- 0 -- char #
+Tree Count -- 205
+Position -- 0 -- char #
+Tree Count -- 63
+Position -- 0 -- char #
+Tree Count -- 80
+Line Count-- 279
+Position -- 1 -- char #
+Tree Count -- 68
+Position -- 3 -- char .
+Tree Count -- 205
+Position -- 5 -- char .
+Tree Count -- 63
+Position -- 7 -- char .
+Tree Count -- 80
+Position -- 16 -- char .
+Tree Count (2 Down) -- 40
+Position -- 2 -- char .
+Tree Count -- 68
+Position -- 6 -- char #
+Tree Count -- 206
+Position -- 10 -- char #
+Tree Count -- 64
+Position -- 14 -- char .
+Tree Count -- 80
+Line Count-- 281
+Position -- 3 -- char .
+Tree Count -- 68
+Position -- 9 -- char #
+Tree Count -- 207
+Position -- 15 -- char .
+Tree Count -- 64
+Position -- 21 -- char .
+Tree Count -- 80
+Position -- 17 -- char .
+Tree Count (2 Down) -- 40
+Position -- 4 -- char .
+Tree Count -- 68
+Position -- 12 -- char #
+Tree Count -- 208
+Position -- 20 -- char .
+Tree Count -- 64
+Position -- 28 -- char .
+Tree Count -- 80
+Line Count-- 283
+Position -- 5 -- char .
+Tree Count -- 68
+Position -- 15 -- char #
+Tree Count -- 209
+Position -- 25 -- char .
+Tree Count -- 64
+Position -- 4 -- char .
+Tree Count -- 80
+Position -- 18 -- char #
+Tree Count (2 Down) -- 41
+Position -- 6 -- char #
+Tree Count -- 69
+Position -- 18 -- char .
+Tree Count -- 209
+Position -- 30 -- char .
+Tree Count -- 64
+Position -- 11 -- char .
+Tree Count -- 80
+Line Count-- 285
+Position -- 7 -- char .
+Tree Count -- 69
+Position -- 21 -- char #
+Tree Count -- 210
+Position -- 4 -- char .
+Tree Count -- 64
+Position -- 18 -- char #
+Tree Count -- 81
+Position -- 19 -- char .
+Tree Count (2 Down) -- 41
+Position -- 8 -- char .
+Tree Count -- 69
+Position -- 24 -- char #
+Tree Count -- 211
+Position -- 9 -- char .
+Tree Count -- 64
+Position -- 25 -- char .
+Tree Count -- 81
+Line Count-- 287
+Position -- 9 -- char #
+Tree Count -- 70
+Position -- 27 -- char .
+Tree Count -- 211
+Position -- 14 -- char .
+Tree Count -- 64
+Position -- 1 -- char .
+Tree Count -- 81
+Position -- 20 -- char .
+Tree Count (2 Down) -- 41
+Position -- 10 -- char .
+Tree Count -- 70
+Position -- 30 -- char .
+Tree Count -- 211
+Position -- 19 -- char .
+Tree Count -- 64
+Position -- 8 -- char .
+Tree Count -- 81
+Line Count-- 289
+Position -- 11 -- char .
+Tree Count -- 70
+Position -- 2 -- char .
+Tree Count -- 211
+Position -- 24 -- char .
+Tree Count -- 64
+Position -- 15 -- char #
+Tree Count -- 82
+Position -- 21 -- char #
+Tree Count (2 Down) -- 42
+Position -- 12 -- char .
+Tree Count -- 70
+Position -- 5 -- char #
+Tree Count -- 212
+Position -- 29 -- char .
+Tree Count -- 64
+Position -- 22 -- char #
+Tree Count -- 83
+Line Count-- 291
+Position -- 13 -- char .
+Tree Count -- 70
+Position -- 8 -- char #
+Tree Count -- 213
+Position -- 3 -- char .
+Tree Count -- 64
+Position -- 29 -- char #
+Tree Count -- 84
+Position -- 22 -- char #
+Tree Count (2 Down) -- 43
+Position -- 14 -- char .
+Tree Count -- 70
+Position -- 11 -- char #
+Tree Count -- 214
+Position -- 8 -- char .
+Tree Count -- 64
+Position -- 5 -- char #
+Tree Count -- 85
+Line Count-- 293
+Position -- 15 -- char .
+Tree Count -- 70
+Position -- 14 -- char .
+Tree Count -- 214
+Position -- 13 -- char .
+Tree Count -- 64
+Position -- 12 -- char .
+Tree Count -- 85
+Position -- 23 -- char #
+Tree Count (2 Down) -- 44
+Position -- 16 -- char #
+Tree Count -- 71
+Position -- 17 -- char #
+Tree Count -- 215
+Position -- 18 -- char .
+Tree Count -- 64
+Position -- 19 -- char .
+Tree Count -- 85
+Line Count-- 295
+Position -- 17 -- char .
+Tree Count -- 71
+Position -- 20 -- char #
+Tree Count -- 216
+Position -- 23 -- char .
+Tree Count -- 64
+Position -- 26 -- char #
+Tree Count -- 86
+Position -- 24 -- char #
+Tree Count (2 Down) -- 45
+Position -- 18 -- char .
+Tree Count -- 71
+Position -- 23 -- char .
+Tree Count -- 216
+Position -- 28 -- char .
+Tree Count -- 64
+Position -- 2 -- char .
+Tree Count -- 86
+Line Count-- 297
+Position -- 19 -- char .
+Tree Count -- 71
+Position -- 26 -- char #
+Tree Count -- 217
+Position -- 2 -- char .
+Tree Count -- 64
+Position -- 9 -- char #
+Tree Count -- 87
+Position -- 25 -- char .
+Tree Count (2 Down) -- 45
+Position -- 20 -- char .
+Tree Count -- 71
+Position -- 29 -- char .
+Tree Count -- 217
+Position -- 7 -- char .
+Tree Count -- 64
+Position -- 16 -- char #
+Tree Count -- 88
+Line Count-- 299
+Position -- 21 -- char .
+Tree Count -- 71
+Position -- 1 -- char #
+Tree Count -- 218
+Position -- 12 -- char #
+Tree Count -- 65
+Position -- 23 -- char .
+Tree Count -- 88
+Position -- 26 -- char .
+Tree Count (2 Down) -- 45
+Position -- 22 -- char .
+Tree Count -- 71
+Position -- 4 -- char #
+Tree Count -- 219
+Position -- 17 -- char .
+Tree Count -- 65
+Position -- 30 -- char .
+Tree Count -- 88
+Line Count-- 301
+Position -- 23 -- char #
+Tree Count -- 72
+Position -- 7 -- char #
+Tree Count -- 220
+Position -- 22 -- char .
+Tree Count -- 65
+Position -- 6 -- char .
+Tree Count -- 88
+Position -- 27 -- char .
+Tree Count (2 Down) -- 45
+Position -- 24 -- char .
+Tree Count -- 72
+Position -- 10 -- char #
+Tree Count -- 221
+Position -- 27 -- char .
+Tree Count -- 65
+Position -- 13 -- char .
+Tree Count -- 88
+Line Count-- 303
+Position -- 25 -- char #
+Tree Count -- 73
+Position -- 13 -- char .
+Tree Count -- 221
+Position -- 1 -- char .
+Tree Count -- 65
+Position -- 20 -- char .
+Tree Count -- 88
+Position -- 28 -- char .
+Tree Count (2 Down) -- 45
+Position -- 26 -- char #
+Tree Count -- 74
+Position -- 16 -- char #
+Tree Count -- 222
+Position -- 6 -- char #
+Tree Count -- 66
+Position -- 27 -- char #
+Tree Count -- 89
+Line Count-- 305
+Position -- 27 -- char .
+Tree Count -- 74
+Position -- 19 -- char #
+Tree Count -- 223
+Position -- 11 -- char .
+Tree Count -- 66
+Position -- 3 -- char .
+Tree Count -- 89
+Position -- 29 -- char #
+Tree Count (2 Down) -- 46
+Position -- 28 -- char .
+Tree Count -- 74
+Position -- 22 -- char .
+Tree Count -- 223
+Position -- 16 -- char .
+Tree Count -- 66
+Position -- 10 -- char .
+Tree Count -- 89
+Line Count-- 307
+Position -- 29 -- char #
+Tree Count -- 75
+Position -- 25 -- char .
+Tree Count -- 223
+Position -- 21 -- char #
+Tree Count -- 67
+Position -- 17 -- char .
+Tree Count -- 89
+Position -- 30 -- char #
+Tree Count (2 Down) -- 47
+Position -- 30 -- char #
+Tree Count -- 76
+Position -- 28 -- char .
+Tree Count -- 223
+Position -- 26 -- char .
+Tree Count -- 67
+Position -- 24 -- char .
+Tree Count -- 89
+Line Count-- 309
+Position -- 0 -- char #
+Tree Count -- 77
+Position -- 0 -- char #
+Tree Count -- 224
+Position -- 0 -- char #
+Tree Count -- 68
+Position -- 0 -- char #
+Tree Count -- 90
+Position -- 0 -- char #
+Tree Count (2 Down) -- 48
+Position -- 1 -- char .
+Tree Count -- 77
+Position -- 3 -- char .
+Tree Count -- 224
+Position -- 5 -- char #
+Tree Count -- 69
+Position -- 7 -- char .
+Tree Count -- 90
+Line Count-- 311
+Position -- 2 -- char .
+Tree Count -- 77
+Position -- 6 -- char #
+Tree Count -- 225
+Position -- 10 -- char #
+Tree Count -- 70
+Position -- 14 -- char .
+Tree Count -- 90
+Position -- 1 -- char .
+Tree Count (2 Down) -- 48
+Position -- 3 -- char .
+Tree Count -- 77
+Position -- 9 -- char #
+Tree Count -- 226
+Position -- 15 -- char .
+Tree Count -- 70
+Position -- 21 -- char .
+Tree Count -- 90
+Line Count-- 313
+Position -- 4 -- char .
+Tree Count -- 77
+Position -- 12 -- char #
+Tree Count -- 227
+Position -- 20 -- char #
+Tree Count -- 71
+Position -- 28 -- char .
+Tree Count -- 90
+Position -- 2 -- char .
+Tree Count (2 Down) -- 48
+Position -- 5 -- char .
+Tree Count -- 77
+Position -- 15 -- char #
+Tree Count -- 228
+Position -- 25 -- char .
+Tree Count -- 71
+Position -- 4 -- char .
+Tree Count -- 90
+Line Count-- 315
+Position -- 6 -- char #
+Tree Count -- 78
+Position -- 18 -- char #
+Tree Count -- 229
+Position -- 30 -- char #
+Tree Count -- 72
+Position -- 11 -- char .
+Tree Count -- 90
+Position -- 3 -- char .
+Tree Count (2 Down) -- 48
+Position -- 7 -- char .
+Tree Count -- 78
+Position -- 21 -- char #
+Tree Count -- 230
+Position -- 4 -- char .
+Tree Count -- 72
+Position -- 18 -- char .
+Tree Count -- 90
+Line Count-- 317
+Position -- 8 -- char .
+Tree Count -- 78
+Position -- 24 -- char .
+Tree Count -- 230
+Position -- 9 -- char .
+Tree Count -- 72
+Position -- 25 -- char .
+Tree Count -- 90
+Position -- 4 -- char .
+Tree Count (2 Down) -- 48
+Position -- 9 -- char .
+Tree Count -- 78
+Position -- 27 -- char #
+Tree Count -- 231
+Position -- 14 -- char .
+Tree Count -- 72
+Position -- 1 -- char .
+Tree Count -- 90
+Line Count-- 319
+Position -- 10 -- char #
+Tree Count -- 79
+Position -- 30 -- char #
+Tree Count -- 232
+Position -- 19 -- char .
+Tree Count -- 72
+Position -- 8 -- char .
+Tree Count -- 90
+Position -- 5 -- char .
+Tree Count (2 Down) -- 48
+Position -- 11 -- char .
+Tree Count -- 79
+Position -- 2 -- char #
+Tree Count -- 233
+Position -- 24 -- char .
+Tree Count -- 72
+Position -- 15 -- char .
+Tree Count -- 90
+Line Count-- 321
+Position -- 12 -- char .
+Tree Count -- 79
+Position -- 5 -- char #
+Tree Count -- 234
+Position -- 29 -- char .
+Tree Count -- 72
+Position -- 22 -- char #
+Tree Count -- 91
+Position -- 6 -- char .
+Tree Count (2 Down) -- 48
