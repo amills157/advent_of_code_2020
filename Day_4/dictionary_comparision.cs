@@ -4,8 +4,8 @@ using System.Linq;
 using System.Collections.Generic;
 using System.Text.RegularExpressions;
 
-namespace advent_day_3 {
-   class puzzle_3 {
+namespace advent_day_4 {
+   class puzzle_4 {
       static void Main(string[] args) 
       {
          // Load input
