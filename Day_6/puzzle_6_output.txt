@@ -1,0 +1,3741 @@
+Line -- xx-2 
+Char -- x Line Count -- 2 Char Count -- 2
+Line -- ygzdvpxjkbzdgqaulrhfwi-3 
+Line -- tpasjurjrutopasrtjpaussraetpjutpajsru-5 
+Char -- t Line Count -- 5 Char Count -- 5
+Char -- p Line Count -- 5 Char Count -- 5
+Char -- a Line Count -- 5 Char Count -- 5
+Char -- s Line Count -- 5 Char Count -- 5
+Char -- j Line Count -- 5 Char Count -- 5
+Char -- u Line Count -- 5 Char Count -- 5
+Char -- r Line Count -- 5 Char Count -- 5
+Line -- vusuvsvwups-3 
+Char -- v Line Count -- 3 Char Count -- 3
+Char -- u Line Count -- 3 Char Count -- 3
+Char -- s Line Count -- 3 Char Count -- 3
+Line -- rrrdj-5 
+Line -- qohtkgcplyukohqglpdobtpghlkqhglqpaosrnk-4 
+Char -- q Line Count -- 4 Char Count -- 4
+Char -- o Line Count -- 4 Char Count -- 4
+Char -- h Line Count -- 4 Char Count -- 4
+Char -- k Line Count -- 4 Char Count -- 4
+Char -- g Line Count -- 4 Char Count -- 4
+Char -- p Line Count -- 4 Char Count -- 4
+Char -- l Line Count -- 4 Char Count -- 4
+Line -- zathopqrnftfphoznqraornthfpqza-3 
+Char -- z Line Count -- 3 Char Count -- 3
+Char -- a Line Count -- 3 Char Count -- 3
+Char -- t Line Count -- 3 Char Count -- 3
+Char -- h Line Count -- 3 Char Count -- 3
+Char -- o Line Count -- 3 Char Count -- 3
+Char -- p Line Count -- 3 Char Count -- 3
+Char -- q Line Count -- 3 Char Count -- 3
+Char -- r Line Count -- 3 Char Count -- 3
+Char -- n Line Count -- 3 Char Count -- 3
+Char -- f Line Count -- 3 Char Count -- 3
+Line -- xymfyfmyaeflpmcmxfy-4 
+Char -- y Line Count -- 4 Char Count -- 4
+Char -- m Line Count -- 4 Char Count -- 4
+Char -- f Line Count -- 4 Char Count -- 4
+Line -- xhjnyblvetrzcsdfgioqwnyvjcwruaitzkbsfelxhqmovqlebsnycaijwxhftzor-3 
+Char -- x Line Count -- 3 Char Count -- 3
+Char -- h Line Count -- 3 Char Count -- 3
+Char -- j Line Count -- 3 Char Count -- 3
+Char -- n Line Count -- 3 Char Count -- 3
+Char -- y Line Count -- 3 Char Count -- 3
+Char -- b Line Count -- 3 Char Count -- 3
+Char -- l Line Count -- 3 Char Count -- 3
+Char -- v Line Count -- 3 Char Count -- 3
+Char -- e Line Count -- 3 Char Count -- 3
+Char -- t Line Count -- 3 Char Count -- 3
+Char -- r Line Count -- 3 Char Count -- 3
+Char -- z Line Count -- 3 Char Count -- 3
+Char -- c Line Count -- 3 Char Count -- 3
+Char -- s Line Count -- 3 Char Count -- 3
+Char -- f Line Count -- 3 Char Count -- 3
+Char -- i Line Count -- 3 Char Count -- 3
+Char -- o Line Count -- 3 Char Count -- 3
+Char -- q Line Count -- 3 Char Count -- 3
+Char -- w Line Count -- 3 Char Count -- 3
+Line -- pvnbhgqxokzflsktfiphrwzyu-2 
+Char -- p Line Count -- 2 Char Count -- 2
+Char -- h Line Count -- 2 Char Count -- 2
+Char -- k Line Count -- 2 Char Count -- 2
+Char -- z Line Count -- 2 Char Count -- 2
+Char -- f Line Count -- 2 Char Count -- 2
+Line -- snadfrzvjhuravjsfnzwrfajsvznx-3 
+Char -- s Line Count -- 3 Char Count -- 3
+Char -- n Line Count -- 3 Char Count -- 3
+Char -- a Line Count -- 3 Char Count -- 3
+Char -- f Line Count -- 3 Char Count -- 3
+Char -- r Line Count -- 3 Char Count -- 3
+Char -- z Line Count -- 3 Char Count -- 3
+Char -- v Line Count -- 3 Char Count -- 3
+Char -- j Line Count -- 3 Char Count -- 3
+Line -- gzqpthtzqppltxqz-3 
+Char -- z Line Count -- 3 Char Count -- 3
+Char -- q Line Count -- 3 Char Count -- 3
+Char -- p Line Count -- 3 Char Count -- 3
+Char -- t Line Count -- 3 Char Count -- 3
+Line -- dwffwvdfwjxzd-3 
+Char -- d Line Count -- 3 Char Count -- 3
+Char -- w Line Count -- 3 Char Count -- 3
+Char -- f Line Count -- 3 Char Count -- 3
+Line -- wvkaetlonsmzyxpflamyzwpnexosvkylsoxwnmkpegvazfxnozlvwayepksmj-4 
+Char -- w Line Count -- 4 Char Count -- 4
+Char -- v Line Count -- 4 Char Count -- 4
+Char -- k Line Count -- 4 Char Count -- 4
+Char -- a Line Count -- 4 Char Count -- 4
+Char -- e Line Count -- 4 Char Count -- 4
+Char -- l Line Count -- 4 Char Count -- 4
+Char -- o Line Count -- 4 Char Count -- 4
+Char -- n Line Count -- 4 Char Count -- 4
+Char -- s Line Count -- 4 Char Count -- 4
+Char -- m Line Count -- 4 Char Count -- 4
+Char -- z Line Count -- 4 Char Count -- 4
+Char -- y Line Count -- 4 Char Count -- 4
+Char -- x Line Count -- 4 Char Count -- 4
+Char -- p Line Count -- 4 Char Count -- 4
+Line -- hegoanjwcuqrunjghwraoecqm-2 
+Char -- h Line Count -- 2 Char Count -- 2
+Char -- e Line Count -- 2 Char Count -- 2
+Char -- g Line Count -- 2 Char Count -- 2
+Char -- o Line Count -- 2 Char Count -- 2
+Char -- a Line Count -- 2 Char Count -- 2
+Char -- n Line Count -- 2 Char Count -- 2
+Char -- j Line Count -- 2 Char Count -- 2
+Char -- w Line Count -- 2 Char Count -- 2
+Char -- c Line Count -- 2 Char Count -- 2
+Char -- u Line Count -- 2 Char Count -- 2
+Char -- q Line Count -- 2 Char Count -- 2
+Char -- r Line Count -- 2 Char Count -- 2
+Line -- vrmuincbeaxmrxcevanucmanxeuqvrxmcrunveqarvxcunmea-5 
+Char -- v Line Count -- 5 Char Count -- 5
+Char -- r Line Count -- 5 Char Count -- 5
+Char -- m Line Count -- 5 Char Count -- 5
+Char -- u Line Count -- 5 Char Count -- 5
+Char -- n Line Count -- 5 Char Count -- 5
+Char -- c Line Count -- 5 Char Count -- 5
+Char -- e Line Count -- 5 Char Count -- 5
+Char -- a Line Count -- 5 Char Count -- 5
+Char -- x Line Count -- 5 Char Count -- 5
+Line -- edzzgesnozqjtrewazdefvczdenf-5 
+Char -- e Line Count -- 5 Char Count -- 5
+Char -- z Line Count -- 5 Char Count -- 5
+Line -- imnklheflsnkjnkljfv-3 
+Char -- n Line Count -- 3 Char Count -- 3
+Char -- k Line Count -- 3 Char Count -- 3
+Char -- l Line Count -- 3 Char Count -- 3
+Line -- dtkhezmqarglsyujifncbpxsmyaqrdnjzutcpfkbxghlnzupmhqkjfblrdasxgctyltbdpxsmhzkyjargfcunq-4 
+Char -- d Line Count -- 4 Char Count -- 4
+Char -- t Line Count -- 4 Char Count -- 4
+Char -- k Line Count -- 4 Char Count -- 4
+Char -- h Line Count -- 4 Char Count -- 4
+Char -- z Line Count -- 4 Char Count -- 4
+Char -- m Line Count -- 4 Char Count -- 4
+Char -- q Line Count -- 4 Char Count -- 4
+Char -- a Line Count -- 4 Char Count -- 4
+Char -- r Line Count -- 4 Char Count -- 4
+Char -- g Line Count -- 4 Char Count -- 4
+Char -- l Line Count -- 4 Char Count -- 4
+Char -- s Line Count -- 4 Char Count -- 4
+Char -- y Line Count -- 4 Char Count -- 4
+Char -- u Line Count -- 4 Char Count -- 4
+Char -- j Line Count -- 4 Char Count -- 4
+Char -- f Line Count -- 4 Char Count -- 4
+Char -- n Line Count -- 4 Char Count -- 4
+Char -- c Line Count -- 4 Char Count -- 4
+Char -- b Line Count -- 4 Char Count -- 4
+Char -- p Line Count -- 4 Char Count -- 4
+Char -- x Line Count -- 4 Char Count -- 4
+Line -- khbnlsgcwdepajfqryfcglrsedyjkbnwpahzrngyalswjpecfktbhdeajkdwshrclpfgnbyeqvgcfpyxdjirlwhkabsn-5 
+Char -- k Line Count -- 5 Char Count -- 5
+Char -- h Line Count -- 5 Char Count -- 5
+Char -- b Line Count -- 5 Char Count -- 5
+Char -- n Line Count -- 5 Char Count -- 5
+Char -- l Line Count -- 5 Char Count -- 5
+Char -- s Line Count -- 5 Char Count -- 5
+Char -- g Line Count -- 5 Char Count -- 5
+Char -- c Line Count -- 5 Char Count -- 5
+Char -- w Line Count -- 5 Char Count -- 5
+Char -- d Line Count -- 5 Char Count -- 5
+Char -- e Line Count -- 5 Char Count -- 5
+Char -- p Line Count -- 5 Char Count -- 5
+Char -- a Line Count -- 5 Char Count -- 5
+Char -- j Line Count -- 5 Char Count -- 5
+Char -- f Line Count -- 5 Char Count -- 5
+Char -- r Line Count -- 5 Char Count -- 5
+Char -- y Line Count -- 5 Char Count -- 5
+Line -- nsxzlycfmhtkprwmxstkfoyrhlzp-2 
+Char -- s Line Count -- 2 Char Count -- 2
+Char -- x Line Count -- 2 Char Count -- 2
+Char -- z Line Count -- 2 Char Count -- 2
+Char -- l Line Count -- 2 Char Count -- 2
+Char -- y Line Count -- 2 Char Count -- 2
+Char -- f Line Count -- 2 Char Count -- 2
+Char -- m Line Count -- 2 Char Count -- 2
+Char -- h Line Count -- 2 Char Count -- 2
+Char -- t Line Count -- 2 Char Count -- 2
+Char -- k Line Count -- 2 Char Count -- 2
+Char -- p Line Count -- 2 Char Count -- 2
+Char -- r Line Count -- 2 Char Count -- 2
+Line -- jqxfycblfjztavkuxehmxdfiponeyrvxswhgfa-4 
+Char -- x Line Count -- 4 Char Count -- 4
+Char -- f Line Count -- 4 Char Count -- 4
+Line -- yqutgqytguytugqtlgquyuqytg-5 
+Char -- y Line Count -- 5 Char Count -- 5
+Char -- q Line Count -- 5 Char Count -- 5
+Char -- u Line Count -- 5 Char Count -- 5
+Char -- t Line Count -- 5 Char Count -- 5
+Char -- g Line Count -- 5 Char Count -- 5
+Line -- lsnvemdftqgzkethkglvsqdfedxfsltqgvkzflnhgtsvkqde-4 
+Char -- l Line Count -- 4 Char Count -- 4
+Char -- s Line Count -- 4 Char Count -- 4
+Char -- v Line Count -- 4 Char Count -- 4
+Char -- e Line Count -- 4 Char Count -- 4
+Char -- d Line Count -- 4 Char Count -- 4
+Char -- f Line Count -- 4 Char Count -- 4
+Char -- t Line Count -- 4 Char Count -- 4
+Char -- q Line Count -- 4 Char Count -- 4
+Char -- g Line Count -- 4 Char Count -- 4
+Char -- k Line Count -- 4 Char Count -- 4
+Line -- zxqiowjpojziqxwppxwjizoq-3 
+Char -- z Line Count -- 3 Char Count -- 3
+Char -- x Line Count -- 3 Char Count -- 3
+Char -- q Line Count -- 3 Char Count -- 3
+Char -- i Line Count -- 3 Char Count -- 3
+Char -- o Line Count -- 3 Char Count -- 3
+Char -- w Line Count -- 3 Char Count -- 3
+Char -- j Line Count -- 3 Char Count -- 3
+Char -- p Line Count -- 3 Char Count -- 3
+Line -- jxfsvcuscqufxjv-2 
+Char -- j Line Count -- 2 Char Count -- 2
+Char -- x Line Count -- 2 Char Count -- 2
+Char -- f Line Count -- 2 Char Count -- 2
+Char -- s Line Count -- 2 Char Count -- 2
+Char -- v Line Count -- 2 Char Count -- 2
+Char -- c Line Count -- 2 Char Count -- 2
+Char -- u Line Count -- 2 Char Count -- 2
+Line -- nmkbsdpthekqzlgwuyrcapt-2 
+Char -- k Line Count -- 2 Char Count -- 2
+Char -- p Line Count -- 2 Char Count -- 2
+Char -- t Line Count -- 2 Char Count -- 2
+Line -- bvxfjegzyawqtdpkrihonlkgdxaywnmbthueqpfjvilo-2 
+Char -- b Line Count -- 2 Char Count -- 2
+Char -- v Line Count -- 2 Char Count -- 2
+Char -- x Line Count -- 2 Char Count -- 2
+Char -- f Line Count -- 2 Char Count -- 2
+Char -- j Line Count -- 2 Char Count -- 2
+Char -- e Line Count -- 2 Char Count -- 2
+Char -- g Line Count -- 2 Char Count -- 2
+Char -- y Line Count -- 2 Char Count -- 2
+Char -- a Line Count -- 2 Char Count -- 2
+Char -- w Line Count -- 2 Char Count -- 2
+Char -- q Line Count -- 2 Char Count -- 2
+Char -- t Line Count -- 2 Char Count -- 2
+Char -- d Line Count -- 2 Char Count -- 2
+Char -- p Line Count -- 2 Char Count -- 2
+Char -- k Line Count -- 2 Char Count -- 2
+Char -- i Line Count -- 2 Char Count -- 2
+Char -- h Line Count -- 2 Char Count -- 2
+Char -- o Line Count -- 2 Char Count -- 2
+Char -- n Line Count -- 2 Char Count -- 2
+Char -- l Line Count -- 2 Char Count -- 2
+Line -- wukhztztqhipkexwozhkwltfu-3 
+Char -- w Line Count -- 3 Char Count -- 3
+Char -- k Line Count -- 3 Char Count -- 3
+Char -- h Line Count -- 3 Char Count -- 3
+Char -- z Line Count -- 3 Char Count -- 3
+Char -- t Line Count -- 3 Char Count -- 3
+Line -- dosntymrebgxipvbakzmsqnxehtygbesntwxymgjupbsgyntoemx-4 
+Char -- s Line Count -- 4 Char Count -- 4
+Char -- n Line Count -- 4 Char Count -- 4
+Char -- t Line Count -- 4 Char Count -- 4
+Char -- y Line Count -- 4 Char Count -- 4
+Char -- m Line Count -- 4 Char Count -- 4
+Char -- e Line Count -- 4 Char Count -- 4
+Char -- b Line Count -- 4 Char Count -- 4
+Char -- g Line Count -- 4 Char Count -- 4
+Char -- x Line Count -- 4 Char Count -- 4
+Line -- kekeek-3 
+Char -- k Line Count -- 3 Char Count -- 3
+Char -- e Line Count -- 3 Char Count -- 3
+Line -- gkqrxeyhmpwoavszftnidqablonwmkpridxgcztsehy-2 
+Char -- g Line Count -- 2 Char Count -- 2
+Char -- k Line Count -- 2 Char Count -- 2
+Char -- q Line Count -- 2 Char Count -- 2
+Char -- r Line Count -- 2 Char Count -- 2
+Char -- x Line Count -- 2 Char Count -- 2
+Char -- e Line Count -- 2 Char Count -- 2
+Char -- y Line Count -- 2 Char Count -- 2
+Char -- h Line Count -- 2 Char Count -- 2
+Char -- m Line Count -- 2 Char Count -- 2
+Char -- p Line Count -- 2 Char Count -- 2
+Char -- w Line Count -- 2 Char Count -- 2
+Char -- o Line Count -- 2 Char Count -- 2
+Char -- a Line Count -- 2 Char Count -- 2
+Char -- s Line Count -- 2 Char Count -- 2
+Char -- z Line Count -- 2 Char Count -- 2
+Char -- t Line Count -- 2 Char Count -- 2
+Char -- n Line Count -- 2 Char Count -- 2
+Char -- i Line Count -- 2 Char Count -- 2
+Char -- d Line Count -- 2 Char Count -- 2
+Line -- ejnuvyrgwkfphldvyejdomzqcrtwuigs-2 
+Char -- e Line Count -- 2 Char Count -- 2
+Char -- j Line Count -- 2 Char Count -- 2
+Char -- u Line Count -- 2 Char Count -- 2
+Char -- v Line Count -- 2 Char Count -- 2
+Char -- y Line Count -- 2 Char Count -- 2
+Char -- r Line Count -- 2 Char Count -- 2
+Char -- g Line Count -- 2 Char Count -- 2
+Char -- w Line Count -- 2 Char Count -- 2
+Char -- d Line Count -- 2 Char Count -- 2
+Line -- sxjnructhkifzumktfhirxneciunkcfhryxthftciukrnxkuctixrfhn-5 
+Char -- x Line Count -- 5 Char Count -- 5
+Char -- n Line Count -- 5 Char Count -- 5
+Char -- r Line Count -- 5 Char Count -- 5
+Char -- u Line Count -- 5 Char Count -- 5
+Char -- c Line Count -- 5 Char Count -- 5
+Char -- t Line Count -- 5 Char Count -- 5
+Char -- h Line Count -- 5 Char Count -- 5
+Char -- k Line Count -- 5 Char Count -- 5
+Char -- i Line Count -- 5 Char Count -- 5
+Char -- f Line Count -- 5 Char Count -- 5
+Line -- mc-2 
+Line -- ktwhurxsgzahuntakrzxg-2 
+Char -- k Line Count -- 2 Char Count -- 2
+Char -- t Line Count -- 2 Char Count -- 2
+Char -- h Line Count -- 2 Char Count -- 2
+Char -- u Line Count -- 2 Char Count -- 2
+Char -- r Line Count -- 2 Char Count -- 2
+Char -- x Line Count -- 2 Char Count -- 2
+Char -- g Line Count -- 2 Char Count -- 2
+Char -- z Line Count -- 2 Char Count -- 2
+Char -- a Line Count -- 2 Char Count -- 2
+Line -- bfiecpvksjzgxmtrhwndyyewjdrpcfvmxub-2 
+Char -- b Line Count -- 2 Char Count -- 2
+Char -- f Line Count -- 2 Char Count -- 2
+Char -- e Line Count -- 2 Char Count -- 2
+Char -- c Line Count -- 2 Char Count -- 2
+Char -- p Line Count -- 2 Char Count -- 2
+Char -- v Line Count -- 2 Char Count -- 2
+Char -- j Line Count -- 2 Char Count -- 2
+Char -- x Line Count -- 2 Char Count -- 2
+Char -- m Line Count -- 2 Char Count -- 2
+Char -- r Line Count -- 2 Char Count -- 2
+Char -- w Line Count -- 2 Char Count -- 2
+Char -- d Line Count -- 2 Char Count -- 2
+Char -- y Line Count -- 2 Char Count -- 2
+Line -- kxvbvkx-2 
+Char -- k Line Count -- 2 Char Count -- 2
+Char -- x Line Count -- 2 Char Count -- 2
+Char -- v Line Count -- 2 Char Count -- 2
+Line -- mpkdrilqnvgjszxhbceatqplbdncjxgzvsimakehrtabwpdvkcmjihleqsrxztgnejkotbiyranhvzpgmdsqlcx-4 
+Char -- m Line Count -- 4 Char Count -- 4
+Char -- p Line Count -- 4 Char Count -- 4
+Char -- k Line Count -- 4 Char Count -- 4
+Char -- d Line Count -- 4 Char Count -- 4
+Char -- r Line Count -- 4 Char Count -- 4
+Char -- i Line Count -- 4 Char Count -- 4
+Char -- l Line Count -- 4 Char Count -- 4
+Char -- q Line Count -- 4 Char Count -- 4
+Char -- n Line Count -- 4 Char Count -- 4
+Char -- v Line Count -- 4 Char Count -- 4
+Char -- g Line Count -- 4 Char Count -- 4
+Char -- j Line Count -- 4 Char Count -- 4
+Char -- s Line Count -- 4 Char Count -- 4
+Char -- z Line Count -- 4 Char Count -- 4
+Char -- x Line Count -- 4 Char Count -- 4
+Char -- h Line Count -- 4 Char Count -- 4
+Char -- b Line Count -- 4 Char Count -- 4
+Char -- c Line Count -- 4 Char Count -- 4
+Char -- e Line Count -- 4 Char Count -- 4
+Char -- a Line Count -- 4 Char Count -- 4
+Char -- t Line Count -- 4 Char Count -- 4
+Line -- upykgjlkqbapvfwpzmkrupkngjw-4 
+Char -- p Line Count -- 4 Char Count -- 4
+Char -- k Line Count -- 4 Char Count -- 4
+Line -- henpvxuhnepivhpnunphgacnoptsyh-5 
+Char -- h Line Count -- 5 Char Count -- 5
+Char -- n Line Count -- 5 Char Count -- 5
+Char -- p Line Count -- 5 Char Count -- 5
+Line -- vavvv-4 
+Char -- v Line Count -- 4 Char Count -- 4
+Line -- mfgsejknphquwvtzicnyfhzpkxqtmlwivsgec-2 
+Char -- m Line Count -- 2 Char Count -- 2
+Char -- f Line Count -- 2 Char Count -- 2
+Char -- g Line Count -- 2 Char Count -- 2
+Char -- s Line Count -- 2 Char Count -- 2
+Char -- e Line Count -- 2 Char Count -- 2
+Char -- k Line Count -- 2 Char Count -- 2
+Char -- n Line Count -- 2 Char Count -- 2
+Char -- p Line Count -- 2 Char Count -- 2
+Char -- h Line Count -- 2 Char Count -- 2
+Char -- q Line Count -- 2 Char Count -- 2
+Char -- w Line Count -- 2 Char Count -- 2
+Char -- v Line Count -- 2 Char Count -- 2
+Char -- t Line Count -- 2 Char Count -- 2
+Char -- z Line Count -- 2 Char Count -- 2
+Char -- i Line Count -- 2 Char Count -- 2
+Char -- c Line Count -- 2 Char Count -- 2
+Line -- lllr-3 
+Char -- l Line Count -- 3 Char Count -- 3
+Line -- vneibmqwsuroplqulpwvhbmirnepriwulqenbmvuwbznlqrmpvieanmvqulerpdbiw-5 
+Char -- v Line Count -- 5 Char Count -- 5
+Char -- n Line Count -- 5 Char Count -- 5
+Char -- e Line Count -- 5 Char Count -- 5
+Char -- i Line Count -- 5 Char Count -- 5
+Char -- b Line Count -- 5 Char Count -- 5
+Char -- m Line Count -- 5 Char Count -- 5
+Char -- q Line Count -- 5 Char Count -- 5
+Char -- w Line Count -- 5 Char Count -- 5
+Char -- u Line Count -- 5 Char Count -- 5
+Char -- r Line Count -- 5 Char Count -- 5
+Char -- p Line Count -- 5 Char Count -- 5
+Char -- l Line Count -- 5 Char Count -- 5
+Line -- zrcedpsjlgavqhkfwyxinobmutwvzastimlhdyeobxckurfgpnjq-2 
+Char -- z Line Count -- 2 Char Count -- 2
+Char -- r Line Count -- 2 Char Count -- 2
+Char -- c Line Count -- 2 Char Count -- 2
+Char -- e Line Count -- 2 Char Count -- 2
+Char -- d Line Count -- 2 Char Count -- 2
+Char -- p Line Count -- 2 Char Count -- 2
+Char -- s Line Count -- 2 Char Count -- 2
+Char -- j Line Count -- 2 Char Count -- 2
+Char -- l Line Count -- 2 Char Count -- 2
+Char -- g Line Count -- 2 Char Count -- 2
+Char -- a Line Count -- 2 Char Count -- 2
+Char -- v Line Count -- 2 Char Count -- 2
+Char -- q Line Count -- 2 Char Count -- 2
+Char -- h Line Count -- 2 Char Count -- 2
+Char -- k Line Count -- 2 Char Count -- 2
+Char -- f Line Count -- 2 Char Count -- 2
+Char -- w Line Count -- 2 Char Count -- 2
+Char -- y Line Count -- 2 Char Count -- 2
+Char -- x Line Count -- 2 Char Count -- 2
+Char -- i Line Count -- 2 Char Count -- 2
+Char -- n Line Count -- 2 Char Count -- 2
+Char -- o Line Count -- 2 Char Count -- 2
+Char -- b Line Count -- 2 Char Count -- 2
+Char -- m Line Count -- 2 Char Count -- 2
+Char -- u Line Count -- 2 Char Count -- 2
+Char -- t Line Count -- 2 Char Count -- 2
+Line -- cwcc-4 
+Line -- eavhgxaxveghxghvaeeagvhxxaehvg-5 
+Char -- e Line Count -- 5 Char Count -- 5
+Char -- a Line Count -- 5 Char Count -- 5
+Char -- v Line Count -- 5 Char Count -- 5
+Char -- h Line Count -- 5 Char Count -- 5
+Char -- g Line Count -- 5 Char Count -- 5
+Char -- x Line Count -- 5 Char Count -- 5
+Line -- qhvryckjcyqhvkjvhyjmzcgqk-3 
+Char -- q Line Count -- 3 Char Count -- 3
+Char -- h Line Count -- 3 Char Count -- 3
+Char -- v Line Count -- 3 Char Count -- 3
+Char -- y Line Count -- 3 Char Count -- 3
+Char -- c Line Count -- 3 Char Count -- 3
+Char -- k Line Count -- 3 Char Count -- 3
+Char -- j Line Count -- 3 Char Count -- 3
+Line -- inyetbqzdcucezuhinejaurictfnymhrngcezuiaxkliecvuwsn-5 
+Char -- i Line Count -- 5 Char Count -- 5
+Char -- n Line Count -- 5 Char Count -- 5
+Char -- e Line Count -- 5 Char Count -- 5
+Char -- c Line Count -- 5 Char Count -- 5
+Char -- u Line Count -- 5 Char Count -- 5
+Line -- qowvezrdukfbnzewvyunqoambdrzngwprusefvdbkqoeuwdbvqnzfroxrqovndztwueb-5 
+Char -- q Line Count -- 5 Char Count -- 5
+Char -- o Line Count -- 5 Char Count -- 5
+Char -- w Line Count -- 5 Char Count -- 5
+Char -- v Line Count -- 5 Char Count -- 5
+Char -- e Line Count -- 5 Char Count -- 5
+Char -- z Line Count -- 5 Char Count -- 5
+Char -- r Line Count -- 5 Char Count -- 5
+Char -- d Line Count -- 5 Char Count -- 5
+Char -- u Line Count -- 5 Char Count -- 5
+Char -- b Line Count -- 5 Char Count -- 5
+Char -- n Line Count -- 5 Char Count -- 5
+Line -- klpubivcyfoemgdqzasnstujebgynqmlxvaknvmqsubergklwyh-3 
+Char -- k Line Count -- 3 Char Count -- 3
+Char -- l Line Count -- 3 Char Count -- 3
+Char -- u Line Count -- 3 Char Count -- 3
+Char -- b Line Count -- 3 Char Count -- 3
+Char -- v Line Count -- 3 Char Count -- 3
+Char -- y Line Count -- 3 Char Count -- 3
+Char -- e Line Count -- 3 Char Count -- 3
+Char -- m Line Count -- 3 Char Count -- 3
+Char -- g Line Count -- 3 Char Count -- 3
+Char -- q Line Count -- 3 Char Count -- 3
+Char -- s Line Count -- 3 Char Count -- 3
+Char -- n Line Count -- 3 Char Count -- 3
+Line -- pbsjdzutfgwmxieqcraklhvbjcexgqskpvolmadnzryftwumvxrzwtqaujgpcebdklsf-3 
+Char -- p Line Count -- 3 Char Count -- 3
+Char -- b Line Count -- 3 Char Count -- 3
+Char -- s Line Count -- 3 Char Count -- 3
+Char -- j Line Count -- 3 Char Count -- 3
+Char -- d Line Count -- 3 Char Count -- 3
+Char -- z Line Count -- 3 Char Count -- 3
+Char -- u Line Count -- 3 Char Count -- 3
+Char -- t Line Count -- 3 Char Count -- 3
+Char -- f Line Count -- 3 Char Count -- 3
+Char -- g Line Count -- 3 Char Count -- 3
+Char -- w Line Count -- 3 Char Count -- 3
+Char -- m Line Count -- 3 Char Count -- 3
+Char -- x Line Count -- 3 Char Count -- 3
+Char -- e Line Count -- 3 Char Count -- 3
+Char -- q Line Count -- 3 Char Count -- 3
+Char -- c Line Count -- 3 Char Count -- 3
+Char -- r Line Count -- 3 Char Count -- 3
+Char -- a Line Count -- 3 Char Count -- 3
+Char -- k Line Count -- 3 Char Count -- 3
+Char -- l Line Count -- 3 Char Count -- 3
+Char -- v Line Count -- 3 Char Count -- 3
+Line -- balwcovjjwobvalcbwjaolvclbaojcvwcvbwlajo-5 
+Char -- b Line Count -- 5 Char Count -- 5
+Char -- a Line Count -- 5 Char Count -- 5
+Char -- l Line Count -- 5 Char Count -- 5
+Char -- w Line Count -- 5 Char Count -- 5
+Char -- c Line Count -- 5 Char Count -- 5
+Char -- o Line Count -- 5 Char Count -- 5
+Char -- v Line Count -- 5 Char Count -- 5
+Char -- j Line Count -- 5 Char Count -- 5
+Line -- onvtxxotnv-2 
+Char -- o Line Count -- 2 Char Count -- 2
+Char -- n Line Count -- 2 Char Count -- 2
+Char -- v Line Count -- 2 Char Count -- 2
+Char -- t Line Count -- 2 Char Count -- 2
+Char -- x Line Count -- 2 Char Count -- 2
+Line -- yydgyfy-4 
+Char -- y Line Count -- 4 Char Count -- 4
+Line -- ndluothuotfwgouqtl-3 
+Char -- u Line Count -- 3 Char Count -- 3
+Char -- o Line Count -- 3 Char Count -- 3
+Char -- t Line Count -- 3 Char Count -- 3
+Line -- usvyqf-2 
+Line -- hcc-3 
+Line -- vjyolxpgqfkqbugnhjvpxxtzaprdcvjqigm-3 
+Char -- v Line Count -- 3 Char Count -- 3
+Char -- j Line Count -- 3 Char Count -- 3
+Char -- x Line Count -- 3 Char Count -- 3
+Char -- p Line Count -- 3 Char Count -- 3
+Char -- g Line Count -- 3 Char Count -- 3
+Char -- q Line Count -- 3 Char Count -- 3
+Line -- idryqgoevjwhpaljwrledyhvgpaoqiolgejvpdaqwiyrhajehiwrlodvypgqoylrhqwajevgpid-5 
+Char -- i Line Count -- 5 Char Count -- 5
+Char -- d Line Count -- 5 Char Count -- 5
+Char -- r Line Count -- 5 Char Count -- 5
+Char -- y Line Count -- 5 Char Count -- 5
+Char -- q Line Count -- 5 Char Count -- 5
+Char -- g Line Count -- 5 Char Count -- 5
+Char -- o Line Count -- 5 Char Count -- 5
+Char -- e Line Count -- 5 Char Count -- 5
+Char -- v Line Count -- 5 Char Count -- 5
+Char -- j Line Count -- 5 Char Count -- 5
+Char -- w Line Count -- 5 Char Count -- 5
+Char -- h Line Count -- 5 Char Count -- 5
+Char -- p Line Count -- 5 Char Count -- 5
+Char -- a Line Count -- 5 Char Count -- 5
+Char -- l Line Count -- 5 Char Count -- 5
+Line -- xxpr-4 
+Line -- rnqocxehfyrjmlgdavuwihoxxrqpnkoht-3 
+Char -- r Line Count -- 3 Char Count -- 3
+Char -- o Line Count -- 3 Char Count -- 3
+Char -- x Line Count -- 3 Char Count -- 3
+Char -- h Line Count -- 3 Char Count -- 3
+Line -- yvackuxdrbespfozoyxcabeuszrfvpkdutxobrfckapdvzseyeoxsdayfpkucvbzr-4 
+Char -- y Line Count -- 4 Char Count -- 4
+Char -- v Line Count -- 4 Char Count -- 4
+Char -- a Line Count -- 4 Char Count -- 4
+Char -- c Line Count -- 4 Char Count -- 4
+Char -- k Line Count -- 4 Char Count -- 4
+Char -- u Line Count -- 4 Char Count -- 4
+Char -- x Line Count -- 4 Char Count -- 4
+Char -- d Line Count -- 4 Char Count -- 4
+Char -- r Line Count -- 4 Char Count -- 4
+Char -- b Line Count -- 4 Char Count -- 4
+Char -- e Line Count -- 4 Char Count -- 4
+Char -- s Line Count -- 4 Char Count -- 4
+Char -- p Line Count -- 4 Char Count -- 4
+Char -- f Line Count -- 4 Char Count -- 4
+Char -- o Line Count -- 4 Char Count -- 4
+Char -- z Line Count -- 4 Char Count -- 4
+Line -- jortnzkcqbbznrjycktqozjqnkrtcobqojktrnbczqktojzrncb-5 
+Char -- j Line Count -- 5 Char Count -- 5
+Char -- o Line Count -- 5 Char Count -- 5
+Char -- r Line Count -- 5 Char Count -- 5
+Char -- t Line Count -- 5 Char Count -- 5
+Char -- n Line Count -- 5 Char Count -- 5
+Char -- z Line Count -- 5 Char Count -- 5
+Char -- k Line Count -- 5 Char Count -- 5
+Char -- c Line Count -- 5 Char Count -- 5
+Char -- q Line Count -- 5 Char Count -- 5
+Char -- b Line Count -- 5 Char Count -- 5
+Line -- uokgpkrui-2 
+Char -- u Line Count -- 2 Char Count -- 2
+Char -- k Line Count -- 2 Char Count -- 2
+Line -- iqbhupfzgfqklopwhqstfhnpnqykmsphf-4 
+Char -- q Line Count -- 4 Char Count -- 4
+Char -- h Line Count -- 4 Char Count -- 4
+Char -- p Line Count -- 4 Char Count -- 4
+Char -- f Line Count -- 4 Char Count -- 4
+Line -- jnzpybrvctmgxpzjbyxmgkcvncvxjzgpnbmygvynmcxzbpj-4 
+Char -- j Line Count -- 4 Char Count -- 4
+Char -- n Line Count -- 4 Char Count -- 4
+Char -- z Line Count -- 4 Char Count -- 4
+Char -- p Line Count -- 4 Char Count -- 4
+Char -- y Line Count -- 4 Char Count -- 4
+Char -- b Line Count -- 4 Char Count -- 4
+Char -- v Line Count -- 4 Char Count -- 4
+Char -- c Line Count -- 4 Char Count -- 4
+Char -- m Line Count -- 4 Char Count -- 4
+Char -- g Line Count -- 4 Char Count -- 4
+Char -- x Line Count -- 4 Char Count -- 4
+Line -- zihytzihtyzhtyiohytiztyizh-5 
+Char -- z Line Count -- 5 Char Count -- 5
+Char -- i Line Count -- 5 Char Count -- 5
+Char -- h Line Count -- 5 Char Count -- 5
+Char -- y Line Count -- 5 Char Count -- 5
+Char -- t Line Count -- 5 Char Count -- 5
+Line -- hrtmfqdnbsjceuxgiakollxprsezfuyw-2 
+Char -- r Line Count -- 2 Char Count -- 2
+Char -- f Line Count -- 2 Char Count -- 2
+Char -- s Line Count -- 2 Char Count -- 2
+Char -- e Line Count -- 2 Char Count -- 2
+Char -- u Line Count -- 2 Char Count -- 2
+Char -- x Line Count -- 2 Char Count -- 2
+Char -- l Line Count -- 2 Char Count -- 2
+Line -- bnpesmfqhcyakdoy-3 
+Line -- hsfjqecixrdyzpo-3 
+Line -- nsviyqisyqnvcvqdsfnjyiqvniysqvysni-5 
+Char -- n Line Count -- 5 Char Count -- 5
+Char -- s Line Count -- 5 Char Count -- 5
+Char -- v Line Count -- 5 Char Count -- 5
+Char -- i Line Count -- 5 Char Count -- 5
+Char -- y Line Count -- 5 Char Count -- 5
+Char -- q Line Count -- 5 Char Count -- 5
+Line -- olsytfpiqbcgruavnmkdjwobyanuximplfgtrc-2 
+Char -- o Line Count -- 2 Char Count -- 2
+Char -- l Line Count -- 2 Char Count -- 2
+Char -- y Line Count -- 2 Char Count -- 2
+Char -- t Line Count -- 2 Char Count -- 2
+Char -- f Line Count -- 2 Char Count -- 2
+Char -- p Line Count -- 2 Char Count -- 2
+Char -- i Line Count -- 2 Char Count -- 2
+Char -- b Line Count -- 2 Char Count -- 2
+Char -- c Line Count -- 2 Char Count -- 2
+Char -- g Line Count -- 2 Char Count -- 2
+Char -- r Line Count -- 2 Char Count -- 2
+Char -- u Line Count -- 2 Char Count -- 2
+Char -- a Line Count -- 2 Char Count -- 2
+Char -- n Line Count -- 2 Char Count -- 2
+Char -- m Line Count -- 2 Char Count -- 2
+Line -- fakvjrdemphinxzboygcqrpxbevcfsodljzqmaigkh-2 
+Char -- f Line Count -- 2 Char Count -- 2
+Char -- a Line Count -- 2 Char Count -- 2
+Char -- k Line Count -- 2 Char Count -- 2
+Char -- v Line Count -- 2 Char Count -- 2
+Char -- j Line Count -- 2 Char Count -- 2
+Char -- r Line Count -- 2 Char Count -- 2
+Char -- d Line Count -- 2 Char Count -- 2
+Char -- e Line Count -- 2 Char Count -- 2
+Char -- m Line Count -- 2 Char Count -- 2
+Char -- p Line Count -- 2 Char Count -- 2
+Char -- h Line Count -- 2 Char Count -- 2
+Char -- i Line Count -- 2 Char Count -- 2
+Char -- x Line Count -- 2 Char Count -- 2
+Char -- z Line Count -- 2 Char Count -- 2
+Char -- b Line Count -- 2 Char Count -- 2
+Char -- o Line Count -- 2 Char Count -- 2
+Char -- g Line Count -- 2 Char Count -- 2
+Char -- c Line Count -- 2 Char Count -- 2
+Char -- q Line Count -- 2 Char Count -- 2
+Line -- oshhoprniefzcdvjxihp-5 
+Line -- qhamelslehazmealyhhelabelahtkn-5 
+Char -- h Line Count -- 5 Char Count -- 5
+Char -- a Line Count -- 5 Char Count -- 5
+Char -- e Line Count -- 5 Char Count -- 5
+Char -- l Line Count -- 5 Char Count -- 5
+Line -- ertwyfubagxcilmgfytuxwmrbialeccmxybwaptedlrufiguciewrabfxymltggeurytlicmbawxf-5 
+Char -- e Line Count -- 5 Char Count -- 5
+Char -- r Line Count -- 5 Char Count -- 5
+Char -- t Line Count -- 5 Char Count -- 5
+Char -- w Line Count -- 5 Char Count -- 5
+Char -- y Line Count -- 5 Char Count -- 5
+Char -- f Line Count -- 5 Char Count -- 5
+Char -- u Line Count -- 5 Char Count -- 5
+Char -- b Line Count -- 5 Char Count -- 5
+Char -- a Line Count -- 5 Char Count -- 5
+Char -- g Line Count -- 5 Char Count -- 5
+Char -- x Line Count -- 5 Char Count -- 5
+Char -- c Line Count -- 5 Char Count -- 5
+Char -- i Line Count -- 5 Char Count -- 5
+Char -- l Line Count -- 5 Char Count -- 5
+Char -- m Line Count -- 5 Char Count -- 5
+Line -- pqosuijfqfsjiupifsrpujq-3 
+Char -- p Line Count -- 3 Char Count -- 3
+Char -- q Line Count -- 3 Char Count -- 3
+Char -- s Line Count -- 3 Char Count -- 3
+Char -- u Line Count -- 3 Char Count -- 3
+Char -- i Line Count -- 3 Char Count -- 3
+Char -- j Line Count -- 3 Char Count -- 3
+Char -- f Line Count -- 3 Char Count -- 3
+Line -- ivviivgvivi-5 
+Char -- i Line Count -- 5 Char Count -- 5
+Char -- v Line Count -- 5 Char Count -- 5
+Line -- gcpsritsmvokrusqagr-3 
+Char -- s Line Count -- 3 Char Count -- 3
+Char -- r Line Count -- 3 Char Count -- 3
+Line -- svtwqplurthzwuporavylltupsqrwvutvwlsprq-4 
+Char -- v Line Count -- 4 Char Count -- 4
+Char -- t Line Count -- 4 Char Count -- 4
+Char -- w Line Count -- 4 Char Count -- 4
+Char -- p Line Count -- 4 Char Count -- 4
+Char -- l Line Count -- 4 Char Count -- 4
+Char -- u Line Count -- 4 Char Count -- 4
+Char -- r Line Count -- 4 Char Count -- 4
+Line -- apeidznxcrimgtbyeksluhseitolv-3 
+Char -- e Line Count -- 3 Char Count -- 3
+Char -- i Line Count -- 3 Char Count -- 3
+Line -- tfhpmelshaspqmfelkplfrjymxehpthlvmqefcehdmtfpsl-5 
+Char -- f Line Count -- 5 Char Count -- 5
+Char -- h Line Count -- 5 Char Count -- 5
+Char -- p Line Count -- 5 Char Count -- 5
+Char -- m Line Count -- 5 Char Count -- 5
+Char -- e Line Count -- 5 Char Count -- 5
+Char -- l Line Count -- 5 Char Count -- 5
+Line -- djcajdvohrlqx-4 
+Line -- kuzcdayghrqbtpekcpxwmaeruqzhvb-2 
+Char -- k Line Count -- 2 Char Count -- 2
+Char -- u Line Count -- 2 Char Count -- 2
+Char -- z Line Count -- 2 Char Count -- 2
+Char -- c Line Count -- 2 Char Count -- 2
+Char -- a Line Count -- 2 Char Count -- 2
+Char -- h Line Count -- 2 Char Count -- 2
+Char -- r Line Count -- 2 Char Count -- 2
+Char -- q Line Count -- 2 Char Count -- 2
+Char -- b Line Count -- 2 Char Count -- 2
+Char -- p Line Count -- 2 Char Count -- 2
+Char -- e Line Count -- 2 Char Count -- 2
+Line -- riwuxjgpuwhxdjblknsvt-3 
+Line -- jtvyrtjrvyvjyrtvytjrjvrty-5 
+Char -- j Line Count -- 5 Char Count -- 5
+Char -- t Line Count -- 5 Char Count -- 5
+Char -- v Line Count -- 5 Char Count -- 5
+Char -- y Line Count -- 5 Char Count -- 5
+Char -- r Line Count -- 5 Char Count -- 5
+Line -- qngcmeqencknecpq-3 
+Char -- q Line Count -- 3 Char Count -- 3
+Char -- n Line Count -- 3 Char Count -- 3
+Char -- c Line Count -- 3 Char Count -- 3
+Char -- e Line Count -- 3 Char Count -- 3
+Line -- psetjyxvikrzflgdmycowconubucqa-5 
+Line -- kdntudnzdnagtxdkn-4 
+Char -- d Line Count -- 4 Char Count -- 4
+Char -- n Line Count -- 4 Char Count -- 4
+Line -- jsikbcefksefbiyeikfbssnevfqxiakb-4 
+Char -- s Line Count -- 4 Char Count -- 4
+Char -- i Line Count -- 4 Char Count -- 4
+Char -- k Line Count -- 4 Char Count -- 4
+Char -- b Line Count -- 4 Char Count -- 4
+Char -- e Line Count -- 4 Char Count -- 4
+Char -- f Line Count -- 4 Char Count -- 4
+Line -- wqtgfxruzydjrkfxwtzqdub-2 
+Char -- w Line Count -- 2 Char Count -- 2
+Char -- q Line Count -- 2 Char Count -- 2
+Char -- t Line Count -- 2 Char Count -- 2
+Char -- f Line Count -- 2 Char Count -- 2
+Char -- x Line Count -- 2 Char Count -- 2
+Char -- r Line Count -- 2 Char Count -- 2
+Char -- u Line Count -- 2 Char Count -- 2
+Char -- z Line Count -- 2 Char Count -- 2
+Char -- d Line Count -- 2 Char Count -- 2
+Line -- kemcnsaxjfiubgmankwgqsuxibcjsbgkvujnmcxaifgyixmnkdacbujs-4 
+Char -- k Line Count -- 4 Char Count -- 4
+Char -- m Line Count -- 4 Char Count -- 4
+Char -- c Line Count -- 4 Char Count -- 4
+Char -- n Line Count -- 4 Char Count -- 4
+Char -- s Line Count -- 4 Char Count -- 4
+Char -- a Line Count -- 4 Char Count -- 4
+Char -- x Line Count -- 4 Char Count -- 4
+Char -- j Line Count -- 4 Char Count -- 4
+Char -- i Line Count -- 4 Char Count -- 4
+Char -- u Line Count -- 4 Char Count -- 4
+Char -- b Line Count -- 4 Char Count -- 4
+Char -- g Line Count -- 4 Char Count -- 4
+Line -- dmrkoujzbvtwsqyxfqibxwkhmzcertd-2 
+Char -- d Line Count -- 2 Char Count -- 2
+Char -- m Line Count -- 2 Char Count -- 2
+Char -- r Line Count -- 2 Char Count -- 2
+Char -- k Line Count -- 2 Char Count -- 2
+Char -- z Line Count -- 2 Char Count -- 2
+Char -- b Line Count -- 2 Char Count -- 2
+Char -- t Line Count -- 2 Char Count -- 2
+Char -- w Line Count -- 2 Char Count -- 2
+Char -- q Line Count -- 2 Char Count -- 2
+Char -- x Line Count -- 2 Char Count -- 2
+Line -- jbwwrygww-4 
+Char -- w Line Count -- 4 Char Count -- 4
+Line -- yg-2 
+Line -- bcfztdseowilyqapunwpmsdbozlqvcikuxqsbloudprihcwz-3 
+Char -- b Line Count -- 3 Char Count -- 3
+Char -- c Line Count -- 3 Char Count -- 3
+Char -- z Line Count -- 3 Char Count -- 3
+Char -- d Line Count -- 3 Char Count -- 3
+Char -- s Line Count -- 3 Char Count -- 3
+Char -- o Line Count -- 3 Char Count -- 3
+Char -- w Line Count -- 3 Char Count -- 3
+Char -- i Line Count -- 3 Char Count -- 3
+Char -- l Line Count -- 3 Char Count -- 3
+Char -- q Line Count -- 3 Char Count -- 3
+Char -- p Line Count -- 3 Char Count -- 3
+Char -- u Line Count -- 3 Char Count -- 3
+Line -- intvfbkagzskrweqxlajmtyu-2 
+Char -- t Line Count -- 2 Char Count -- 2
+Char -- k Line Count -- 2 Char Count -- 2
+Char -- a Line Count -- 2 Char Count -- 2
+Line -- rpzjcoglpv-4 
+Line -- fljxyzkgtktzlcsigxyfxygltfzkilgyxtbkfzjklmtrzdfegqxhny-5 
+Char -- f Line Count -- 5 Char Count -- 5
+Char -- l Line Count -- 5 Char Count -- 5
+Char -- x Line Count -- 5 Char Count -- 5
+Char -- y Line Count -- 5 Char Count -- 5
+Char -- z Line Count -- 5 Char Count -- 5
+Char -- k Line Count -- 5 Char Count -- 5
+Char -- g Line Count -- 5 Char Count -- 5
+Char -- t Line Count -- 5 Char Count -- 5
+Line -- ejfndtrmwlyzxqavhcbspoikgajnlbfrcswgmdkthpxiqvz-2 
+Char -- j Line Count -- 2 Char Count -- 2
+Char -- f Line Count -- 2 Char Count -- 2
+Char -- n Line Count -- 2 Char Count -- 2
+Char -- d Line Count -- 2 Char Count -- 2
+Char -- t Line Count -- 2 Char Count -- 2
+Char -- r Line Count -- 2 Char Count -- 2
+Char -- m Line Count -- 2 Char Count -- 2
+Char -- w Line Count -- 2 Char Count -- 2
+Char -- l Line Count -- 2 Char Count -- 2
+Char -- z Line Count -- 2 Char Count -- 2
+Char -- x Line Count -- 2 Char Count -- 2
+Char -- q Line Count -- 2 Char Count -- 2
+Char -- a Line Count -- 2 Char Count -- 2
+Char -- v Line Count -- 2 Char Count -- 2
+Char -- h Line Count -- 2 Char Count -- 2
+Char -- c Line Count -- 2 Char Count -- 2
+Char -- b Line Count -- 2 Char Count -- 2
+Char -- s Line Count -- 2 Char Count -- 2
+Char -- p Line Count -- 2 Char Count -- 2
+Char -- i Line Count -- 2 Char Count -- 2
+Char -- k Line Count -- 2 Char Count -- 2
+Char -- g Line Count -- 2 Char Count -- 2
+Line -- ysikgwrpxrdmkqgswwgrchksjfwykdasgr-4 
+Char -- s Line Count -- 4 Char Count -- 4
+Char -- k Line Count -- 4 Char Count -- 4
+Char -- g Line Count -- 4 Char Count -- 4
+Char -- w Line Count -- 4 Char Count -- 4
+Char -- r Line Count -- 4 Char Count -- 4
+Line -- emaizfwdcadcwsozetmf-2 
+Char -- e Line Count -- 2 Char Count -- 2
+Char -- m Line Count -- 2 Char Count -- 2
+Char -- a Line Count -- 2 Char Count -- 2
+Char -- z Line Count -- 2 Char Count -- 2
+Char -- f Line Count -- 2 Char Count -- 2
+Char -- w Line Count -- 2 Char Count -- 2
+Char -- d Line Count -- 2 Char Count -- 2
+Char -- c Line Count -- 2 Char Count -- 2
+Line -- mrz-3 
+Line -- knvpqjbasljqnsvklbpadvksqnbljpapawskblnqjvblakpsqjnfv-5 
+Char -- k Line Count -- 5 Char Count -- 5
+Char -- n Line Count -- 5 Char Count -- 5
+Char -- v Line Count -- 5 Char Count -- 5
+Char -- p Line Count -- 5 Char Count -- 5
+Char -- q Line Count -- 5 Char Count -- 5
+Char -- j Line Count -- 5 Char Count -- 5
+Char -- b Line Count -- 5 Char Count -- 5
+Char -- a Line Count -- 5 Char Count -- 5
+Char -- s Line Count -- 5 Char Count -- 5
+Char -- l Line Count -- 5 Char Count -- 5
+Line -- phioqsuguniouoi-3 
+Char -- i Line Count -- 3 Char Count -- 3
+Char -- o Line Count -- 3 Char Count -- 3
+Char -- u Line Count -- 3 Char Count -- 3
+Line -- wlqhkndiuoxtgesrmpfvwvgsmtolekfhaxnpqui-2 
+Char -- w Line Count -- 2 Char Count -- 2
+Char -- l Line Count -- 2 Char Count -- 2
+Char -- q Line Count -- 2 Char Count -- 2
+Char -- h Line Count -- 2 Char Count -- 2
+Char -- k Line Count -- 2 Char Count -- 2
+Char -- n Line Count -- 2 Char Count -- 2
+Char -- i Line Count -- 2 Char Count -- 2
+Char -- u Line Count -- 2 Char Count -- 2
+Char -- o Line Count -- 2 Char Count -- 2
+Char -- x Line Count -- 2 Char Count -- 2
+Char -- t Line Count -- 2 Char Count -- 2
+Char -- g Line Count -- 2 Char Count -- 2
+Char -- e Line Count -- 2 Char Count -- 2
+Char -- s Line Count -- 2 Char Count -- 2
+Char -- m Line Count -- 2 Char Count -- 2
+Char -- p Line Count -- 2 Char Count -- 2
+Char -- f Line Count -- 2 Char Count -- 2
+Char -- v Line Count -- 2 Char Count -- 2
+Line -- sluuisal-2 
+Char -- s Line Count -- 2 Char Count -- 2
+Char -- l Line Count -- 2 Char Count -- 2
+Char -- u Line Count -- 2 Char Count -- 2
+Line -- fsepbqldiztcwanjohrukylsbtpoenyvuazqghijfrkcwdkqzrdphyoacenswumblxtij-3 
+Char -- s Line Count -- 3 Char Count -- 3
+Char -- e Line Count -- 3 Char Count -- 3
+Char -- p Line Count -- 3 Char Count -- 3
+Char -- b Line Count -- 3 Char Count -- 3
+Char -- q Line Count -- 3 Char Count -- 3
+Char -- l Line Count -- 3 Char Count -- 3
+Char -- d Line Count -- 3 Char Count -- 3
+Char -- i Line Count -- 3 Char Count -- 3
+Char -- z Line Count -- 3 Char Count -- 3
+Char -- t Line Count -- 3 Char Count -- 3
+Char -- c Line Count -- 3 Char Count -- 3
+Char -- w Line Count -- 3 Char Count -- 3
+Char -- a Line Count -- 3 Char Count -- 3
+Char -- n Line Count -- 3 Char Count -- 3
+Char -- j Line Count -- 3 Char Count -- 3
+Char -- o Line Count -- 3 Char Count -- 3
+Char -- h Line Count -- 3 Char Count -- 3
+Char -- r Line Count -- 3 Char Count -- 3
+Char -- u Line Count -- 3 Char Count -- 3
+Char -- k Line Count -- 3 Char Count -- 3
+Char -- y Line Count -- 3 Char Count -- 3
+Line -- zfbadvteztedaotazieeturlyah-4 
+Char -- a Line Count -- 4 Char Count -- 4
+Char -- t Line Count -- 4 Char Count -- 4
+Char -- e Line Count -- 4 Char Count -- 4
+Line -- gttgdgvtatg-4 
+Char -- g Line Count -- 4 Char Count -- 4
+Char -- t Line Count -- 4 Char Count -- 4
+Line -- rjckymcvlctowebcmqhmruchy-5 
+Char -- c Line Count -- 5 Char Count -- 5
+Line -- iztpecipeztczceipticpzetecptzhi-5 
+Char -- i Line Count -- 5 Char Count -- 5
+Char -- z Line Count -- 5 Char Count -- 5
+Char -- t Line Count -- 5 Char Count -- 5
+Char -- p Line Count -- 5 Char Count -- 5
+Char -- e Line Count -- 5 Char Count -- 5
+Char -- c Line Count -- 5 Char Count -- 5
+Line -- mjubdrwxaitnvcekgslhqpzldhvzxbrqjtcmpuiasewk-2 
+Char -- m Line Count -- 2 Char Count -- 2
+Char -- j Line Count -- 2 Char Count -- 2
+Char -- u Line Count -- 2 Char Count -- 2
+Char -- b Line Count -- 2 Char Count -- 2
+Char -- d Line Count -- 2 Char Count -- 2
+Char -- r Line Count -- 2 Char Count -- 2
+Char -- w Line Count -- 2 Char Count -- 2
+Char -- x Line Count -- 2 Char Count -- 2
+Char -- a Line Count -- 2 Char Count -- 2
+Char -- i Line Count -- 2 Char Count -- 2
+Char -- t Line Count -- 2 Char Count -- 2
+Char -- v Line Count -- 2 Char Count -- 2
+Char -- c Line Count -- 2 Char Count -- 2
+Char -- e Line Count -- 2 Char Count -- 2
+Char -- k Line Count -- 2 Char Count -- 2
+Char -- s Line Count -- 2 Char Count -- 2
+Char -- l Line Count -- 2 Char Count -- 2
+Char -- h Line Count -- 2 Char Count -- 2
+Char -- q Line Count -- 2 Char Count -- 2
+Char -- p Line Count -- 2 Char Count -- 2
+Char -- z Line Count -- 2 Char Count -- 2
+Line -- dkjlrwqbpajqlzerbpa-2 
+Char -- j Line Count -- 2 Char Count -- 2
+Char -- l Line Count -- 2 Char Count -- 2
+Char -- r Line Count -- 2 Char Count -- 2
+Char -- q Line Count -- 2 Char Count -- 2
+Char -- b Line Count -- 2 Char Count -- 2
+Char -- p Line Count -- 2 Char Count -- 2
+Char -- a Line Count -- 2 Char Count -- 2
+Line -- svupyxrbkgrtnawqcybmdhfiz-2 
+Char -- y Line Count -- 2 Char Count -- 2
+Char -- r Line Count -- 2 Char Count -- 2
+Char -- b Line Count -- 2 Char Count -- 2
+Line -- qzjmpxinvwkedbxfuzhanysnxotzlgc-3 
+Char -- z Line Count -- 3 Char Count -- 3
+Char -- x Line Count -- 3 Char Count -- 3
+Char -- n Line Count -- 3 Char Count -- 3
+Line -- cfvejdxqrzlhobivrojlcdmzebuq-2 
+Char -- c Line Count -- 2 Char Count -- 2
+Char -- v Line Count -- 2 Char Count -- 2
+Char -- e Line Count -- 2 Char Count -- 2
+Char -- j Line Count -- 2 Char Count -- 2
+Char -- d Line Count -- 2 Char Count -- 2
+Char -- q Line Count -- 2 Char Count -- 2
+Char -- r Line Count -- 2 Char Count -- 2
+Char -- z Line Count -- 2 Char Count -- 2
+Char -- l Line Count -- 2 Char Count -- 2
+Char -- o Line Count -- 2 Char Count -- 2
+Char -- b Line Count -- 2 Char Count -- 2
+Line -- idrjshpbqtevogmyysdvpeuqlmhgbiojpgwybvmosdjiehupvdhcseguyomjbikixjgompdbnvfhzseya-5 
+Char -- i Line Count -- 5 Char Count -- 5
+Char -- d Line Count -- 5 Char Count -- 5
+Char -- j Line Count -- 5 Char Count -- 5
+Char -- s Line Count -- 5 Char Count -- 5
+Char -- h Line Count -- 5 Char Count -- 5
+Char -- p Line Count -- 5 Char Count -- 5
+Char -- b Line Count -- 5 Char Count -- 5
+Char -- e Line Count -- 5 Char Count -- 5
+Char -- v Line Count -- 5 Char Count -- 5
+Char -- o Line Count -- 5 Char Count -- 5
+Char -- g Line Count -- 5 Char Count -- 5
+Char -- m Line Count -- 5 Char Count -- 5
+Char -- y Line Count -- 5 Char Count -- 5
+Line -- jglgjlezgljjgl-4 
+Char -- j Line Count -- 4 Char Count -- 4
+Char -- g Line Count -- 4 Char Count -- 4
+Char -- l Line Count -- 4 Char Count -- 4
+Line -- zrbxvcuwjidklfmnqotglmurpfvqzoxjgwbckndtiumlqjgbxdkrivcntwzfowsedxcrblhmotqjkavzfuingtnqdxjmcrofvbzkyguwil-5 
+Char -- z Line Count -- 5 Char Count -- 5
+Char -- r Line Count -- 5 Char Count -- 5
+Char -- b Line Count -- 5 Char Count -- 5
+Char -- x Line Count -- 5 Char Count -- 5
+Char -- v Line Count -- 5 Char Count -- 5
+Char -- c Line Count -- 5 Char Count -- 5
+Char -- u Line Count -- 5 Char Count -- 5
+Char -- w Line Count -- 5 Char Count -- 5
+Char -- j Line Count -- 5 Char Count -- 5
+Char -- i Line Count -- 5 Char Count -- 5
+Char -- d Line Count -- 5 Char Count -- 5
+Char -- k Line Count -- 5 Char Count -- 5
+Char -- l Line Count -- 5 Char Count -- 5
+Char -- f Line Count -- 5 Char Count -- 5
+Char -- m Line Count -- 5 Char Count -- 5
+Char -- n Line Count -- 5 Char Count -- 5
+Char -- q Line Count -- 5 Char Count -- 5
+Char -- o Line Count -- 5 Char Count -- 5
+Char -- t Line Count -- 5 Char Count -- 5
+Char -- g Line Count -- 5 Char Count -- 5
+Line -- dmxcntqwauokiftqmufiwnhkinzeftquwmvpbjsiwgfymqrutdn-4 
+Char -- m Line Count -- 4 Char Count -- 4
+Char -- n Line Count -- 4 Char Count -- 4
+Char -- t Line Count -- 4 Char Count -- 4
+Char -- q Line Count -- 4 Char Count -- 4
+Char -- w Line Count -- 4 Char Count -- 4
+Char -- u Line Count -- 4 Char Count -- 4
+Char -- i Line Count -- 4 Char Count -- 4
+Char -- f Line Count -- 4 Char Count -- 4
+Line -- ejsfxcgdtkhoqukfhitexsugdj-2 
+Char -- e Line Count -- 2 Char Count -- 2
+Char -- j Line Count -- 2 Char Count -- 2
+Char -- s Line Count -- 2 Char Count -- 2
+Char -- f Line Count -- 2 Char Count -- 2
+Char -- x Line Count -- 2 Char Count -- 2
+Char -- g Line Count -- 2 Char Count -- 2
+Char -- d Line Count -- 2 Char Count -- 2
+Char -- t Line Count -- 2 Char Count -- 2
+Char -- k Line Count -- 2 Char Count -- 2
+Char -- h Line Count -- 2 Char Count -- 2
+Char -- u Line Count -- 2 Char Count -- 2
+Line -- tnypmbxlrxmbnltpyxnbylmtp-3 
+Char -- t Line Count -- 3 Char Count -- 3
+Char -- n Line Count -- 3 Char Count -- 3
+Char -- y Line Count -- 3 Char Count -- 3
+Char -- p Line Count -- 3 Char Count -- 3
+Char -- m Line Count -- 3 Char Count -- 3
+Char -- b Line Count -- 3 Char Count -- 3
+Char -- x Line Count -- 3 Char Count -- 3
+Char -- l Line Count -- 3 Char Count -- 3
+Line -- ckscthcpjfgmucyaxdzck-5 
+Char -- c Line Count -- 5 Char Count -- 5
+Line -- xqizlfeksrjhwgetzlkx-2 
+Char -- x Line Count -- 2 Char Count -- 2
+Char -- z Line Count -- 2 Char Count -- 2
+Char -- l Line Count -- 2 Char Count -- 2
+Char -- e Line Count -- 2 Char Count -- 2
+Char -- k Line Count -- 2 Char Count -- 2
+Line -- khnawcubgpxknctwgupakpwngcauapzwqckgnunpkawcgu-5 
+Char -- k Line Count -- 5 Char Count -- 5
+Char -- n Line Count -- 5 Char Count -- 5
+Char -- a Line Count -- 5 Char Count -- 5
+Char -- w Line Count -- 5 Char Count -- 5
+Char -- c Line Count -- 5 Char Count -- 5
+Char -- u Line Count -- 5 Char Count -- 5
+Char -- g Line Count -- 5 Char Count -- 5
+Char -- p Line Count -- 5 Char Count -- 5
+Line -- itleclhectiblctesi-3 
+Char -- i Line Count -- 3 Char Count -- 3
+Char -- t Line Count -- 3 Char Count -- 3
+Char -- l Line Count -- 3 Char Count -- 3
+Char -- e Line Count -- 3 Char Count -- 3
+Char -- c Line Count -- 3 Char Count -- 3
+Line -- mhanjrlytudgzovfnzjgdapevrhinhdrjeazgvgznhdiajrvjazvhdrng-5 
+Char -- h Line Count -- 5 Char Count -- 5
+Char -- a Line Count -- 5 Char Count -- 5
+Char -- n Line Count -- 5 Char Count -- 5
+Char -- j Line Count -- 5 Char Count -- 5
+Char -- r Line Count -- 5 Char Count -- 5
+Char -- d Line Count -- 5 Char Count -- 5
+Char -- g Line Count -- 5 Char Count -- 5
+Char -- z Line Count -- 5 Char Count -- 5
+Char -- v Line Count -- 5 Char Count -- 5
+Line -- itgemupjxbhvsepsjthguxvimzjmhxspugetvipjhiseuvtgmx-4 
+Char -- i Line Count -- 4 Char Count -- 4
+Char -- t Line Count -- 4 Char Count -- 4
+Char -- g Line Count -- 4 Char Count -- 4
+Char -- e Line Count -- 4 Char Count -- 4
+Char -- m Line Count -- 4 Char Count -- 4
+Char -- u Line Count -- 4 Char Count -- 4
+Char -- p Line Count -- 4 Char Count -- 4
+Char -- j Line Count -- 4 Char Count -- 4
+Char -- x Line Count -- 4 Char Count -- 4
+Char -- h Line Count -- 4 Char Count -- 4
+Char -- v Line Count -- 4 Char Count -- 4
+Char -- s Line Count -- 4 Char Count -- 4
+Line -- belnlexleelhazjyecl-5 
+Char -- e Line Count -- 5 Char Count -- 5
+Char -- l Line Count -- 5 Char Count -- 5
+Line -- evv-2 
+Char -- v Line Count -- 2 Char Count -- 2
+Line -- ryzfswesylrkzc-2 
+Char -- r Line Count -- 2 Char Count -- 2
+Char -- y Line Count -- 2 Char Count -- 2
+Char -- z Line Count -- 2 Char Count -- 2
+Char -- s Line Count -- 2 Char Count -- 2
+Line -- vezqnasodyjxlfkgiupvlkyixzeqdbajfruongp-2 
+Char -- v Line Count -- 2 Char Count -- 2
+Char -- e Line Count -- 2 Char Count -- 2
+Char -- z Line Count -- 2 Char Count -- 2
+Char -- q Line Count -- 2 Char Count -- 2
+Char -- n Line Count -- 2 Char Count -- 2
+Char -- a Line Count -- 2 Char Count -- 2
+Char -- o Line Count -- 2 Char Count -- 2
+Char -- d Line Count -- 2 Char Count -- 2
+Char -- y Line Count -- 2 Char Count -- 2
+Char -- j Line Count -- 2 Char Count -- 2
+Char -- x Line Count -- 2 Char Count -- 2
+Char -- l Line Count -- 2 Char Count -- 2
+Char -- f Line Count -- 2 Char Count -- 2
+Char -- k Line Count -- 2 Char Count -- 2
+Char -- g Line Count -- 2 Char Count -- 2
+Char -- i Line Count -- 2 Char Count -- 2
+Char -- u Line Count -- 2 Char Count -- 2
+Char -- p Line Count -- 2 Char Count -- 2
+Line -- tdtkqpltde-3 
+Char -- t Line Count -- 3 Char Count -- 3
+Line -- lcdkttcnkdokciajvuxdqt-3 
+Char -- c Line Count -- 3 Char Count -- 3
+Char -- d Line Count -- 3 Char Count -- 3
+Char -- k Line Count -- 3 Char Count -- 3
+Char -- t Line Count -- 3 Char Count -- 3
+Line -- usoywowuysouswyswyouwsyou-5 
+Char -- u Line Count -- 5 Char Count -- 5
+Char -- s Line Count -- 5 Char Count -- 5
+Char -- o Line Count -- 5 Char Count -- 5
+Char -- y Line Count -- 5 Char Count -- 5
+Char -- w Line Count -- 5 Char Count -- 5
+Line -- xmfovdhgnlcjaqfympwaotzvchrlu-2 
+Char -- m Line Count -- 2 Char Count -- 2
+Char -- f Line Count -- 2 Char Count -- 2
+Char -- o Line Count -- 2 Char Count -- 2
+Char -- v Line Count -- 2 Char Count -- 2
+Char -- h Line Count -- 2 Char Count -- 2
+Char -- l Line Count -- 2 Char Count -- 2
+Char -- c Line Count -- 2 Char Count -- 2
+Char -- a Line Count -- 2 Char Count -- 2
+Line -- gcxcc-3 
+Char -- c Line Count -- 3 Char Count -- 3
+Line -- cxpanqwbzjeiruogshnpqobaijrgwsecuhvjfbmsagotwpyhckeriqubiosrpqwgljexauch-4 
+Char -- c Line Count -- 4 Char Count -- 4
+Char -- p Line Count -- 4 Char Count -- 4
+Char -- a Line Count -- 4 Char Count -- 4
+Char -- q Line Count -- 4 Char Count -- 4
+Char -- w Line Count -- 4 Char Count -- 4
+Char -- b Line Count -- 4 Char Count -- 4
+Char -- j Line Count -- 4 Char Count -- 4
+Char -- e Line Count -- 4 Char Count -- 4
+Char -- i Line Count -- 4 Char Count -- 4
+Char -- r Line Count -- 4 Char Count -- 4
+Char -- u Line Count -- 4 Char Count -- 4
+Char -- o Line Count -- 4 Char Count -- 4
+Char -- g Line Count -- 4 Char Count -- 4
+Char -- s Line Count -- 4 Char Count -- 4
+Char -- h Line Count -- 4 Char Count -- 4
+Line -- kriedwmbzykhebdsjtz-2 
+Char -- k Line Count -- 2 Char Count -- 2
+Char -- e Line Count -- 2 Char Count -- 2
+Char -- d Line Count -- 2 Char Count -- 2
+Char -- b Line Count -- 2 Char Count -- 2
+Char -- z Line Count -- 2 Char Count -- 2
+Line -- inblqrgmrqbimlnnbrqlim-3 
+Char -- i Line Count -- 3 Char Count -- 3
+Char -- n Line Count -- 3 Char Count -- 3
+Char -- b Line Count -- 3 Char Count -- 3
+Char -- l Line Count -- 3 Char Count -- 3
+Char -- q Line Count -- 3 Char Count -- 3
+Char -- r Line Count -- 3 Char Count -- 3
+Char -- m Line Count -- 3 Char Count -- 3
+Line -- wdlmasxozvngrkuyzguaymvdolnkwsxrgvxadrlowkmzunsy-3 
+Char -- w Line Count -- 3 Char Count -- 3
+Char -- d Line Count -- 3 Char Count -- 3
+Char -- l Line Count -- 3 Char Count -- 3
+Char -- m Line Count -- 3 Char Count -- 3
+Char -- a Line Count -- 3 Char Count -- 3
+Char -- s Line Count -- 3 Char Count -- 3
+Char -- x Line Count -- 3 Char Count -- 3
+Char -- o Line Count -- 3 Char Count -- 3
+Char -- z Line Count -- 3 Char Count -- 3
+Char -- v Line Count -- 3 Char Count -- 3
+Char -- n Line Count -- 3 Char Count -- 3
+Char -- g Line Count -- 3 Char Count -- 3
+Char -- r Line Count -- 3 Char Count -- 3
+Char -- k Line Count -- 3 Char Count -- 3
+Char -- u Line Count -- 3 Char Count -- 3
+Char -- y Line Count -- 3 Char Count -- 3
+Line -- frpvvprasfirapxfunmfpe-4 
+Char -- f Line Count -- 4 Char Count -- 4
+Char -- p Line Count -- 4 Char Count -- 4
+Line -- icgmloskedvrhfqxzitwrbjpny-2 
+Char -- i Line Count -- 2 Char Count -- 2
+Char -- r Line Count -- 2 Char Count -- 2
+Line -- qbvwlyextqtblesvwetlwbqvtebvlwhpbevwtl-5 
+Char -- b Line Count -- 5 Char Count -- 5
+Char -- v Line Count -- 5 Char Count -- 5
+Char -- w Line Count -- 5 Char Count -- 5
+Char -- l Line Count -- 5 Char Count -- 5
+Char -- e Line Count -- 5 Char Count -- 5
+Char -- t Line Count -- 5 Char Count -- 5
+Line -- bmnpvznbvmoznwczgybvlkdabvztnbnzve-5 
+Char -- b Line Count -- 5 Char Count -- 5
+Char -- n Line Count -- 5 Char Count -- 5
+Char -- v Line Count -- 5 Char Count -- 5
+Char -- z Line Count -- 5 Char Count -- 5
+Line -- bcb-3 
+Line -- tchlzbgz-2 
+Char -- z Line Count -- 2 Char Count -- 2
+Line -- ndrrdndnr-3 
+Char -- n Line Count -- 3 Char Count -- 3
+Char -- d Line Count -- 3 Char Count -- 3
+Char -- r Line Count -- 3 Char Count -- 3
+Line -- sctrbhpnmzevqedsncvaruymgdncrsemkvaoxyarlncvdwxsem-4 
+Char -- s Line Count -- 4 Char Count -- 4
+Char -- c Line Count -- 4 Char Count -- 4
+Char -- r Line Count -- 4 Char Count -- 4
+Char -- n Line Count -- 4 Char Count -- 4
+Char -- m Line Count -- 4 Char Count -- 4
+Char -- e Line Count -- 4 Char Count -- 4
+Char -- v Line Count -- 4 Char Count -- 4
+Line -- sfhuncinsuhifcsiuhcfnicufhns-4 
+Char -- s Line Count -- 4 Char Count -- 4
+Char -- f Line Count -- 4 Char Count -- 4
+Char -- h Line Count -- 4 Char Count -- 4
+Char -- u Line Count -- 4 Char Count -- 4
+Char -- n Line Count -- 4 Char Count -- 4
+Char -- c Line Count -- 4 Char Count -- 4
+Char -- i Line Count -- 4 Char Count -- 4
+Line -- gnheqlbukpd-2 
+Line -- lixtrswdwntldgisxspclikxftdhwzuejabostywildxvstmlxdiwq-5 
+Char -- l Line Count -- 5 Char Count -- 5
+Char -- i Line Count -- 5 Char Count -- 5
+Char -- x Line Count -- 5 Char Count -- 5
+Char -- t Line Count -- 5 Char Count -- 5
+Char -- s Line Count -- 5 Char Count -- 5
+Char -- w Line Count -- 5 Char Count -- 5
+Char -- d Line Count -- 5 Char Count -- 5
+Line -- ehsqnvgzwneszvwgqhqwzhsevgn-3 
+Char -- e Line Count -- 3 Char Count -- 3
+Char -- h Line Count -- 3 Char Count -- 3
+Char -- s Line Count -- 3 Char Count -- 3
+Char -- q Line Count -- 3 Char Count -- 3
+Char -- n Line Count -- 3 Char Count -- 3
+Char -- v Line Count -- 3 Char Count -- 3
+Char -- g Line Count -- 3 Char Count -- 3
+Char -- z Line Count -- 3 Char Count -- 3
+Char -- w Line Count -- 3 Char Count -- 3
+Line -- etgcydsljkoxoyiqbumwanhr-2 
+Char -- y Line Count -- 2 Char Count -- 2
+Char -- o Line Count -- 2 Char Count -- 2
+Line -- hvbqfdkyzupwnctrjnchwzpsobtkfeqruy-2 
+Char -- h Line Count -- 2 Char Count -- 2
+Char -- b Line Count -- 2 Char Count -- 2
+Char -- q Line Count -- 2 Char Count -- 2
+Char -- f Line Count -- 2 Char Count -- 2
+Char -- k Line Count -- 2 Char Count -- 2
+Char -- y Line Count -- 2 Char Count -- 2
+Char -- z Line Count -- 2 Char Count -- 2
+Char -- u Line Count -- 2 Char Count -- 2
+Char -- p Line Count -- 2 Char Count -- 2
+Char -- w Line Count -- 2 Char Count -- 2
+Char -- n Line Count -- 2 Char Count -- 2
+Char -- c Line Count -- 2 Char Count -- 2
+Char -- t Line Count -- 2 Char Count -- 2
+Char -- r Line Count -- 2 Char Count -- 2
+Line -- gvzipoldfjxzodxivgplnoibqzgxvldpdoqplvgzxiolxpvdzig-5 
+Char -- g Line Count -- 5 Char Count -- 5
+Char -- v Line Count -- 5 Char Count -- 5
+Char -- z Line Count -- 5 Char Count -- 5
+Char -- i Line Count -- 5 Char Count -- 5
+Char -- p Line Count -- 5 Char Count -- 5
+Char -- o Line Count -- 5 Char Count -- 5
+Char -- l Line Count -- 5 Char Count -- 5
+Char -- d Line Count -- 5 Char Count -- 5
+Char -- x Line Count -- 5 Char Count -- 5
+Line -- sqriqirs-2 
+Char -- s Line Count -- 2 Char Count -- 2
+Char -- q Line Count -- 2 Char Count -- 2
+Char -- r Line Count -- 2 Char Count -- 2
+Char -- i Line Count -- 2 Char Count -- 2
+Line -- nzhagdpqyrtuclsxojbfevuqznepyjgfoavrthslbcdxuxztlrfhgevopdbsancqjyuqrtexnlzvjahcgbdpsfyojdhgotuxqvpzsrcfnaylbe-5 
+Char -- n Line Count -- 5 Char Count -- 5
+Char -- z Line Count -- 5 Char Count -- 5
+Char -- h Line Count -- 5 Char Count -- 5
+Char -- a Line Count -- 5 Char Count -- 5
+Char -- g Line Count -- 5 Char Count -- 5
+Char -- d Line Count -- 5 Char Count -- 5
+Char -- p Line Count -- 5 Char Count -- 5
+Char -- q Line Count -- 5 Char Count -- 5
+Char -- y Line Count -- 5 Char Count -- 5
+Char -- r Line Count -- 5 Char Count -- 5
+Char -- t Line Count -- 5 Char Count -- 5
+Char -- u Line Count -- 5 Char Count -- 5
+Char -- c Line Count -- 5 Char Count -- 5
+Char -- l Line Count -- 5 Char Count -- 5
+Char -- s Line Count -- 5 Char Count -- 5
+Char -- x Line Count -- 5 Char Count -- 5
+Char -- o Line Count -- 5 Char Count -- 5
+Char -- j Line Count -- 5 Char Count -- 5
+Char -- b Line Count -- 5 Char Count -- 5
+Char -- f Line Count -- 5 Char Count -- 5
+Char -- e Line Count -- 5 Char Count -- 5
+Char -- v Line Count -- 5 Char Count -- 5
+Line -- anytxmgldfsvnjpxnyujnw-5 
+Line -- zdgnamjipmjnzgdwbcoijynmiguzdjgrumdntizmganjdsiz-5 
+Char -- z Line Count -- 5 Char Count -- 5
+Char -- d Line Count -- 5 Char Count -- 5
+Char -- g Line Count -- 5 Char Count -- 5
+Char -- n Line Count -- 5 Char Count -- 5
+Char -- m Line Count -- 5 Char Count -- 5
+Char -- j Line Count -- 5 Char Count -- 5
+Char -- i Line Count -- 5 Char Count -- 5
+Line -- jikqaxmebduolhrpecyxvdadafxhtrse-3 
+Char -- a Line Count -- 3 Char Count -- 3
+Char -- x Line Count -- 3 Char Count -- 3
+Char -- e Line Count -- 3 Char Count -- 3
+Char -- d Line Count -- 3 Char Count -- 3
+Line -- lbjmzepwbarycfsuxbxuqb-4 
+Char -- b Line Count -- 4 Char Count -- 4
+Line -- xjkpdbsycqzfmlpszjxdkycmfqhyqzxfpjctwkdsmnfqsdkuyxcpjmez-4 
+Char -- x Line Count -- 4 Char Count -- 4
+Char -- j Line Count -- 4 Char Count -- 4
+Char -- k Line Count -- 4 Char Count -- 4
+Char -- p Line Count -- 4 Char Count -- 4
+Char -- d Line Count -- 4 Char Count -- 4
+Char -- s Line Count -- 4 Char Count -- 4
+Char -- y Line Count -- 4 Char Count -- 4
+Char -- c Line Count -- 4 Char Count -- 4
+Char -- q Line Count -- 4 Char Count -- 4
+Char -- z Line Count -- 4 Char Count -- 4
+Char -- f Line Count -- 4 Char Count -- 4
+Char -- m Line Count -- 4 Char Count -- 4
+Line -- tmxoylwjzasgqbwlujdpldwnjibrqe-3 
+Char -- l Line Count -- 3 Char Count -- 3
+Char -- w Line Count -- 3 Char Count -- 3
+Char -- j Line Count -- 3 Char Count -- 3
+Line -- oxtwegdyarcmufjdcfuwrgxmytejomwutxyorcdgfejdctrumjwxegyfotwpyflemcjgourxzdk-5 
+Char -- o Line Count -- 5 Char Count -- 5
+Char -- x Line Count -- 5 Char Count -- 5
+Char -- t Line Count -- 5 Char Count -- 5
+Char -- w Line Count -- 5 Char Count -- 5
+Char -- e Line Count -- 5 Char Count -- 5
+Char -- g Line Count -- 5 Char Count -- 5
+Char -- d Line Count -- 5 Char Count -- 5
+Char -- y Line Count -- 5 Char Count -- 5
+Char -- r Line Count -- 5 Char Count -- 5
+Char -- c Line Count -- 5 Char Count -- 5
+Char -- m Line Count -- 5 Char Count -- 5
+Char -- u Line Count -- 5 Char Count -- 5
+Char -- f Line Count -- 5 Char Count -- 5
+Char -- j Line Count -- 5 Char Count -- 5
+Line -- jiij-2 
+Char -- j Line Count -- 2 Char Count -- 2
+Char -- i Line Count -- 2 Char Count -- 2
+Line -- hbjzgczbtgjbgjzzjbg-4 
+Char -- b Line Count -- 4 Char Count -- 4
+Char -- j Line Count -- 4 Char Count -- 4
+Char -- z Line Count -- 4 Char Count -- 4
+Char -- g Line Count -- 4 Char Count -- 4
+Line -- hziwfjqhgmlybvf-2 
+Char -- h Line Count -- 2 Char Count -- 2
+Char -- f Line Count -- 2 Char Count -- 2
+Line -- sgukxjxqts-2 
+Char -- s Line Count -- 2 Char Count -- 2
+Char -- x Line Count -- 2 Char Count -- 2
+Line -- rbekhvqmjwwjkmvbrghqyeqowekvthnjrbjevhqkwbrwreyhjvqkb-5 
+Char -- r Line Count -- 5 Char Count -- 5
+Char -- b Line Count -- 5 Char Count -- 5
+Char -- e Line Count -- 5 Char Count -- 5
+Char -- k Line Count -- 5 Char Count -- 5
+Char -- h Line Count -- 5 Char Count -- 5
+Char -- v Line Count -- 5 Char Count -- 5
+Char -- q Line Count -- 5 Char Count -- 5
+Char -- j Line Count -- 5 Char Count -- 5
+Char -- w Line Count -- 5 Char Count -- 5
+Line -- fflfi-3 
+Char -- f Line Count -- 3 Char Count -- 3
+Line -- brbnim-4 
+Line -- dsdmsnsd-3 
+Char -- d Line Count -- 3 Char Count -- 3
+Char -- s Line Count -- 3 Char Count -- 3
+Line -- reydiclbyfjoqgpznywekuiyyhi-5 
+Char -- y Line Count -- 5 Char Count -- 5
+Line -- ujqkgvwhybdaxfozjoaxzvkgbufqhw-2 
+Char -- u Line Count -- 2 Char Count -- 2
+Char -- j Line Count -- 2 Char Count -- 2
+Char -- q Line Count -- 2 Char Count -- 2
+Char -- k Line Count -- 2 Char Count -- 2
+Char -- g Line Count -- 2 Char Count -- 2
+Char -- v Line Count -- 2 Char Count -- 2
+Char -- w Line Count -- 2 Char Count -- 2
+Char -- h Line Count -- 2 Char Count -- 2
+Char -- b Line Count -- 2 Char Count -- 2
+Char -- a Line Count -- 2 Char Count -- 2
+Char -- x Line Count -- 2 Char Count -- 2
+Char -- f Line Count -- 2 Char Count -- 2
+Char -- o Line Count -- 2 Char Count -- 2
+Char -- z Line Count -- 2 Char Count -- 2
+Line -- zcyhdxriqtolasnwpmfvukgtpolkuqmhzcyisvndargxfwumphysgavwqixcdfrlkotznwgpruaotvcklnfidmxzyqhs-4 
+Char -- z Line Count -- 4 Char Count -- 4
+Char -- c Line Count -- 4 Char Count -- 4
+Char -- y Line Count -- 4 Char Count -- 4
+Char -- h Line Count -- 4 Char Count -- 4
+Char -- d Line Count -- 4 Char Count -- 4
+Char -- x Line Count -- 4 Char Count -- 4
+Char -- r Line Count -- 4 Char Count -- 4
+Char -- i Line Count -- 4 Char Count -- 4
+Char -- q Line Count -- 4 Char Count -- 4
+Char -- t Line Count -- 4 Char Count -- 4
+Char -- o Line Count -- 4 Char Count -- 4
+Char -- l Line Count -- 4 Char Count -- 4
+Char -- a Line Count -- 4 Char Count -- 4
+Char -- s Line Count -- 4 Char Count -- 4
+Char -- n Line Count -- 4 Char Count -- 4
+Char -- w Line Count -- 4 Char Count -- 4
+Char -- p Line Count -- 4 Char Count -- 4
+Char -- m Line Count -- 4 Char Count -- 4
+Char -- f Line Count -- 4 Char Count -- 4
+Char -- v Line Count -- 4 Char Count -- 4
+Char -- u Line Count -- 4 Char Count -- 4
+Char -- k Line Count -- 4 Char Count -- 4
+Char -- g Line Count -- 4 Char Count -- 4
+Line -- ubwgxvmkjzgzkbmuxwvjjyuxgbkvmwzxvjkubzmgw-4 
+Char -- u Line Count -- 4 Char Count -- 4
+Char -- b Line Count -- 4 Char Count -- 4
+Char -- w Line Count -- 4 Char Count -- 4
+Char -- g Line Count -- 4 Char Count -- 4
+Char -- x Line Count -- 4 Char Count -- 4
+Char -- v Line Count -- 4 Char Count -- 4
+Char -- m Line Count -- 4 Char Count -- 4
+Char -- k Line Count -- 4 Char Count -- 4
+Char -- j Line Count -- 4 Char Count -- 4
+Char -- z Line Count -- 4 Char Count -- 4
+Line -- cjbalyenaeroaspeache-4 
+Char -- a Line Count -- 4 Char Count -- 4
+Char -- e Line Count -- 4 Char Count -- 4
+Line -- usfcwigxwcistfguxzishfguxcw-3 
+Char -- u Line Count -- 3 Char Count -- 3
+Char -- s Line Count -- 3 Char Count -- 3
+Char -- f Line Count -- 3 Char Count -- 3
+Char -- c Line Count -- 3 Char Count -- 3
+Char -- w Line Count -- 3 Char Count -- 3
+Char -- i Line Count -- 3 Char Count -- 3
+Char -- g Line Count -- 3 Char Count -- 3
+Char -- x Line Count -- 3 Char Count -- 3
+Line -- vowtyizedpxjkuhglnrtacogzuipjydhxlnewgjmzenuwstlpxqbhyodfi-3 
+Char -- o Line Count -- 3 Char Count -- 3
+Char -- w Line Count -- 3 Char Count -- 3
+Char -- t Line Count -- 3 Char Count -- 3
+Char -- y Line Count -- 3 Char Count -- 3
+Char -- i Line Count -- 3 Char Count -- 3
+Char -- z Line Count -- 3 Char Count -- 3
+Char -- e Line Count -- 3 Char Count -- 3
+Char -- d Line Count -- 3 Char Count -- 3
+Char -- p Line Count -- 3 Char Count -- 3
+Char -- x Line Count -- 3 Char Count -- 3
+Char -- j Line Count -- 3 Char Count -- 3
+Char -- u Line Count -- 3 Char Count -- 3
+Char -- h Line Count -- 3 Char Count -- 3
+Char -- g Line Count -- 3 Char Count -- 3
+Char -- l Line Count -- 3 Char Count -- 3
+Char -- n Line Count -- 3 Char Count -- 3
+Line -- humbgtvizaqnrekxurixmqaghktbnezvgeabrihuzvtqnsxdmk-3 
+Char -- h Line Count -- 3 Char Count -- 3
+Char -- u Line Count -- 3 Char Count -- 3
+Char -- m Line Count -- 3 Char Count -- 3
+Char -- b Line Count -- 3 Char Count -- 3
+Char -- g Line Count -- 3 Char Count -- 3
+Char -- t Line Count -- 3 Char Count -- 3
+Char -- v Line Count -- 3 Char Count -- 3
+Char -- i Line Count -- 3 Char Count -- 3
+Char -- z Line Count -- 3 Char Count -- 3
+Char -- a Line Count -- 3 Char Count -- 3
+Char -- q Line Count -- 3 Char Count -- 3
+Char -- n Line Count -- 3 Char Count -- 3
+Char -- r Line Count -- 3 Char Count -- 3
+Char -- e Line Count -- 3 Char Count -- 3
+Char -- k Line Count -- 3 Char Count -- 3
+Char -- x Line Count -- 3 Char Count -- 3
+Line -- oqdctfigitmfgcqoykijuoaqxcfthg-3 
+Char -- o Line Count -- 3 Char Count -- 3
+Char -- q Line Count -- 3 Char Count -- 3
+Char -- c Line Count -- 3 Char Count -- 3
+Char -- t Line Count -- 3 Char Count -- 3
+Char -- f Line Count -- 3 Char Count -- 3
+Char -- i Line Count -- 3 Char Count -- 3
+Char -- g Line Count -- 3 Char Count -- 3
+Line -- slbjbsljlbjsjslb-4 
+Char -- s Line Count -- 4 Char Count -- 4
+Char -- l Line Count -- 4 Char Count -- 4
+Char -- b Line Count -- 4 Char Count -- 4
+Char -- j Line Count -- 4 Char Count -- 4
+Line -- dyhijmulgngcxrkbtcogkr-3 
+Char -- g Line Count -- 3 Char Count -- 3
+Line -- lhlleell-5 
+Char -- l Line Count -- 5 Char Count -- 5
+Line -- rddrdr-3 
+Char -- r Line Count -- 3 Char Count -- 3
+Char -- d Line Count -- 3 Char Count -- 3
+Line -- sxkzfyajwcuplmx-3 
+Line -- yosysjqyta-3 
+Char -- y Line Count -- 3 Char Count -- 3
+Line -- bbb-3 
+Char -- b Line Count -- 3 Char Count -- 3
+Line -- hwotauyxkkoufjyhouhykhklouy-4 
+Char -- h Line Count -- 4 Char Count -- 4
+Char -- o Line Count -- 4 Char Count -- 4
+Char -- u Line Count -- 4 Char Count -- 4
+Char -- y Line Count -- 4 Char Count -- 4
+Char -- k Line Count -- 4 Char Count -- 4
+Line -- smscsigsgiesxy-5 
+Char -- s Line Count -- 5 Char Count -- 5
+Line -- rgukjdhytpmoewiczdzgwtkejyacros-2 
+Char -- r Line Count -- 2 Char Count -- 2
+Char -- g Line Count -- 2 Char Count -- 2
+Char -- k Line Count -- 2 Char Count -- 2
+Char -- j Line Count -- 2 Char Count -- 2
+Char -- d Line Count -- 2 Char Count -- 2
+Char -- y Line Count -- 2 Char Count -- 2
+Char -- t Line Count -- 2 Char Count -- 2
+Char -- o Line Count -- 2 Char Count -- 2
+Char -- e Line Count -- 2 Char Count -- 2
+Char -- w Line Count -- 2 Char Count -- 2
+Char -- c Line Count -- 2 Char Count -- 2
+Char -- z Line Count -- 2 Char Count -- 2
+Line -- dwpuknfajbeztsvlcirnbeilkzmyqswjfdapuvgtzbvuifewstkadpnjl-3 
+Char -- d Line Count -- 3 Char Count -- 3
+Char -- w Line Count -- 3 Char Count -- 3
+Char -- p Line Count -- 3 Char Count -- 3
+Char -- u Line Count -- 3 Char Count -- 3
+Char -- k Line Count -- 3 Char Count -- 3
+Char -- n Line Count -- 3 Char Count -- 3
+Char -- f Line Count -- 3 Char Count -- 3
+Char -- a Line Count -- 3 Char Count -- 3
+Char -- j Line Count -- 3 Char Count -- 3
+Char -- b Line Count -- 3 Char Count -- 3
+Char -- e Line Count -- 3 Char Count -- 3
+Char -- z Line Count -- 3 Char Count -- 3
+Char -- t Line Count -- 3 Char Count -- 3
+Char -- s Line Count -- 3 Char Count -- 3
+Char -- v Line Count -- 3 Char Count -- 3
+Char -- l Line Count -- 3 Char Count -- 3
+Char -- i Line Count -- 3 Char Count -- 3
+Line -- lctyngyncldht-2 
+Char -- l Line Count -- 2 Char Count -- 2
+Char -- c Line Count -- 2 Char Count -- 2
+Char -- t Line Count -- 2 Char Count -- 2
+Char -- y Line Count -- 2 Char Count -- 2
+Char -- n Line Count -- 2 Char Count -- 2
+Line -- hdusmgynzxbaauzvjdmhxybgnshbumansdxogzyek-3 
+Char -- h Line Count -- 3 Char Count -- 3
+Char -- d Line Count -- 3 Char Count -- 3
+Char -- u Line Count -- 3 Char Count -- 3
+Char -- s Line Count -- 3 Char Count -- 3
+Char -- m Line Count -- 3 Char Count -- 3
+Char -- g Line Count -- 3 Char Count -- 3
+Char -- y Line Count -- 3 Char Count -- 3
+Char -- n Line Count -- 3 Char Count -- 3
+Char -- z Line Count -- 3 Char Count -- 3
+Char -- x Line Count -- 3 Char Count -- 3
+Char -- b Line Count -- 3 Char Count -- 3
+Char -- a Line Count -- 3 Char Count -- 3
+Line -- lnshkwetqzenxhqolgkds-2 
+Char -- l Line Count -- 2 Char Count -- 2
+Char -- n Line Count -- 2 Char Count -- 2
+Char -- s Line Count -- 2 Char Count -- 2
+Char -- h Line Count -- 2 Char Count -- 2
+Char -- k Line Count -- 2 Char Count -- 2
+Char -- e Line Count -- 2 Char Count -- 2
+Char -- q Line Count -- 2 Char Count -- 2
+Line -- hxczvrwnxzrwvnfohkhrwsbeytzil-3 
+Char -- h Line Count -- 3 Char Count -- 3
+Char -- z Line Count -- 3 Char Count -- 3
+Char -- r Line Count -- 3 Char Count -- 3
+Char -- w Line Count -- 3 Char Count -- 3
+Line -- qroohey-4 
+Line -- krtpbuzgybuztrpkgytupybkrgzqpyubztkogr-4 
+Char -- k Line Count -- 4 Char Count -- 4
+Char -- r Line Count -- 4 Char Count -- 4
+Char -- t Line Count -- 4 Char Count -- 4
+Char -- p Line Count -- 4 Char Count -- 4
+Char -- b Line Count -- 4 Char Count -- 4
+Char -- u Line Count -- 4 Char Count -- 4
+Char -- z Line Count -- 4 Char Count -- 4
+Char -- g Line Count -- 4 Char Count -- 4
+Char -- y Line Count -- 4 Char Count -- 4
+Line -- ffxmx-4 
+Line -- uvbfawy-2 
+Line -- odwffdwowodfodwf-4 
+Char -- o Line Count -- 4 Char Count -- 4
+Char -- d Line Count -- 4 Char Count -- 4
+Char -- w Line Count -- 4 Char Count -- 4
+Char -- f Line Count -- 4 Char Count -- 4
+Line -- atnskdpybvlowehzmxaopknhzybdwtsumlvxlsbqxonmwgthdaykvzp-3 
+Char -- a Line Count -- 3 Char Count -- 3
+Char -- t Line Count -- 3 Char Count -- 3
+Char -- n Line Count -- 3 Char Count -- 3
+Char -- s Line Count -- 3 Char Count -- 3
+Char -- k Line Count -- 3 Char Count -- 3
+Char -- d Line Count -- 3 Char Count -- 3
+Char -- p Line Count -- 3 Char Count -- 3
+Char -- y Line Count -- 3 Char Count -- 3
+Char -- b Line Count -- 3 Char Count -- 3
+Char -- v Line Count -- 3 Char Count -- 3
+Char -- l Line Count -- 3 Char Count -- 3
+Char -- o Line Count -- 3 Char Count -- 3
+Char -- w Line Count -- 3 Char Count -- 3
+Char -- h Line Count -- 3 Char Count -- 3
+Char -- z Line Count -- 3 Char Count -- 3
+Char -- m Line Count -- 3 Char Count -- 3
+Char -- x Line Count -- 3 Char Count -- 3
+Line -- zcvgrlkiwdnjxuyeabftosqpijhuaexordwgtlqbpsynkcz-2 
+Char -- z Line Count -- 2 Char Count -- 2
+Char -- c Line Count -- 2 Char Count -- 2
+Char -- g Line Count -- 2 Char Count -- 2
+Char -- r Line Count -- 2 Char Count -- 2
+Char -- l Line Count -- 2 Char Count -- 2
+Char -- k Line Count -- 2 Char Count -- 2
+Char -- i Line Count -- 2 Char Count -- 2
+Char -- w Line Count -- 2 Char Count -- 2
+Char -- d Line Count -- 2 Char Count -- 2
+Char -- n Line Count -- 2 Char Count -- 2
+Char -- j Line Count -- 2 Char Count -- 2
+Char -- x Line Count -- 2 Char Count -- 2
+Char -- u Line Count -- 2 Char Count -- 2
+Char -- y Line Count -- 2 Char Count -- 2
+Char -- e Line Count -- 2 Char Count -- 2
+Char -- a Line Count -- 2 Char Count -- 2
+Char -- b Line Count -- 2 Char Count -- 2
+Char -- t Line Count -- 2 Char Count -- 2
+Char -- o Line Count -- 2 Char Count -- 2
+Char -- s Line Count -- 2 Char Count -- 2
+Char -- q Line Count -- 2 Char Count -- 2
+Char -- p Line Count -- 2 Char Count -- 2
+Line -- rbbeep-5 
+Line -- rgfljswuqmnxdyzvesdurknobudprnsacanruids-4 
+Char -- r Line Count -- 4 Char Count -- 4
+Char -- s Line Count -- 4 Char Count -- 4
+Char -- u Line Count -- 4 Char Count -- 4
+Char -- n Line Count -- 4 Char Count -- 4
+Char -- d Line Count -- 4 Char Count -- 4
+Line -- sqq-3 
+Line -- xqx-2 
+Char -- x Line Count -- 2 Char Count -- 2
+Line -- mkcounerqzvywhbrhmuwbylqcxzedovnwcyrzehguqknbvmoluiosmjcwyfqzvhptrben-4 
+Char -- m Line Count -- 4 Char Count -- 4
+Char -- c Line Count -- 4 Char Count -- 4
+Char -- o Line Count -- 4 Char Count -- 4
+Char -- u Line Count -- 4 Char Count -- 4
+Char -- n Line Count -- 4 Char Count -- 4
+Char -- e Line Count -- 4 Char Count -- 4
+Char -- r Line Count -- 4 Char Count -- 4
+Char -- q Line Count -- 4 Char Count -- 4
+Char -- z Line Count -- 4 Char Count -- 4
+Char -- v Line Count -- 4 Char Count -- 4
+Char -- y Line Count -- 4 Char Count -- 4
+Char -- w Line Count -- 4 Char Count -- 4
+Char -- h Line Count -- 4 Char Count -- 4
+Char -- b Line Count -- 4 Char Count -- 4
+Line -- cbafotnhwztbwievgscufokmrqfbwtcoyftwcosb-4 
+Char -- c Line Count -- 4 Char Count -- 4
+Char -- b Line Count -- 4 Char Count -- 4
+Char -- f Line Count -- 4 Char Count -- 4
+Char -- o Line Count -- 4 Char Count -- 4
+Char -- t Line Count -- 4 Char Count -- 4
+Char -- w Line Count -- 4 Char Count -- 4
+Line -- pqbdglvyknqjdtokcdydurhfwzamsiedkt-5 
+Char -- d Line Count -- 5 Char Count -- 5
+Line -- rteknjgdziaxuvqpwmseuqatrgskzjdxpiwmnvodpxerktavzujqiwsngmxpajvmrwugsqzdyhitknezjpmskatnegrquxwifvd-5 
+Char -- r Line Count -- 5 Char Count -- 5
+Char -- t Line Count -- 5 Char Count -- 5
+Char -- e Line Count -- 5 Char Count -- 5
+Char -- k Line Count -- 5 Char Count -- 5
+Char -- n Line Count -- 5 Char Count -- 5
+Char -- j Line Count -- 5 Char Count -- 5
+Char -- g Line Count -- 5 Char Count -- 5
+Char -- d Line Count -- 5 Char Count -- 5
+Char -- z Line Count -- 5 Char Count -- 5
+Char -- i Line Count -- 5 Char Count -- 5
+Char -- a Line Count -- 5 Char Count -- 5
+Char -- x Line Count -- 5 Char Count -- 5
+Char -- u Line Count -- 5 Char Count -- 5
+Char -- v Line Count -- 5 Char Count -- 5
+Char -- q Line Count -- 5 Char Count -- 5
+Char -- p Line Count -- 5 Char Count -- 5
+Char -- w Line Count -- 5 Char Count -- 5
+Char -- m Line Count -- 5 Char Count -- 5
+Char -- s Line Count -- 5 Char Count -- 5
+Line -- ucppuc-2 
+Char -- u Line Count -- 2 Char Count -- 2
+Char -- c Line Count -- 2 Char Count -- 2
+Char -- p Line Count -- 2 Char Count -- 2
+Line -- sbhrmvgkxlwcuizfirughftcbsxvkzm-2 
+Char -- s Line Count -- 2 Char Count -- 2
+Char -- b Line Count -- 2 Char Count -- 2
+Char -- h Line Count -- 2 Char Count -- 2
+Char -- r Line Count -- 2 Char Count -- 2
+Char -- m Line Count -- 2 Char Count -- 2
+Char -- v Line Count -- 2 Char Count -- 2
+Char -- g Line Count -- 2 Char Count -- 2
+Char -- k Line Count -- 2 Char Count -- 2
+Char -- x Line Count -- 2 Char Count -- 2
+Char -- c Line Count -- 2 Char Count -- 2
+Char -- u Line Count -- 2 Char Count -- 2
+Char -- i Line Count -- 2 Char Count -- 2
+Char -- z Line Count -- 2 Char Count -- 2
+Char -- f Line Count -- 2 Char Count -- 2
+Line -- jgufnkhxcrwsqyavrhjndfxayuqgsvc-2 
+Char -- j Line Count -- 2 Char Count -- 2
+Char -- g Line Count -- 2 Char Count -- 2
+Char -- u Line Count -- 2 Char Count -- 2
+Char -- f Line Count -- 2 Char Count -- 2
+Char -- n Line Count -- 2 Char Count -- 2
+Char -- h Line Count -- 2 Char Count -- 2
+Char -- x Line Count -- 2 Char Count -- 2
+Char -- c Line Count -- 2 Char Count -- 2
+Char -- r Line Count -- 2 Char Count -- 2
+Char -- s Line Count -- 2 Char Count -- 2
+Char -- q Line Count -- 2 Char Count -- 2
+Char -- y Line Count -- 2 Char Count -- 2
+Char -- a Line Count -- 2 Char Count -- 2
+Char -- v Line Count -- 2 Char Count -- 2
+Line -- whhwhwwhhw-5 
+Char -- w Line Count -- 5 Char Count -- 5
+Char -- h Line Count -- 5 Char Count -- 5
+Line -- oskmgppskmorb-2 
+Char -- o Line Count -- 2 Char Count -- 2
+Char -- s Line Count -- 2 Char Count -- 2
+Char -- k Line Count -- 2 Char Count -- 2
+Char -- m Line Count -- 2 Char Count -- 2
+Char -- p Line Count -- 2 Char Count -- 2
+Line -- zbjxfaafzujx-2 
+Char -- z Line Count -- 2 Char Count -- 2
+Char -- j Line Count -- 2 Char Count -- 2
+Char -- x Line Count -- 2 Char Count -- 2
+Char -- f Line Count -- 2 Char Count -- 2
+Char -- a Line Count -- 2 Char Count -- 2
+Line -- lrucpkbosmyzdf-2 
+Line -- jxtmurskmouuybvqmc-3 
+Char -- m Line Count -- 3 Char Count -- 3
+Char -- u Line Count -- 3 Char Count -- 3
+Line -- cchaht-4 
+Line -- yjyj-2 
+Char -- y Line Count -- 2 Char Count -- 2
+Char -- j Line Count -- 2 Char Count -- 2
+Line -- ubhwxkosgqgiqwkhtuesbox-2 
+Char -- u Line Count -- 2 Char Count -- 2
+Char -- b Line Count -- 2 Char Count -- 2
+Char -- h Line Count -- 2 Char Count -- 2
+Char -- w Line Count -- 2 Char Count -- 2
+Char -- x Line Count -- 2 Char Count -- 2
+Char -- k Line Count -- 2 Char Count -- 2
+Char -- o Line Count -- 2 Char Count -- 2
+Char -- s Line Count -- 2 Char Count -- 2
+Char -- g Line Count -- 2 Char Count -- 2
+Char -- q Line Count -- 2 Char Count -- 2
+Line -- pwqjdvbzirijrzqdubsjanrzbiqjizqbry-4 
+Char -- q Line Count -- 4 Char Count -- 4
+Char -- j Line Count -- 4 Char Count -- 4
+Char -- b Line Count -- 4 Char Count -- 4
+Char -- z Line Count -- 4 Char Count -- 4
+Char -- i Line Count -- 4 Char Count -- 4
+Char -- r Line Count -- 4 Char Count -- 4
+Line -- mmummm-5 
+Char -- m Line Count -- 5 Char Count -- 5
+Line -- hmgxpcyfzenjlavbrtdyvtxmarbphjoefzgnl-2 
+Char -- h Line Count -- 2 Char Count -- 2
+Char -- m Line Count -- 2 Char Count -- 2
+Char -- g Line Count -- 2 Char Count -- 2
+Char -- x Line Count -- 2 Char Count -- 2
+Char -- p Line Count -- 2 Char Count -- 2
+Char -- y Line Count -- 2 Char Count -- 2
+Char -- f Line Count -- 2 Char Count -- 2
+Char -- z Line Count -- 2 Char Count -- 2
+Char -- e Line Count -- 2 Char Count -- 2
+Char -- n Line Count -- 2 Char Count -- 2
+Char -- j Line Count -- 2 Char Count -- 2
+Char -- l Line Count -- 2 Char Count -- 2
+Char -- a Line Count -- 2 Char Count -- 2
+Char -- v Line Count -- 2 Char Count -- 2
+Char -- b Line Count -- 2 Char Count -- 2
+Char -- r Line Count -- 2 Char Count -- 2
+Char -- t Line Count -- 2 Char Count -- 2
+Line -- dsmcohpqxzytbefwunvkglfzxscniymhqurpdtbeoa-2 
+Char -- d Line Count -- 2 Char Count -- 2
+Char -- s Line Count -- 2 Char Count -- 2
+Char -- m Line Count -- 2 Char Count -- 2
+Char -- c Line Count -- 2 Char Count -- 2
+Char -- o Line Count -- 2 Char Count -- 2
+Char -- h Line Count -- 2 Char Count -- 2
+Char -- p Line Count -- 2 Char Count -- 2
+Char -- q Line Count -- 2 Char Count -- 2
+Char -- x Line Count -- 2 Char Count -- 2
+Char -- z Line Count -- 2 Char Count -- 2
+Char -- y Line Count -- 2 Char Count -- 2
+Char -- t Line Count -- 2 Char Count -- 2
+Char -- b Line Count -- 2 Char Count -- 2
+Char -- e Line Count -- 2 Char Count -- 2
+Char -- f Line Count -- 2 Char Count -- 2
+Char -- u Line Count -- 2 Char Count -- 2
+Char -- n Line Count -- 2 Char Count -- 2
+Line -- beq-3 
+Line -- drrddrdr-4 
+Char -- d Line Count -- 4 Char Count -- 4
+Char -- r Line Count -- 4 Char Count -- 4
+Line -- peqvdfnaytqpjcsu-2 
+Char -- p Line Count -- 2 Char Count -- 2
+Char -- q Line Count -- 2 Char Count -- 2
+Line -- lfqlqflfqflqqlf-5 
+Char -- l Line Count -- 5 Char Count -- 5
+Char -- f Line Count -- 5 Char Count -- 5
+Char -- q Line Count -- 5 Char Count -- 5
+Line -- thnkmpclfkiavtnuxtqpkn-3 
+Char -- t Line Count -- 3 Char Count -- 3
+Char -- n Line Count -- 3 Char Count -- 3
+Char -- k Line Count -- 3 Char Count -- 3
+Line -- zuxchezcxuhrxcznhuaxhuzcdpxuhnczs-5 
+Char -- z Line Count -- 5 Char Count -- 5
+Char -- u Line Count -- 5 Char Count -- 5
+Char -- x Line Count -- 5 Char Count -- 5
+Char -- c Line Count -- 5 Char Count -- 5
+Char -- h Line Count -- 5 Char Count -- 5
+Line -- vdteslktlmxsf-2 
+Char -- t Line Count -- 2 Char Count -- 2
+Char -- s Line Count -- 2 Char Count -- 2
+Char -- l Line Count -- 2 Char Count -- 2
+Line -- ekrfgonxblyuqwcmithazvdjpawlpvtybicnhqdxeofzgjkmruzdyfgtaoilqwuhkpbexcjvrnm-3 
+Char -- e Line Count -- 3 Char Count -- 3
+Char -- k Line Count -- 3 Char Count -- 3
+Char -- r Line Count -- 3 Char Count -- 3
+Char -- f Line Count -- 3 Char Count -- 3
+Char -- g Line Count -- 3 Char Count -- 3
+Char -- o Line Count -- 3 Char Count -- 3
+Char -- n Line Count -- 3 Char Count -- 3
+Char -- x Line Count -- 3 Char Count -- 3
+Char -- b Line Count -- 3 Char Count -- 3
+Char -- l Line Count -- 3 Char Count -- 3
+Char -- y Line Count -- 3 Char Count -- 3
+Char -- u Line Count -- 3 Char Count -- 3
+Char -- q Line Count -- 3 Char Count -- 3
+Char -- w Line Count -- 3 Char Count -- 3
+Char -- c Line Count -- 3 Char Count -- 3
+Char -- m Line Count -- 3 Char Count -- 3
+Char -- i Line Count -- 3 Char Count -- 3
+Char -- t Line Count -- 3 Char Count -- 3
+Char -- h Line Count -- 3 Char Count -- 3
+Char -- a Line Count -- 3 Char Count -- 3
+Char -- z Line Count -- 3 Char Count -- 3
+Char -- v Line Count -- 3 Char Count -- 3
+Char -- d Line Count -- 3 Char Count -- 3
+Char -- j Line Count -- 3 Char Count -- 3
+Char -- p Line Count -- 3 Char Count -- 3
+Line -- zutmxljqsbwevaogjnouplrwkzq-2 
+Char -- z Line Count -- 2 Char Count -- 2
+Char -- u Line Count -- 2 Char Count -- 2
+Char -- l Line Count -- 2 Char Count -- 2
+Char -- j Line Count -- 2 Char Count -- 2
+Char -- q Line Count -- 2 Char Count -- 2
+Char -- w Line Count -- 2 Char Count -- 2
+Char -- o Line Count -- 2 Char Count -- 2
+Line -- bvkwprmxizigdcif-5 
+Line -- krmrmrmushopjrnmebrmuki-5 
+Char -- r Line Count -- 5 Char Count -- 5
+Char -- m Line Count -- 5 Char Count -- 5
+Line -- iwyswklgtjbhrndzmf-5 
+Line -- zsjcdbdcqshlot-5 
+Line -- ehsyabvzhjsgx-3 
+Line -- fgexmxtjfeebfjxhzsvfopulwnixc-4 
+Char -- f Line Count -- 4 Char Count -- 4
+Char -- x Line Count -- 4 Char Count -- 4
+Line -- kmqupeigvojczwbadlxgxmawjupbvkedqlzcoexlzudcqbmvawjgokplgkconmhwxyvqtzuedbpajguofmwqdjxvezlapcbk-5 
+Char -- k Line Count -- 5 Char Count -- 5
+Char -- m Line Count -- 5 Char Count -- 5
+Char -- q Line Count -- 5 Char Count -- 5
+Char -- u Line Count -- 5 Char Count -- 5
+Char -- p Line Count -- 5 Char Count -- 5
+Char -- e Line Count -- 5 Char Count -- 5
+Char -- g Line Count -- 5 Char Count -- 5
+Char -- v Line Count -- 5 Char Count -- 5
+Char -- o Line Count -- 5 Char Count -- 5
+Char -- j Line Count -- 5 Char Count -- 5
+Char -- c Line Count -- 5 Char Count -- 5
+Char -- z Line Count -- 5 Char Count -- 5
+Char -- w Line Count -- 5 Char Count -- 5
+Char -- b Line Count -- 5 Char Count -- 5
+Char -- a Line Count -- 5 Char Count -- 5
+Char -- d Line Count -- 5 Char Count -- 5
+Char -- l Line Count -- 5 Char Count -- 5
+Char -- x Line Count -- 5 Char Count -- 5
+Line -- yzvldxhqpcregionbwmastoxbnyzpseagchiqrtwvmldivmargzsdlcwhoxynpqbetdfeczlatxrgybwpnmvisohq-4 
+Char -- y Line Count -- 4 Char Count -- 4
+Char -- z Line Count -- 4 Char Count -- 4
+Char -- v Line Count -- 4 Char Count -- 4
+Char -- l Line Count -- 4 Char Count -- 4
+Char -- d Line Count -- 4 Char Count -- 4
+Char -- x Line Count -- 4 Char Count -- 4
+Char -- h Line Count -- 4 Char Count -- 4
+Char -- q Line Count -- 4 Char Count -- 4
+Char -- p Line Count -- 4 Char Count -- 4
+Char -- c Line Count -- 4 Char Count -- 4
+Char -- r Line Count -- 4 Char Count -- 4
+Char -- e Line Count -- 4 Char Count -- 4
+Char -- g Line Count -- 4 Char Count -- 4
+Char -- i Line Count -- 4 Char Count -- 4
+Char -- o Line Count -- 4 Char Count -- 4
+Char -- n Line Count -- 4 Char Count -- 4
+Char -- b Line Count -- 4 Char Count -- 4
+Char -- w Line Count -- 4 Char Count -- 4
+Char -- m Line Count -- 4 Char Count -- 4
+Char -- a Line Count -- 4 Char Count -- 4
+Char -- s Line Count -- 4 Char Count -- 4
+Char -- t Line Count -- 4 Char Count -- 4
+Line -- sbdtompfakqzuwodwukmshptfizqpquszdktmifwno-3 
+Char -- s Line Count -- 3 Char Count -- 3
+Char -- d Line Count -- 3 Char Count -- 3
+Char -- t Line Count -- 3 Char Count -- 3
+Char -- o Line Count -- 3 Char Count -- 3
+Char -- m Line Count -- 3 Char Count -- 3
+Char -- p Line Count -- 3 Char Count -- 3
+Char -- f Line Count -- 3 Char Count -- 3
+Char -- k Line Count -- 3 Char Count -- 3
+Char -- q Line Count -- 3 Char Count -- 3
+Char -- z Line Count -- 3 Char Count -- 3
+Char -- u Line Count -- 3 Char Count -- 3
+Char -- w Line Count -- 3 Char Count -- 3
+Line -- uhgxdiptswayqrefwaqdrxpltvufsciyge-2 
+Char -- u Line Count -- 2 Char Count -- 2
+Char -- g Line Count -- 2 Char Count -- 2
+Char -- x Line Count -- 2 Char Count -- 2
+Char -- d Line Count -- 2 Char Count -- 2
+Char -- i Line Count -- 2 Char Count -- 2
+Char -- p Line Count -- 2 Char Count -- 2
+Char -- t Line Count -- 2 Char Count -- 2
+Char -- s Line Count -- 2 Char Count -- 2
+Char -- w Line Count -- 2 Char Count -- 2
+Char -- a Line Count -- 2 Char Count -- 2
+Char -- y Line Count -- 2 Char Count -- 2
+Char -- q Line Count -- 2 Char Count -- 2
+Char -- r Line Count -- 2 Char Count -- 2
+Char -- e Line Count -- 2 Char Count -- 2
+Char -- f Line Count -- 2 Char Count -- 2
+Line -- lxkvhzeruigsbofthobvxrieltumgyzfsbovtrghfxeiulsz-3 
+Char -- l Line Count -- 3 Char Count -- 3
+Char -- x Line Count -- 3 Char Count -- 3
+Char -- v Line Count -- 3 Char Count -- 3
+Char -- h Line Count -- 3 Char Count -- 3
+Char -- z Line Count -- 3 Char Count -- 3
+Char -- e Line Count -- 3 Char Count -- 3
+Char -- r Line Count -- 3 Char Count -- 3
+Char -- u Line Count -- 3 Char Count -- 3
+Char -- i Line Count -- 3 Char Count -- 3
+Char -- g Line Count -- 3 Char Count -- 3
+Char -- s Line Count -- 3 Char Count -- 3
+Char -- b Line Count -- 3 Char Count -- 3
+Char -- o Line Count -- 3 Char Count -- 3
+Char -- f Line Count -- 3 Char Count -- 3
+Char -- t Line Count -- 3 Char Count -- 3
+Line -- mkxhjuygbvcnoygoqnubvjpyzdubtlnsjgvobnguvojy-4 
+Char -- j Line Count -- 4 Char Count -- 4
+Char -- u Line Count -- 4 Char Count -- 4
+Char -- y Line Count -- 4 Char Count -- 4
+Char -- g Line Count -- 4 Char Count -- 4
+Char -- b Line Count -- 4 Char Count -- 4
+Char -- v Line Count -- 4 Char Count -- 4
+Char -- n Line Count -- 4 Char Count -- 4
+Char -- o Line Count -- 4 Char Count -- 4
+Line -- pmuxezkodpiyevns-2 
+Char -- p Line Count -- 2 Char Count -- 2
+Char -- e Line Count -- 2 Char Count -- 2
+Line -- iergxuojpqwskbdnytdtebiujnospkwyragqroqbendjksgiwuptynbhftycoqleusjdwpvgkriqryzgjekwpubidtosn-5 
+Char -- i Line Count -- 5 Char Count -- 5
+Char -- e Line Count -- 5 Char Count -- 5
+Char -- r Line Count -- 5 Char Count -- 5
+Char -- g Line Count -- 5 Char Count -- 5
+Char -- u Line Count -- 5 Char Count -- 5
+Char -- o Line Count -- 5 Char Count -- 5
+Char -- j Line Count -- 5 Char Count -- 5
+Char -- p Line Count -- 5 Char Count -- 5
+Char -- q Line Count -- 5 Char Count -- 5
+Char -- w Line Count -- 5 Char Count -- 5
+Char -- s Line Count -- 5 Char Count -- 5
+Char -- k Line Count -- 5 Char Count -- 5
+Char -- b Line Count -- 5 Char Count -- 5
+Char -- d Line Count -- 5 Char Count -- 5
+Char -- n Line Count -- 5 Char Count -- 5
+Char -- y Line Count -- 5 Char Count -- 5
+Char -- t Line Count -- 5 Char Count -- 5
+Line -- hkosdxcnztelmpltxcshpodmkenzaeokdzmhlxnctpstcohzelnsxdpmkrlmxzsdchoipenkt-5 
+Char -- h Line Count -- 5 Char Count -- 5
+Char -- k Line Count -- 5 Char Count -- 5
+Char -- o Line Count -- 5 Char Count -- 5
+Char -- s Line Count -- 5 Char Count -- 5
+Char -- d Line Count -- 5 Char Count -- 5
+Char -- x Line Count -- 5 Char Count -- 5
+Char -- c Line Count -- 5 Char Count -- 5
+Char -- n Line Count -- 5 Char Count -- 5
+Char -- z Line Count -- 5 Char Count -- 5
+Char -- t Line Count -- 5 Char Count -- 5
+Char -- e Line Count -- 5 Char Count -- 5
+Char -- l Line Count -- 5 Char Count -- 5
+Char -- m Line Count -- 5 Char Count -- 5
+Char -- p Line Count -- 5 Char Count -- 5
+Line -- klodupfxjgdxouflgjzjfugadelox-3 
+Char -- l Line Count -- 3 Char Count -- 3
+Char -- o Line Count -- 3 Char Count -- 3
+Char -- d Line Count -- 3 Char Count -- 3
+Char -- u Line Count -- 3 Char Count -- 3
+Char -- f Line Count -- 3 Char Count -- 3
+Char -- x Line Count -- 3 Char Count -- 3
+Char -- j Line Count -- 3 Char Count -- 3
+Char -- g Line Count -- 3 Char Count -- 3
+Line -- qeeqqeynkemqr-4 
+Char -- q Line Count -- 4 Char Count -- 4
+Char -- e Line Count -- 4 Char Count -- 4
+Line -- kpyahrdgnvvkrnygdpahnygrkhdvpahngyqkrdcvpanhygkpravd-5 
+Char -- k Line Count -- 5 Char Count -- 5
+Char -- p Line Count -- 5 Char Count -- 5
+Char -- y Line Count -- 5 Char Count -- 5
+Char -- a Line Count -- 5 Char Count -- 5
+Char -- h Line Count -- 5 Char Count -- 5
+Char -- r Line Count -- 5 Char Count -- 5
+Char -- d Line Count -- 5 Char Count -- 5
+Char -- g Line Count -- 5 Char Count -- 5
+Char -- n Line Count -- 5 Char Count -- 5
+Char -- v Line Count -- 5 Char Count -- 5
+Line -- pojttjptpijtpjptjx-5 
+Char -- p Line Count -- 5 Char Count -- 5
+Char -- j Line Count -- 5 Char Count -- 5
+Char -- t Line Count -- 5 Char Count -- 5
+Line -- ptudvwcsnbzlkmhpnvuklmedhwcstzbstpkbndzwcxulmhvlshkvqbtnmauwpdzclvbkdstmhczunpw-5 
+Char -- p Line Count -- 5 Char Count -- 5
+Char -- t Line Count -- 5 Char Count -- 5
+Char -- u Line Count -- 5 Char Count -- 5
+Char -- d Line Count -- 5 Char Count -- 5
+Char -- v Line Count -- 5 Char Count -- 5
+Char -- w Line Count -- 5 Char Count -- 5
+Char -- c Line Count -- 5 Char Count -- 5
+Char -- s Line Count -- 5 Char Count -- 5
+Char -- n Line Count -- 5 Char Count -- 5
+Char -- b Line Count -- 5 Char Count -- 5
+Char -- z Line Count -- 5 Char Count -- 5
+Char -- l Line Count -- 5 Char Count -- 5
+Char -- k Line Count -- 5 Char Count -- 5
+Char -- m Line Count -- 5 Char Count -- 5
+Char -- h Line Count -- 5 Char Count -- 5
+Line -- cjkiidhnayubozte-5 
+Line -- lrsyuzkehwmdiuilhsekdmwrehlmdkiuwsrmlwuiskedhrremuhcdikwls-5 
+Char -- l Line Count -- 5 Char Count -- 5
+Char -- r Line Count -- 5 Char Count -- 5
+Char -- s Line Count -- 5 Char Count -- 5
+Char -- u Line Count -- 5 Char Count -- 5
+Char -- k Line Count -- 5 Char Count -- 5
+Char -- e Line Count -- 5 Char Count -- 5
+Char -- h Line Count -- 5 Char Count -- 5
+Char -- w Line Count -- 5 Char Count -- 5
+Char -- m Line Count -- 5 Char Count -- 5
+Char -- d Line Count -- 5 Char Count -- 5
+Char -- i Line Count -- 5 Char Count -- 5
+Line -- nevqwlastafkhjrndcsgmaizsxnanqlswvy-4 
+Char -- n Line Count -- 4 Char Count -- 4
+Char -- a Line Count -- 4 Char Count -- 4
+Char -- s Line Count -- 4 Char Count -- 4
+Line -- tdfxwikmqcygojapbmnevlsoxkiudhyctqf-2 
+Char -- t Line Count -- 2 Char Count -- 2
+Char -- d Line Count -- 2 Char Count -- 2
+Char -- f Line Count -- 2 Char Count -- 2
+Char -- x Line Count -- 2 Char Count -- 2
+Char -- i Line Count -- 2 Char Count -- 2
+Char -- k Line Count -- 2 Char Count -- 2
+Char -- m Line Count -- 2 Char Count -- 2
+Char -- q Line Count -- 2 Char Count -- 2
+Char -- c Line Count -- 2 Char Count -- 2
+Char -- y Line Count -- 2 Char Count -- 2
+Char -- o Line Count -- 2 Char Count -- 2
+Line -- uncjptlasnpj-2 
+Char -- n Line Count -- 2 Char Count -- 2
+Char -- j Line Count -- 2 Char Count -- 2
+Char -- p Line Count -- 2 Char Count -- 2
+Line -- mqnwhueayizvlzwqlijnymvepkloymxntbigqwzerdfnvqyeilmzwicjmlezwqyn-5 
+Char -- m Line Count -- 5 Char Count -- 5
+Char -- q Line Count -- 5 Char Count -- 5
+Char -- n Line Count -- 5 Char Count -- 5
+Char -- w Line Count -- 5 Char Count -- 5
+Char -- e Line Count -- 5 Char Count -- 5
+Char -- y Line Count -- 5 Char Count -- 5
+Char -- i Line Count -- 5 Char Count -- 5
+Char -- z Line Count -- 5 Char Count -- 5
+Char -- l Line Count -- 5 Char Count -- 5
+Line -- echgfxinmdftcmixeghnxbikghlcpfnwemjxcfgedimnhjehnsmgxcdif-5 
+Char -- e Line Count -- 5 Char Count -- 5
+Char -- c Line Count -- 5 Char Count -- 5
+Char -- h Line Count -- 5 Char Count -- 5
+Char -- g Line Count -- 5 Char Count -- 5
+Char -- f Line Count -- 5 Char Count -- 5
+Char -- x Line Count -- 5 Char Count -- 5
+Char -- i Line Count -- 5 Char Count -- 5
+Char -- n Line Count -- 5 Char Count -- 5
+Char -- m Line Count -- 5 Char Count -- 5
+Line -- qorpliipohrqpqirkoprioq-4 
+Char -- q Line Count -- 4 Char Count -- 4
+Char -- o Line Count -- 4 Char Count -- 4
+Char -- r Line Count -- 4 Char Count -- 4
+Char -- p Line Count -- 4 Char Count -- 4
+Char -- i Line Count -- 4 Char Count -- 4
+Line -- vcptybfelzaihduknmwgshsugpzyftmeiklbawnvcdcaukmbihneywsdvfztplgtcziphfsbdkmavwulnygekcmfhlgbnaztdsyuvrpwei-5 
+Char -- v Line Count -- 5 Char Count -- 5
+Char -- c Line Count -- 5 Char Count -- 5
+Char -- p Line Count -- 5 Char Count -- 5
+Char -- t Line Count -- 5 Char Count -- 5
+Char -- y Line Count -- 5 Char Count -- 5
+Char -- b Line Count -- 5 Char Count -- 5
+Char -- f Line Count -- 5 Char Count -- 5
+Char -- e Line Count -- 5 Char Count -- 5
+Char -- l Line Count -- 5 Char Count -- 5
+Char -- z Line Count -- 5 Char Count -- 5
+Char -- a Line Count -- 5 Char Count -- 5
+Char -- i Line Count -- 5 Char Count -- 5
+Char -- h Line Count -- 5 Char Count -- 5
+Char -- d Line Count -- 5 Char Count -- 5
+Char -- u Line Count -- 5 Char Count -- 5
+Char -- k Line Count -- 5 Char Count -- 5
+Char -- n Line Count -- 5 Char Count -- 5
+Char -- m Line Count -- 5 Char Count -- 5
+Char -- w Line Count -- 5 Char Count -- 5
+Char -- g Line Count -- 5 Char Count -- 5
+Char -- s Line Count -- 5 Char Count -- 5
+Line -- yvzouqjilkgmmgkpqyzotublseviiazkvluoygmq-3 
+Char -- y Line Count -- 3 Char Count -- 3
+Char -- v Line Count -- 3 Char Count -- 3
+Char -- z Line Count -- 3 Char Count -- 3
+Char -- o Line Count -- 3 Char Count -- 3
+Char -- u Line Count -- 3 Char Count -- 3
+Char -- q Line Count -- 3 Char Count -- 3
+Char -- i Line Count -- 3 Char Count -- 3
+Char -- l Line Count -- 3 Char Count -- 3
+Char -- k Line Count -- 3 Char Count -- 3
+Char -- g Line Count -- 3 Char Count -- 3
+Char -- m Line Count -- 3 Char Count -- 3
+Line -- wphvnftyxedckbzqdbzhwqxnpvfycesqebwpydfvncxhz-3 
+Char -- w Line Count -- 3 Char Count -- 3
+Char -- p Line Count -- 3 Char Count -- 3
+Char -- h Line Count -- 3 Char Count -- 3
+Char -- v Line Count -- 3 Char Count -- 3
+Char -- n Line Count -- 3 Char Count -- 3
+Char -- f Line Count -- 3 Char Count -- 3
+Char -- y Line Count -- 3 Char Count -- 3
+Char -- x Line Count -- 3 Char Count -- 3
+Char -- e Line Count -- 3 Char Count -- 3
+Char -- d Line Count -- 3 Char Count -- 3
+Char -- c Line Count -- 3 Char Count -- 3
+Char -- b Line Count -- 3 Char Count -- 3
+Char -- z Line Count -- 3 Char Count -- 3
+Char -- q Line Count -- 3 Char Count -- 3
+Line -- jdtehlmrzrv-3 
+Line -- bwwbbwbtwbw-5 
+Char -- b Line Count -- 5 Char Count -- 5
+Char -- w Line Count -- 5 Char Count -- 5
+Line -- esviqcouceqvxjqcvywrat-3 
+Char -- v Line Count -- 3 Char Count -- 3
+Char -- q Line Count -- 3 Char Count -- 3
+Char -- c Line Count -- 3 Char Count -- 3
+Line -- yqfy-3 
+Line -- wdopylavgxiuomhenqjzbrcf-2 
+Char -- o Line Count -- 2 Char Count -- 2
+Line -- gyowtskhplycvznxtqw-2 
+Char -- y Line Count -- 2 Char Count -- 2
+Char -- w Line Count -- 2 Char Count -- 2
+Char -- t Line Count -- 2 Char Count -- 2
+Line -- xhlomdpznrcavebtibarocdnhpmgtlkphrtmbdnacolrgdomapnhbltc-4 
+Char -- h Line Count -- 4 Char Count -- 4
+Char -- l Line Count -- 4 Char Count -- 4
+Char -- o Line Count -- 4 Char Count -- 4
+Char -- m Line Count -- 4 Char Count -- 4
+Char -- d Line Count -- 4 Char Count -- 4
+Char -- p Line Count -- 4 Char Count -- 4
+Char -- n Line Count -- 4 Char Count -- 4
+Char -- r Line Count -- 4 Char Count -- 4
+Char -- c Line Count -- 4 Char Count -- 4
+Char -- a Line Count -- 4 Char Count -- 4
+Char -- b Line Count -- 4 Char Count -- 4
+Char -- t Line Count -- 4 Char Count -- 4
+Line -- sdqiauyzgvjuvayizqiqyuavzqauzyvi-4 
+Char -- q Line Count -- 4 Char Count -- 4
+Char -- i Line Count -- 4 Char Count -- 4
+Char -- a Line Count -- 4 Char Count -- 4
+Char -- u Line Count -- 4 Char Count -- 4
+Char -- y Line Count -- 4 Char Count -- 4
+Char -- z Line Count -- 4 Char Count -- 4
+Char -- v Line Count -- 4 Char Count -- 4
+Line -- uvrsusvsvusuvvsu-5 
+Char -- u Line Count -- 5 Char Count -- 5
+Char -- v Line Count -- 5 Char Count -- 5
+Char -- s Line Count -- 5 Char Count -- 5
+Line -- zgmgeyvcf-4 
+Line -- gunfyiqemwsesywnimfugqmfwysnquieg-3 
+Char -- g Line Count -- 3 Char Count -- 3
+Char -- u Line Count -- 3 Char Count -- 3
+Char -- n Line Count -- 3 Char Count -- 3
+Char -- f Line Count -- 3 Char Count -- 3
+Char -- y Line Count -- 3 Char Count -- 3
+Char -- i Line Count -- 3 Char Count -- 3
+Char -- q Line Count -- 3 Char Count -- 3
+Char -- e Line Count -- 3 Char Count -- 3
+Char -- m Line Count -- 3 Char Count -- 3
+Char -- w Line Count -- 3 Char Count -- 3
+Char -- s Line Count -- 3 Char Count -- 3
+Line -- aggabpgaagdga-5 
+Char -- a Line Count -- 5 Char Count -- 5
+Char -- g Line Count -- 5 Char Count -- 5
+Line -- npgitkbzvxhzakcj-2 
+Char -- k Line Count -- 2 Char Count -- 2
+Char -- z Line Count -- 2 Char Count -- 2
+Line -- rkdstonhzibjuyg-2 
+Line -- bhala-2 
+Char -- a Line Count -- 2 Char Count -- 2
+Line -- iepquktyaxmfhnlobcrwjvdskmfpuchdwbaxqviojynrsteljwotpldbxqnkrichseyuvmfa-3 
+Char -- i Line Count -- 3 Char Count -- 3
+Char -- e Line Count -- 3 Char Count -- 3
+Char -- p Line Count -- 3 Char Count -- 3
+Char -- q Line Count -- 3 Char Count -- 3
+Char -- u Line Count -- 3 Char Count -- 3
+Char -- k Line Count -- 3 Char Count -- 3
+Char -- t Line Count -- 3 Char Count -- 3
+Char -- y Line Count -- 3 Char Count -- 3
+Char -- a Line Count -- 3 Char Count -- 3
+Char -- x Line Count -- 3 Char Count -- 3
+Char -- m Line Count -- 3 Char Count -- 3
+Char -- f Line Count -- 3 Char Count -- 3
+Char -- h Line Count -- 3 Char Count -- 3
+Char -- n Line Count -- 3 Char Count -- 3
+Char -- l Line Count -- 3 Char Count -- 3
+Char -- o Line Count -- 3 Char Count -- 3
+Char -- b Line Count -- 3 Char Count -- 3
+Char -- c Line Count -- 3 Char Count -- 3
+Char -- r Line Count -- 3 Char Count -- 3
+Char -- w Line Count -- 3 Char Count -- 3
+Char -- j Line Count -- 3 Char Count -- 3
+Char -- v Line Count -- 3 Char Count -- 3
+Char -- d Line Count -- 3 Char Count -- 3
+Char -- s Line Count -- 3 Char Count -- 3
+Line -- agunzkizug-2 
+Char -- g Line Count -- 2 Char Count -- 2
+Char -- u Line Count -- 2 Char Count -- 2
+Char -- z Line Count -- 2 Char Count -- 2
+Line -- lawqrcfdodp-3 
+Line -- ptmfujeumfqjbedtlzrmwxfjuteutsjmfer-4 
+Char -- t Line Count -- 4 Char Count -- 4
+Char -- m Line Count -- 4 Char Count -- 4
+Char -- f Line Count -- 4 Char Count -- 4
+Char -- u Line Count -- 4 Char Count -- 4
+Char -- j Line Count -- 4 Char Count -- 4
+Char -- e Line Count -- 4 Char Count -- 4
+Line -- fymhpzavrlehormypnfwxhpljurctygmfupylfqtrdijhbm-4 
+Char -- f Line Count -- 4 Char Count -- 4
+Char -- y Line Count -- 4 Char Count -- 4
+Char -- m Line Count -- 4 Char Count -- 4
+Char -- h Line Count -- 4 Char Count -- 4
+Char -- p Line Count -- 4 Char Count -- 4
+Char -- r Line Count -- 4 Char Count -- 4
+Line -- ugscvjxfkhsihzmngcjdv-2 
+Char -- g Line Count -- 2 Char Count -- 2
+Char -- s Line Count -- 2 Char Count -- 2
+Char -- c Line Count -- 2 Char Count -- 2
+Char -- v Line Count -- 2 Char Count -- 2
+Char -- j Line Count -- 2 Char Count -- 2
+Char -- h Line Count -- 2 Char Count -- 2
+Line -- pbwjhdvlntmxuykzcqfnmisaefgqhcoz-2 
+Char -- h Line Count -- 2 Char Count -- 2
+Char -- n Line Count -- 2 Char Count -- 2
+Char -- m Line Count -- 2 Char Count -- 2
+Char -- z Line Count -- 2 Char Count -- 2
+Char -- c Line Count -- 2 Char Count -- 2
+Char -- q Line Count -- 2 Char Count -- 2
+Char -- f Line Count -- 2 Char Count -- 2
+Line -- orcfsxmxcmfrssyrxfcmsrfmxc-4 
+Char -- r Line Count -- 4 Char Count -- 4
+Char -- c Line Count -- 4 Char Count -- 4
+Char -- f Line Count -- 4 Char Count -- 4
+Char -- s Line Count -- 4 Char Count -- 4
+Char -- x Line Count -- 4 Char Count -- 4
+Char -- m Line Count -- 4 Char Count -- 4
+Line -- yjodxnav-1 
+Char -- y Line Count -- 1 Char Count -- 1
+Char -- j Line Count -- 1 Char Count -- 1
+Char -- o Line Count -- 1 Char Count -- 1
+Char -- d Line Count -- 1 Char Count -- 1
+Char -- x Line Count -- 1 Char Count -- 1
+Char -- n Line Count -- 1 Char Count -- 1
+Char -- a Line Count -- 1 Char Count -- 1
+Char -- v Line Count -- 1 Char Count -- 1
+Line -- smvkfxtsutnflvk-2 
+Char -- s Line Count -- 2 Char Count -- 2
+Char -- v Line Count -- 2 Char Count -- 2
+Char -- k Line Count -- 2 Char Count -- 2
+Char -- f Line Count -- 2 Char Count -- 2
+Char -- t Line Count -- 2 Char Count -- 2
+Line -- rgbbb-3 
+Char -- b Line Count -- 3 Char Count -- 3
+Line -- uahjwtqbeklgfzixpocrvmnkbjlqzxwuratocmfpinhegvqrijtvkzbsclmefahpwugonx-3 
+Char -- u Line Count -- 3 Char Count -- 3
+Char -- a Line Count -- 3 Char Count -- 3
+Char -- h Line Count -- 3 Char Count -- 3
+Char -- j Line Count -- 3 Char Count -- 3
+Char -- w Line Count -- 3 Char Count -- 3
+Char -- t Line Count -- 3 Char Count -- 3
+Char -- q Line Count -- 3 Char Count -- 3
+Char -- b Line Count -- 3 Char Count -- 3
+Char -- e Line Count -- 3 Char Count -- 3
+Char -- k Line Count -- 3 Char Count -- 3
+Char -- l Line Count -- 3 Char Count -- 3
+Char -- g Line Count -- 3 Char Count -- 3
+Char -- f Line Count -- 3 Char Count -- 3
+Char -- z Line Count -- 3 Char Count -- 3
+Char -- i Line Count -- 3 Char Count -- 3
+Char -- x Line Count -- 3 Char Count -- 3
+Char -- p Line Count -- 3 Char Count -- 3
+Char -- o Line Count -- 3 Char Count -- 3
+Char -- c Line Count -- 3 Char Count -- 3
+Char -- r Line Count -- 3 Char Count -- 3
+Char -- v Line Count -- 3 Char Count -- 3
+Char -- m Line Count -- 3 Char Count -- 3
+Char -- n Line Count -- 3 Char Count -- 3
+Line -- cnvxwskaithmrpdjzegouflyyojesiunmzclkvghxwtrdapffcazyohpuliwmgdnvsjterxkpadmkvwzgyxtjcselruhofnithjrfauldyvpcisxngokmewz-5 
+Char -- c Line Count -- 5 Char Count -- 5
+Char -- n Line Count -- 5 Char Count -- 5
+Char -- v Line Count -- 5 Char Count -- 5
+Char -- x Line Count -- 5 Char Count -- 5
+Char -- w Line Count -- 5 Char Count -- 5
+Char -- s Line Count -- 5 Char Count -- 5
+Char -- k Line Count -- 5 Char Count -- 5
+Char -- a Line Count -- 5 Char Count -- 5
+Char -- i Line Count -- 5 Char Count -- 5
+Char -- t Line Count -- 5 Char Count -- 5
+Char -- h Line Count -- 5 Char Count -- 5
+Char -- m Line Count -- 5 Char Count -- 5
+Char -- r Line Count -- 5 Char Count -- 5
+Char -- p Line Count -- 5 Char Count -- 5
+Char -- d Line Count -- 5 Char Count -- 5
+Char -- j Line Count -- 5 Char Count -- 5
+Char -- z Line Count -- 5 Char Count -- 5
+Char -- e Line Count -- 5 Char Count -- 5
+Char -- g Line Count -- 5 Char Count -- 5
+Char -- o Line Count -- 5 Char Count -- 5
+Char -- u Line Count -- 5 Char Count -- 5
+Char -- f Line Count -- 5 Char Count -- 5
+Char -- l Line Count -- 5 Char Count -- 5
+Char -- y Line Count -- 5 Char Count -- 5
+Line -- jtrtrtrrlt-4 
+Char -- t Line Count -- 4 Char Count -- 4
+Char -- r Line Count -- 4 Char Count -- 4
+Line -- ofxoo-4 
+Line -- jviduxrqhpzykmjrlhykixbvhkyjilrvxyhxivkrjlxryhbkijv-5 
+Char -- j Line Count -- 5 Char Count -- 5
+Char -- v Line Count -- 5 Char Count -- 5
+Char -- i Line Count -- 5 Char Count -- 5
+Char -- x Line Count -- 5 Char Count -- 5
+Char -- r Line Count -- 5 Char Count -- 5
+Char -- h Line Count -- 5 Char Count -- 5
+Char -- y Line Count -- 5 Char Count -- 5
+Char -- k Line Count -- 5 Char Count -- 5
+Line -- jxirekgmt-3 
+Line -- hdigybslxfozcasbypgfvxzihcmlaucaliwbxzfgehy-3 
+Char -- h Line Count -- 3 Char Count -- 3
+Char -- i Line Count -- 3 Char Count -- 3
+Char -- g Line Count -- 3 Char Count -- 3
+Char -- y Line Count -- 3 Char Count -- 3
+Char -- b Line Count -- 3 Char Count -- 3
+Char -- l Line Count -- 3 Char Count -- 3
+Char -- x Line Count -- 3 Char Count -- 3
+Char -- f Line Count -- 3 Char Count -- 3
+Char -- z Line Count -- 3 Char Count -- 3
+Char -- c Line Count -- 3 Char Count -- 3
+Char -- a Line Count -- 3 Char Count -- 3
+Line -- xwbdprtsoqzunysmkhxcjfaived-2 
+Char -- x Line Count -- 2 Char Count -- 2
+Char -- d Line Count -- 2 Char Count -- 2
+Char -- s Line Count -- 2 Char Count -- 2
+Line -- jjj-3 
+Char -- j Line Count -- 3 Char Count -- 3
+Line -- nvwbegrypaofxqofvqxeyrgp-2 
+Char -- v Line Count -- 2 Char Count -- 2
+Char -- e Line Count -- 2 Char Count -- 2
+Char -- g Line Count -- 2 Char Count -- 2
+Char -- r Line Count -- 2 Char Count -- 2
+Char -- y Line Count -- 2 Char Count -- 2
+Char -- p Line Count -- 2 Char Count -- 2
+Char -- o Line Count -- 2 Char Count -- 2
+Char -- f Line Count -- 2 Char Count -- 2
+Char -- x Line Count -- 2 Char Count -- 2
+Char -- q Line Count -- 2 Char Count -- 2
+Line -- klwlkwkwl-3 
+Char -- k Line Count -- 3 Char Count -- 3
+Char -- l Line Count -- 3 Char Count -- 3
+Char -- w Line Count -- 3 Char Count -- 3
+Line -- zyrfuqhnagkghfzeswqkcekqzohgf-3 
+Char -- z Line Count -- 3 Char Count -- 3
+Char -- f Line Count -- 3 Char Count -- 3
+Char -- q Line Count -- 3 Char Count -- 3
+Char -- h Line Count -- 3 Char Count -- 3
+Char -- g Line Count -- 3 Char Count -- 3
+Char -- k Line Count -- 3 Char Count -- 3
+Line -- rgumpkoehtndcbgcdfkipuvbojlmn-2 
+Char -- g Line Count -- 2 Char Count -- 2
+Char -- u Line Count -- 2 Char Count -- 2
+Char -- m Line Count -- 2 Char Count -- 2
+Char -- p Line Count -- 2 Char Count -- 2
+Char -- k Line Count -- 2 Char Count -- 2
+Char -- o Line Count -- 2 Char Count -- 2
+Char -- n Line Count -- 2 Char Count -- 2
+Char -- d Line Count -- 2 Char Count -- 2
+Char -- c Line Count -- 2 Char Count -- 2
+Char -- b Line Count -- 2 Char Count -- 2
+Line -- uqlivpmacvplcqimuaupmalcvqimcuvlpqai-4 
+Char -- u Line Count -- 4 Char Count -- 4
+Char -- q Line Count -- 4 Char Count -- 4
+Char -- l Line Count -- 4 Char Count -- 4
+Char -- i Line Count -- 4 Char Count -- 4
+Char -- v Line Count -- 4 Char Count -- 4
+Char -- p Line Count -- 4 Char Count -- 4
+Char -- m Line Count -- 4 Char Count -- 4
+Char -- a Line Count -- 4 Char Count -- 4
+Char -- c Line Count -- 4 Char Count -- 4
+Line -- woiwio-2 
+Char -- w Line Count -- 2 Char Count -- 2
+Char -- o Line Count -- 2 Char Count -- 2
+Char -- i Line Count -- 2 Char Count -- 2
+Line -- zycvodbiatfrboycztjaidfrv-2 
+Char -- z Line Count -- 2 Char Count -- 2
+Char -- y Line Count -- 2 Char Count -- 2
+Char -- c Line Count -- 2 Char Count -- 2
+Char -- v Line Count -- 2 Char Count -- 2
+Char -- o Line Count -- 2 Char Count -- 2
+Char -- d Line Count -- 2 Char Count -- 2
+Char -- b Line Count -- 2 Char Count -- 2
+Char -- i Line Count -- 2 Char Count -- 2
+Char -- a Line Count -- 2 Char Count -- 2
+Char -- t Line Count -- 2 Char Count -- 2
+Char -- f Line Count -- 2 Char Count -- 2
+Char -- r Line Count -- 2 Char Count -- 2
+Line -- kyimbvawqxmvwkyjcqaiptrvhiykmaqwkqmvxyiwavakmqwiy-5 
+Char -- k Line Count -- 5 Char Count -- 5
+Char -- y Line Count -- 5 Char Count -- 5
+Char -- i Line Count -- 5 Char Count -- 5
+Char -- m Line Count -- 5 Char Count -- 5
+Char -- v Line Count -- 5 Char Count -- 5
+Char -- a Line Count -- 5 Char Count -- 5
+Char -- w Line Count -- 5 Char Count -- 5
+Char -- q Line Count -- 5 Char Count -- 5
+Line -- mbaxhbfldpczbrvhfbym-4 
+Char -- b Line Count -- 4 Char Count -- 4
+Line -- zvibckofgyjqtwfmqzswhpeklyjtbvuoifjixaznqkywtbvco-3 
+Char -- z Line Count -- 3 Char Count -- 3
+Char -- v Line Count -- 3 Char Count -- 3
+Char -- i Line Count -- 3 Char Count -- 3
+Char -- b Line Count -- 3 Char Count -- 3
+Char -- k Line Count -- 3 Char Count -- 3
+Char -- o Line Count -- 3 Char Count -- 3
+Char -- f Line Count -- 3 Char Count -- 3
+Char -- y Line Count -- 3 Char Count -- 3
+Char -- j Line Count -- 3 Char Count -- 3
+Char -- q Line Count -- 3 Char Count -- 3
+Char -- t Line Count -- 3 Char Count -- 3
+Char -- w Line Count -- 3 Char Count -- 3
+Line -- vxcnagsqdmhuotweenvfkxdroqawcgsmtyaspitmqnxwedvcbl-3 
+Char -- v Line Count -- 3 Char Count -- 3
+Char -- x Line Count -- 3 Char Count -- 3
+Char -- c Line Count -- 3 Char Count -- 3
+Char -- n Line Count -- 3 Char Count -- 3
+Char -- a Line Count -- 3 Char Count -- 3
+Char -- s Line Count -- 3 Char Count -- 3
+Char -- q Line Count -- 3 Char Count -- 3
+Char -- d Line Count -- 3 Char Count -- 3
+Char -- m Line Count -- 3 Char Count -- 3
+Char -- t Line Count -- 3 Char Count -- 3
+Char -- w Line Count -- 3 Char Count -- 3
+Char -- e Line Count -- 3 Char Count -- 3
+Line -- tqsizydbawohejgpk-2 
+Line -- xvrzbcpogdyfuhwknmiesqaoigwafzqnmshkevcuxbypdrlgrhcbdxyuewisvazfqpkomnmnyvbxcsaeoufpwrqzkdhgidxzyrsogubncfqtmvepihwka-5 
+Char -- x Line Count -- 5 Char Count -- 5
+Char -- v Line Count -- 5 Char Count -- 5
+Char -- r Line Count -- 5 Char Count -- 5
+Char -- z Line Count -- 5 Char Count -- 5
+Char -- b Line Count -- 5 Char Count -- 5
+Char -- c Line Count -- 5 Char Count -- 5
+Char -- p Line Count -- 5 Char Count -- 5
+Char -- o Line Count -- 5 Char Count -- 5
+Char -- g Line Count -- 5 Char Count -- 5
+Char -- d Line Count -- 5 Char Count -- 5
+Char -- y Line Count -- 5 Char Count -- 5
+Char -- f Line Count -- 5 Char Count -- 5
+Char -- u Line Count -- 5 Char Count -- 5
+Char -- h Line Count -- 5 Char Count -- 5
+Char -- w Line Count -- 5 Char Count -- 5
+Char -- k Line Count -- 5 Char Count -- 5
+Char -- n Line Count -- 5 Char Count -- 5
+Char -- m Line Count -- 5 Char Count -- 5
+Char -- i Line Count -- 5 Char Count -- 5
+Char -- e Line Count -- 5 Char Count -- 5
+Char -- s Line Count -- 5 Char Count -- 5
+Char -- q Line Count -- 5 Char Count -- 5
+Char -- a Line Count -- 5 Char Count -- 5
+Line -- nnnnn-5 
+Char -- n Line Count -- 5 Char Count -- 5
+Line -- bmpkgzfojxelrwtcqairymcnsuxlokj-2 
+Char -- m Line Count -- 2 Char Count -- 2
+Char -- k Line Count -- 2 Char Count -- 2
+Char -- o Line Count -- 2 Char Count -- 2
+Char -- j Line Count -- 2 Char Count -- 2
+Char -- x Line Count -- 2 Char Count -- 2
+Char -- l Line Count -- 2 Char Count -- 2
+Char -- r Line Count -- 2 Char Count -- 2
+Char -- c Line Count -- 2 Char Count -- 2
+Line -- dewfscvkqbtzpxcdpuewltsbzormqwvtdngphbkeszcqj-3 
+Char -- d Line Count -- 3 Char Count -- 3
+Char -- e Line Count -- 3 Char Count -- 3
+Char -- w Line Count -- 3 Char Count -- 3
+Char -- s Line Count -- 3 Char Count -- 3
+Char -- c Line Count -- 3 Char Count -- 3
+Char -- q Line Count -- 3 Char Count -- 3
+Char -- b Line Count -- 3 Char Count -- 3
+Char -- t Line Count -- 3 Char Count -- 3
+Char -- z Line Count -- 3 Char Count -- 3
+Char -- p Line Count -- 3 Char Count -- 3
+Line -- disryhxvpbulzwhbzlwdirsvpyxuirzldphyubxswvwihdrypxvuszlb-4 
+Char -- d Line Count -- 4 Char Count -- 4
+Char -- i Line Count -- 4 Char Count -- 4
+Char -- s Line Count -- 4 Char Count -- 4
+Char -- r Line Count -- 4 Char Count -- 4
+Char -- y Line Count -- 4 Char Count -- 4
+Char -- h Line Count -- 4 Char Count -- 4
+Char -- x Line Count -- 4 Char Count -- 4
+Char -- v Line Count -- 4 Char Count -- 4
+Char -- p Line Count -- 4 Char Count -- 4
+Char -- b Line Count -- 4 Char Count -- 4
+Char -- u Line Count -- 4 Char Count -- 4
+Char -- l Line Count -- 4 Char Count -- 4
+Char -- z Line Count -- 4 Char Count -- 4
+Char -- w Line Count -- 4 Char Count -- 4
+Line -- fxtqpckxqkptcf-2 
+Char -- f Line Count -- 2 Char Count -- 2
+Char -- x Line Count -- 2 Char Count -- 2
+Char -- t Line Count -- 2 Char Count -- 2
+Char -- q Line Count -- 2 Char Count -- 2
+Char -- p Line Count -- 2 Char Count -- 2
+Char -- c Line Count -- 2 Char Count -- 2
+Char -- k Line Count -- 2 Char Count -- 2
+Line -- factlhdbwurgvxiekpszqjogjhxkdfpsltcvoibruqewaztcpfirvxkjwolzasbeguqhdvjrfpclktdeshquigxbowza-4 
+Char -- f Line Count -- 4 Char Count -- 4
+Char -- a Line Count -- 4 Char Count -- 4
+Char -- c Line Count -- 4 Char Count -- 4
+Char -- t Line Count -- 4 Char Count -- 4
+Char -- l Line Count -- 4 Char Count -- 4
+Char -- h Line Count -- 4 Char Count -- 4
+Char -- d Line Count -- 4 Char Count -- 4
+Char -- b Line Count -- 4 Char Count -- 4
+Char -- w Line Count -- 4 Char Count -- 4
+Char -- u Line Count -- 4 Char Count -- 4
+Char -- r Line Count -- 4 Char Count -- 4
+Char -- g Line Count -- 4 Char Count -- 4
+Char -- v Line Count -- 4 Char Count -- 4
+Char -- x Line Count -- 4 Char Count -- 4
+Char -- i Line Count -- 4 Char Count -- 4
+Char -- e Line Count -- 4 Char Count -- 4
+Char -- k Line Count -- 4 Char Count -- 4
+Char -- p Line Count -- 4 Char Count -- 4
+Char -- s Line Count -- 4 Char Count -- 4
+Char -- z Line Count -- 4 Char Count -- 4
+Char -- q Line Count -- 4 Char Count -- 4
+Char -- j Line Count -- 4 Char Count -- 4
+Char -- o Line Count -- 4 Char Count -- 4
+Line -- pqabsimryhtduvlconjzxgwke-2 
+Line -- pmyjflwzckdvnergqzjprwygclekfmqvdnwykjldrvfqecngmzpvjfmcynwegzprdklhqcfqnmrldegyzpwkvj-5 
+Char -- p Line Count -- 5 Char Count -- 5
+Char -- m Line Count -- 5 Char Count -- 5
+Char -- y Line Count -- 5 Char Count -- 5
+Char -- j Line Count -- 5 Char Count -- 5
+Char -- f Line Count -- 5 Char Count -- 5
+Char -- l Line Count -- 5 Char Count -- 5
+Char -- w Line Count -- 5 Char Count -- 5
+Char -- z Line Count -- 5 Char Count -- 5
+Char -- c Line Count -- 5 Char Count -- 5
+Char -- k Line Count -- 5 Char Count -- 5
+Char -- d Line Count -- 5 Char Count -- 5
+Char -- v Line Count -- 5 Char Count -- 5
+Char -- n Line Count -- 5 Char Count -- 5
+Char -- e Line Count -- 5 Char Count -- 5
+Char -- r Line Count -- 5 Char Count -- 5
+Char -- g Line Count -- 5 Char Count -- 5
+Char -- q Line Count -- 5 Char Count -- 5
+Line -- xhhehnhhldjq-5 
+Char -- h Line Count -- 5 Char Count -- 5
+Line -- kapbqmofbakptzqokpcqbatxjopbqkaubpdqrkhga-5 
+Char -- k Line Count -- 5 Char Count -- 5
+Char -- a Line Count -- 5 Char Count -- 5
+Char -- p Line Count -- 5 Char Count -- 5
+Char -- b Line Count -- 5 Char Count -- 5
+Char -- q Line Count -- 5 Char Count -- 5
+Line -- wyaudleneawulyndwueadlnyuaelndwyaluewndy-5 
+Char -- w Line Count -- 5 Char Count -- 5
+Char -- y Line Count -- 5 Char Count -- 5
+Char -- a Line Count -- 5 Char Count -- 5
+Char -- u Line Count -- 5 Char Count -- 5
+Char -- d Line Count -- 5 Char Count -- 5
+Char -- l Line Count -- 5 Char Count -- 5
+Char -- e Line Count -- 5 Char Count -- 5
+Char -- n Line Count -- 5 Char Count -- 5
+Line -- byzxchgujesnygzxanucbejh-2 
+Char -- b Line Count -- 2 Char Count -- 2
+Char -- y Line Count -- 2 Char Count -- 2
+Char -- z Line Count -- 2 Char Count -- 2
+Char -- x Line Count -- 2 Char Count -- 2
+Char -- c Line Count -- 2 Char Count -- 2
+Char -- h Line Count -- 2 Char Count -- 2
+Char -- g Line Count -- 2 Char Count -- 2
+Char -- u Line Count -- 2 Char Count -- 2
+Char -- j Line Count -- 2 Char Count -- 2
+Char -- e Line Count -- 2 Char Count -- 2
+Char -- n Line Count -- 2 Char Count -- 2
+Line -- ehftwlmvfahfsg-3 
+Char -- f Line Count -- 3 Char Count -- 3
+Line -- wvmfzghpsyhfmdhgmjzuxreablkontchmq-4 
+Char -- m Line Count -- 4 Char Count -- 4
+Char -- h Line Count -- 4 Char Count -- 4
+Line -- gzwqlcxbgzlctwnuzcwdpgaxlv-3 
+Char -- g Line Count -- 3 Char Count -- 3
+Char -- z Line Count -- 3 Char Count -- 3
+Char -- w Line Count -- 3 Char Count -- 3
+Char -- l Line Count -- 3 Char Count -- 3
+Char -- c Line Count -- 3 Char Count -- 3
+Line -- nukwtrszfrfndkzcsomwurusfnwzkufzwlrnsk-4 
+Char -- n Line Count -- 4 Char Count -- 4
+Char -- u Line Count -- 4 Char Count -- 4
+Char -- k Line Count -- 4 Char Count -- 4
+Char -- w Line Count -- 4 Char Count -- 4
+Char -- r Line Count -- 4 Char Count -- 4
+Char -- s Line Count -- 4 Char Count -- 4
+Char -- z Line Count -- 4 Char Count -- 4
+Char -- f Line Count -- 4 Char Count -- 4
+Line -- bvaibvv-5 
+Line -- uxcdomybqrwgzvfnailhntkrpjsegf-3 
+Line -- fqxugyniifynwayigfknqynafsgiyfqcni-5 
+Char -- f Line Count -- 5 Char Count -- 5
+Char -- y Line Count -- 5 Char Count -- 5
+Char -- n Line Count -- 5 Char Count -- 5
+Char -- i Line Count -- 5 Char Count -- 5
+Line -- yecqrtdzbnhphcrzqodnvqhnrzdcf-3 
+Char -- c Line Count -- 3 Char Count -- 3
+Char -- q Line Count -- 3 Char Count -- 3
+Char -- r Line Count -- 3 Char Count -- 3
+Char -- d Line Count -- 3 Char Count -- 3
+Char -- z Line Count -- 3 Char Count -- 3
+Char -- n Line Count -- 3 Char Count -- 3
+Char -- h Line Count -- 3 Char Count -- 3
+Line -- pv-2 
+Line -- afoxchynvipselnsxlcohfpeiyavsxalyfhpwvonecixislpcoyefvnha-4 
+Char -- a Line Count -- 4 Char Count -- 4
+Char -- f Line Count -- 4 Char Count -- 4
+Char -- o Line Count -- 4 Char Count -- 4
+Char -- x Line Count -- 4 Char Count -- 4
+Char -- c Line Count -- 4 Char Count -- 4
+Char -- h Line Count -- 4 Char Count -- 4
+Char -- y Line Count -- 4 Char Count -- 4
+Char -- n Line Count -- 4 Char Count -- 4
+Char -- v Line Count -- 4 Char Count -- 4
+Char -- i Line Count -- 4 Char Count -- 4
+Char -- p Line Count -- 4 Char Count -- 4
+Char -- s Line Count -- 4 Char Count -- 4
+Char -- e Line Count -- 4 Char Count -- 4
+Char -- l Line Count -- 4 Char Count -- 4
+Line -- najlhzuzjycluatslumedaiq-3 
+Char -- a Line Count -- 3 Char Count -- 3
+Char -- l Line Count -- 3 Char Count -- 3
+Char -- u Line Count -- 3 Char Count -- 3
+Line -- kkkkk-5 
+Char -- k Line Count -- 5 Char Count -- 5
+Line -- odetwpfglrcjqmuihxdyrqkfweansjvmhglzpu-2 
+Char -- d Line Count -- 2 Char Count -- 2
+Char -- e Line Count -- 2 Char Count -- 2
+Char -- w Line Count -- 2 Char Count -- 2
+Char -- p Line Count -- 2 Char Count -- 2
+Char -- f Line Count -- 2 Char Count -- 2
+Char -- g Line Count -- 2 Char Count -- 2
+Char -- l Line Count -- 2 Char Count -- 2
+Char -- r Line Count -- 2 Char Count -- 2
+Char -- j Line Count -- 2 Char Count -- 2
+Char -- q Line Count -- 2 Char Count -- 2
+Char -- m Line Count -- 2 Char Count -- 2
+Char -- u Line Count -- 2 Char Count -- 2
+Char -- h Line Count -- 2 Char Count -- 2
+Line -- igskahuesihkglugiushkguhxkissuknighx-5 
+Char -- i Line Count -- 5 Char Count -- 5
+Char -- g Line Count -- 5 Char Count -- 5
+Char -- s Line Count -- 5 Char Count -- 5
+Char -- k Line Count -- 5 Char Count -- 5
+Char -- h Line Count -- 5 Char Count -- 5
+Char -- u Line Count -- 5 Char Count -- 5
+Line -- oxemfvjxomzsqvmlnxvo-3 
+Char -- o Line Count -- 3 Char Count -- 3
+Char -- x Line Count -- 3 Char Count -- 3
+Char -- m Line Count -- 3 Char Count -- 3
+Char -- v Line Count -- 3 Char Count -- 3
+Line -- tlwfvktlvwztvlxcrvwltfvwlt-5 
+Char -- t Line Count -- 5 Char Count -- 5
+Char -- l Line Count -- 5 Char Count -- 5
+Char -- v Line Count -- 5 Char Count -- 5
+Line -- uwmpzlhenvaotzqhxmngylkupwhnufmlzpevlfupmhnzvmluszhpn-5 
+Char -- u Line Count -- 5 Char Count -- 5
+Char -- m Line Count -- 5 Char Count -- 5
+Char -- p Line Count -- 5 Char Count -- 5
+Char -- z Line Count -- 5 Char Count -- 5
+Char -- l Line Count -- 5 Char Count -- 5
+Char -- h Line Count -- 5 Char Count -- 5
+Char -- n Line Count -- 5 Char Count -- 5
+Line -- nqsireakdvpbtfcwgxybkqygapisnxfwrtecvodjenbvtdisqwaxfpgrcykxvdbrwgimatefqcyspkn-4 
+Char -- n Line Count -- 4 Char Count -- 4
+Char -- q Line Count -- 4 Char Count -- 4
+Char -- s Line Count -- 4 Char Count -- 4
+Char -- i Line Count -- 4 Char Count -- 4
+Char -- r Line Count -- 4 Char Count -- 4
+Char -- e Line Count -- 4 Char Count -- 4
+Char -- a Line Count -- 4 Char Count -- 4
+Char -- k Line Count -- 4 Char Count -- 4
+Char -- d Line Count -- 4 Char Count -- 4
+Char -- v Line Count -- 4 Char Count -- 4
+Char -- p Line Count -- 4 Char Count -- 4
+Char -- b Line Count -- 4 Char Count -- 4
+Char -- t Line Count -- 4 Char Count -- 4
+Char -- f Line Count -- 4 Char Count -- 4
+Char -- c Line Count -- 4 Char Count -- 4
+Char -- w Line Count -- 4 Char Count -- 4
+Char -- g Line Count -- 4 Char Count -- 4
+Char -- x Line Count -- 4 Char Count -- 4
+Char -- y Line Count -- 4 Char Count -- 4
+Line -- ajumckognwqsmcwbsjqtkgfdziro-2 
+Char -- j Line Count -- 2 Char Count -- 2
+Char -- m Line Count -- 2 Char Count -- 2
+Char -- c Line Count -- 2 Char Count -- 2
+Char -- k Line Count -- 2 Char Count -- 2
+Char -- o Line Count -- 2 Char Count -- 2
+Char -- g Line Count -- 2 Char Count -- 2
+Char -- w Line Count -- 2 Char Count -- 2
+Char -- q Line Count -- 2 Char Count -- 2
+Char -- s Line Count -- 2 Char Count -- 2
+Line -- acpzwtzlcyaet-2 
+Char -- a Line Count -- 2 Char Count -- 2
+Char -- c Line Count -- 2 Char Count -- 2
+Char -- z Line Count -- 2 Char Count -- 2
+Char -- t Line Count -- 2 Char Count -- 2
+Line -- gvuvggv-3 
+Char -- g Line Count -- 3 Char Count -- 3
+Char -- v Line Count -- 3 Char Count -- 3
+Line -- qgcjztkuoojbwtrxaq-2 
+Char -- q Line Count -- 2 Char Count -- 2
+Char -- j Line Count -- 2 Char Count -- 2
+Char -- t Line Count -- 2 Char Count -- 2
+Char -- o Line Count -- 2 Char Count -- 2
+Line -- tecrwjigkqpbnufmldavxhfxvhgjetlrwdpziukbncxkvlhwrtbfydigpsocnje-3 
+Char -- t Line Count -- 3 Char Count -- 3
+Char -- e Line Count -- 3 Char Count -- 3
+Char -- c Line Count -- 3 Char Count -- 3
+Char -- r Line Count -- 3 Char Count -- 3
+Char -- w Line Count -- 3 Char Count -- 3
+Char -- j Line Count -- 3 Char Count -- 3
+Char -- i Line Count -- 3 Char Count -- 3
+Char -- g Line Count -- 3 Char Count -- 3
+Char -- k Line Count -- 3 Char Count -- 3
+Char -- p Line Count -- 3 Char Count -- 3
+Char -- b Line Count -- 3 Char Count -- 3
+Char -- n Line Count -- 3 Char Count -- 3
+Char -- f Line Count -- 3 Char Count -- 3
+Char -- l Line Count -- 3 Char Count -- 3
+Char -- d Line Count -- 3 Char Count -- 3
+Char -- v Line Count -- 3 Char Count -- 3
+Char -- x Line Count -- 3 Char Count -- 3
+Char -- h Line Count -- 3 Char Count -- 3
+Line -- kqynuw-2 
+Line -- caixsqhpgwvmouhxomepiqc-2 
+Char -- c Line Count -- 2 Char Count -- 2
+Char -- i Line Count -- 2 Char Count -- 2
+Char -- x Line Count -- 2 Char Count -- 2
+Char -- q Line Count -- 2 Char Count -- 2
+Char -- h Line Count -- 2 Char Count -- 2
+Char -- p Line Count -- 2 Char Count -- 2
+Char -- m Line Count -- 2 Char Count -- 2
+Char -- o Line Count -- 2 Char Count -- 2
+Line -- naudnumdatvuzaednwnagtdxuguxdna-5 
+Char -- n Line Count -- 5 Char Count -- 5
+Char -- a Line Count -- 5 Char Count -- 5
+Char -- u Line Count -- 5 Char Count -- 5
+Char -- d Line Count -- 5 Char Count -- 5
+Line -- xdmkliqswkwlqxamtivdqpmwlxik-3 
+Char -- x Line Count -- 3 Char Count -- 3
+Char -- m Line Count -- 3 Char Count -- 3
+Char -- k Line Count -- 3 Char Count -- 3
+Char -- l Line Count -- 3 Char Count -- 3
+Char -- i Line Count -- 3 Char Count -- 3
+Char -- q Line Count -- 3 Char Count -- 3
+Char -- w Line Count -- 3 Char Count -- 3
+Line -- mixyslphaayihosplxxytbdakhiplrswzpovsiyhflxa-4 
+Char -- i Line Count -- 4 Char Count -- 4
+Char -- x Line Count -- 4 Char Count -- 4
+Char -- y Line Count -- 4 Char Count -- 4
+Char -- s Line Count -- 4 Char Count -- 4
+Char -- l Line Count -- 4 Char Count -- 4
+Char -- p Line Count -- 4 Char Count -- 4
+Char -- h Line Count -- 4 Char Count -- 4
+Char -- a Line Count -- 4 Char Count -- 4
+Line -- ynliboyinsyininy-4 
+Char -- y Line Count -- 4 Char Count -- 4
+Char -- n Line Count -- 4 Char Count -- 4
+Char -- i Line Count -- 4 Char Count -- 4
+Line -- fgjmlircrjfilcgm-2 
+Char -- f Line Count -- 2 Char Count -- 2
+Char -- g Line Count -- 2 Char Count -- 2
+Char -- j Line Count -- 2 Char Count -- 2
+Char -- m Line Count -- 2 Char Count -- 2
+Char -- l Line Count -- 2 Char Count -- 2
+Char -- i Line Count -- 2 Char Count -- 2
+Char -- r Line Count -- 2 Char Count -- 2
+Char -- c Line Count -- 2 Char Count -- 2
+Line -- mohvfnrgzjkucujroykmzfwa-2 
+Char -- m Line Count -- 2 Char Count -- 2
+Char -- o Line Count -- 2 Char Count -- 2
+Char -- f Line Count -- 2 Char Count -- 2
+Char -- r Line Count -- 2 Char Count -- 2
+Char -- z Line Count -- 2 Char Count -- 2
+Char -- j Line Count -- 2 Char Count -- 2
+Char -- k Line Count -- 2 Char Count -- 2
+Char -- u Line Count -- 2 Char Count -- 2
+Line -- xljiqtkpeglymhtqpaketpsklnqdtpqkl-4 
+Char -- l Line Count -- 4 Char Count -- 4
+Char -- q Line Count -- 4 Char Count -- 4
+Char -- t Line Count -- 4 Char Count -- 4
+Char -- k Line Count -- 4 Char Count -- 4
+Char -- p Line Count -- 4 Char Count -- 4
+Line -- cefwpgnbamdzjzyjeaxwumpdcfnbr-2 
+Char -- c Line Count -- 2 Char Count -- 2
+Char -- e Line Count -- 2 Char Count -- 2
+Char -- f Line Count -- 2 Char Count -- 2
+Char -- w Line Count -- 2 Char Count -- 2
+Char -- p Line Count -- 2 Char Count -- 2
+Char -- n Line Count -- 2 Char Count -- 2
+Char -- b Line Count -- 2 Char Count -- 2
+Char -- a Line Count -- 2 Char Count -- 2
+Char -- m Line Count -- 2 Char Count -- 2
+Char -- d Line Count -- 2 Char Count -- 2
+Char -- z Line Count -- 2 Char Count -- 2
+Char -- j Line Count -- 2 Char Count -- 2
+Line -- vxdhgihgdixvdnxrhqvgimixvdghbpgxihdv-5 
+Char -- v Line Count -- 5 Char Count -- 5
+Char -- x Line Count -- 5 Char Count -- 5
+Char -- d Line Count -- 5 Char Count -- 5
+Char -- h Line Count -- 5 Char Count -- 5
+Char -- g Line Count -- 5 Char Count -- 5
+Char -- i Line Count -- 5 Char Count -- 5
+Line -- ytbgfrmmgotyqjltepmgsytfymg-4 
+Char -- y Line Count -- 4 Char Count -- 4
+Char -- t Line Count -- 4 Char Count -- 4
+Char -- g Line Count -- 4 Char Count -- 4
+Char -- m Line Count -- 4 Char Count -- 4
+Line -- xlgpjbkwqeavsuexjaugptqlsbkwvjegvpwluibkaqysxqwbexsvfprjulz-4 
+Char -- x Line Count -- 4 Char Count -- 4
+Char -- l Line Count -- 4 Char Count -- 4
+Char -- p Line Count -- 4 Char Count -- 4
+Char -- j Line Count -- 4 Char Count -- 4
+Char -- b Line Count -- 4 Char Count -- 4
+Char -- w Line Count -- 4 Char Count -- 4
+Char -- q Line Count -- 4 Char Count -- 4
+Char -- e Line Count -- 4 Char Count -- 4
+Char -- v Line Count -- 4 Char Count -- 4
+Char -- s Line Count -- 4 Char Count -- 4
+Char -- u Line Count -- 4 Char Count -- 4
+Line -- ugnwqbiypgnbqyipubygiqnpugybnpuqi-4 
+Char -- u Line Count -- 4 Char Count -- 4
+Char -- g Line Count -- 4 Char Count -- 4
+Char -- n Line Count -- 4 Char Count -- 4
+Char -- q Line Count -- 4 Char Count -- 4
+Char -- b Line Count -- 4 Char Count -- 4
+Char -- i Line Count -- 4 Char Count -- 4
+Char -- y Line Count -- 4 Char Count -- 4
+Char -- p Line Count -- 4 Char Count -- 4
+Line -- tmldrwhgivbnqwtgdqhvrljb-2 
+Char -- t Line Count -- 2 Char Count -- 2
+Char -- l Line Count -- 2 Char Count -- 2
+Char -- d Line Count -- 2 Char Count -- 2
+Char -- r Line Count -- 2 Char Count -- 2
+Char -- w Line Count -- 2 Char Count -- 2
+Char -- h Line Count -- 2 Char Count -- 2
+Char -- g Line Count -- 2 Char Count -- 2
+Char -- v Line Count -- 2 Char Count -- 2
+Char -- b Line Count -- 2 Char Count -- 2
+Char -- q Line Count -- 2 Char Count -- 2
+Line -- cvltpeoxb-2 
+Line -- rblnmixegdwafuoyqqgoylwxbarumifednarfquebxydimnvclowg-3 
+Char -- r Line Count -- 3 Char Count -- 3
+Char -- b Line Count -- 3 Char Count -- 3
+Char -- l Line Count -- 3 Char Count -- 3
+Char -- n Line Count -- 3 Char Count -- 3
+Char -- m Line Count -- 3 Char Count -- 3
+Char -- i Line Count -- 3 Char Count -- 3
+Char -- x Line Count -- 3 Char Count -- 3
+Char -- e Line Count -- 3 Char Count -- 3
+Char -- g Line Count -- 3 Char Count -- 3
+Char -- d Line Count -- 3 Char Count -- 3
+Char -- w Line Count -- 3 Char Count -- 3
+Char -- a Line Count -- 3 Char Count -- 3
+Char -- f Line Count -- 3 Char Count -- 3
+Char -- u Line Count -- 3 Char Count -- 3
+Char -- o Line Count -- 3 Char Count -- 3
+Char -- y Line Count -- 3 Char Count -- 3
+Char -- q Line Count -- 3 Char Count -- 3
+Line -- fywzsnhitdcaetadizcyfsnewhsawtdziyfngpchx-3 
+Char -- f Line Count -- 3 Char Count -- 3
+Char -- y Line Count -- 3 Char Count -- 3
+Char -- w Line Count -- 3 Char Count -- 3
+Char -- z Line Count -- 3 Char Count -- 3
+Char -- s Line Count -- 3 Char Count -- 3
+Char -- n Line Count -- 3 Char Count -- 3
+Char -- h Line Count -- 3 Char Count -- 3
+Char -- i Line Count -- 3 Char Count -- 3
+Char -- t Line Count -- 3 Char Count -- 3
+Char -- d Line Count -- 3 Char Count -- 3
+Char -- c Line Count -- 3 Char Count -- 3
+Char -- a Line Count -- 3 Char Count -- 3
+Line -- vnuhpkrizlrupivknjhunripvkvdkuqsrifnp-4 
+Char -- v Line Count -- 4 Char Count -- 4
+Char -- n Line Count -- 4 Char Count -- 4
+Char -- u Line Count -- 4 Char Count -- 4
+Char -- p Line Count -- 4 Char Count -- 4
+Char -- k Line Count -- 4 Char Count -- 4
+Char -- r Line Count -- 4 Char Count -- 4
+Char -- i Line Count -- 4 Char Count -- 4
+Line -- axdzckpvimueqjtgyctpymavjkxzreuqlipedavgzqxthkcmjuiwy-3 
+Char -- a Line Count -- 3 Char Count -- 3
+Char -- x Line Count -- 3 Char Count -- 3
+Char -- z Line Count -- 3 Char Count -- 3
+Char -- c Line Count -- 3 Char Count -- 3
+Char -- k Line Count -- 3 Char Count -- 3
+Char -- p Line Count -- 3 Char Count -- 3
+Char -- v Line Count -- 3 Char Count -- 3
+Char -- i Line Count -- 3 Char Count -- 3
+Char -- m Line Count -- 3 Char Count -- 3
+Char -- u Line Count -- 3 Char Count -- 3
+Char -- e Line Count -- 3 Char Count -- 3
+Char -- q Line Count -- 3 Char Count -- 3
+Char -- j Line Count -- 3 Char Count -- 3
+Char -- t Line Count -- 3 Char Count -- 3
+Char -- y Line Count -- 3 Char Count -- 3
+Line -- kxperoiadjgsnfbmjpikdgrexanmbfosjrcedfukonpbgixsma-3 
+Char -- k Line Count -- 3 Char Count -- 3
+Char -- x Line Count -- 3 Char Count -- 3
+Char -- p Line Count -- 3 Char Count -- 3
+Char -- e Line Count -- 3 Char Count -- 3
+Char -- r Line Count -- 3 Char Count -- 3
+Char -- o Line Count -- 3 Char Count -- 3
+Char -- i Line Count -- 3 Char Count -- 3
+Char -- a Line Count -- 3 Char Count -- 3
+Char -- d Line Count -- 3 Char Count -- 3
+Char -- j Line Count -- 3 Char Count -- 3
+Char -- g Line Count -- 3 Char Count -- 3
+Char -- s Line Count -- 3 Char Count -- 3
+Char -- n Line Count -- 3 Char Count -- 3
+Char -- f Line Count -- 3 Char Count -- 3
+Char -- b Line Count -- 3 Char Count -- 3
+Char -- m Line Count -- 3 Char Count -- 3
+Line -- ugoguosguo-3 
+Char -- u Line Count -- 3 Char Count -- 3
+Char -- g Line Count -- 3 Char Count -- 3
+Char -- o Line Count -- 3 Char Count -- 3
+Line -- bmhnfupxotjbjhftongxyupmzuxbnmjocpfht-3 
+Char -- b Line Count -- 3 Char Count -- 3
+Char -- m Line Count -- 3 Char Count -- 3
+Char -- h Line Count -- 3 Char Count -- 3
+Char -- n Line Count -- 3 Char Count -- 3
+Char -- f Line Count -- 3 Char Count -- 3
+Char -- u Line Count -- 3 Char Count -- 3
+Char -- p Line Count -- 3 Char Count -- 3
+Char -- x Line Count -- 3 Char Count -- 3
+Char -- o Line Count -- 3 Char Count -- 3
+Char -- t Line Count -- 3 Char Count -- 3
+Char -- j Line Count -- 3 Char Count -- 3
+Line -- gdxgkgc-3 
+Char -- g Line Count -- 3 Char Count -- 3
+Line -- fvwcwkqzcfvhwcfvvwecfcvywf-5 
+Char -- f Line Count -- 5 Char Count -- 5
+Char -- v Line Count -- 5 Char Count -- 5
+Char -- w Line Count -- 5 Char Count -- 5
+Char -- c Line Count -- 5 Char Count -- 5
+Line -- wwwc-4 
+Line -- eosuimrzpqvykkzmicpqvexoursivrmseztophqkugkipmquyorvezs-4 
+Char -- e Line Count -- 4 Char Count -- 4
+Char -- o Line Count -- 4 Char Count -- 4
+Char -- s Line Count -- 4 Char Count -- 4
+Char -- u Line Count -- 4 Char Count -- 4
+Char -- i Line Count -- 4 Char Count -- 4
+Char -- m Line Count -- 4 Char Count -- 4
+Char -- r Line Count -- 4 Char Count -- 4
+Char -- z Line Count -- 4 Char Count -- 4
+Char -- p Line Count -- 4 Char Count -- 4
+Char -- q Line Count -- 4 Char Count -- 4
+Char -- v Line Count -- 4 Char Count -- 4
+Char -- k Line Count -- 4 Char Count -- 4
+Line -- fpmkrdtzupnklqxfaypfgekjrfcpkbdofkgp-5 
+Char -- f Line Count -- 5 Char Count -- 5
+Char -- p Line Count -- 5 Char Count -- 5
+Char -- k Line Count -- 5 Char Count -- 5
+Line -- qrwoydmbgtlcxpsh-2 
+Line -- gawqbjoyrcvizhpmselaveozrfgjpismdbcyhwlrchmbojzqiweplygvsazbvclsxrmitehywjoapgyjhimlberdvscgzpaowu-5 
+Char -- g Line Count -- 5 Char Count -- 5
+Char -- a Line Count -- 5 Char Count -- 5
+Char -- w Line Count -- 5 Char Count -- 5
+Char -- b Line Count -- 5 Char Count -- 5
+Char -- j Line Count -- 5 Char Count -- 5
+Char -- o Line Count -- 5 Char Count -- 5
+Char -- y Line Count -- 5 Char Count -- 5
+Char -- r Line Count -- 5 Char Count -- 5
+Char -- c Line Count -- 5 Char Count -- 5
+Char -- v Line Count -- 5 Char Count -- 5
+Char -- i Line Count -- 5 Char Count -- 5
+Char -- z Line Count -- 5 Char Count -- 5
+Char -- h Line Count -- 5 Char Count -- 5
+Char -- p Line Count -- 5 Char Count -- 5
+Char -- m Line Count -- 5 Char Count -- 5
+Char -- s Line Count -- 5 Char Count -- 5
+Char -- e Line Count -- 5 Char Count -- 5
+Char -- l Line Count -- 5 Char Count -- 5
+Line -- qawpmhydznrfbywwgokjfy-3 
+Char -- w Line Count -- 3 Char Count -- 3
+Char -- y Line Count -- 3 Char Count -- 3
+Line -- pnhbdqfugfdepimowsvtxlzkryajg-5 
+Line -- nquegztmsrnj-2 
+Char -- n Line Count -- 2 Char Count -- 2
+Line -- wittusivqmcoftrljdykt-4 
+Char -- t Line Count -- 4 Char Count -- 4
+Line -- hxbsozmwegqjkicufllikdywshmvxuzcfqb-2 
+Char -- h Line Count -- 2 Char Count -- 2
+Char -- x Line Count -- 2 Char Count -- 2
+Char -- b Line Count -- 2 Char Count -- 2
+Char -- s Line Count -- 2 Char Count -- 2
+Char -- z Line Count -- 2 Char Count -- 2
+Char -- m Line Count -- 2 Char Count -- 2
+Char -- w Line Count -- 2 Char Count -- 2
+Char -- q Line Count -- 2 Char Count -- 2
+Char -- k Line Count -- 2 Char Count -- 2
+Char -- i Line Count -- 2 Char Count -- 2
+Char -- c Line Count -- 2 Char Count -- 2
+Char -- u Line Count -- 2 Char Count -- 2
+Char -- f Line Count -- 2 Char Count -- 2
+Char -- l Line Count -- 2 Char Count -- 2
+Line -- vtaqrdcfoybzcfozirqfrkqoczqfhrzoc-4 
+Char -- q Line Count -- 4 Char Count -- 4
+Char -- r Line Count -- 4 Char Count -- 4
+Char -- c Line Count -- 4 Char Count -- 4
+Char -- f Line Count -- 4 Char Count -- 4
+Char -- o Line Count -- 4 Char Count -- 4
+Char -- z Line Count -- 4 Char Count -- 4
+Line -- tt-2 
+Char -- t Line Count -- 2 Char Count -- 2
+Line -- xjqbomigwrfckhsynvamqoniwygafbkcrsjvxhaicnmeoqgvwjyfurxhztsbkwfrmbcaivnskyhjxqgo-4 
+Char -- x Line Count -- 4 Char Count -- 4
+Char -- j Line Count -- 4 Char Count -- 4
+Char -- q Line Count -- 4 Char Count -- 4
+Char -- b Line Count -- 4 Char Count -- 4
+Char -- o Line Count -- 4 Char Count -- 4
+Char -- m Line Count -- 4 Char Count -- 4
+Char -- i Line Count -- 4 Char Count -- 4
+Char -- g Line Count -- 4 Char Count -- 4
+Char -- w Line Count -- 4 Char Count -- 4
+Char -- r Line Count -- 4 Char Count -- 4
+Char -- f Line Count -- 4 Char Count -- 4
+Char -- c Line Count -- 4 Char Count -- 4
+Char -- k Line Count -- 4 Char Count -- 4
+Char -- h Line Count -- 4 Char Count -- 4
+Char -- s Line Count -- 4 Char Count -- 4
+Char -- y Line Count -- 4 Char Count -- 4
+Char -- n Line Count -- 4 Char Count -- 4
+Char -- v Line Count -- 4 Char Count -- 4
+Char -- a Line Count -- 4 Char Count -- 4
+Line -- vzaddvaqzudazj-3 
+Char -- z Line Count -- 3 Char Count -- 3
+Char -- a Line Count -- 3 Char Count -- 3
+Char -- d Line Count -- 3 Char Count -- 3
+Line -- dqsvrjjkcqezuqxjmqdtavjjtsq-5 
+Char -- q Line Count -- 5 Char Count -- 5
+Char -- j Line Count -- 5 Char Count -- 5
+Line -- qgawvsxocpmaxziubdewlfntrjsxawhkwxya-4 
+Char -- a Line Count -- 4 Char Count -- 4
+Char -- w Line Count -- 4 Char Count -- 4
+Char -- x Line Count -- 4 Char Count -- 4
+Line -- lmbopvufrxnwmvdnioxjpaqeyfrlsghnzmtklorpxvf-3 
+Char -- l Line Count -- 3 Char Count -- 3
+Char -- m Line Count -- 3 Char Count -- 3
+Char -- o Line Count -- 3 Char Count -- 3
+Char -- p Line Count -- 3 Char Count -- 3
+Char -- v Line Count -- 3 Char Count -- 3
+Char -- f Line Count -- 3 Char Count -- 3
+Char -- r Line Count -- 3 Char Count -- 3
+Char -- x Line Count -- 3 Char Count -- 3
+Char -- n Line Count -- 3 Char Count -- 3
+Line -- eqiwxhrvudoktxumrqhvnswiakyvupkbiqrmwxnhhixwqvzgck-4 
+Char -- q Line Count -- 4 Char Count -- 4
+Char -- i Line Count -- 4 Char Count -- 4
+Char -- w Line Count -- 4 Char Count -- 4
+Char -- x Line Count -- 4 Char Count -- 4
+Char -- h Line Count -- 4 Char Count -- 4
+Char -- v Line Count -- 4 Char Count -- 4
+Char -- k Line Count -- 4 Char Count -- 4
+Line -- ziedvfbfvbezidbidzefvbfezvidedizbfv-5 
+Char -- z Line Count -- 5 Char Count -- 5
+Char -- i Line Count -- 5 Char Count -- 5
+Char -- e Line Count -- 5 Char Count -- 5
+Char -- d Line Count -- 5 Char Count -- 5
+Char -- v Line Count -- 5 Char Count -- 5
+Char -- f Line Count -- 5 Char Count -- 5
+Char -- b Line Count -- 5 Char Count -- 5
+Line -- eglqlgeqqlge-3 
+Char -- e Line Count -- 3 Char Count -- 3
+Char -- g Line Count -- 3 Char Count -- 3
+Char -- l Line Count -- 3 Char Count -- 3
+Char -- q Line Count -- 3 Char Count -- 3
+Line -- pabzfmvsxdqoykhurtjlzyleahvmbocxpkrtfs-2 
+Char -- p Line Count -- 2 Char Count -- 2
+Char -- a Line Count -- 2 Char Count -- 2
+Char -- b Line Count -- 2 Char Count -- 2
+Char -- z Line Count -- 2 Char Count -- 2
+Char -- f Line Count -- 2 Char Count -- 2
+Char -- m Line Count -- 2 Char Count -- 2
+Char -- v Line Count -- 2 Char Count -- 2
+Char -- s Line Count -- 2 Char Count -- 2
+Char -- x Line Count -- 2 Char Count -- 2
+Char -- o Line Count -- 2 Char Count -- 2
+Char -- y Line Count -- 2 Char Count -- 2
+Char -- k Line Count -- 2 Char Count -- 2
+Char -- h Line Count -- 2 Char Count -- 2
+Char -- r Line Count -- 2 Char Count -- 2
+Char -- t Line Count -- 2 Char Count -- 2
+Char -- l Line Count -- 2 Char Count -- 2
+Line -- ggggv-4 
+Char -- g Line Count -- 4 Char Count -- 4
+Line -- mgwxotefbiqjudnuoniqfdtgxwbjeml-2 
+Char -- m Line Count -- 2 Char Count -- 2
+Char -- g Line Count -- 2 Char Count -- 2
+Char -- w Line Count -- 2 Char Count -- 2
+Char -- x Line Count -- 2 Char Count -- 2
+Char -- o Line Count -- 2 Char Count -- 2
+Char -- t Line Count -- 2 Char Count -- 2
+Char -- e Line Count -- 2 Char Count -- 2
+Char -- f Line Count -- 2 Char Count -- 2
+Char -- b Line Count -- 2 Char Count -- 2
+Char -- i Line Count -- 2 Char Count -- 2
+Char -- q Line Count -- 2 Char Count -- 2
+Char -- j Line Count -- 2 Char Count -- 2
+Char -- u Line Count -- 2 Char Count -- 2
+Char -- d Line Count -- 2 Char Count -- 2
+Char -- n Line Count -- 2 Char Count -- 2
+Line -- ryzmxkwosabecqvtjbftceznowiyskpqvjxdmecmxqktvoswbzjyczjhkyvsmwoetbaqxzqrwuyesmvbcoktjx-5 
+Char -- y Line Count -- 5 Char Count -- 5
+Char -- z Line Count -- 5 Char Count -- 5
+Char -- m Line Count -- 5 Char Count -- 5
+Char -- x Line Count -- 5 Char Count -- 5
+Char -- k Line Count -- 5 Char Count -- 5
+Char -- w Line Count -- 5 Char Count -- 5
+Char -- o Line Count -- 5 Char Count -- 5
+Char -- s Line Count -- 5 Char Count -- 5
+Char -- b Line Count -- 5 Char Count -- 5
+Char -- e Line Count -- 5 Char Count -- 5
+Char -- c Line Count -- 5 Char Count -- 5
+Char -- q Line Count -- 5 Char Count -- 5
+Char -- v Line Count -- 5 Char Count -- 5
+Char -- t Line Count -- 5 Char Count -- 5
+Char -- j Line Count -- 5 Char Count -- 5
+Line -- ytanuzbyanfjpoglevikmyhcwsqdyx-4 
+Char -- y Line Count -- 4 Char Count -- 4
+Line -- uzwbmdsgafvyknoqlhcjwxqxrtpowh-3 
+Char -- w Line Count -- 3 Char Count -- 3
+Line -- vlsgakpqfjemzkgvqauiesdjlfnzfcegqzsjkvlakglzqajpseyvf-4 
+Char -- v Line Count -- 4 Char Count -- 4
+Char -- l Line Count -- 4 Char Count -- 4
+Char -- s Line Count -- 4 Char Count -- 4
+Char -- g Line Count -- 4 Char Count -- 4
+Char -- a Line Count -- 4 Char Count -- 4
+Char -- k Line Count -- 4 Char Count -- 4
+Char -- q Line Count -- 4 Char Count -- 4
+Char -- f Line Count -- 4 Char Count -- 4
+Char -- j Line Count -- 4 Char Count -- 4
+Char -- e Line Count -- 4 Char Count -- 4
+Char -- z Line Count -- 4 Char Count -- 4
+Line -- hztmnjipcfptrw-2 
+Char -- t Line Count -- 2 Char Count -- 2
+Char -- p Line Count -- 2 Char Count -- 2
+Line -- kaeubgqoxsfiyjtwmhcvzrnlikmhteubjczxyvoqsflnvnxsukmbecqljfidozythushnpjevlkbocxfmiqtyz-4 
+Char -- k Line Count -- 4 Char Count -- 4
+Char -- e Line Count -- 4 Char Count -- 4
+Char -- u Line Count -- 4 Char Count -- 4
+Char -- b Line Count -- 4 Char Count -- 4
+Char -- q Line Count -- 4 Char Count -- 4
+Char -- o Line Count -- 4 Char Count -- 4
+Char -- x Line Count -- 4 Char Count -- 4
+Char -- s Line Count -- 4 Char Count -- 4
+Char -- f Line Count -- 4 Char Count -- 4
+Char -- i Line Count -- 4 Char Count -- 4
+Char -- y Line Count -- 4 Char Count -- 4
+Char -- j Line Count -- 4 Char Count -- 4
+Char -- t Line Count -- 4 Char Count -- 4
+Char -- m Line Count -- 4 Char Count -- 4
+Char -- h Line Count -- 4 Char Count -- 4
+Char -- c Line Count -- 4 Char Count -- 4
+Char -- v Line Count -- 4 Char Count -- 4
+Char -- z Line Count -- 4 Char Count -- 4
+Char -- n Line Count -- 4 Char Count -- 4
+Char -- l Line Count -- 4 Char Count -- 4
+Line -- myeezmymyemeysntyme-5 
+Char -- m Line Count -- 5 Char Count -- 5
+Char -- y Line Count -- 5 Char Count -- 5
+Char -- e Line Count -- 5 Char Count -- 5
+Line -- xtvlmhrbdypeafbvxftlaephdmyrdhuxmtryeplfvabvxrmaybhplfdetvxrfeyhplbdmta-5 
+Char -- x Line Count -- 5 Char Count -- 5
+Char -- t Line Count -- 5 Char Count -- 5
+Char -- v Line Count -- 5 Char Count -- 5
+Char -- l Line Count -- 5 Char Count -- 5
+Char -- m Line Count -- 5 Char Count -- 5
+Char -- h Line Count -- 5 Char Count -- 5
+Char -- r Line Count -- 5 Char Count -- 5
+Char -- b Line Count -- 5 Char Count -- 5
+Char -- d Line Count -- 5 Char Count -- 5
+Char -- y Line Count -- 5 Char Count -- 5
+Char -- p Line Count -- 5 Char Count -- 5
+Char -- e Line Count -- 5 Char Count -- 5
+Char -- a Line Count -- 5 Char Count -- 5
+Char -- f Line Count -- 5 Char Count -- 5
+Line -- pekpe-2 
+Char -- p Line Count -- 2 Char Count -- 2
+Char -- e Line Count -- 2 Char Count -- 2
+Line -- dpogpdfjsahohnpodpamoywvueozqxp-5 
+Char -- p Line Count -- 5 Char Count -- 5
+Char -- o Line Count -- 5 Char Count -- 5
+Line -- wjdqzpftmhkvmtodtbdmgrytuvcdbmrtboyemdca-5 
+Char -- d Line Count -- 5 Char Count -- 5
+Char -- t Line Count -- 5 Char Count -- 5
+Char -- m Line Count -- 5 Char Count -- 5
+Line -- dxmsyfacqoigtuvjnwphupojvbynselfdzhkwqrt-2 
+Char -- d Line Count -- 2 Char Count -- 2
+Char -- s Line Count -- 2 Char Count -- 2
+Char -- y Line Count -- 2 Char Count -- 2
+Char -- f Line Count -- 2 Char Count -- 2
+Char -- q Line Count -- 2 Char Count -- 2
+Char -- o Line Count -- 2 Char Count -- 2
+Char -- t Line Count -- 2 Char Count -- 2
+Char -- u Line Count -- 2 Char Count -- 2
+Char -- v Line Count -- 2 Char Count -- 2
+Char -- j Line Count -- 2 Char Count -- 2
+Char -- n Line Count -- 2 Char Count -- 2
+Char -- w Line Count -- 2 Char Count -- 2
+Char -- p Line Count -- 2 Char Count -- 2
+Char -- h Line Count -- 2 Char Count -- 2
+Line -- ddmo-2 
+Char -- d Line Count -- 2 Char Count -- 2
+Line -- cymqgxwurzhdbteokacydrugmobzlxekxmugryzcobkedcmbyokexuldgzr-4 
+Char -- c Line Count -- 4 Char Count -- 4
+Char -- y Line Count -- 4 Char Count -- 4
+Char -- m Line Count -- 4 Char Count -- 4
+Char -- g Line Count -- 4 Char Count -- 4
+Char -- x Line Count -- 4 Char Count -- 4
+Char -- u Line Count -- 4 Char Count -- 4
+Char -- r Line Count -- 4 Char Count -- 4
+Char -- z Line Count -- 4 Char Count -- 4
+Char -- d Line Count -- 4 Char Count -- 4
+Char -- b Line Count -- 4 Char Count -- 4
+Char -- e Line Count -- 4 Char Count -- 4
+Char -- o Line Count -- 4 Char Count -- 4
+Char -- k Line Count -- 4 Char Count -- 4
+Line -- uebznqubqzenqunbezzuqebnbuzeqn-5 
+Char -- u Line Count -- 5 Char Count -- 5
+Char -- e Line Count -- 5 Char Count -- 5
+Char -- b Line Count -- 5 Char Count -- 5
+Char -- z Line Count -- 5 Char Count -- 5
+Char -- n Line Count -- 5 Char Count -- 5
+Char -- q Line Count -- 5 Char Count -- 5
+Line -- uewpvklzhoqifcsbrlvdyhnkjptiwxgab-2 
+Char -- w Line Count -- 2 Char Count -- 2
+Char -- p Line Count -- 2 Char Count -- 2
+Char -- v Line Count -- 2 Char Count -- 2
+Char -- k Line Count -- 2 Char Count -- 2
+Char -- l Line Count -- 2 Char Count -- 2
+Char -- h Line Count -- 2 Char Count -- 2
+Char -- i Line Count -- 2 Char Count -- 2
+Char -- b Line Count -- 2 Char Count -- 2
+Line -- xgdazmoqwislvbqxodszwlvbgaiazsdiwlgqoxvbldzvgwoqsxiba-4 
+Char -- x Line Count -- 4 Char Count -- 4
+Char -- g Line Count -- 4 Char Count -- 4
+Char -- d Line Count -- 4 Char Count -- 4
+Char -- a Line Count -- 4 Char Count -- 4
+Char -- z Line Count -- 4 Char Count -- 4
+Char -- o Line Count -- 4 Char Count -- 4
+Char -- q Line Count -- 4 Char Count -- 4
+Char -- w Line Count -- 4 Char Count -- 4
+Char -- i Line Count -- 4 Char Count -- 4
+Char -- s Line Count -- 4 Char Count -- 4
+Char -- l Line Count -- 4 Char Count -- 4
+Char -- v Line Count -- 4 Char Count -- 4
+Char -- b Line Count -- 4 Char Count -- 4
+Line -- ozbnvjquacpgntbvw-2 
+Char -- b Line Count -- 2 Char Count -- 2
+Char -- n Line Count -- 2 Char Count -- 2
+Char -- v Line Count -- 2 Char Count -- 2
+Line -- aexsklbwjydtakjbwedsxyltkeaxswdbtjylleykdbstjwxqamxewlkdytasbj-5 
+Char -- a Line Count -- 5 Char Count -- 5
+Char -- e Line Count -- 5 Char Count -- 5
+Char -- x Line Count -- 5 Char Count -- 5
+Char -- s Line Count -- 5 Char Count -- 5
+Char -- k Line Count -- 5 Char Count -- 5
+Char -- l Line Count -- 5 Char Count -- 5
+Char -- b Line Count -- 5 Char Count -- 5
+Char -- w Line Count -- 5 Char Count -- 5
+Char -- j Line Count -- 5 Char Count -- 5
+Char -- y Line Count -- 5 Char Count -- 5
+Char -- d Line Count -- 5 Char Count -- 5
+Char -- t Line Count -- 5 Char Count -- 5
+Line -- ahzvbeqsctofuiueabotfhvdzcsrqiobzhuvteqapscfiovhbpuqcslzfietavbfhtqszaociue-5 
+Char -- a Line Count -- 5 Char Count -- 5
+Char -- h Line Count -- 5 Char Count -- 5
+Char -- z Line Count -- 5 Char Count -- 5
+Char -- v Line Count -- 5 Char Count -- 5
+Char -- b Line Count -- 5 Char Count -- 5
+Char -- e Line Count -- 5 Char Count -- 5
+Char -- q Line Count -- 5 Char Count -- 5
+Char -- s Line Count -- 5 Char Count -- 5
+Char -- c Line Count -- 5 Char Count -- 5
+Char -- t Line Count -- 5 Char Count -- 5
+Char -- o Line Count -- 5 Char Count -- 5
+Char -- f Line Count -- 5 Char Count -- 5
+Char -- u Line Count -- 5 Char Count -- 5
+Char -- i Line Count -- 5 Char Count -- 5
+Line -- ugilvivlgmvxigrlgvli-4 
+Char -- g Line Count -- 4 Char Count -- 4
+Char -- i Line Count -- 4 Char Count -- 4
+Char -- l Line Count -- 4 Char Count -- 4
+Char -- v Line Count -- 4 Char Count -- 4
+Line -- qjniqongznyqjsfdqwlvcxn-4 
+Char -- q Line Count -- 4 Char Count -- 4
+Char -- n Line Count -- 4 Char Count -- 4
+Line -- bcgdtuaxmlkrevofftorcabmwueykglxdtahfxumdobrclziknegxakfmdtgocruleb-4 
+Char -- b Line Count -- 4 Char Count -- 4
+Char -- c Line Count -- 4 Char Count -- 4
+Char -- g Line Count -- 4 Char Count -- 4
+Char -- d Line Count -- 4 Char Count -- 4
+Char -- t Line Count -- 4 Char Count -- 4
+Char -- u Line Count -- 4 Char Count -- 4
+Char -- a Line Count -- 4 Char Count -- 4
+Char -- x Line Count -- 4 Char Count -- 4
+Char -- m Line Count -- 4 Char Count -- 4
+Char -- l Line Count -- 4 Char Count -- 4
+Char -- k Line Count -- 4 Char Count -- 4
+Char -- r Line Count -- 4 Char Count -- 4
+Char -- e Line Count -- 4 Char Count -- 4
+Char -- o Line Count -- 4 Char Count -- 4
+Char -- f Line Count -- 4 Char Count -- 4
+Line -- ihrobnmcpqtgwkhwkrgmpoctuqninwiphcogrkqtmwhrqpktngmycboivjiwsothqgnkdrzecmp-5 
+Char -- i Line Count -- 5 Char Count -- 5
+Char -- h Line Count -- 5 Char Count -- 5
+Char -- r Line Count -- 5 Char Count -- 5
+Char -- o Line Count -- 5 Char Count -- 5
+Char -- n Line Count -- 5 Char Count -- 5
+Char -- m Line Count -- 5 Char Count -- 5
+Char -- c Line Count -- 5 Char Count -- 5
+Char -- p Line Count -- 5 Char Count -- 5
+Char -- q Line Count -- 5 Char Count -- 5
+Char -- t Line Count -- 5 Char Count -- 5
+Char -- g Line Count -- 5 Char Count -- 5
+Char -- w Line Count -- 5 Char Count -- 5
+Char -- k Line Count -- 5 Char Count -- 5
+Line -- fmvhjofomhvjq-2 
+Char -- f Line Count -- 2 Char Count -- 2
+Char -- m Line Count -- 2 Char Count -- 2
+Char -- v Line Count -- 2 Char Count -- 2
+Char -- h Line Count -- 2 Char Count -- 2
+Char -- j Line Count -- 2 Char Count -- 2
+Char -- o Line Count -- 2 Char Count -- 2
+Line -- pkvcijtamuxijwkrbmluneta-2 
+Char -- k Line Count -- 2 Char Count -- 2
+Char -- i Line Count -- 2 Char Count -- 2
+Char -- j Line Count -- 2 Char Count -- 2
+Char -- t Line Count -- 2 Char Count -- 2
+Char -- a Line Count -- 2 Char Count -- 2
+Char -- m Line Count -- 2 Char Count -- 2
+Char -- u Line Count -- 2 Char Count -- 2
+Line -- evjomncktgpugumxnmnuyqgfailuqxgmwn-4 
+Char -- m Line Count -- 4 Char Count -- 4
+Char -- n Line Count -- 4 Char Count -- 4
+Char -- g Line Count -- 4 Char Count -- 4
+Char -- u Line Count -- 4 Char Count -- 4
+Line -- vgxsetchwpajodzmutubxpkqheniygjodwm-2 
+Char -- g Line Count -- 2 Char Count -- 2
+Char -- x Line Count -- 2 Char Count -- 2
+Char -- e Line Count -- 2 Char Count -- 2
+Char -- t Line Count -- 2 Char Count -- 2
+Char -- h Line Count -- 2 Char Count -- 2
+Char -- w Line Count -- 2 Char Count -- 2
+Char -- p Line Count -- 2 Char Count -- 2
+Char -- j Line Count -- 2 Char Count -- 2
+Char -- o Line Count -- 2 Char Count -- 2
+Char -- d Line Count -- 2 Char Count -- 2
+Char -- m Line Count -- 2 Char Count -- 2
+Char -- u Line Count -- 2 Char Count -- 2
+Line -- zugtaqdsofhpetuqpdhgarugnoadthqyvkugjhdaxbcmqtgthudaq-5 
+Char -- u Line Count -- 5 Char Count -- 5
+Char -- g Line Count -- 5 Char Count -- 5
+Char -- t Line Count -- 5 Char Count -- 5
+Char -- a Line Count -- 5 Char Count -- 5
+Char -- q Line Count -- 5 Char Count -- 5
+Char -- d Line Count -- 5 Char Count -- 5
+Char -- h Line Count -- 5 Char Count -- 5
+Line -- dzfmjsgaqubntpkvleozuwgvfbkarlyxpdihnme-2 
+Char -- d Line Count -- 2 Char Count -- 2
+Char -- z Line Count -- 2 Char Count -- 2
+Char -- f Line Count -- 2 Char Count -- 2
+Char -- m Line Count -- 2 Char Count -- 2
+Char -- g Line Count -- 2 Char Count -- 2
+Char -- a Line Count -- 2 Char Count -- 2
+Char -- u Line Count -- 2 Char Count -- 2
+Char -- b Line Count -- 2 Char Count -- 2
+Char -- n Line Count -- 2 Char Count -- 2
+Char -- p Line Count -- 2 Char Count -- 2
+Char -- k Line Count -- 2 Char Count -- 2
+Char -- v Line Count -- 2 Char Count -- 2
+Char -- l Line Count -- 2 Char Count -- 2
+Char -- e Line Count -- 2 Char Count -- 2
+Line -- zzzpzbz-5 
+Char -- z Line Count -- 5 Char Count -- 5
+Line -- khdjdhjhdkjrgzeofuhjdta-4 
+Char -- h Line Count -- 4 Char Count -- 4
+Char -- d Line Count -- 4 Char Count -- 4
+Char -- j Line Count -- 4 Char Count -- 4
+Line -- gauozreitvyoeidrzyv-2 
+Char -- o Line Count -- 2 Char Count -- 2
+Char -- z Line Count -- 2 Char Count -- 2
+Char -- r Line Count -- 2 Char Count -- 2
+Char -- e Line Count -- 2 Char Count -- 2
+Char -- i Line Count -- 2 Char Count -- 2
+Char -- v Line Count -- 2 Char Count -- 2
+Char -- y Line Count -- 2 Char Count -- 2
+Line -- zlvxcidkobobdckzlvixolckbzdxivlkxcboidvz-4 
+Char -- z Line Count -- 4 Char Count -- 4
+Char -- l Line Count -- 4 Char Count -- 4
+Char -- v Line Count -- 4 Char Count -- 4
+Char -- x Line Count -- 4 Char Count -- 4
+Char -- c Line Count -- 4 Char Count -- 4
+Char -- i Line Count -- 4 Char Count -- 4
+Char -- d Line Count -- 4 Char Count -- 4
+Char -- k Line Count -- 4 Char Count -- 4
+Char -- o Line Count -- 4 Char Count -- 4
+Char -- b Line Count -- 4 Char Count -- 4
+Line -- rpslxjnfhbhvuytmosdzaqwgk-2 
+Char -- s Line Count -- 2 Char Count -- 2
+Char -- h Line Count -- 2 Char Count -- 2
+Line -- rbjloemzvzlbeormjrlmbjezo-3 
+Char -- r Line Count -- 3 Char Count -- 3
+Char -- b Line Count -- 3 Char Count -- 3
+Char -- j Line Count -- 3 Char Count -- 3
+Char -- l Line Count -- 3 Char Count -- 3
+Char -- o Line Count -- 3 Char Count -- 3
+Char -- e Line Count -- 3 Char Count -- 3
+Char -- m Line Count -- 3 Char Count -- 3
+Char -- z Line Count -- 3 Char Count -- 3
+Line -- djbyqfcoknxsmtzghrphksxmbyzgfnpdjqocrcjodkxfrpgnmbqhyzs-3 
+Char -- d Line Count -- 3 Char Count -- 3
+Char -- j Line Count -- 3 Char Count -- 3
+Char -- b Line Count -- 3 Char Count -- 3
+Char -- y Line Count -- 3 Char Count -- 3
+Char -- q Line Count -- 3 Char Count -- 3
+Char -- f Line Count -- 3 Char Count -- 3
+Char -- c Line Count -- 3 Char Count -- 3
+Char -- o Line Count -- 3 Char Count -- 3
+Char -- k Line Count -- 3 Char Count -- 3
+Char -- n Line Count -- 3 Char Count -- 3
+Char -- x Line Count -- 3 Char Count -- 3
+Char -- s Line Count -- 3 Char Count -- 3
+Char -- m Line Count -- 3 Char Count -- 3
+Char -- z Line Count -- 3 Char Count -- 3
+Char -- g Line Count -- 3 Char Count -- 3
+Char -- h Line Count -- 3 Char Count -- 3
+Char -- r Line Count -- 3 Char Count -- 3
+Char -- p Line Count -- 3 Char Count -- 3
+Line -- korokkwokgio-4 
+Char -- k Line Count -- 4 Char Count -- 4
+Char -- o Line Count -- 4 Char Count -- 4
+Line -- ypocjwhywpwyiyfwyqwgjv-5 
+Char -- y Line Count -- 5 Char Count -- 5
+Char -- w Line Count -- 5 Char Count -- 5
+Line -- hytohqtko-2 
+Char -- h Line Count -- 2 Char Count -- 2
+Char -- t Line Count -- 2 Char Count -- 2
+Char -- o Line Count -- 2 Char Count -- 2
+Line -- gwgaggj-4 
+Char -- g Line Count -- 4 Char Count -- 4
+Line -- sckdazwfazodyc-2 
+Char -- c Line Count -- 2 Char Count -- 2
+Char -- d Line Count -- 2 Char Count -- 2
+Char -- a Line Count -- 2 Char Count -- 2
+Char -- z Line Count -- 2 Char Count -- 2
+Line -- wofxjgyqurhafhxjboaergztsgrohfjcalhjgxarfourvqyegxakhbfoj-5 
+Char -- o Line Count -- 5 Char Count -- 5
+Char -- f Line Count -- 5 Char Count -- 5
+Char -- j Line Count -- 5 Char Count -- 5
+Char -- g Line Count -- 5 Char Count -- 5
+Char -- r Line Count -- 5 Char Count -- 5
+Char -- h Line Count -- 5 Char Count -- 5
+Char -- a Line Count -- 5 Char Count -- 5
+Line -- coatcoaocacoatoack-5 
+Char -- c Line Count -- 5 Char Count -- 5
+Char -- o Line Count -- 5 Char Count -- 5
+Char -- a Line Count -- 5 Char Count -- 5
+Line -- tzcdyrhfuxisvlgmtxuplzrcsjhmyavi-2 
+Char -- t Line Count -- 2 Char Count -- 2
+Char -- z Line Count -- 2 Char Count -- 2
+Char -- c Line Count -- 2 Char Count -- 2
+Char -- y Line Count -- 2 Char Count -- 2
+Char -- r Line Count -- 2 Char Count -- 2
+Char -- h Line Count -- 2 Char Count -- 2
+Char -- u Line Count -- 2 Char Count -- 2
+Char -- x Line Count -- 2 Char Count -- 2
+Char -- i Line Count -- 2 Char Count -- 2
+Char -- s Line Count -- 2 Char Count -- 2
+Char -- v Line Count -- 2 Char Count -- 2
+Char -- l Line Count -- 2 Char Count -- 2
+Char -- m Line Count -- 2 Char Count -- 2
+Line -- ahcxfelbvhaxlbfevc-2 
+Char -- a Line Count -- 2 Char Count -- 2
+Char -- h Line Count -- 2 Char Count -- 2
+Char -- c Line Count -- 2 Char Count -- 2
+Char -- x Line Count -- 2 Char Count -- 2
+Char -- f Line Count -- 2 Char Count -- 2
+Char -- e Line Count -- 2 Char Count -- 2
+Char -- l Line Count -- 2 Char Count -- 2
+Char -- b Line Count -- 2 Char Count -- 2
+Char -- v Line Count -- 2 Char Count -- 2
+Line -- owfizxugtsemclrypjvahqdnbugncvldopbwqjzmxhirfaetoupwmqnzilhdtcbavrkxejfg-3 
+Char -- o Line Count -- 3 Char Count -- 3
+Char -- w Line Count -- 3 Char Count -- 3
+Char -- f Line Count -- 3 Char Count -- 3
+Char -- i Line Count -- 3 Char Count -- 3
+Char -- z Line Count -- 3 Char Count -- 3
+Char -- x Line Count -- 3 Char Count -- 3
+Char -- u Line Count -- 3 Char Count -- 3
+Char -- g Line Count -- 3 Char Count -- 3
+Char -- t Line Count -- 3 Char Count -- 3
+Char -- e Line Count -- 3 Char Count -- 3
+Char -- m Line Count -- 3 Char Count -- 3
+Char -- c Line Count -- 3 Char Count -- 3
+Char -- l Line Count -- 3 Char Count -- 3
+Char -- r Line Count -- 3 Char Count -- 3
+Char -- p Line Count -- 3 Char Count -- 3
+Char -- j Line Count -- 3 Char Count -- 3
+Char -- v Line Count -- 3 Char Count -- 3
+Char -- a Line Count -- 3 Char Count -- 3
+Char -- h Line Count -- 3 Char Count -- 3
+Char -- q Line Count -- 3 Char Count -- 3
+Char -- d Line Count -- 3 Char Count -- 3
+Char -- n Line Count -- 3 Char Count -- 3
+Char -- b Line Count -- 3 Char Count -- 3
+Line -- fjyagkztgfyktjzakayfgzqtj-3 
+Char -- f Line Count -- 3 Char Count -- 3
+Char -- j Line Count -- 3 Char Count -- 3
+Char -- y Line Count -- 3 Char Count -- 3
+Char -- a Line Count -- 3 Char Count -- 3
+Char -- g Line Count -- 3 Char Count -- 3
+Char -- k Line Count -- 3 Char Count -- 3
+Char -- z Line Count -- 3 Char Count -- 3
+Char -- t Line Count -- 3 Char Count -- 3
+Line -- iutxmzddmtuzixtzmxidu-3 
+Char -- i Line Count -- 3 Char Count -- 3
+Char -- u Line Count -- 3 Char Count -- 3
+Char -- t Line Count -- 3 Char Count -- 3
+Char -- x Line Count -- 3 Char Count -- 3
+Char -- m Line Count -- 3 Char Count -- 3
+Char -- z Line Count -- 3 Char Count -- 3
+Char -- d Line Count -- 3 Char Count -- 3
+Line -- cndejklaphsquowipjocdlehukqaihixujeqlrktapdco-3 
+Char -- c Line Count -- 3 Char Count -- 3
+Char -- d Line Count -- 3 Char Count -- 3
+Char -- e Line Count -- 3 Char Count -- 3
+Char -- j Line Count -- 3 Char Count -- 3
+Char -- k Line Count -- 3 Char Count -- 3
+Char -- l Line Count -- 3 Char Count -- 3
+Char -- a Line Count -- 3 Char Count -- 3
+Char -- p Line Count -- 3 Char Count -- 3
+Char -- h Line Count -- 3 Char Count -- 3
+Char -- q Line Count -- 3 Char Count -- 3
+Char -- u Line Count -- 3 Char Count -- 3
+Char -- o Line Count -- 3 Char Count -- 3
+Char -- i Line Count -- 3 Char Count -- 3
+Line -- xcapfuiljwgqsevottlfdxuwkjpnqvsmoeg-2 
+Char -- x Line Count -- 2 Char Count -- 2
+Char -- p Line Count -- 2 Char Count -- 2
+Char -- f Line Count -- 2 Char Count -- 2
+Char -- u Line Count -- 2 Char Count -- 2
+Char -- l Line Count -- 2 Char Count -- 2
+Char -- j Line Count -- 2 Char Count -- 2
+Char -- w Line Count -- 2 Char Count -- 2
+Char -- g Line Count -- 2 Char Count -- 2
+Char -- q Line Count -- 2 Char Count -- 2
+Char -- s Line Count -- 2 Char Count -- 2
+Char -- e Line Count -- 2 Char Count -- 2
+Char -- v Line Count -- 2 Char Count -- 2
+Char -- o Line Count -- 2 Char Count -- 2
+Char -- t Line Count -- 2 Char Count -- 2
+Line -- madurwbnanwdbqmrurdwubanm-3 
+Char -- m Line Count -- 3 Char Count -- 3
+Char -- a Line Count -- 3 Char Count -- 3
+Char -- d Line Count -- 3 Char Count -- 3
+Char -- u Line Count -- 3 Char Count -- 3
+Char -- r Line Count -- 3 Char Count -- 3
+Char -- w Line Count -- 3 Char Count -- 3
+Char -- b Line Count -- 3 Char Count -- 3
+Char -- n Line Count -- 3 Char Count -- 3
+Line -- gllanpwlkijdruyzlghlx-5 
+Char -- l Line Count -- 5 Char Count -- 5
+Line -- ddadadmwp-4 
+Char -- d Line Count -- 4 Char Count -- 4
+Line -- eeye-3 
+Char -- e Line Count -- 3 Char Count -- 3
+Line -- mcxndruabhvppnqudhcymb-2 
+Char -- m Line Count -- 2 Char Count -- 2
+Char -- c Line Count -- 2 Char Count -- 2
+Char -- n Line Count -- 2 Char Count -- 2
+Char -- d Line Count -- 2 Char Count -- 2
+Char -- u Line Count -- 2 Char Count -- 2
+Char -- b Line Count -- 2 Char Count -- 2
+Char -- h Line Count -- 2 Char Count -- 2
+Char -- p Line Count -- 2 Char Count -- 2
+Line -- qxldtifpvshowjbkemzahvziwsglkjepobfmqaxdhzxeslvdomagbrwkjifpqhbxdsfkizqvljwopaezucafhbkvelxoqipdsnjyw-5 
+Char -- q Line Count -- 5 Char Count -- 5
+Char -- x Line Count -- 5 Char Count -- 5
+Char -- l Line Count -- 5 Char Count -- 5
+Char -- d Line Count -- 5 Char Count -- 5
+Char -- i Line Count -- 5 Char Count -- 5
+Char -- f Line Count -- 5 Char Count -- 5
+Char -- p Line Count -- 5 Char Count -- 5
+Char -- v Line Count -- 5 Char Count -- 5
+Char -- s Line Count -- 5 Char Count -- 5
+Char -- h Line Count -- 5 Char Count -- 5
+Char -- o Line Count -- 5 Char Count -- 5
+Char -- w Line Count -- 5 Char Count -- 5
+Char -- j Line Count -- 5 Char Count -- 5
+Char -- b Line Count -- 5 Char Count -- 5
+Char -- k Line Count -- 5 Char Count -- 5
+Char -- e Line Count -- 5 Char Count -- 5
+Char -- z Line Count -- 5 Char Count -- 5
+Char -- a Line Count -- 5 Char Count -- 5
+Line -- hoeqgfqghrtgqh-3 
+Char -- h Line Count -- 3 Char Count -- 3
+Char -- q Line Count -- 3 Char Count -- 3
+Char -- g Line Count -- 3 Char Count -- 3
+Line -- vrr-3 
+Line -- iovxlnqsziosnqfxzlozxinsql-3 
+Char -- i Line Count -- 3 Char Count -- 3
+Char -- o Line Count -- 3 Char Count -- 3
+Char -- x Line Count -- 3 Char Count -- 3
+Char -- l Line Count -- 3 Char Count -- 3
+Char -- n Line Count -- 3 Char Count -- 3
+Char -- q Line Count -- 3 Char Count -- 3
+Char -- s Line Count -- 3 Char Count -- 3
+Char -- z Line Count -- 3 Char Count -- 3
+Line -- pqsvfxihdmzkrnacobetjluwywytcbhvxsrndpafleuiqozjkm-2 
+Char -- p Line Count -- 2 Char Count -- 2
+Char -- q Line Count -- 2 Char Count -- 2
+Char -- s Line Count -- 2 Char Count -- 2
+Char -- v Line Count -- 2 Char Count -- 2
+Char -- f Line Count -- 2 Char Count -- 2
+Char -- x Line Count -- 2 Char Count -- 2
+Char -- i Line Count -- 2 Char Count -- 2
+Char -- h Line Count -- 2 Char Count -- 2
+Char -- d Line Count -- 2 Char Count -- 2
+Char -- m Line Count -- 2 Char Count -- 2
+Char -- z Line Count -- 2 Char Count -- 2
+Char -- k Line Count -- 2 Char Count -- 2
+Char -- r Line Count -- 2 Char Count -- 2
+Char -- n Line Count -- 2 Char Count -- 2
+Char -- a Line Count -- 2 Char Count -- 2
+Char -- c Line Count -- 2 Char Count -- 2
+Char -- o Line Count -- 2 Char Count -- 2
+Char -- b Line Count -- 2 Char Count -- 2
+Char -- e Line Count -- 2 Char Count -- 2
+Char -- t Line Count -- 2 Char Count -- 2
+Char -- j Line Count -- 2 Char Count -- 2
+Char -- l Line Count -- 2 Char Count -- 2
+Char -- u Line Count -- 2 Char Count -- 2
+Char -- w Line Count -- 2 Char Count -- 2
+Char -- y Line Count -- 2 Char Count -- 2
+Line -- ngiogiticfga-3 
+Char -- g Line Count -- 3 Char Count -- 3
+Char -- i Line Count -- 3 Char Count -- 3
+Line -- qgdrl-2 
+Line -- mzbfwevsodakxgdwvskinvdskwli-3 
+Char -- w Line Count -- 3 Char Count -- 3
+Char -- v Line Count -- 3 Char Count -- 3
+Char -- s Line Count -- 3 Char Count -- 3
+Char -- d Line Count -- 3 Char Count -- 3
+Char -- k Line Count -- 3 Char Count -- 3
+Line -- jienvauxkgfdqhqdhxjktavizcpnueffkbqueiladvjnxhukfwjndxhaieqv-4 
+Char -- j Line Count -- 4 Char Count -- 4
+Char -- i Line Count -- 4 Char Count -- 4
+Char -- e Line Count -- 4 Char Count -- 4
+Char -- n Line Count -- 4 Char Count -- 4
+Char -- v Line Count -- 4 Char Count -- 4
+Char -- a Line Count -- 4 Char Count -- 4
+Char -- u Line Count -- 4 Char Count -- 4
+Char -- x Line Count -- 4 Char Count -- 4
+Char -- k Line Count -- 4 Char Count -- 4
+Char -- f Line Count -- 4 Char Count -- 4
+Char -- d Line Count -- 4 Char Count -- 4
+Char -- q Line Count -- 4 Char Count -- 4
+Char -- h Line Count -- 4 Char Count -- 4
+Line -- gdlrowxahslusdcwhygdwalghshzdgitqeflwsdgkhlws-5 
+Char -- g Line Count -- 5 Char Count -- 5
+Char -- d Line Count -- 5 Char Count -- 5
+Char -- l Line Count -- 5 Char Count -- 5
+Char -- w Line Count -- 5 Char Count -- 5
+Char -- h Line Count -- 5 Char Count -- 5
+Char -- s Line Count -- 5 Char Count -- 5
+Line -- pmjkzkzpmvjpzkjmh-3 
+Char -- p Line Count -- 3 Char Count -- 3
+Char -- m Line Count -- 3 Char Count -- 3
+Char -- j Line Count -- 3 Char Count -- 3
+Char -- k Line Count -- 3 Char Count -- 3
+Char -- z Line Count -- 3 Char Count -- 3
+Line -- dshpxlvbtmniafszewdkxupopsqdxyj-3 
+Char -- d Line Count -- 3 Char Count -- 3
+Char -- s Line Count -- 3 Char Count -- 3
+Char -- p Line Count -- 3 Char Count -- 3
+Char -- x Line Count -- 3 Char Count -- 3
+Line -- etkieikttiekiketktei-5 
+Char -- e Line Count -- 5 Char Count -- 5
+Char -- t Line Count -- 5 Char Count -- 5
+Char -- k Line Count -- 5 Char Count -- 5
+Char -- i Line Count -- 5 Char Count -- 5
+Line -- yvftaatypkqfv-2 
+Char -- y Line Count -- 2 Char Count -- 2
+Char -- v Line Count -- 2 Char Count -- 2
+Char -- f Line Count -- 2 Char Count -- 2
+Char -- t Line Count -- 2 Char Count -- 2
+Char -- a Line Count -- 2 Char Count -- 2
+Sum of Any Count -- 6612
+Sum of All Count -- 3268
