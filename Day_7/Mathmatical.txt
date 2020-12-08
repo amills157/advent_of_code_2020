@@ -1,0 +1,106 @@
+SG = 6260
+4 bright lavender(+*1563) =6256   1 striped maroon(+*1)   2 plaid silver(+*0) 
+
+bright lavender :  contain 3 wavy plum bags(+*12), 3 pale maroon bags(+*507).
+
+	wavy plum:  contain 4 shiny plum bags (+*0), 1 striped tomato bag (+*0), 1 striped bronze bag (+*6).
+		shiny plum:  contain no other bags.
+		striped tomato:  contain no other bags.
+		striped bronze:  contain 3 posh green bags(+*0), 3 posh gray bags(+*0).
+			posh green:  contain no other bags.
+			posh gray:  contain no other bags.
+
+	pale maroon:  contain 3 striped turquoise bags(+*121), 3 striped bronze bags (+*6), 5 drab bronze bags(+*23).
+
+		striped turquoise:  contain 2 striped lavender bags(+*15), 5 clear beige bags(+*4), 4 dull indigo bags(+*15).
+
+			striped lavender:  contain 1 dim purple bag(+*7), 2 dull brown bags(+*2), 1 posh gray bag(+*0).
+
+				dim purple:  contain 1 plaid silver bag(+*0), 4 posh gray bags(+*0), 2 plaid beige bags(+*0).
+
+					plaid silver:  contain no other bags.
+					posh gray:  contain no other bags.
+					plaid beige:  contain no other bags.
+
+				dull brown:  contain 2 dull maroon bags(+*0).
+					dull maroon:  contain no other bags.
+
+				posh gray:  contain no other bags.
+
+			clear beige:  contain 4 striped crimson bags(+*0).
+				striped crimson:  contain no other bags.
+
+			dull indigo:  contain 2 plaid blue bags(+*4), 2 striped crimson bags(+*0), 1 dull brown bag(+*2).
+				plaid blue:  contain 2 striped crimson bags(+*0), 1 clear gray bag (+*1).
+					striped crimson:  contain no other bags.
+
+					clear gray:  contain 1 striped tomato bag(0).
+						striped tomato:  contain no other bags.
+
+				striped crimson:  contain no other bags.
+
+				dull brown:  contain 2 dull maroon bags(+*0).
+					dull maroon:  contain no other bags.
+
+		striped bronze:  contain 3 posh green bags(+*0), 3 posh gray bags(+*0).
+			posh green:  contain no other bags.
+			posh gray:  contain no other bags.
+
+
+		drab bronze:  contain 4 posh green bags(+*0), 3 striped maroon bags(+*1), 5 plaid beige bags(+*0),4 clear gray bags(+*1).
+			posh green:  contain no other bags.
+
+			striped maroon :  contain 1 plaid silver bag(+*0).
+				plaid silver:  contain no other bags.
+
+			plaid beige:  contain no other bags.
+
+			clear gray:  contain 1 striped tomato bag(+*0).
+				striped tomato:  contain no other bags.
+
+
+
+striped maroon :  contain 1 plaid silver bag.
+
+
+plaid silver:  contain no other bags.
+
+
+
+wavy plum:  contain 4 shiny plum bags, 1 striped tomato bag, 1 striped bronze bag.
+
+pale maroon:  contain 3 striped turquoise bags, 3 striped bronze bags, 5 drab bronze bags.
+
+striped bronze:  contain 3 posh green bags, 3 posh gray bags.
+
+striped turquoise:  contain 2 striped lavender bags, 5 clear beige bags, 4 dull indigo bags.
+
+drab bronze:  contain 4 posh green bags, 3 striped maroon bags, 5 plaid beige bags, 4 clear gray bags.
+
+posh green:  contain no other bags.
+
+posh gray:  contain no other bags.
+
+plaid blue:  contain 2 striped crimson bags(+*0), 1 clear gray bag (+*1).
+
+striped lavender:  contain 1 dim purple bag, 2 dull brown bags, 1 posh gray bag.
+
+clear beige:  contain 4 striped crimson bags.
+
+dull indigo:  contain 2 plaid blue bags, 2 striped crimson bags, 1 dull brown bag.
+
+plaid beige:  contain no other bags.
+
+clear gray:  contain 1 striped tomato bag(0).
+
+dim purple:  contain 1 plaid silver bag, 4 posh gray bags, 2 plaid beige bags.
+
+dull brown:  contain 2 dull maroon bags.
+
+striped crimson:  contain no other bags.
+
+dull maroon:  contain no other bags.
+
+shiny plum:  contain no other bags.
+
+striped tomato:  contain no other bags.
