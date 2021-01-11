@@ -1,0 +1,3721 @@
+Player One Deck -- 14 6 21 10 1 33 7 13 25 8 17 11 28 27 50 2 35 49 19 46 3 38 23 5 43
+Player Two Deck -- 18 9 12 39 48 24 32 45 47 41 40 15 22 36 30 26 42 34 20 16 4 31 37 44 29
+Card Value -- 14 -- New Deck 6 21 10 1 33 7 13 25 8 17 11 28 27 50
+Card Value -- 18 -- New Deck 9 12 39 48 24 32 45 47 41 40 15 22 36 30 26 42 34 20
+Card Value -- 6 -- New Deck 21 10 1 33 7 13
+Card Value -- 9 -- New Deck 12 39 48 24 32 45 47 41 40
+Card Value -- 6 -- New Deck 50 39 30 10 20 1
+Card Value -- 13 -- New Deck 47 25 41 8 40 17 15 11 36 27 26 21 42
+----------------------------------
+Past Round -- 20 41 17 40 1
+Current Rouand -- 20 41 17 40 1
+----------------------------------
+Card Value -- 10 -- New Deck 20 1 9 7 6 13 50 47 39 25
+Card Value -- 8 -- New Deck 40 17 15 11 36 27 26 21
+Card Value -- 1 -- New Deck 9
+Card Value -- 17 -- New Deck 15 11 36 27 26 21 42 12 34 33 48 24 32 28 45 22 41
+Card Value -- 9 -- New Deck 7 6 13 50 47 39 25 10 8
+Card Value -- 15 -- New Deck 11 36 27 26 21 42 12 34 33 48 24 32 28 45 22
+Card Value -- 7 -- New Deck 6 13 50 47 39 25 10
+Card Value -- 11 -- New Deck 36 27 26 21 42 12 34 33 48 24 32
+Card Value -- 6 -- New Deck 50 27 33 13 47 42
+Card Value -- 10 -- New Deck 48 26 32 21 36 25 39 24 34 12
+Card Value -- 6 -- New Deck 50 27 32 13 47 42
+Card Value -- 10 -- New Deck 33 8 48 7 24 11 28 26 22 21
+Card Value -- 7 -- New Deck 6 13 50 47 39 25 10
+Card Value -- 11 -- New Deck 36 27 26 21 42 12 34 33 48 24 32
+Card Value -- 6 -- New Deck 50 27 33 13 47 42
+Card Value -- 10 -- New Deck 48 26 32 21 36 25 39 24 34 12
+Card Value -- 1 -- New Deck 22
+Card Value -- 10 -- New Deck 33 8 48 9 24 15 32 7 28 11
+Card Value -- 6 -- New Deck 47 27 41 13 50 42
+Card Value -- 8 -- New Deck 48 9 24 15 32 7 28 11
+Card Value -- 12 -- New Deck 50 36 32 26 42 39 45 10 28 1 34 33
+Card Value -- 13 -- New Deck 30 6 21 8 40 27 25 9 17 7 22 11 48
+Card Value -- 1 -- New Deck 21
+Card Value -- 10 -- New Deck 32 9 47 28 26 17 48 33 39 11
+Card Value -- 6 -- New Deck 34 12 22 8 50 36
+Card Value -- 11 -- New Deck 27 7 41 30 10 1 32 21 47 42 28
+----------------------------------
+Past Round -- 12 50 7 36 10 34 1
+Current Rouand -- 12 50 7 36 10 34 1
+----------------------------------
+Card Value -- 12 -- New Deck 22 8 50 36 15 9 40 26 6 11 34 27
+Card Value -- 7 -- New Deck 41 30 10 1 32 21 47
+----------------------------------
+Past Round -- 15 47 30 40 9 41 26 22 6 32 11
+Current Rouand -- 15 47 30 40 9 41 26 22 6 32 11
+----------------------------------
+Card Value -- 7 -- New Deck 28 24 11 10 50 39 45
+Card Value -- 1 -- New Deck 41
+Card Value -- 7 -- New Deck 1 50 30 39 27 45 21
+Card Value -- 9 -- New Deck 8 40 32 42 33 26 15 48 47
+Card Value -- 1 -- New Deck 50
+Card Value -- 8 -- New Deck 40 32 42 33 26 15 48 47
+----------------------------------
+Past Round -- 50 40
+Current Rouand -- 50 40
+----------------------------------
+Card Value -- 1 -- New Deck 50
+Card Value -- 8 -- New Deck 40 32 42 33 26 15 48 47
+----------------------------------
+Past Round -- 50 40
+Current Rouand -- 50 40
+----------------------------------
+Card Value -- 7 -- New Deck 9 1 8 50 40 45 26
+Card Value -- 12 -- New Deck 6 25 20 41 28 34 24 22 11 17 10 32
+Card Value -- 9 -- New Deck 1 8 50 40 45 26 21 15 7
+Card Value -- 6 -- New Deck 25 20 41 28 34 24
+Card Value -- 8 -- New Deck 50 40 45 26 21 15 7 12
+Card Value -- 20 -- New Deck 41 28 34 24 22 11 17 10 32 30 42 39 33 27 48 36 47 13 25 1
+Card Value -- 7 -- New Deck 45 42 50 36 21 15 41
+Card Value -- 12 -- New Deck 40 33 39 34 28 27 48 10 26 1 24 22
+----------------------------------
+Past Round -- 24 50 22 39 28 36 21 34 27 45 15 42 10
+Current Rouand -- 24 50 22 39 28 36 21 34 27 45 15 42 10
+----------------------------------
+Card Value -- 13 -- New Deck 17 11 30 25 7 12 45 40 42 33 50 39 36
+Card Value -- 10 -- New Deck 26 1 24 22 47 32 28 21 27 15
+Card Value -- 11 -- New Deck 30 25 7 12 45 40 42 33 50 39 36
+Card Value -- 1 -- New Deck 24
+----------------------------------
+Past Round -- 47 15 36 26 32 17 27 11
+Current Rouand -- 47 15 36 26 32 17 27 11
+----------------------------------
+Card Value -- 11 -- New Deck 30 25 7 12 45 40 42 33 50 39 36
+Card Value -- 1 -- New Deck 24
+Card Value -- 12 -- New Deck 21 1 42 41 50 47 48 25 36 30 45 39
+Card Value -- 10 -- New Deck 15 7 27 22 26 13 34 32 33 28
+Card Value -- 1 -- New Deck 42
+Card Value -- 7 -- New Deck 27 22 26 13 34 32 33
+Card Value -- 1 -- New Deck 42
+Card Value -- 7 -- New Deck 27 22 26 13 34 32 33
+Card Value -- 22 -- New Deck 50 26 47 13 48 34 36 33 30 28 45 17 39 11 40 32 15 12 42 25 27 21
+Card Value -- 1 -- New Deck 10
+Card Value -- 12 -- New Deck 9 6 8 20 50 41 40 28 45 34 26 24
+Card Value -- 10 -- New Deck 32 30 42 39 33 27 48 36 47 13
+Card Value -- 10 -- New Deck 50 33 41 27 34 13 26 25 24 1
+Card Value -- 7 -- New Deck 32 9 30 6 42 8 39
+----------------------------------
+Past Round -- 25 50 24 33 1 41 9
+Current Rouand -- 25 50 24 33 1 41 9
+----------------------------------
+Card Value -- 13 -- New Deck 26 25 24 1 10 7 50 32 33 9 41 30 27
+Card Value -- 8 -- New Deck 39 20 48 40 36 28 47 45
+----------------------------------
+Past Round -- 7 47 26 33 9 50 27
+Current Rouand -- 7 47 26 33 9 50 27
+----------------------------------
+Card Value -- 9 -- New Deck 41 30 27 6 13 8 25 20 50
+Card Value -- 15 -- New Deck 21 11 17 12 42 34 39 26 48 24 40 1 36 10 28
+Card Value -- 1 -- New Deck 27
+Card Value -- 8 -- New Deck 39 25 26 20 40 21 36 11
+Card Value -- 8 -- New Deck 28 1 48 25 42 10 50 20
+Card Value -- 12 -- New Deck 21 6 36 24 41 40 34 13 30 11 39 26
+Card Value -- 1 -- New Deck 48
+Card Value -- 6 -- New Deck 36 24 41 40 34 13
+----------------------------------
+Past Round -- 48 36
+Current Rouand -- 48 36
+----------------------------------
+Card Value -- 1 -- New Deck 48
+Card Value -- 6 -- New Deck 36 24 41 40 34 13
+----------------------------------
+Past Round -- 48 36
+Current Rouand -- 48 36
+----------------------------------
+Card Value -- 13 -- New Deck 12 11 48 40 36 10 24 8 42 39 41 28 50
+Card Value -- 1 -- New Deck 17
+Card Value -- 11 -- New Deck 48 40 36 10 24 8 42 39 41 28 50
+Card Value -- 6 -- New Deck 30 25 27 20 17 12
+Card Value -- 6 -- New Deck 13 8 25 20 50 47
+Card Value -- 12 -- New Deck 42 34 39 26 48 24 40 1 36 10 28 7
+----------------------------------
+Past Round -- 50 47
+Current Rouand -- 50 47
+----------------------------------
+Card Value -- 12 -- New Deck 50 48 47 24 22 1 15 10 41 28 21 7
+Card Value -- 8 -- New Deck 39 25 26 20 40 33 36 9
+Card Value -- 7 -- New Deck 50 39 48 25 47 26 24
+Card Value -- 1 -- New Deck 36
+Card Value -- 10 -- New Deck 41 28 21 7 17 13 12 8 50 39
+Card Value -- 9 -- New Deck 45 30 32 11 42 27 34 6 40
+----------------------------------
+Past Round -- 13 40 12 50 8 39 6
+Current Rouand -- 13 40 12 50 8 39 6
+----------------------------------
+Card Value -- 7 -- New Deck 17 13 12 8 50 39 48
+Card Value -- 11 -- New Deck 42 27 34 6 40 22 33 1 36 15 45
+----------------------------------
+Past Round -- 48 22 40 6 42 39 17 13 50 27 34 8
+Current Rouand -- 48 22 40 6 42 39 17 13 50 27 34 8
+----------------------------------
+Card Value -- 8 -- New Deck 50 39 48 25 47 26 24 20
+Card Value -- 6 -- New Deck 40 22 33 1 36 15
+Card Value -- 6 -- New Deck 50 40 39 22 48 33
+Card Value -- 17 -- New Deck 27 13 34 12 45 24 41 20 30 10 28 9 32 7 21 11 42
+----------------------------------
+Past Round -- 7 48 21 45 11 50 22 40 24 39 27 34 20
+Current Rouand -- 7 48 21 45 11 50 22 40 24 39 27 34 20
+----------------------------------
+Card Value -- 15 -- New Deck 6 17 50 27 40 13 39 34 22 12 48 45 33 24 47
+Card Value -- 9 -- New Deck 32 7 21 11 42 8 41 25 20
+Card Value -- 17 -- New Deck 50 27 40 13 39 34 22 12 48 45 33 24 47 30 36 10 15
+Card Value -- 7 -- New Deck 21 11 42 8 41 25 20
+Card Value -- 13 -- New Deck 39 34 22 12 48 45 33 24 47 30 36 10 15
+Card Value -- 8 -- New Deck 41 25 20 1 28 26 32 6
+Card Value -- 12 -- New Deck 48 45 33 24 47 30 36 10 15 34 25 22
+Card Value -- 1 -- New Deck 28
+----------------------------------
+Past Round -- 15 39 24 36 12 34 1
+Current Rouand -- 15 39 24 36 12 34 1
+----------------------------------
+Card Value -- 12 -- New Deck 48 45 33 24 47 30 36 10 15 9 17 7
+Card Value -- 1 -- New Deck 28
+Card Value -- 8 -- New Deck 34 25 22 20 12 1 48 28
+Card Value -- 9 -- New Deck 41 17 36 7 40 27 15 11 30
+----------------------------------
+Past Round -- 7 48 15 28 11
+Current Rouand -- 7 48 15 28 11
+----------------------------------
+Card Value -- 20 -- New Deck 12 1 48 28 45 26 33 32 24 6 47 42 50 39 21 10 8 9 25 17
+Card Value -- 7 -- New Deck 40 27 15 11 30 13 41
+Card Value -- 8 -- New Deck 9 25 17 48 15 28 11 45
+Card Value -- 6 -- New Deck 40 39 32 21 27 10
+----------------------------------
+Past Round -- 17 40 9 32 25
+Current Rouand -- 17 40 9 32 25
+----------------------------------
+Card Value -- 7 -- New Deck 48 15 28 11 45 30 26
+Card Value -- 6 -- New Deck 41 21 33 10 34 8
+Card Value -- 11 -- New Deck 45 30 26 13 47 40 42 12 50 27 39
+Card Value -- 10 -- New Deck 34 8 32 9 36 25 24 17 22 20
+Card Value -- 13 -- New Deck 47 40 42 12 50 27 39 1 7 6 48 41 11
+Card Value -- 9 -- New Deck 36 25 24 17 22 20 21 15 33
+Card Value -- 11 -- New Deck 47 36 40 25 42 24 50 22 27 20 39
+Card Value -- 1 -- New Deck 33
+Card Value -- 8 -- New Deck 13 9 47 36 40 25 42 24
+Card Value -- 7 -- New Deck 28 6 17 11 12 10 33
+Card Value -- 9 -- New Deck 47 36 40 25 42 24 50 22 27
+Card Value -- 6 -- New Deck 17 11 12 10 33 30
+Card Value -- 6 -- New Deck 21 10 1 33 7 13
+Card Value -- 9 -- New Deck 12 39 48 24 32 45 47 41 40
+Card Value -- 21 -- New Deck 10 1 33 7 13 25 8 17 11 28 27 50 2 35 49 19 46 3 38 23 5
+Card Value -- 12 -- New Deck 39 48 24 32 45 47 41 40 15 22 36 30
+Card Value -- 11 -- New Deck 28 27 50 2 35 49 19 46 3 38 23
+Card Value -- 15 -- New Deck 22 36 30 39 10 48 1 32 7 45 13 47 25 41 8
+Card Value -- 3 -- New Deck 38 23 28
+Card Value -- 7 -- New Deck 45 13 47 25 41 8 36
+Card Value -- 1 -- New Deck 46
+Card Value -- 3 -- New Deck 45 38 47
+Card Value -- 2 -- New Deck 19 7
+Card Value -- 1 -- New Deck 38
+Card Value -- 10 -- New Deck 48 3 45 23 50 28 25 13 41 36
+Card Value -- 2 -- New Deck 38 19
+Card Value -- 3 -- New Deck 38 23 5
+Card Value -- 7 -- New Deck 45 13 47 25 41 8 40
+Card Value -- 11 -- New Deck 15 28 22 50 30 35 10 49 48 19 1
+Card Value -- 8 -- New Deck 40 17 36 27 39 2 7 3
+Card Value -- 10 -- New Deck 49 48 19 1 28 17 50 27 35 2
+Card Value -- 7 -- New Deck 3 40 15 36 22 39 30
+----------------------------------
+Past Round -- 3 39 15 36 22
+Current Rouand -- 3 39 15 36 22
+----------------------------------
+Card Value -- 10 -- New Deck 49 48 19 1 46 32 23 13 33 25
+Card Value -- 7 -- New Deck 3 45 38 47 5 41 24
+----------------------------------
+Past Round -- 23 38 13 47 25 41 3
+Current Rouand -- 23 38 13 47 25 41 3
+----------------------------------
+----------------------------------
+Past Round -- 47 15 41 19 40 1 39 23 30 13 38 11
+Current Rouand -- 47 15 41 19 40 1 39 23 30 13 38 11
+----------------------------------
+Card Value -- 11 -- New Deck 28 27 50 2 35 49 19 46 3 38 23
+Card Value -- 15 -- New Deck 22 36 30 26 42 34 20 16 4 31 37 44 29 9 6
+Card Value -- 3 -- New Deck 38 23 28
+Card Value -- 4 -- New Deck 31 37 44 29
+----------------------------------
+Past Round -- 28 38 31
+Current Rouand -- 28 38 31
+----------------------------------
+Card Value -- 3 -- New Deck 50 27 42
+Card Value -- 2 -- New Deck 38 35
+Card Value -- 2 -- New Deck 50 38
+Card Value -- 6 -- New Deck 36 30 16 9 29 3
+Card Value -- 2 -- New Deck 35 49
+Card Value -- 26 -- New Deck 42 34 20 16 4 31 37 44 29 9 6 39 10 48 1 32 7 45 13 47 25 41 8 40 17 36
+Card Value -- 4 -- New Deck 49 48 9 6
+Card Value -- 10 -- New Deck 45 1 47 7 41 13 40 25 36 8
+Card Value -- 6 -- New Deck 37 32 4 10 49 45
+Card Value -- 7 -- New Deck 41 13 40 25 36 8 35
+----------------------------------
+Past Round -- 8 41 4 40 10
+Current Rouand -- 8 41 4 40 10
+----------------------------------
+Card Value -- 8 -- New Deck 48 35 49 39 36 20 45 29
+Card Value -- 16 -- New Deck 47 9 41 37 40 4 25 10 17 1 34 6 31 7 44 32
+Card Value -- 9 -- New Deck 49 41 39 37 20 4 45 25 29
+Card Value -- 6 -- New Deck 31 7 44 32 40 36
+----------------------------------
+Past Round -- 31 39 7 40 32
+Current Rouand -- 31 39 7 40 32
+----------------------------------
+Card Value -- 9 -- New Deck 49 41 39 37 20 4 45 25 29
+Card Value -- 7 -- New Deck 44 32 42 13 40 36 17
+Card Value -- 20 -- New Deck 44 1 41 29 32 6 45 40 17 9 25 16 8 7 48 39 47 37 42 36
+Card Value -- 4 -- New Deck 35 31 34 10
+Card Value -- 19 -- New Deck 46 3 38 23 5 43 14 18 21 12 33 24 11 15 28 22 50 30 2
+Card Value -- 20 -- New Deck 16 4 31 37 44 29 9 6 39 10 48 1 32 7 45 13 47 25 41 8
+Card Value -- 3 -- New Deck 38 23 5
+Card Value -- 4 -- New Deck 31 37 44 29
+----------------------------------
+Past Round -- 5 38 31
+Current Rouand -- 5 38 31
+----------------------------------
+Card Value -- 14 -- New Deck 18 21 12 33 24 11 15 28 22 50 30 2 46 16
+Card Value -- 9 -- New Deck 6 39 10 48 1 32 7 45 13
+----------------------------------
+Past Round -- 15 45 7 28 13 48 39 32 21
+Current Rouand -- 15 45 7 28 13 48 39 32 21
+----------------------------------
+Card Value -- 18 -- New Deck 21 12 33 24 11 15 28 22 50 30 2 46 16 3 4 38 31 43
+Card Value -- 6 -- New Deck 39 10 48 1 32 7
+Card Value -- 1 -- New Deck 15
+Card Value -- 3 -- New Deck 33 4 32
+Card Value -- 7 -- New Deck 22 21 50 48 46 11 38
+Card Value -- 4 -- New Deck 32 31 39 12
+Card Value -- 11 -- New Deck 38 30 43 2 7 4 50 39 48 12 46
+Card Value -- 10 -- New Deck 28 24 3 1 33 15 32 22 31 21
+Card Value -- 2 -- New Deck 7 4
+Card Value -- 1 -- New Deck 33
+----------------------------------
+Past Round -- 3 33 32
+Current Rouand -- 3 33 32
+----------------------------------
+Card Value -- 2 -- New Deck 7 4
+Card Value -- 1 -- New Deck 33
+Card Value -- 16 -- New Deck 11 10 38 28 30 24 43 3 50 32 39 22 48 31 46 1
+Card Value -- 2 -- New Deck 33 7
+Card Value -- 12 -- New Deck 33 24 11 15 28 22 50 30 2 46 16 3
+Card Value -- 10 -- New Deck 48 1 32 7 45 13 47 25 41 8
+Card Value -- 2 -- New Deck 50 48
+Card Value -- 1 -- New Deck 45
+Card Value -- 7 -- New Deck 46 33 32 30 11 8 50
+Card Value -- 1 -- New Deck 25
+Card Value -- 15 -- New Deck 28 22 50 30 2 46 16 3 4 38 31 43 29 14 9
+Card Value -- 7 -- New Deck 45 13 47 25 41 8 37
+Card Value -- 9 -- New Deck 22 13 50 47 30 25 46 8 31
+Card Value -- 3 -- New Deck 28 4 41
+Card Value -- 13 -- New Deck 50 47 30 25 46 8 31 2 43 37 29 16 9
+Card Value -- 4 -- New Deck 41 38 45 14
+Card Value -- 3 -- New Deck 13 4 50
+Card Value -- 2 -- New Deck 45 29
+Card Value -- 9 -- New Deck 14 13 46 29 28 4 50 45 16
+Card Value -- 2 -- New Deck 37 31
+Card Value -- 3 -- New Deck 38 22 9
+Card Value -- 4 -- New Deck 41 16 29 8
+Card Value -- 2 -- New Deck 46 43
+Card Value -- 8 -- New Deck 28 25 4 3 41 38 29 9
+Card Value -- 18 -- New Deck 6 12 10 24 1 15 7 22 13 50 47 30 25 46 8 38 5 43
+Card Value -- 11 -- New Deck 45 28 41 2 37 16 23 3 44 4 39
+Card Value -- 8 -- New Deck 38 5 43 24 2 22 3 50
+Card Value -- 12 -- New Deck 41 10 37 1 16 15 23 7 44 13 45 30
+Card Value -- 5 -- New Deck 43 24 2 22 3
+Card Value -- 10 -- New Deck 37 1 16 15 23 7 44 13 45 30
+----------------------------------
+Past Round -- 15 23 7 44 13 45 2 30 3
+Current Rouand -- 15 23 7 44 13 45 2 30 3
+----------------------------------
+Card Value -- 7 -- New Deck 37 30 22 16 15 2 50
+Card Value -- 3 -- New Deck 44 5 13
+Card Value -- 2 -- New Deck 50 37
+Card Value -- 5 -- New Deck 44 22 30 16 15
+Card Value -- 3 -- New Deck 30 5 22
+Card Value -- 1 -- New Deck 44
+Card Value -- 2 -- New Deck 50 24
+Card Value -- 7 -- New Deck 1 3 44 30 37 5 45
+Card Value -- 2 -- New Deck 50 22
+Card Value -- 5 -- New Deck 44 24 41 15 16
+Card Value -- 7 -- New Deck 2 5 50 44 38 16 13
+Card Value -- 1 -- New Deck 24
+Card Value -- 16 -- New Deck 13 10 45 41 43 30 37 15 7 1 50 22 44 3 38 24
+Card Value -- 2 -- New Deck 23 5
+Card Value -- 5 -- New Deck 43 24 2 22 3
+Card Value -- 10 -- New Deck 37 1 16 15 23 7 44 13 45 30
+----------------------------------
+Past Round -- 15 23 7 44 13 45 2 30 3
+Current Rouand -- 15 23 7 44 13 45 2 30 3
+----------------------------------
+Card Value -- 8 -- New Deck 12 5 10 43 37 24 1 22
+Card Value -- 2 -- New Deck 23 3
+Card Value -- 5 -- New Deck 10 43 37 24 1
+Card Value -- 3 -- New Deck 44 4 45
+Card Value -- 8 -- New Deck 47 2 46 4 43 6 50 12
+Card Value -- 15 -- New Deck 13 23 3 44 5 38 28 45 10 37 24 39 1 30 22
+----------------------------------
+Past Round -- 2 44 4 38 6 45 12 37 13 39 3 30 5
+Current Rouand -- 2 44 4 38 6 45 12 37 13 39 3 30 5
+----------------------------------
+Card Value -- 8 -- New Deck 15 47 13 46 3 43 5 50
+Card Value -- 10 -- New Deck 37 24 39 1 30 22 25 7 41 16
+Card Value -- 7 -- New Deck 47 41 24 16 46 37 43
+Card Value -- 3 -- New Deck 25 5 15
+Card Value -- 8 -- New Deck 10 47 24 46 1 43 22 50
+Card Value -- 16 -- New Deck 23 2 44 4 38 6 45 12 37 15 39 13 30 3 25 5
+Card Value -- 4 -- New Deck 43 6 50 12
+Card Value -- 13 -- New Deck 30 3 25 5 23 10 44 24 38 1 45 22 15
+----------------------------------
+Past Round -- 12 43 5 30 23 50 10
+Current Rouand -- 12 43 5 30 23 50 10
+----------------------------------
+Card Value -- 6 -- New Deck 50 12 47 37 46 39
+Card Value -- 3 -- New Deck 25 5 23
+Card Value -- 12 -- New Deck 47 37 46 39 4 13 43 30 6 3 50 25
+Card Value -- 5 -- New Deck 23 10 44 24 38
+Card Value -- 13 -- New Deck 43 30 6 3 50 25 12 5 47 23 37 10 46
+Card Value -- 1 -- New Deck 45
+Card Value -- 3 -- New Deck 50 25 12
+Card Value -- 2 -- New Deck 38 4
+Card Value -- 6 -- New Deck 46 43 44 5 13 12
+Card Value -- 3 -- New Deck 24 2 45
+----------------------------------
+Past Round -- 12 46 24 43 2
+Current Rouand -- 12 46 24 43 2
+----------------------------------
+Card Value -- 12 -- New Deck 50 10 38 1 47 39 6 3 46 24 43 2
+Card Value -- 4 -- New Deck 22 15 37 23
+Card Value -- 3 -- New Deck 46 24 43
+Card Value -- 1 -- New Deck 23
+Card Value -- 3 -- New Deck 46 24 43
+Card Value -- 5 -- New Deck 30 13 15 10 23
+Card Value -- 4 -- New Deck 50 22 38 37
+Card Value -- 1 -- New Deck 44
+Card Value -- 8 -- New Deck 16 47 2 46 4 43 6 50
+Card Value -- 15 -- New Deck 39 13 30 3 25 5 41 28 23 10 44 24 38 1 45
+Card Value -- 5 -- New Deck 50 28 47 23 13
+Card Value -- 1 -- New Deck 45
+Card Value -- 5 -- New Deck 1 50 45 47 16
+Card Value -- 3 -- New Deck 39 28 30
+----------------------------------
+Past Round -- 47 2 46 4 43 6 50 12 8 15
+Current Rouand -- 47 2 46 4 43 6 50 12 8 15
+----------------------------------
+Card Value -- 15 -- New Deck 7 22 13 50 47 30 25 46 8 38 5 43 21 18 11
+Card Value -- 16 -- New Deck 23 3 44 4 39 31 48 29 33 14 32 9 45 6 28 12
+----------------------------------
+Past Round -- 46 29 38 14 43 9 18 6 22 12 50 7 47 13 39 31
+Current Rouand -- 46 29 38 14 43 9 18 6 22 12 50 7 47 13 39 31
+----------------------------------
+Card Value -- 15 -- New Deck 16 22 3 50 4 47 39 46 29 38 14 43 9 18 6
+Card Value -- 10 -- New Deck 37 1 23 7 44 13 31 30 48 25
+----------------------------------
+Past Round -- 37 9 44 23 31 6 48 1 29 25
+Current Rouand -- 37 9 44 23 31 6 48 1 29 25
+----------------------------------
+Card Value -- 18 -- New Deck 6 24 12 15 10 22 1 50 7 47 13 39 31 46 30 38 25 43
+Card Value -- 5 -- New Deck 45 21 28 11 41
+Card Value -- 1 -- New Deck 50
+Card Value -- 6 -- New Deck 28 12 41 10 45 22
+----------------------------------
+Past Round -- 50 28
+Current Rouand -- 50 28
+----------------------------------
+----------------------------------
+Past Round -- 15 47 13 41 10 31 22 46 12 30 7 50 21
+Current Rouand -- 15 47 13 41 10 31 22 46 12 30 7 50 21
+----------------------------------
+Card Value -- 15 -- New Deck 10 22 1 50 7 47 13 39 31 46 30 38 25 43 8
+Card Value -- 11 -- New Deck 41 2 37 16 23 3 44 4 48 29 33
+Card Value -- 8 -- New Deck 22 2 50 16 47 3 39 4
+Card Value -- 1 -- New Deck 23
+----------------------------------
+Past Round -- 23 22
+Current Rouand -- 23 22
+----------------------------------
+Card Value -- 2 -- New Deck 50 16
+Card Value -- 7 -- New Deck 44 13 48 31 33 30 41
+Card Value -- 1 -- New Deck 2
+Card Value -- 3 -- New Deck 30 4 38
+Card Value -- 7 -- New Deck 50 44 16 13 39 33 46
+Card Value -- 4 -- New Deck 38 29 22 10
+Card Value -- 7 -- New Deck 4 50 38 44 29 13 10
+Card Value -- 3 -- New Deck 1 30 2
+Card Value -- 4 -- New Deck 50 38 44 29
+Card Value -- 1 -- New Deck 30
+Card Value -- 4 -- New Deck 50 38 44 29
+Card Value -- 1 -- New Deck 30
+Card Value -- 1 -- New Deck 50
+Card Value -- 13 -- New Deck 39 10 43 41 47 23 46 8 31 7 25 3 48
+----------------------------------
+Past Round -- 39 8 50 46 23 7
+Current Rouand -- 39 8 50 46 23 7
+----------------------------------
+Card Value -- 8 -- New Deck 37 31 33 7 13 3 50 48
+Card Value -- 2 -- New Deck 47 44
+Card Value -- 2 -- New Deck 33 23
+Card Value -- 10 -- New Deck 41 16 47 37 44 31 22 7 46 13
+Card Value -- 7 -- New Deck 50 46 47 13 48 29 44
+Card Value -- 4 -- New Deck 38 8 10 2
+Card Value -- 4 -- New Deck 50 38 46 8
+Card Value -- 1 -- New Deck 43
+Card Value -- 1 -- New Deck 50
+Card Value -- 8 -- New Deck 16 10 33 13 29 2 22 4
+----------------------------------
+Past Round -- 50 16
+Current Rouand -- 50 16
+----------------------------------
+Card Value -- 18 -- New Deck 5 24 21 15 11 22 2 50 16 47 3 39 4 46 29 38 14 43
+Card Value -- 6 -- New Deck 28 12 41 10 37 1
+Card Value -- 12 -- New Deck 15 10 22 1 50 5 47 21 39 11 46 2
+Card Value -- 4 -- New Deck 41 29 37 14
+Card Value -- 2 -- New Deck 50 41
+Card Value -- 1 -- New Deck 15
+Card Value -- 16 -- New Deck 43 3 12 4 50 28 47 41 21 15 39 29 11 10 46 37
+Card Value -- 1 -- New Deck 24
+Card Value -- 4 -- New Deck 50 28 47 41
+Card Value -- 2 -- New Deck 5 3
+Card Value -- 15 -- New Deck 11 22 2 50 16 47 3 39 4 46 29 38 14 43 9
+Card Value -- 10 -- New Deck 37 1 23 7 44 13 48 31 33 30
+----------------------------------
+Past Round -- 48 11 33 2 37 16 44 3
+Current Rouand -- 48 11 33 2 37 16 44 3
+----------------------------------
+----------------------------------
+Past Round -- 46 29 38 14 43 9 18 6 24 12 15 10 22 1 50 7 47 13 39 31
+Current Rouand -- 46 29 38 14 43 9 18 6 24 12 15 10 22 1 50 7 47 13 39 31
+----------------------------------
+Card Value -- 3 -- New Deck 38 23 5
+Card Value -- 4 -- New Deck 31 37 44 29
+----------------------------------
+Past Round -- 5 38 31
+Current Rouand -- 5 38 31
+----------------------------------
+Card Value -- 14 -- New Deck 18 21 12 33 24 11 15 28 22 50 30 2 26 49
+Card Value -- 9 -- New Deck 6 39 10 48 1 32 7 45 13
+----------------------------------
+Past Round -- 15 45 7 28 13 48 39 33 21
+Current Rouand -- 15 45 7 28 13 48 39 33 21
+----------------------------------
+Card Value -- 18 -- New Deck 21 12 33 24 11 15 28 22 50 30 2 26 49 34 19 20 46 16
+Card Value -- 6 -- New Deck 39 10 48 1 32 7
+Card Value -- 16 -- New Deck 12 10 24 1 15 7 22 21 50 48 26 11 49 39 34 28
+Card Value -- 2 -- New Deck 33 19
+Card Value -- 11 -- New Deck 49 39 34 28 46 32 16 2 22 19 21
+Card Value -- 1 -- New Deck 33
+Card Value -- 12 -- New Deck 33 24 11 15 28 22 50 30 2 26 49 34
+Card Value -- 10 -- New Deck 48 1 32 7 45 13 47 25 41 8
+Card Value -- 1 -- New Deck 49
+Card Value -- 2 -- New Deck 34 24
+Card Value -- 24 -- New Deck 11 15 28 22 50 30 2 26 49 34 19 20 46 16 3 4 38 31 43 29 14 9 18 6
+Card Value -- 1 -- New Deck 32
+Card Value -- 19 -- New Deck 20 46 16 3 4 38 31 43 29 14 9 18 6 28 11 50 15 49 30
+Card Value -- 2 -- New Deck 32 26
+----------------------------------
+Past Round -- 11 32 15
+Current Rouand -- 11 32 15
+----------------------------------
+----------------------------------
+Past Round -- 11 32 15
+Current Rouand -- 11 32 15
+----------------------------------
+Card Value -- 15 -- New Deck 28 22 50 30 2 26 49 34 19 20 46 16 3 4 38
+Card Value -- 7 -- New Deck 45 13 47 25 41 8 40
+Card Value -- 8 -- New Deck 49 40 46 2 38 19 50 45
+Card Value -- 4 -- New Deck 41 22 20 13
+Card Value -- 16 -- New Deck 25 3 8 4 49 41 40 22 46 20 38 34 50 28 45 26
+Card Value -- 2 -- New Deck 30 19
+Card Value -- 22 -- New Deck 50 30 2 26 49 34 19 20 46 16 3 4 38 31 43 29 14 9 18 6 12 10
+Card Value -- 13 -- New Deck 47 25 41 8 40 17 36 27 42 35 37 23 44
+Card Value -- 12 -- New Deck 10 50 47 30 25 26 8 49 40 34 17 46
+Card Value -- 16 -- New Deck 37 3 23 4 44 38 41 31 36 29 19 14 27 9 20 18
+Card Value -- 3 -- New Deck 47 23 30
+Card Value -- 9 -- New Deck 20 18 37 10 44 25 38 26 41
+Card Value -- 4 -- New Deck 49 31 40 36
+Card Value -- 10 -- New Deck 44 25 38 26 41 8 19 17 37 30
+Card Value -- 10 -- New Deck 49 44 31 25 40 38 36 26 29 8
+Card Value -- 3 -- New Deck 34 9 30
+----------------------------------
+Past Round -- 40 8 36 19 34 17 29 20 46 2 42 12 43 16 50 3 47 23 30 4 49 31 26 18
+Current Rouand -- 40 8 36 19 34 17 29 20 46 2 42 12 43 16 50 3 47 23 30 4 49 31 26 18
+----------------------------------
+Card Value -- 26 -- New Deck 49 34 19 20 46 16 3 4 38 31 43 29 14 9 18 6 12 10 24 1 15 7 22 13 50 47
+Card Value -- 8 -- New Deck 40 17 36 27 42 35 37 23
+Card Value -- 6 -- New Deck 12 10 24 1 15 7
+Card Value -- 3 -- New Deck 23 4 35
+----------------------------------
+Past Round -- 4 15 12
+Current Rouand -- 4 15 12
+----------------------------------
+Card Value -- 10 -- New Deck 24 1 15 7 22 13 50 47 49 40
+Card Value -- 4 -- New Deck 35 14 16 9
+Card Value -- 7 -- New Deck 22 13 50 47 49 40 34
+Card Value -- 9 -- New Deck 37 18 23 12 35 24 14 1 16
+Card Value -- 17 -- New Deck 46 42 38 36 31 19 43 27 29 20 6 3 10 4 7 9 50
+Card Value -- 1 -- New Deck 16
+Card Value -- 6 -- New Deck 12 10 24 1 15 7
+Card Value -- 11 -- New Deck 45 28 41 2 36 19 27 20 35 16 37
+Card Value -- 1 -- New Deck 15
+Card Value -- 2 -- New Deck 36 19
+Card Value -- 1 -- New Deck 15
+Card Value -- 2 -- New Deck 36 19
+Card Value -- 7 -- New Deck 22 13 50 47 30 25 26
+Card Value -- 19 -- New Deck 27 20 35 16 37 3 23 4 44 38 48 14 33 9 32 18 11 6 45
+Card Value -- 4 -- New Deck 47 38 25 14
+Card Value -- 11 -- New Deck 6 45 27 22 20 13 37 30 44 35 48
+Card Value -- 4 -- New Deck 50 45 37 27
+Card Value -- 6 -- New Deck 48 26 38 33 25 3
+Card Value -- 13 -- New Deck 50 47 30 25 26 8 49 40 34 17 46 42 31
+Card Value -- 20 -- New Deck 35 16 37 3 23 4 44 38 48 14 33 9 32 18 11 6 45 12 28 10
+Card Value -- 8 -- New Deck 49 40 34 17 46 42 31 50
+Card Value -- 4 -- New Deck 44 38 48 14
+Card Value -- 17 -- New Deck 46 42 31 50 35 47 16 25 3 26 23 8 4 49 44 40 38
+Card Value -- 14 -- New Deck 33 9 32 18 11 6 45 12 28 10 37 30 48 34
+----------------------------------
+Past Round -- 45 16 38 28 37 3 32 23 48 26 34 31
+Current Rouand -- 45 16 38 28 37 3 32 23 48 26 34 31
+----------------------------------
+Card Value -- 17 -- New Deck 16 46 3 42 23 50 8 35 4 47 38 25 14 49 9 44 18
+Card Value -- 6 -- New Deck 37 12 33 26 30 10
+----------------------------------
+Past Round -- 23 37 8 33 4
+Current Rouand -- 23 37 8 33 4
+----------------------------------
+----------------------------------
+Past Round -- 33 25 48 16 45 3
+Current Rouand -- 33 25 48 16 45 3
+----------------------------------
+Card Value -- 8 -- New Deck 49 40 34 17 46 42 31 5
+Card Value -- 4 -- New Deck 44 38 48 14
+Card Value -- 17 -- New Deck 46 42 31 5 43 39 29 21 7 19 13 20 50 35 47 16 25
+Card Value -- 14 -- New Deck 33 9 32 18 11 6 45 12 28 10 41 24 2 1
+Card Value -- 19 -- New Deck 16 50 33 35 9 47 11 32 24 25 6 46 12 42 10 29 28 43 2
+Card Value -- 5 -- New Deck 41 7 31 13 45
+Card Value -- 19 -- New Deck 5 50 7 33 31 35 13 47 20 32 16 25 9 46 11 42 24 29 6
+Card Value -- 2 -- New Deck 45 1
+----------------------------------
+Past Round -- 45 1
+Current Rouand -- 45 1
+----------------------------------
+----------------------------------
+Past Round -- 45 13 28 20 41 16 31 25
+Current Rouand -- 45 13 28 20 41 16 31 25
+----------------------------------
+Card Value -- 5 -- New Deck 43 39 29 21 7
+Card Value -- 18 -- New Deck 11 6 45 12 28 10 41 24 2 1 36 15 27 22 37 30 48 34
+Card Value -- 6 -- New Deck 21 12 43 10 39 24
+Card Value -- 2 -- New Deck 1 36
+----------------------------------
+Past Round -- 1 43 15 39 22
+Current Rouand -- 1 43 15 39 22
+----------------------------------
+Card Value -- 21 -- New Deck 7 19 13 20 50 35 47 16 25 3 26 23 8 4 49 44 40 38 17 14 46
+Card Value -- 12 -- New Deck 28 10 41 24 2 1 36 15 27 22 37 30
+Card Value -- 19 -- New Deck 13 20 50 35 47 16 25 3 26 23 8 4 49 44 40 38 17 14 46
+Card Value -- 10 -- New Deck 41 24 2 1 36 15 27 22 37 30
+Card Value -- 14 -- New Deck 46 50 2 35 1 47 36 16 15 49 24 44 20 40
+Card Value -- 3 -- New Deck 37 26 30
+Card Value -- 16 -- New Deck 15 49 24 44 20 40 27 38 25 14 3 46 37 50 26 35
+Card Value -- 4 -- New Deck 22 17 30 2
+----------------------------------
+Past Round -- 41 26 30 24 25 16
+Current Rouand -- 41 26 30 24 25 16
+----------------------------------
+Card Value -- 4 -- New Deck 49 44 40 38
+Card Value -- 7 -- New Deck 41 13 24 20 27 25 22
+Card Value -- 19 -- New Deck 10 50 2 35 1 47 36 16 15 4 7 49 41 44 13 40 24 38 20
+Card Value -- 3 -- New Deck 37 26 30
+Card Value -- 7 -- New Deck 49 41 44 13 40 24 38
+Card Value -- 1 -- New Deck 37
+Card Value -- 19 -- New Deck 3 50 26 35 23 47 8 36 27 49 10 41 30 44 2 40 1 24 17
+Card Value -- 4 -- New Deck 37 7 28 13
+----------------------------------
+Past Round -- 28 2 37 1 30 24
+Current Rouand -- 28 2 37 1 30 24
+----------------------------------
+Card Value -- 22 -- New Deck 14 19 4 50 7 35 13 47 20 36 3 49 26 41 23 44 8 40 27 24 10 38
+Card Value -- 1 -- New Deck 37
+----------------------------------
+Past Round -- 7 28 13 37 20 27 3 26 23
+Current Rouand -- 7 28 13 37 20 27 3 26 23
+----------------------------------
+Card Value -- 19 -- New Deck 13 20 50 35 47 16 25 3 26 23 8 4 49 44 40 38 17 14 46
+Card Value -- 10 -- New Deck 41 24 2 1 36 15 27 22 37 30
+Card Value -- 14 -- New Deck 46 50 2 35 1 47 36 16 15 49 24 44 20 40
+Card Value -- 3 -- New Deck 37 26 30
+Card Value -- 16 -- New Deck 15 49 24 44 20 40 27 38 25 14 3 46 37 50 26 35
+Card Value -- 4 -- New Deck 22 17 30 2
+----------------------------------
+Past Round -- 41 26 30 24 25 16
+Current Rouand -- 41 26 30 24 25 16
+----------------------------------
+Card Value -- 16 -- New Deck 25 3 26 23 8 4 49 44 40 38 17 14 46 33 42 9
+Card Value -- 15 -- New Deck 27 22 37 30 48 34 32 31 45 29 28 7 41 13 24
+----------------------------------
+Past Round -- 3 48 8 45 4 34 17 37 9
+Current Rouand -- 3 48 8 45 4 34 17 37 9
+----------------------------------
+Card Value -- 14 -- New Deck 46 33 42 9 5 18 43 11 39 6 21 12 19 10
+Card Value -- 7 -- New Deck 41 13 24 20 27 25 22
+----------------------------------
+Past Round -- 10 25 13
+Current Rouand -- 10 25 13
+----------------------------------
+Card Value -- 11 -- New Deck 39 6 21 12 19 10 50 2 35 1 47
+Card Value -- 3 -- New Deck 37 26 30
+Card Value -- 6 -- New Deck 50 21 35 12 47 10
+Card Value -- 1 -- New Deck 30
+Card Value -- 10 -- New Deck 50 2 35 1 47 36 16 15 49 32
+Card Value -- 8 -- New Deck 34 4 45 40 28 17 20 9
+Card Value -- 2 -- New Deck 35 1
+Card Value -- 4 -- New Deck 45 40 28 17
+Card Value -- 2 -- New Deck 35 1
+Card Value -- 4 -- New Deck 45 40 28 17
+Card Value -- 15 -- New Deck 49 32 44 31 38 29 14 7 46 41 33 13 42 24 43
+Card Value -- 9 -- New Deck 27 5 25 18 26 6 30 21 23
+Card Value -- 29 -- New Deck 14 7 46 41 33 13 42 24 43 22 11 3 39 37 10 8 50 34 47 28 36 17 15 9 49 27 32 5 44
+Card Value -- 6 -- New Deck 30 21 23 12 48 19
+----------------------------------
+Past Round -- 42 11 34 17 44 8 33 15 47 9 32 30
+Current Rouand -- 42 11 34 17 44 8 33 15 47 9 32 30
+----------------------------------
+Card Value -- 24 -- New Deck 43 22 11 3 39 37 10 8 50 34 47 28 36 17 15 9 49 27 32 5 44 25 31 18
+Card Value -- 2 -- New Deck 45 35
+Card Value -- 3 -- New Deck 39 37 10
+Card Value -- 1 -- New Deck 20
+Card Value -- 8 -- New Deck 50 34 47 28 36 17 15 9
+Card Value -- 14 -- New Deck 21 7 48 33 19 13 45 43 35 22 40 11 30 10
+Card Value -- 34 -- New Deck 47 28 36 17 15 9 49 27 32 5 44 25 31 18 38 26 29 6 46 23 41 12 42 4 24 2 3 1 39 20 37 16 8 14
+Card Value -- 7 -- New Deck 48 33 19 13 45 43 35
+Card Value -- 8 -- New Deck 14 36 19 17 13 49 35 44
+Card Value -- 12 -- New Deck 43 4 48 2 26 3 47 1 33 20 45 16
+Card Value -- 4 -- New Deck 49 16 47 2
+Card Value -- 1 -- New Deck 45
+Card Value -- 1 -- New Deck 49
+Card Value -- 2 -- New Deck 48 43
+Card Value -- 2 -- New Deck 49 48
+Card Value -- 3 -- New Deck 33 26 13
+Card Value -- 3 -- New Deck 49 33 48
+Card Value -- 1 -- New Deck 35
+Card Value -- 17 -- New Deck 13 49 35 44 28 31 15 38 9 29 27 46 32 41 5 42 25
+Card Value -- 2 -- New Deck 26 3
+----------------------------------
+Past Round -- 8 46 12 32 4 26 25 41 17 42 2 39 3 37 1 36 20 49 16 44 14 31 19 38 13
+Current Rouand -- 8 46 12 32 4 26 25 41 17 42 2 39 3 37 1 36 20 49 16 44 14 31 19 38 13
+----------------------------------
+Card Value -- 5 -- New Deck 44 25 31 18 38
+Card Value -- 11 -- New Deck 30 10 48 47 33 28 45 15 43 9 40
+Card Value -- 25 -- New Deck 31 18 38 26 29 6 46 23 41 12 42 4 24 2 3 1 39 20 37 16 8 14 50 21 34
+Card Value -- 10 -- New Deck 48 47 33 28 45 15 43 9 40 32
+Card Value -- 14 -- New Deck 50 21 34 38 33 46 43 23 9 41 40 37 15 16
+Card Value -- 12 -- New Deck 48 42 31 4 47 24 18 2 28 3 26 1
+----------------------------------
+Past Round -- 46 6 43 14 41 37 40 12 50 4 31 24 48 18 34 2 38 3 33 1 29 8 28 26
+Current Rouand -- 46 6 43 14 41 37 40 12 50 4 31 24 48 18 34 2 38 3 33 1 29 8 28 26
+----------------------------------
+Card Value -- 23 -- New Deck 41 12 42 4 24 2 3 1 39 20 37 16 8 14 50 21 34 7 36 19 17 13 49
+Card Value -- 9 -- New Deck 40 32 11 5 48 31 47 18 28
+Card Value -- 4 -- New Deck 24 2 3 1
+Card Value -- 5 -- New Deck 48 31 47 18 28
+Card Value -- 16 -- New Deck 8 14 50 21 34 7 36 19 17 13 49 41 40 42 11 39
+Card Value -- 5 -- New Deck 4 48 24 31 2
+Card Value -- 8 -- New Deck 14 50 21 34 7 36 19 17
+Card Value -- 4 -- New Deck 48 24 31 2
+----------------------------------
+Past Round -- 39 13 48 2 34 21
+Current Rouand -- 39 13 48 2 34 21
+----------------------------------
+Card Value -- 8 -- New Deck 14 50 21 34 7 36 19 17
+Card Value -- 4 -- New Deck 48 24 31 2
+Card Value -- 17 -- New Deck 13 49 41 40 42 11 39 28 37 12 16 5 8 4 50 24 34
+Card Value -- 1 -- New Deck 32
+Card Value -- 1 -- New Deck 49
+Card Value -- 8 -- New Deck 11 4 39 24 12 2 48 36
+----------------------------------
+Past Round -- 49 11 36 12
+Current Rouand -- 49 11 36 12
+----------------------------------
+Card Value -- 11 -- New Deck 20 4 40 39 42 12 31 2 37 16 32
+Card Value -- 7 -- New Deck 17 13 24 18 14 5 48
+Card Value -- 2 -- New Deck 24 16
+Card Value -- 5 -- New Deck 48 37 42 4 39
+Card Value -- 12 -- New Deck 31 2 37 16 32 3 50 41 47 19 34 21
+Card Value -- 5 -- New Deck 48 1 28 8 7
+Card Value -- 2 -- New Deck 37 16
+Card Value -- 1 -- New Deck 28
+----------------------------------
+Past Round -- 37 16 34 19 32 8 50 7 47 31 28 21
+Current Rouand -- 37 16 34 19 32 8 50 7 47 31 28 21
+----------------------------------
+Card Value -- 2 -- New Deck 37 16
+Card Value -- 1 -- New Deck 28
+Card Value -- 21 -- New Deck 49 36 20 17 40 24 39 18 42 14 12 5 2 1 37 28 16 8 32 7 50
+Card Value -- 3 -- New Deck 48 47 31
+Card Value -- 7 -- New Deck 24 17 50 40 49 47 31
+Card Value -- 2 -- New Deck 12 1
+Card Value -- 7 -- New Deck 50 13 41 4 34 11 21
+Card Value -- 12 -- New Deck 40 5 36 2 24 1 17 16 14 8 47 32
+Card Value -- 4 -- New Deck 34 11 21 50
+Card Value -- 2 -- New Deck 24 1
+Card Value -- 11 -- New Deck 21 50 40 13 5 41 36 4 2 34 24
+Card Value -- 1 -- New Deck 17
+Card Value -- 11 -- New Deck 1 21 17 50 16 40 14 13 8 41 32
+Card Value -- 4 -- New Deck 47 2 36 34
+----------------------------------
+Past Round -- 8 41 32 21 2 50 34 40 1
+Current Rouand -- 8 41 32 21 2 50 34 40 1
+----------------------------------
+----------------------------------
+Past Round -- 41 4 21 2 50 1 34 16 40 14 24 13
+Current Rouand -- 41 4 21 2 50 1 34 16 40 14 24 13
+----------------------------------
+Card Value -- 13 -- New Deck 41 4 34 11 21 3 49 48 39 31 42 19 37
+Card Value -- 5 -- New Deck 36 2 24 1 17
+Card Value -- 4 -- New Deck 34 11 21 3
+Card Value -- 2 -- New Deck 24 1
+Card Value -- 11 -- New Deck 21 3 49 48 39 31 42 19 37 41 36
+Card Value -- 1 -- New Deck 17
+Card Value -- 4 -- New Deck 34 11 21 3
+Card Value -- 2 -- New Deck 24 1
+Card Value -- 11 -- New Deck 21 3 49 48 39 31 42 19 37 20 28
+Card Value -- 1 -- New Deck 17
+Card Value -- 19 -- New Deck 37 20 28 18 7 12 50 40 13 5 41 36 4 2 34 24 11 1 21
+Card Value -- 3 -- New Deck 47 39 32
+Card Value -- 4 -- New Deck 2 34 24 11
+Card Value -- 7 -- New Deck 39 12 28 13 47 5 37
+Card Value -- 2 -- New Deck 34 24
+Card Value -- 7 -- New Deck 37 12 32 13 28 5 47
+Card Value -- 17 -- New Deck 49 14 48 8 42 16 19 3 50 39 40 20 41 31 36 18 24
+Card Value -- 5 -- New Deck 47 4 7 2 37
+Card Value -- 14 -- New Deck 48 8 42 16 19 3 50 39 40 20 41 31 36 18
+Card Value -- 4 -- New Deck 7 2 37 34
+Card Value -- 8 -- New Deck 42 16 19 3 50 39 40 20
+Card Value -- 2 -- New Deck 37 34
+Card Value -- 8 -- New Deck 42 16 19 3 50 39 40 20
+Card Value -- 2 -- New Deck 37 34
+Card Value -- 12 -- New Deck 17 5 49 47 14 4 48 7 8 2 42 37
+Card Value -- 3 -- New Deck 21 20 19
+Card Value -- 4 -- New Deck 24 2 3 1
+Card Value -- 5 -- New Deck 48 31 47 18 28
+Card Value -- 8 -- New Deck 14 50 21 34 7 36 19 17
+Card Value -- 15 -- New Deck 6 32 12 5 4 48 24 31 2 47 3 18 1 26 20
+Card Value -- 7 -- New Deck 36 19 17 14 6 50 32
+Card Value -- 4 -- New Deck 48 24 31 2
+----------------------------------
+Past Round -- 19 50 14 32 2
+Current Rouand -- 19 50 14 32 2
+----------------------------------
+----------------------------------
+Past Round -- 2 50 3 32 18 21 1 34 20
+Current Rouand -- 2 50 3 32 18 21 1 34 20
+----------------------------------
+Card Value -- 14 -- New Deck 50 21 34 7 36 19 17 13 49 35 27 22 44 30
+Card Value -- 6 -- New Deck 32 12 5 4 48 24
+Card Value -- 21 -- New Deck 34 7 36 19 17 13 49 35 27 22 44 30 25 10 38 33 46 43 23 9 41
+Card Value -- 12 -- New Deck 5 4 48 24 31 2 47 3 18 1 26 20
+Card Value -- 7 -- New Deck 36 19 17 13 49 35 27
+Card Value -- 4 -- New Deck 48 24 31 2
+----------------------------------
+Past Round -- 13 31 2
+Current Rouand -- 13 31 2
+----------------------------------
+Card Value -- 13 -- New Deck 49 35 27 22 44 30 25 10 38 33 46 43 23
+Card Value -- 2 -- New Deck 47 3
+Card Value -- 22 -- New Deck 44 30 25 10 38 33 46 43 23 9 41 34 5 7 4 13 2 49 47 35 3 27
+Card Value -- 1 -- New Deck 26
+Card Value -- 27 -- New Deck 18 22 1 44 26 30 20 38 24 33 19 46 31 43 17 41 36 34 10 13 9 49 5 47 23 35 7
+Card Value -- 4 -- New Deck 48 2 25 3
+Card Value -- 22 -- New Deck 1 44 26 30 20 38 24 33 19 46 31 43 17 41 36 34 10 13 9 49 5 47
+Card Value -- 2 -- New Deck 25 3
+----------------------------------
+Past Round -- 48 13 36 22 31 9 30 26
+Current Rouand -- 48 13 36 22 31 9 30 26
+----------------------------------
+Card Value -- 22 -- New Deck 1 44 26 30 20 38 24 33 19 46 31 43 17 41 36 34 10 13 9 49 5 47
+Card Value -- 2 -- New Deck 25 3
+----------------------------------
+Past Round -- 7 25 4 48 2
+Current Rouand -- 7 25 4 48 2
+----------------------------------
+Card Value -- 7 -- New Deck 36 19 17 13 49 35 27
+Card Value -- 4 -- New Deck 48 24 31 2
+----------------------------------
+Past Round -- 13 31 2
+Current Rouand -- 13 31 2
+----------------------------------
+Card Value -- 13 -- New Deck 49 35 27 22 44 30 25 10 38 33 46 43 23
+Card Value -- 2 -- New Deck 47 3
+Card Value -- 22 -- New Deck 44 30 25 10 38 33 46 43 23 9 41 40 42 11 39 28 8 15 14 6 50 32
+Card Value -- 1 -- New Deck 26
+Card Value -- 28 -- New Deck 8 15 14 6 50 32 21 12 34 5 7 4 13 2 49 47 35 3 27 18 22 1 44 26 30 20 38 29
+Card Value -- 10 -- New Deck 48 46 24 23 19 9 45 42 25 11
+Card Value -- 5 -- New Deck 7 4 13 2 49
+Card Value -- 11 -- New Deck 48 8 46 15 24 14 23 6 45 21 42
+Card Value -- 8 -- New Deck 21 4 49 46 48 13 24 15
+Card Value -- 2 -- New Deck 45 14
+Card Value -- 2 -- New Deck 49 42
+Card Value -- 4 -- New Deck 45 24 21 15
+Card Value -- 4 -- New Deck 13 2 49 47
+Card Value -- 8 -- New Deck 46 15 24 14 23 6 45 21
+Card Value -- 6 -- New Deck 47 45 49 46 23 13
+Card Value -- 2 -- New Deck 21 14
+Card Value -- 3 -- New Deck 27 18 22
+Card Value -- 6 -- New Deck 45 21 42 12 48 7
+Card Value -- 1 -- New Deck 44
+Card Value -- 12 -- New Deck 48 7 46 13 15 2 6 3 45 27 21 18
+Card Value -- 20 -- New Deck 38 29 50 19 32 9 34 25 5 11 4 8 49 24 47 14 35 23 26 7
+Card Value -- 13 -- New Deck 15 2 6 3 45 27 21 18 42 22 12 1 48
+Card Value -- 19 -- New Deck 32 9 34 25 5 11 4 8 49 24 47 14 35 23 26 7 38 15 29
+Card Value -- 3 -- New Deck 45 27 21
+Card Value -- 8 -- New Deck 49 24 47 14 35 23 26 7
+Card Value -- 1 -- New Deck 48
+Card Value -- 8 -- New Deck 1 49 48 47 32 35 9 26
+Card Value -- 2 -- New Deck 27 6
+Card Value -- 26 -- New Deck 18 38 1 15 9 29 5 50 11 19 12 34 4 25 24 49 23 48 7 42 14 47 8 32 2 35
+Card Value -- 3 -- New Deck 45 22 27
+----------------------------------
+Past Round -- 45 18 27 1
+Current Rouand -- 45 18 27 1
+----------------------------------
+----------------------------------
+Past Round -- 21 45 18 27 1
+Current Rouand -- 21 45 18 27 1
+----------------------------------
+Card Value -- 19 -- New Deck 32 9 34 25 5 11 4 8 49 24 47 14 35 23 26 7 20 13 38
+Card Value -- 3 -- New Deck 45 27 21
+Card Value -- 4 -- New Deck 8 49 24 47
+Card Value -- 12 -- New Deck 1 48 44 46 30 45 32 27 9 42 5 22
+Card Value -- 8 -- New Deck 49 24 47 14 35 23 26 7
+Card Value -- 1 -- New Deck 48
+Card Value -- 7 -- New Deck 20 13 38 15 29 2 50
+Card Value -- 9 -- New Deck 42 5 22 11 44 24 30 14 45
+Card Value -- 5 -- New Deck 13 11 50 42 45
+Card Value -- 2 -- New Deck 44 22
+Card Value -- 13 -- New Deck 38 15 29 2 50 6 19 3 34 21 25 18 4
+Card Value -- 5 -- New Deck 22 11 44 24 30
+Card Value -- 2 -- New Deck 25 6
+Card Value -- 4 -- New Deck 44 15 21 11
+Card Value -- 3 -- New Deck 50 29 30
+Card Value -- 2 -- New Deck 44 25
+Card Value -- 15 -- New Deck 29 2 50 6 19 3 34 21 25 18 4 12 8 1 49
+Card Value -- 11 -- New Deck 44 24 30 14 45 35 32 23 27 26 42
+Card Value -- 2 -- New Deck 50 14
+Card Value -- 3 -- New Deck 23 21 27
+Card Value -- 3 -- New Deck 50 23 30
+Card Value -- 12 -- New Deck 29 8 24 1 45 34 21 14 25 6 44 2
+----------------------------------
+Past Round -- 44 1 45 14 34 6 25 24
+Current Rouand -- 44 1 45 14 34 6 25 24
+----------------------------------
+Card Value -- 4 -- New Deck 3 12 50 29
+Card Value -- 2 -- New Deck 45 32
+Card Value -- 1 -- New Deck 18
+Card Value -- 3 -- New Deck 32 12 19
+Card Value -- 8 -- New Deck 50 45 34 27 29 3 26 1
+Card Value -- 4 -- New Deck 24 2 32 23
+Card Value -- 6 -- New Deck 8 4 50 24 45 2
+Card Value -- 3 -- New Deck 42 26 12
+----------------------------------
+Past Round -- 4 50 24 45 2
+Current Rouand -- 4 50 24 45 2
+----------------------------------
+Card Value -- 1 -- New Deck 45
+Card Value -- 6 -- New Deck 19 3 14 12 42 24
+----------------------------------
+Past Round -- 45 19
+Current Rouand -- 45 19
+----------------------------------
+Card Value -- 6 -- New Deck 45 19 35 3 34 14
+Card Value -- 2 -- New Deck 30 27
+Card Value -- 3 -- New Deck 34 14 25
+Card Value -- 1 -- New Deck 27
+Card Value -- 5 -- New Deck 38 22 15 11 50
+Card Value -- 3 -- New Deck 23 21 27
+Card Value -- 2 -- New Deck 47 14
+Card Value -- 8 -- New Deck 29 1 45 7 19 9 35 13
+Card Value -- 14 -- New Deck 46 6 5 3 38 23 22 21 50 26 30 18 32 4
+Card Value -- 1 -- New Deck 45
+Card Value -- 6 -- New Deck 5 3 38 23 22 21
+Card Value -- 7 -- New Deck 19 9 35 13 27 15 25
+----------------------------------
+Past Round -- 35 15 38 5 22 19
+Current Rouand -- 35 15 38 5 22 19
+----------------------------------
+Card Value -- 3 -- New Deck 38 23 22
+Card Value -- 9 -- New Deck 35 13 27 15 25 11 42 34 19
+Card Value -- 4 -- New Deck 49 20 24 12
+Card Value -- 5 -- New Deck 9 3 27 22 42
+----------------------------------
+Past Round -- 3 24 12
+Current Rouand -- 3 24 12
+----------------------------------
+Card Value -- 20 -- New Deck 24 12 48 44 2 8 47 29 14 1 46 45 6 7 38 35 23 13 21 15
+Card Value -- 3 -- New Deck 27 22 42
+Card Value -- 14 -- New Deck 1 46 45 6 7 38 35 23 13 21 15 48 42 44
+Card Value -- 2 -- New Deck 22 8
+Card Value -- 13 -- New Deck 21 15 50 25 26 11 32 19 4 5 49 9 20
+Card Value -- 1 -- New Deck 18
+Card Value -- 32 -- New Deck 21 12 34 5 7 4 13 2 49 47 35 3 27 18 22 1 44 26 30 20 38 29 33 16 43 36 41 31 40 17 39 37
+Card Value -- 9 -- New Deck 45 42 25 11 48 8 46 15 24
+Card Value -- 4 -- New Deck 13 2 49 47
+Card Value -- 8 -- New Deck 46 15 24 45 21 42 12 11
+Card Value -- 22 -- New Deck 1 44 26 30 20 38 29 33 16 43 36 41 31 40 17 39 37 34 25 4 8 49
+Card Value -- 5 -- New Deck 48 7 46 13 15
+----------------------------------
+Past Round -- 1 49 26 44 16 40 33
+Current Rouand -- 1 49 26 44 16 40 33
+----------------------------------
+Card Value -- 33 -- New Deck 16 43 36 41 31 40 17 39 37 34 25 4 8 49 24 47 45 35 21 27 12 18 11 22 5 44 7 30 13 20 15 38 2
+Card Value -- 3 -- New Deck 48 1 46
+Card Value -- 11 -- New Deck 22 5 44 7 30 13 20 15 38 2 43
+Card Value -- 4 -- New Deck 17 8 39 24
+Card Value -- 5 -- New Deck 44 7 30 13 20
+Card Value -- 8 -- New Deck 39 24 46 35 34 21 40 27
+----------------------------------
+Past Round -- 20 44 39
+Current Rouand -- 20 44 39
+----------------------------------
+Card Value -- 1 -- New Deck 31
+Card Value -- 12 -- New Deck 36 18 24 7 46 30 35 13 34 20 21 15
+Card Value -- 16 -- New Deck 49 48 47 41 45 37 11 4 22 17 5 8 44 39 43 25
+Card Value -- 18 -- New Deck 24 7 46 30 35 13 34 20 21 15 40 38 27 2 12 1 36 31
+Card Value -- 7 -- New Deck 47 46 41 30 45 35 37
+Card Value -- 4 -- New Deck 40 5 38 8
+Card Value -- 18 -- New Deck 11 22 5 44 7 30 13 20 15 38 2 33 3 43 1 41 26 40
+Card Value -- 4 -- New Deck 48 8 46 24
+Card Value -- 8 -- New Deck 44 24 30 11 20 5 38 7
+Card Value -- 1 -- New Deck 48
+----------------------------------
+Past Round -- 38 11 30 24
+Current Rouand -- 38 11 30 24
+----------------------------------
+Card Value -- 3 -- New Deck 8 1 38
+Card Value -- 5 -- New Deck 24 7 46 33 30
+Card Value -- 1 -- New Deck 38
+Card Value -- 7 -- New Deck 46 33 30 13 48 41 20
+Card Value -- 2 -- New Deck 43 5
+Card Value -- 8 -- New Deck 7 1 46 38 33 26 48 15
+Card Value -- 5 -- New Deck 20 3 30 24 43
+Card Value -- 1 -- New Deck 46
+Card Value -- 22 -- New Deck 5 44 7 30 13 20 15 38 2 33 3 43 1 41 26 40 29 39 16 49 17 47
+Card Value -- 8 -- New Deck 46 24 42 21 31 12 4 18
+Card Value -- 15 -- New Deck 38 2 33 3 43 1 41 26 40 29 39 16 49 17 47
+Card Value -- 4 -- New Deck 18 46 5 42
+Card Value -- 1 -- New Deck 41
+Card Value -- 2 -- New Deck 42 3
+Card Value -- 2 -- New Deck 39 3
+Card Value -- 4 -- New Deck 30 18 46 33
+Card Value -- 15 -- New Deck 38 2 33 3 43 1 41 26 40 29 39 16 49 17 47
+Card Value -- 4 -- New Deck 18 48 11 46
+Card Value -- 1 -- New Deck 41
+Card Value -- 2 -- New Deck 46 3
+----------------------------------
+Past Round -- 33 11 26 3 49 39 46 2 41 38
+Current Rouand -- 33 11 26 3 49 39 46 2 41 38
+----------------------------------
+Card Value -- 15 -- New Deck 4 38 18 33 11 43 5 41 7 40 13 39 2 49 3
+Card Value -- 8 -- New Deck 46 24 34 30 42 21 25 20
+----------------------------------
+Past Round -- 46 24 34 30 42 21 25 20
+Current Rouand -- 46 24 34 30 42 21 25 20
+----------------------------------
+Card Value -- 27 -- New Deck 16 22 17 44 36 15 8 38 24 33 30 43 21 41 20 40 12 39 4 49 18 47 11 37 5 45 7
+Card Value -- 2 -- New Deck 42 3
+----------------------------------
+Past Round -- 42 3
+Current Rouand -- 42 3
+----------------------------------
+Card Value -- 22 -- New Deck 17 44 36 15 8 38 24 33 30 43 21 41 20 40 12 39 4 49 18 47 11 37
+Card Value -- 3 -- New Deck 25 1 48
+----------------------------------
+Past Round -- 48 11 39 1 36 17 41 21
+Current Rouand -- 48 11 39 1 36 17 41 21
+----------------------------------
+Card Value -- 27 -- New Deck 2 22 3 44 1 38 26 33 29 43 16 41 17 40 36 39 15 49 8 47 24 37 30 45 21 35 20
+Card Value -- 12 -- New Deck 46 4 34 18 42 11 25 5 48 7 31 13
+Card Value -- 22 -- New Deck 3 44 1 38 26 33 29 43 16 41 17 40 36 39 15 49 8 47 24 37 30 45
+Card Value -- 4 -- New Deck 34 18 42 11
+Card Value -- 22 -- New Deck 4 44 18 38 11 26 25 33 5 43 7 41 13 40 2 36 34 39 3 49 1 47
+Card Value -- 8 -- New Deck 31 24 46 30 42 21 48 20
+Card Value -- 21 -- New Deck 33 20 43 4 41 18 40 11 36 25 34 31 39 5 49 7 47 13 24 2 30
+Card Value -- 1 -- New Deck 48
+Card Value -- 4 -- New Deck 49 24 36 20
+Card Value -- 5 -- New Deck 39 11 48 7 47
+----------------------------------
+Past Round -- 7 49 47
+Current Rouand -- 7 49 47
+----------------------------------
+Card Value -- 2 -- New Deck 41 36
+Card Value -- 4 -- New Deck 43 5 48 24
+Card Value -- 5 -- New Deck 49 31 40 11 39
+Card Value -- 7 -- New Deck 47 34 4 2 43 41 48
+Card Value -- 11 -- New Deck 39 25 30 20 36 18 5 7 49 47 40
+Card Value -- 2 -- New Deck 43 41
+----------------------------------
+Past Round -- 7 47 20 49 25
+Current Rouand -- 7 47 20 49 25
+----------------------------------
+Card Value -- 5 -- New Deck 49 31 43 7 47
+Card Value -- 2 -- New Deck 34 18
+Card Value -- 5 -- New Deck 36 33 30 2 49
+Card Value -- 7 -- New Deck 47 34 43 4 48 40 25
+Card Value -- 2 -- New Deck 49 20
+Card Value -- 4 -- New Deck 48 40 25 11
+Card Value -- 2 -- New Deck 49 20
+Card Value -- 5 -- New Deck 40 36 39 7 25
+Card Value -- 5 -- New Deck 49 7 47 13 24
+Card Value -- 4 -- New Deck 42 41 26 18
+----------------------------------
+Past Round -- 13 41 24
+Current Rouand -- 13 41 24
+----------------------------------
+Card Value -- 3 -- New Deck 21 1 25
+Card Value -- 11 -- New Deck 44 36 46 34 43 31 41 7 18 13 48
+Card Value -- 4 -- New Deck 49 42 47 26
+Card Value -- 7 -- New Deck 18 13 48 24 40 2 33
+----------------------------------
+Past Round -- 2 42 33 49 13
+Current Rouand -- 2 42 33 49 13
+----------------------------------
+Card Value -- 1 -- New Deck 49
+Card Value -- 5 -- New Deck 48 47 40 38 33
+Card Value -- 11 -- New Deck 48 43 46 18 44 39 31 3 49 41 25
+Card Value -- 5 -- New Deck 42 4 36 33 26
+Card Value -- 4 -- New Deck 46 36 44 26
+Card Value -- 3 -- New Deck 40 25 30
+----------------------------------
+Past Round -- 48 29 46 16 42 17
+Current Rouand -- 48 29 46 16 42 17
+----------------------------------
+Card Value -- 22 -- New Deck 3 44 1 38 26 33 29 43 16 41 17 40 36 39 15 49 8 47 24 37 30 45
+Card Value -- 4 -- New Deck 34 18 42 11
+Card Value -- 27 -- New Deck 12 22 4 44 18 38 11 26 25 33 5 43 7 41 13 40 2 36 34 39 3 49 1 47 29 37 16
+Card Value -- 8 -- New Deck 31 24 46 30 42 21 48 20
+Card Value -- 26 -- New Deck 20 33 12 43 22 41 4 40 18 36 11 34 31 39 25 49 5 47 7 37 13 44 2 30 24 38
+Card Value -- 1 -- New Deck 42
+----------------------------------
+Past Round -- 3 46 1 42 29 48 16
+Current Rouand -- 3 46 1 42 29 48 16
+----------------------------------
+Card Value -- 27 -- New Deck 8 44 30 38 21 26 20 33 12 43 22 41 4 40 18 36 11 34 31 39 25 49 5 47 7 37 13
+Card Value -- 1 -- New Deck 42
+Card Value -- 26 -- New Deck 17 33 15 43 8 41 30 40 21 36 20 34 12 39 22 25 24 49 4 47 18 37 11 45 31 35
+Card Value -- 3 -- New Deck 48 1 46
+----------------------------------
+Past Round -- 17 48 8 46 24 36 21 39 18 43 12
+Current Rouand -- 17 48 8 46 24 36 21 39 18 43 12
+----------------------------------
+Card Value -- 33 -- New Deck 15 43 8 41 30 40 21 36 20 34 12 39 22 25 24 49 4 47 18 37 11 45 31 35 5 27 7 44 13 38 2 26 3
+Card Value -- 1 -- New Deck 46
+Card Value -- 7 -- New Deck 44 13 38 2 26 3 40
+Card Value -- 4 -- New Deck 46 37 39 11
+----------------------------------
+Past Round -- 40 37
+Current Rouand -- 40 37
+----------------------------------
+Card Value -- 2 -- New Deck 26 3
+Card Value -- 11 -- New Deck 41 35 25 5 34 27 46 44 37 13 39
+Card Value -- 15 -- New Deck 21 8 24 20 49 43 47 30 18 12 45 36 31 22 7
+Card Value -- 5 -- New Deck 34 27 46 44 37
+Card Value -- 12 -- New Deck 45 36 31 22 7 4 40 25 15 5 49 37
+Card Value -- 2 -- New Deck 41 26
+Card Value -- 11 -- New Deck 12 2 45 41 36 26 22 3 40 27 25
+Card Value -- 7 -- New Deck 21 4 46 15 24 5 30
+Card Value -- 2 -- New Deck 45 41
+Card Value -- 4 -- New Deck 46 15 24 5
+Card Value -- 5 -- New Deck 40 12 27 4 25
+Card Value -- 3 -- New Deck 46 41 45
+Card Value -- 2 -- New Deck 36 30
+Card Value -- 5 -- New Deck 46 40 41 12 45
+Card Value -- 3 -- New Deck 22 12 25
+Card Value -- 4 -- New Deck 5 2 46 36
+Card Value -- 2 -- New Deck 45 41
+Card Value -- 4 -- New Deck 46 15 24 5
+Card Value -- 20 -- New Deck 43 38 47 35 39 31 41 15 36 24 26 5 40 34 27 18 25 7 49 21
+Card Value -- 2 -- New Deck 46 45
+Card Value -- 13 -- New Deck 31 3 41 11 15 8 49 38 21 5 37 36 47
+Card Value -- 7 -- New Deck 46 44 40 12 34 4 43
+Card Value -- 8 -- New Deck 49 38 21 5 37 36 47 41
+Card Value -- 4 -- New Deck 43 46 31 44
+Card Value -- 3 -- New Deck 36 12 47
+Card Value -- 5 -- New Deck 46 8 38 4 44
+Card Value -- 11 -- New Deck 41 34 40 15 49 31 43 21 3 5 12
+Card Value -- 4 -- New Deck 44 37 46 36
+----------------------------------
+Past Round -- 46 15
+Current Rouand -- 46 15
+----------------------------------
+Card Value -- 11 -- New Deck 15 8 49 38 21 5 37 36 47 24 30
+Card Value -- 12 -- New Deck 34 4 43 20 27 2 45 35 25 22 46 31
+Card Value -- 8 -- New Deck 49 38 21 5 37 36 47 24
+Card Value -- 4 -- New Deck 43 20 27 2
+Card Value -- 5 -- New Deck 37 36 47 24 49
+Card Value -- 2 -- New Deck 27 21
+Card Value -- 5 -- New Deck 37 36 47 24 30
+Card Value -- 2 -- New Deck 45 35
+----------------------------------
+Past Round -- 25 34 22 45 15 37 21 46 30
+Current Rouand -- 25 34 22 45 15 37 21 46 30
+----------------------------------
+Card Value -- 8 -- New Deck 49 38 21 5 37 36 47 24
+Card Value -- 4 -- New Deck 43 20 27 2
+Card Value -- 5 -- New Deck 37 36 47 24 49
+Card Value -- 2 -- New Deck 27 21
+Card Value -- 5 -- New Deck 37 36 47 24 30
+Card Value -- 2 -- New Deck 45 35
+Card Value -- 2 -- New Deck 36 35
+Card Value -- 13 -- New Deck 15 7 45 11 37 12 46 8 30 4 44 38 39
+Card Value -- 3 -- New Deck 41 27 40
+Card Value -- 8 -- New Deck 30 4 44 38 39 20 34 5
+----------------------------------
+Past Round -- 20 41 5
+Current Rouand -- 20 41 5
+----------------------------------
+Card Value -- 18 -- New Deck 36 15 35 7 47 45 25 11 22 12 3 8 41 30 27 4 49 39
+Card Value -- 5 -- New Deck 13 2 37 24 46
+Card Value -- 15 -- New Deck 35 7 47 45 25 11 22 12 3 8 41 30 27 4 49
+Card Value -- 2 -- New Deck 37 24
+Card Value -- 15 -- New Deck 35 7 47 45 25 11 22 12 3 8 41 30 27 4 49
+Card Value -- 2 -- New Deck 37 24
+Card Value -- 5 -- New Deck 36 13 15 2 47
+Card Value -- 3 -- New Deck 35 8 44
+Card Value -- 13 -- New Deck 15 2 47 46 45 26 41 24 30 7 49 40 39
+Card Value -- 8 -- New Deck 44 27 25 4 38 31 22 20
+----------------------------------
+Past Round -- 44 20
+Current Rouand -- 44 20
+----------------------------------
+Card Value -- 11 -- New Deck 43 21 34 12 5 3 36 35 13 8 47
+Card Value -- 2 -- New Deck 31 26
+Card Value -- 3 -- New Deck 36 35 13
+Card Value -- 7 -- New Deck 26 21 37 34 30 12 18
+Card Value -- 4 -- New Deck 45 38 41 22
+Card Value -- 5 -- New Deck 7 3 37 13 34
+----------------------------------
+Past Round -- 4 46 18 42 11 48 31
+Current Rouand -- 4 46 18 42 11 48 31
+----------------------------------
+Card Value -- 5 -- New Deck 7 4 13 2 49
+Card Value -- 11 -- New Deck 48 8 46 15 24 14 23 6 45 21 42
+Card Value -- 8 -- New Deck 21 4 49 46 48 13 24 15
+Card Value -- 2 -- New Deck 45 14
+Card Value -- 2 -- New Deck 49 42
+Card Value -- 4 -- New Deck 45 24 21 15
+Card Value -- 4 -- New Deck 13 2 49 47
+Card Value -- 8 -- New Deck 46 15 24 14 23 6 45 21
+Card Value -- 6 -- New Deck 47 45 49 46 23 13
+Card Value -- 2 -- New Deck 21 14
+Card Value -- 3 -- New Deck 27 18 22
+Card Value -- 6 -- New Deck 45 21 42 12 48 7
+Card Value -- 1 -- New Deck 44
+Card Value -- 12 -- New Deck 48 7 46 13 15 2 6 3 45 27 21 18
+Card Value -- 26 -- New Deck 30 20 38 29 33 16 43 36 41 31 40 17 39 37 28 10 50 19 32 9 34 25 5 11 4 8
+Card Value -- 7 -- New Deck 46 13 15 2 6 3 45
+Card Value -- 16 -- New Deck 43 36 41 31 40 17 39 37 28 10 50 19 32 9 34 25
+Card Value -- 3 -- New Deck 45 46 30
+----------------------------------
+Past Round -- 19 50 32 39 9 41 25
+Current Rouand -- 19 50 32 39 9 41 25
+----------------------------------
+Card Value -- 4 -- New Deck 8 20 13 38
+Card Value -- 10 -- New Deck 46 19 45 9 37 34 31 25 28 5
+Card Value -- 16 -- New Deck 5 41 11 30 10 39 4 50 8 32 13 20 15 38 29 33
+Card Value -- 6 -- New Deck 43 3 46 36 45 40
+Card Value -- 3 -- New Deck 50 5 32
+Card Value -- 4 -- New Deck 46 8 36 13
+----------------------------------
+Past Round -- 50 13 46 8
+Current Rouand -- 50 13 46 8
+----------------------------------
+Card Value -- 5 -- New Deck 32 11 38 10 3
+Card Value -- 8 -- New Deck 36 13 30 20 45 15 40 29
+----------------------------------
+Past Round -- 20 38 10 32 3
+Current Rouand -- 20 38 10 32 3
+----------------------------------
+Card Value -- 11 -- New Deck 36 3 46 20 32 15 45 33 13 4 43
+Card Value -- 5 -- New Deck 39 29 30 8 40
+Card Value -- 4 -- New Deck 43 41 50 38
+Card Value -- 3 -- New Deck 40 32 36
+----------------------------------
+Past Round -- 38 6 33 3 41 17 50 19 30 9
+Current Rouand -- 38 6 33 3 41 17 50 19 30 9
+----------------------------------
+Card Value -- 20 -- New Deck 38 29 33 16 43 36 41 31 40 17 39 37 28 10 50 19 32 9 34 25
+Card Value -- 13 -- New Deck 15 2 6 3 45 27 21 18 42 22 12 1 48
+Card Value -- 16 -- New Deck 43 36 41 31 40 17 39 37 28 10 50 19 32 9 34 25
+Card Value -- 3 -- New Deck 45 27 21
+----------------------------------
+Past Round -- 9 34 25 36 27 41 21 39 31 50 17
+Current Rouand -- 9 34 25 36 27 41 21 39 31 50 17
+----------------------------------
+----------------------------------
+Past Round -- 3 48 27 45 21 42 18 40 12 32 1
+Current Rouand -- 3 48 27 45 21 42 18 40 12 32 1
+----------------------------------
+Card Value -- 29 -- New Deck 33 16 43 36 41 31 40 17 39 37 28 10 50 19 32 9 34 25 5 11 4 8 49 24 47 14 35 23 26
+Card Value -- 2 -- New Deck 6 3
+Card Value -- 33 -- New Deck 16 43 36 41 31 40 17 39 37 28 10 50 19 32 9 34 25 5 11 4 8 49 24 47 14 35 23 26 7 20 13 38 15
+Card Value -- 6 -- New Deck 3 45 27 21 18 42
+Card Value -- 16 -- New Deck 43 36 41 31 40 17 39 37 28 10 50 19 32 9 34 25
+Card Value -- 3 -- New Deck 45 27 21
+----------------------------------
+Past Round -- 9 34 25 36 27 41 21 39 31 50 17
+Current Rouand -- 9 34 25 36 27 41 21 39 31 50 17
+----------------------------------
+Card Value -- 4 -- New Deck 8 49 24 47
+Card Value -- 10 -- New Deck 43 19 39 32 42 9 37 34 40 25
+Card Value -- 16 -- New Deck 3 36 27 41 21 31 18 50 17 4 10 49 19 47 32 35
+Card Value -- 11 -- New Deck 43 8 39 24 42 14 37 23 34 26 40
+----------------------------------
+Past Round -- 23 50 19 49 3 43 21 42 18 47 17 39 4 36 10 41 8
+Current Rouand -- 23 50 19 49 3 43 21 42 18 47 17 39 4 36 10 41 8
+----------------------------------
+Card Value -- 16 -- New Deck 11 36 8 41 24 31 14 50 23 49 7 47 20 32 28 35
+Card Value -- 3 -- New Deck 39 27 42
+Card Value -- 16 -- New Deck 3 36 27 41 21 31 18 50 17 49 4 47 10 32 19 35
+Card Value -- 11 -- New Deck 42 8 37 24 34 14 26 23 40 7 25
+Card Value -- 10 -- New Deck 32 19 35 36 8 41 24 31 14 50
+Card Value -- 3 -- New Deck 37 27 34
+----------------------------------
+Past Round -- 36 27 37 19
+Current Rouand -- 36 27 37 19
+----------------------------------
+Card Value -- 10 -- New Deck 3 35 34 36 21 41 18 31 17 50
+Card Value -- 8 -- New Deck 40 24 25 14 37 23 27 7
+Card Value -- 10 -- New Deck 8 35 24 34 25 36 14 41 23 31
+Card Value -- 4 -- New Deck 40 19 37 26
+----------------------------------
+Past Round -- 37 18 40 17 27 10
+Current Rouand -- 37 18 40 17 27 10
+----------------------------------
+----------------------------------
+Past Round -- 35 9 38 5 16 11 36 8 41 24 31 14 50 23 49 7 47 20 32 28
+Current Rouand -- 35 9 38 5 16 11 36 8 41 24 31 14 50 23 49 7 47 20 32 28
+----------------------------------
+Card Value -- 16 -- New Deck 43 36 41 31 40 17 39 37 28 10 50 19 32 9 34 25
+Card Value -- 3 -- New Deck 45 27 21
+----------------------------------
+Past Round -- 9 34 25 36 27 41 21 39 31 50 17
+Current Rouand -- 9 34 25 36 27 41 21 39 31 50 17
+----------------------------------
+Card Value -- 37 -- New Deck 28 10 50 19 32 9 34 25 5 11 4 8 49 24 47 14 35 23 26 7 20 13 38 15 29 2 33 6 16 3 36 27 41 21 31 18 39
+Card Value -- 1 -- New Deck 48
+Card Value -- 9 -- New Deck 26 8 38 14 29 7 33 20 16
+Card Value -- 5 -- New Deck 48 47 34 11 19
+Card Value -- 7 -- New Deck 33 20 16 13 36 15 27
+Card Value -- 4 -- New Deck 5 9 48 26
+----------------------------------
+Past Round -- 9 27 26 33 13
+Current Rouand -- 9 27 26 33 13
+----------------------------------
+Card Value -- 25 -- New Deck 28 21 49 18 35 32 23 10 38 34 14 11 29 19 7 4 33 5 20 9 15 8 24 16 41
+Card Value -- 2 -- New Deck 47 31
+Card Value -- 18 -- New Deck 35 32 23 10 38 34 14 11 29 19 7 4 33 5 20 9 15 8
+Card Value -- 6 -- New Deck 48 39 27 3 47 28
+Card Value -- 10 -- New Deck 38 34 14 11 29 19 7 4 33 5
+Card Value -- 3 -- New Deck 47 28 48
+----------------------------------
+Past Round -- 34 19 33 7 29 14
+Current Rouand -- 34 19 33 7 29 14
+----------------------------------
+Card Value -- 4 -- New Deck 7 5 23 20
+Card Value -- 9 -- New Deck 35 15 11 8 39 10 29 3 47
+Card Value -- 10 -- New Deck 38 34 14 11 29 19 7 4 33 5
+Card Value -- 3 -- New Deck 47 28 31
+----------------------------------
+Past Round -- 34 19 33 7 29 14
+Current Rouand -- 34 19 33 7 29 14
+----------------------------------
+Card Value -- 16 -- New Deck 41 26 50 13 25 2 49 36 10 3 34 28 29 6 19 18
+Card Value -- 14 -- New Deck 21 11 48 7 35 4 39 33 32 5 27 20 23 9
+Card Value -- 13 -- New Deck 25 2 49 36 10 3 34 28 29 6 19 18 41
+Card Value -- 7 -- New Deck 35 4 39 33 32 5 27
+Card Value -- 2 -- New Deck 49 36
+Card Value -- 4 -- New Deck 39 33 32 5
+Card Value -- 3 -- New Deck 34 28 29
+Card Value -- 5 -- New Deck 27 35 25 32 10
+Card Value -- 2 -- New Deck 49 36
+Card Value -- 4 -- New Deck 39 33 32 5
+Card Value -- 3 -- New Deck 34 28 29
+Card Value -- 5 -- New Deck 27 20 23 9 35
+Card Value -- 11 -- New Deck 50 48 13 7 2 4 49 39 36 33 34
+Card Value -- 3 -- New Deck 9 6 35
+Card Value -- 13 -- New Deck 25 2 49 36 10 3 34 28 29 6 19 18 16
+Card Value -- 7 -- New Deck 35 4 39 33 32 5 27
+Card Value -- 2 -- New Deck 49 36
+Card Value -- 4 -- New Deck 39 33 32 5
+Card Value -- 3 -- New Deck 34 28 29
+Card Value -- 5 -- New Deck 27 35 25 32 10
+Card Value -- 2 -- New Deck 49 36
+Card Value -- 4 -- New Deck 39 33 32 5
+Card Value -- 3 -- New Deck 34 28 29
+Card Value -- 5 -- New Deck 27 20 23 9 47
+Card Value -- 6 -- New Deck 19 18 16 14 41 21
+Card Value -- 9 -- New Deck 47 15 38 8 31 24 35 25 32
+----------------------------------
+Past Round -- 8 41 31
+Current Rouand -- 8 41 31
+----------------------------------
+Card Value -- 14 -- New Deck 41 21 26 11 50 48 13 7 2 4 49 39 36 33
+Card Value -- 8 -- New Deck 31 24 35 25 32 10 5 3
+Card Value -- 13 -- New Deck 7 2 4 49 39 36 33 41 31 50 32 48 10
+Card Value -- 5 -- New Deck 3 24 21 35 26
+Card Value -- 7 -- New Deck 2 4 49 39 36 33 41
+Card Value -- 3 -- New Deck 24 21 35
+Card Value -- 7 -- New Deck 2 4 49 39 36 33 41
+Card Value -- 3 -- New Deck 24 21 35
+Card Value -- 13 -- New Deck 7 2 4 49 39 36 33 34 27 28 20 29 23
+Card Value -- 5 -- New Deck 3 47 19 38 16
+Card Value -- 7 -- New Deck 2 4 49 39 36 33 34
+Card Value -- 3 -- New Deck 47 19 38
+Card Value -- 7 -- New Deck 2 4 49 39 36 33 34
+Card Value -- 3 -- New Deck 47 19 38
+Card Value -- 23 -- New Deck 6 9 18 15 14 8 41 31 50 32 48 10 13 5 7 3 49 38 39 16 36 24 33
+Card Value -- 2 -- New Deck 19 4
+Card Value -- 9 -- New Deck 18 15 14 8 41 31 50 32 48
+Card Value -- 4 -- New Deck 35 34 47 29
+Card Value -- 3 -- New Deck 49 38 39
+Card Value -- 8 -- New Deck 15 10 47 13 14 5 29 7
+----------------------------------
+Past Round -- 14 38 5 49 7
+Current Rouand -- 14 38 5 49 7
+----------------------------------
+Card Value -- 18 -- New Deck 48 34 3 8 49 15 38 10 16 13 36 14 24 5 33 29 21 7
+Card Value -- 2 -- New Deck 27 9
+Card Value -- 8 -- New Deck 49 15 38 10 16 13 36 14
+Card Value -- 4 -- New Deck 20 19 11 6
+Card Value -- 13 -- New Deck 36 14 24 5 33 29 21 7 41 39 31 26 50
+Card Value -- 3 -- New Deck 19 15 25
+Card Value -- 24 -- New Deck 47 14 35 23 26 7 20 13 38 15 29 2 33 6 16 3 36 27 41 21 31 18 39 12
+Card Value -- 10 -- New Deck 30 19 45 32 43 9 42 34 40 25
+Card Value -- 7 -- New Deck 20 13 38 15 29 2 33
+Card Value -- 9 -- New Deck 42 34 40 25 19 14 45 35 32
+Card Value -- 2 -- New Deck 33 6
+Card Value -- 14 -- New Deck 45 35 32 23 43 26 9 7 42 20 34 13 40 38
+Card Value -- 12 -- New Deck 47 30 29 19 27 26 41 9 21 7 39 34
+Card Value -- 13 -- New Deck 40 38 25 15 14 2 45 33 35 6 32 16 23
+Card Value -- 7 -- New Deck 39 34 47 40 29 25 19
+Card Value -- 6 -- New Deck 32 16 23 38 30 45
+----------------------------------
+Past Round -- 16 45 23
+Current Rouand -- 16 45 23
+----------------------------------
+----------------------------------
+Past Round -- 35 6 45 16 41 23 33 9
+Current Rouand -- 35 6 45 16 41 23 33 9
+----------------------------------
+Card Value -- 7 -- New Deck 39 34 12 13 47 40 29
+Card Value -- 6 -- New Deck 32 16 23 3 43 36
+Card Value -- 13 -- New Deck 47 40 29 25 19 15 27 14 26 2 7 6 39
+Card Value -- 3 -- New Deck 43 36 42
+Card Value -- 6 -- New Deck 39 32 34 16 13 3
+Card Value -- 9 -- New Deck 35 21 23 12 42 29 31 25 20
+----------------------------------
+Past Round -- 23 42 12
+Current Rouand -- 23 42 12
+----------------------------------
+Card Value -- 9 -- New Deck 39 35 32 21 34 23 16 12 47
+Card Value -- 15 -- New Deck 38 27 30 14 45 26 41 2 33 7 42 13 29 3 18
+Card Value -- 3 -- New Deck 47 27 32
+Card Value -- 14 -- New Deck 45 30 33 7 41 34 23 18 42 29 39 21 38 35
+----------------------------------
+Past Round -- 7 42 34 39 18 38 29
+Current Rouand -- 7 42 34 39 18 38 29
+----------------------------------
+Card Value -- 2 -- New Deck 3 14
+Card Value -- 7 -- New Deck 41 34 23 18 42 29 39
+Card Value -- 12 -- New Deck 47 26 38 13 42 30 35 27 45 33 39 7
+Card Value -- 2 -- New Deck 41 3
+Card Value -- 12 -- New Deck 47 31 43 25 40 20 36 19 9 15 39 38
+Card Value -- 2 -- New Deck 33 7
+Card Value -- 20 -- New Deck 36 19 9 15 39 38 35 27 32 30 21 14 12 2 47 33 31 7 43 42
+Card Value -- 3 -- New Deck 18 6 45
+----------------------------------
+Past Round -- 12 45 2 38 7
+Current Rouand -- 12 45 2 38 7
+----------------------------------
+Card Value -- 19 -- New Deck 9 15 39 38 35 27 32 30 21 14 12 2 47 33 31 7 43 42 25
+Card Value -- 6 -- New Deck 45 34 26 23 41 16
+----------------------------------
+Past Round -- 14 34 12 41 2
+Current Rouand -- 14 34 12 41 2
+----------------------------------
+Card Value -- 23 -- New Deck 27 16 30 9 47 45 33 32 43 15 42 14 13 12 40 35 29 2 36 21 18 7 39
+Card Value -- 3 -- New Deck 41 19 25
+Card Value -- 18 -- New Deck 7 39 30 25 47 27 45 19 33 16 43 9 42 32 40 14 35 15
+Card Value -- 2 -- New Deck 41 21
+Card Value -- 7 -- New Deck 20 13 38 15 29 2 33
+Card Value -- 9 -- New Deck 42 34 40 25 22 5 17 11 48
+Card Value -- 2 -- New Deck 33 29
+Card Value -- 5 -- New Deck 17 11 48 42 20
+Card Value -- 2 -- New Deck 33 6
+Card Value -- 5 -- New Deck 17 11 48 4 28
+Card Value -- 6 -- New Deck 16 3 36 27 41 21
+Card Value -- 11 -- New Deck 48 4 28 8 19 14 45 35 32 23 43
+Card Value -- 3 -- New Deck 36 27 41
+Card Value -- 4 -- New Deck 28 8 19 14
+----------------------------------
+Past Round -- 16 36 3 41 4
+Current Rouand -- 16 36 3 41 4
+----------------------------------
+Card Value -- 3 -- New Deck 36 27 41
+Card Value -- 4 -- New Deck 28 8 19 14
+Card Value -- 21 -- New Deck 31 18 39 12 37 1 50 46 49 44 24 10 47 30 29 22 33 17 6 11 3
+Card Value -- 14 -- New Deck 45 35 32 23 43 26 9 7 42 20 34 13 40 38
+Card Value -- 10 -- New Deck 47 30 29 22 33 17 6 11 3 39
+Card Value -- 13 -- New Deck 40 38 45 31 35 18 23 12 43 37 26 1 34
+----------------------------------
+Past Round -- 29 26 39 1 47 33 30 18 40 17 37 31
+Current Rouand -- 29 26 39 1 47 33 30 18 40 17 37 31
+----------------------------------
+Card Value -- 11 -- New Deck 3 39 32 50 9 46 7 49 42 44 20
+Card Value -- 12 -- New Deck 43 37 26 1 34 24 38 30 45 29 31 22
+----------------------------------
+Past Round -- 50 9 46 7 49 42 44 20 39 37 32 26
+Current Rouand -- 50 9 46 7 49 42 44 20 39 37 32 26
+----------------------------------
+Card Value -- 24 -- New Deck 9 47 7 40 31 39 22 32 23 50 10 42 34 35 13 37 18 46 17 29 11 49 12 44
+Card Value -- 1 -- New Deck 43
+----------------------------------
+Past Round -- 6 38 3 45 9 30 7 43 31
+Current Rouand -- 6 38 3 45 9 30 7 43 31
+----------------------------------
+Card Value -- 10 -- New Deck 47 30 29 22 33 17 6 11 3 4
+Card Value -- 13 -- New Deck 40 38 25 15 5 2 48 16 45 31 35 18 23
+----------------------------------
+Past Round -- 11 45 3 38 31 30 4 48 25
+Current Rouand -- 11 45 3 38 31 30 4 48 25
+----------------------------------
+Card Value -- 22 -- New Deck 33 17 6 11 3 4 36 28 27 8 41 19 21 14 39 32 50 9 46 7 49 42
+Card Value -- 15 -- New Deck 5 2 48 16 45 31 35 18 23 12 43 37 26 1 34
+Card Value -- 17 -- New Deck 6 11 3 4 36 28 27 8 41 19 21 14 39 32 50 9 46
+Card Value -- 2 -- New Deck 48 16
+Card Value -- 8 -- New Deck 41 19 21 14 39 32 50 9
+Card Value -- 3 -- New Deck 6 4 48
+----------------------------------
+Past Round -- 48 21
+Current Rouand -- 48 21
+----------------------------------
+----------------------------------
+Past Round -- 27 19 46 11 39 8 48 3 36 16
+Current Rouand -- 27 19 46 11 39 8 48 3 36 16
+----------------------------------
+Card Value -- 8 -- New Deck 41 19 21 14 39 32 50 9
+Card Value -- 12 -- New Deck 43 37 26 1 34 48 6 16 11 45 3 31
+Card Value -- 3 -- New Deck 43 32 37
+Card Value -- 1 -- New Deck 48
+Card Value -- 6 -- New Deck 50 48 45 32 9 1
+Card Value -- 3 -- New Deck 39 37 31
+Card Value -- 14 -- New Deck 39 32 50 9 46 7 49 42 33 5 17 2 36 35
+Card Value -- 1 -- New Deck 34
+Card Value -- 8 -- New Deck 12 14 1 39 34 50 6 46
+Card Value -- 9 -- New Deck 45 7 43 5 41 17 37 2 48
+----------------------------------
+Past Round -- 7 39 5 50 17 46 2
+Current Rouand -- 7 39 5 50 17 46 2
+----------------------------------
+Card Value -- 14 -- New Deck 1 39 34 50 6 46 11 49 3 42 31 33 4 36
+Card Value -- 7 -- New Deck 43 5 41 17 37 2 48
+Card Value -- 3 -- New Deck 42 31 33
+Card Value -- 1 -- New Deck 41
+Card Value -- 4 -- New Deck 36 39 5 50
+Card Value -- 6 -- New Deck 48 11 34 31 37 33
+Card Value -- 4 -- New Deck 6 39 11 50
+Card Value -- 2 -- New Deck 5 3
+Card Value -- 6 -- New Deck 39 11 50 31 46 33
+Card Value -- 5 -- New Deck 3 37 1 48 41
+----------------------------------
+Past Round -- 39 11 50 31 46 33
+Current Rouand -- 39 11 50 31 46 33
+----------------------------------
+----------------------------------
+Past Round -- 6 48 5 36 3 37 1
+Current Rouand -- 6 48 5 36 3 37 1
+----------------------------------
+Card Value -- 23 -- New Deck 16 8 9 14 7 39 5 50 17 46 2 49 18 42 27 33 12 36 1 35 34 28 6
+Card Value -- 11 -- New Deck 32 3 45 31 43 4 41 19 37 26 48
+Card Value -- 8 -- New Deck 9 14 7 39 5 50 17 46
+Card Value -- 3 -- New Deck 45 31 43
+----------------------------------
+Past Round -- 46 43 50 7 31 17
+Current Rouand -- 46 43 50 7 31 17
+----------------------------------
+Card Value -- 1 -- New Deck 35
+Card Value -- 7 -- New Deck 41 5 37 17 48 2 45
+Card Value -- 3 -- New Deck 39 4 50
+Card Value -- 2 -- New Deck 45 42
+Card Value -- 5 -- New Deck 3 2 50 14 19
+Card Value -- 8 -- New Deck 45 39 42 4 36 26 41 18
+----------------------------------
+Past Round -- 3 45 2 39 36
+Current Rouand -- 3 45 2 39 36
+----------------------------------
+Card Value -- 14 -- New Deck 19 12 46 43 49 7 32 1 33 17 31 6 5 8
+Card Value -- 4 -- New Deck 36 26 41 18
+Card Value -- 8 -- New Deck 50 42 14 4 46 41 43 18
+Card Value -- 3 -- New Deck 39 2 36
+Card Value -- 18 -- New Deck 49 35 33 28 17 9 8 3 50 39 42 2 46 26 41 12 43 16
+Card Value -- 7 -- New Deck 37 32 27 1 48 31 34
+----------------------------------
+Past Round -- 12 48 16
+Current Rouand -- 12 48 16
+----------------------------------
+Card Value -- 3 -- New Deck 50 39 42
+Card Value -- 6 -- New Deck 45 5 36 14 19 4
+Card Value -- 7 -- New Deck 49 37 35 32 33 27 28
+Card Value -- 8 -- New Deck 14 2 48 41 17 12 34 18
+----------------------------------
+Past Round -- 27 48 12 41 18
+Current Rouand -- 27 48 12 41 18
+----------------------------------
+Card Value -- 19 -- New Deck 26 4 43 31 16 9 7 8 49 14 37 2 33 17 27 12 50 41 45
+Card Value -- 3 -- New Deck 35 6 28
+Card Value -- 7 -- New Deck 8 49 14 37 2 33 17
+Card Value -- 4 -- New Deck 35 31 26 16
+----------------------------------
+Past Round -- 8 49 14 37 2 33 17
+Current Rouand -- 8 49 14 37 2 33 17
+----------------------------------
+Card Value -- 4 -- New Deck 43 31 16 9
+Card Value -- 6 -- New Deck 28 5 48 46 35 26
+Card Value -- 14 -- New Deck 37 2 33 17 27 12 50 41 45 32 39 34 42 18
+Card Value -- 4 -- New Deck 48 16 46 9
+----------------------------------
+Past Round -- 48 34 41 9 42 32 33 17 50 18 39 2
+Current Rouand -- 48 34 41 9 42 32 33 17 50 18 39 2
+----------------------------------
+Card Value -- 17 -- New Deck 27 12 50 41 45 32 39 34 42 18 36 1 19 3 43 28 31
+Card Value -- 9 -- New Deck 35 7 26 8 48 37 16 2 46
+Card Value -- 12 -- New Deck 50 41 45 32 39 34 42 18 36 1 19 3
+Card Value -- 7 -- New Deck 26 8 48 37 16 2 46
+----------------------------------
+Past Round -- 46 42 48 18 45 36 37 1 32 19
+Current Rouand -- 46 42 48 18 45 36 37 1 32 19
+----------------------------------
+Card Value -- 1 -- New Deck 43
+Card Value -- 7 -- New Deck 41 39 46 37 16 8 42
+Card Value -- 19 -- New Deck 41 34 50 46 39 36 48 28 37 8 45 31 35 2 26 18 12 7 43
+Card Value -- 1 -- New Deck 42
+Card Value -- 16 -- New Deck 19 1 34 32 50 27 46 3 48 42 45 39 31 28 18 8
+Card Value -- 2 -- New Deck 36 26
+Card Value -- 12 -- New Deck 50 41 45 32 39 34 42 18 36 1 19 3
+Card Value -- 7 -- New Deck 26 8 48 37 16 2 46
+----------------------------------
+Past Round -- 46 42 48 18 45 36 37 1 32 19
+Current Rouand -- 46 42 48 18 45 36 37 1 32 19
+----------------------------------
+Card Value -- 4 -- New Deck 17 9 12 7
+Card Value -- 1 -- New Deck 48
+Card Value -- 7 -- New Deck 50 26 41 8 39 16 34
+Card Value -- 3 -- New Deck 32 28 46
+Card Value -- 2 -- New Deck 36 35
+Card Value -- 6 -- New Deck 27 14 1 4 48 17
+Card Value -- 3 -- New Deck 50 32 16
+Card Value -- 9 -- New Deck 45 12 28 26 46 41 31 8 42
+Card Value -- 1 -- New Deck 37
+Card Value -- 2 -- New Deck 19 7
+Card Value -- 4 -- New Deck 49 48 33 17
+Card Value -- 7 -- New Deck 28 16 26 5 46 34 41
+Card Value -- 17 -- New Deck 3 9 50 45 32 12 36 31 27 8 43 6 1 2 37 19 4
+Card Value -- 5 -- New Deck 46 34 41 18 42
+Card Value -- 4 -- New Deck 50 41 45 18
+Card Value -- 8 -- New Deck 46 6 12 1 34 2 42 19
+Card Value -- 3 -- New Deck 27 9 43
+Card Value -- 2 -- New Deck 42 19
+Card Value -- 8 -- New Deck 43 6 1 2 37 19 4 7
+Card Value -- 3 -- New Deck 34 9 42
+Card Value -- 4 -- New Deck 7 43 34 37
+Card Value -- 1 -- New Deck 9
+----------------------------------
+Past Round -- 42 1 9 2
+Current Rouand -- 42 1 9 2
+----------------------------------
+Card Value -- 16 -- New Deck 33 26 17 5 50 41 45 18 31 14 8 3 43 34 37 35
+Card Value -- 6 -- New Deck 42 1 32 2 39 4
+Card Value -- 5 -- New Deck 50 41 45 18 31
+Card Value -- 2 -- New Deck 39 4
+Card Value -- 2 -- New Deck 50 39
+Card Value -- 3 -- New Deck 33 26 8
+Card Value -- 4 -- New Deck 45 42 43 32
+Card Value -- 1 -- New Deck 18
+Card Value -- 5 -- New Deck 50 41 45 18 31
+Card Value -- 2 -- New Deck 39 4
+Card Value -- 2 -- New Deck 50 39
+Card Value -- 6 -- New Deck 28 26 16 1 9 5
+Card Value -- 4 -- New Deck 45 36 18 7
+Card Value -- 1 -- New Deck 9
+Card Value -- 8 -- New Deck 9 14 7 39 5 50 17 46
+Card Value -- 3 -- New Deck 45 31 43
+----------------------------------
+Past Round -- 46 43 50 7 31 17
+Current Rouand -- 46 43 50 7 31 17
+----------------------------------
+Card Value -- 8 -- New Deck 3 39 4 50 19 46 26 49
+Card Value -- 2 -- New Deck 32 18
+Card Value -- 23 -- New Deck 1 39 6 50 11 46 3 31 26 49 4 42 19 34 21 33 16 36 9 35 14 28 7
+Card Value -- 5 -- New Deck 37 17 48 8 32
+Card Value -- 3 -- New Deck 31 26 49
+Card Value -- 1 -- New Deck 48
+Card Value -- 21 -- New Deck 33 16 36 9 35 14 28 7 39 17 50 8 46 37 3 1 26 6 49 32 34
+Card Value -- 4 -- New Deck 48 42 31 19
+Card Value -- 11 -- New Deck 21 4 36 31 39 19 17 9 50 48 46
+Card Value -- 3 -- New Deck 28 1 7
+Card Value -- 4 -- New Deck 36 31 39 19
+Card Value -- 1 -- New Deck 7
+Card Value -- 4 -- New Deck 36 31 39 19
+Card Value -- 1 -- New Deck 7
+Card Value -- 23 -- New Deck 5 39 17 50 8 46 2 31 18 49 27 42 12 34 1 33 6 36 11 35 3 28 26
+Card Value -- 4 -- New Deck 37 19 48 21
+----------------------------------
+Past Round -- 37 19 48 21
+Current Rouand -- 37 19 48 21
+----------------------------------
+----------------------------------
+Past Round -- 37 12 48 1 32 6 45 11 43 3 41 26 27 23
+Current Rouand -- 37 12 48 1 32 6 45 11 43 3 41 26 27 23
+----------------------------------
+Card Value -- 17 -- New Deck 6 11 3 4 36 28 27 8 41 19 21 14 39 32 50 9 46
+Card Value -- 2 -- New Deck 48 16
+Card Value -- 8 -- New Deck 41 19 21 14 39 32 50 9
+Card Value -- 3 -- New Deck 6 4 48
+----------------------------------
+Past Round -- 48 21
+Current Rouand -- 48 21
+----------------------------------
+----------------------------------
+Past Round -- 27 19 46 11 39 8 48 3 36 16
+Current Rouand -- 27 19 46 11 39 8 48 3 36 16
+----------------------------------
+Card Value -- 11 -- New Deck 3 4 36 28 27 8 41 19 21 14 39
+Card Value -- 16 -- New Deck 45 31 35 18 23 12 43 37 26 1 34 24 38 30 48 6
+Card Value -- 8 -- New Deck 41 19 21 14 39 36 35 28
+Card Value -- 12 -- New Deck 43 37 26 1 34 24 38 30 48 6 45 3
+Card Value -- 1 -- New Deck 39
+Card Value -- 6 -- New Deck 45 3 43 41 37 19
+----------------------------------
+Past Round -- 12 39 8 36 21
+Current Rouand -- 12 39 8 36 21
+----------------------------------
+Card Value -- 8 -- New Deck 41 19 21 14 39 32 50 9
+Card Value -- 12 -- New Deck 43 37 26 1 34 24 38 30 48 6 45 3
+Card Value -- 1 -- New Deck 39
+Card Value -- 6 -- New Deck 45 3 43 41 37 19
+Card Value -- 6 -- New Deck 26 1 50 45 34 21
+Card Value -- 3 -- New Deck 48 38 39
+----------------------------------
+Past Round -- 50 34 39 38
+Current Rouand -- 50 34 39 38
+----------------------------------
+Card Value -- 3 -- New Deck 50 39 45
+Card Value -- 9 -- New Deck 41 19 24 14 48 26 38 1 43
+Card Value -- 1 -- New Deck 41
+Card Value -- 3 -- New Deck 30 21 38
+Card Value -- 14 -- New Deck 39 32 50 9 46 7 49 42 44 20 10 13 47 40
+Card Value -- 1 -- New Deck 34
+Card Value -- 7 -- New Deck 49 42 44 20 10 13 47
+Card Value -- 6 -- New Deck 45 3 31 4 43 41
+Card Value -- 20 -- New Deck 10 13 47 40 29 25 22 15 33 5 17 2 11 16 36 35 28 18 27 23
+Card Value -- 4 -- New Deck 43 41 37 19
+Card Value -- 2 -- New Deck 47 43
+Card Value -- 5 -- New Deck 25 18 41 27 35
+Card Value -- 5 -- New Deck 47 25 43 18 40
+Card Value -- 10 -- New Deck 37 17 16 13 41 23 29 15 19 2
+----------------------------------
+Past Round -- 13 47 23 37 29 25 15 43 2
+Current Rouand -- 13 47 23 37 29 25 15 43 2
+----------------------------------
+Card Value -- 2 -- New Deck 11 16
+Card Value -- 10 -- New Deck 41 13 30 22 48 33 46 5 43 17
+Card Value -- 23 -- New Deck 8 12 14 1 39 34 32 24 50 38 7 6 49 45 42 3 44 31 20 4 47 37 40
+Card Value -- 5 -- New Deck 43 17 10 2 41
+Card Value -- 1 -- New Deck 39
+Card Value -- 2 -- New Deck 41 43
+Card Value -- 7 -- New Deck 6 49 45 42 3 44 31
+Card Value -- 1 -- New Deck 41
+Card Value -- 14 -- New Deck 1 39 34 32 24 50 38 7 6 49 45 42 3 44
+Card Value -- 10 -- New Deck 2 41 11 48 28 33 18 46 27 43
+Card Value -- 1 -- New Deck 39
+Card Value -- 2 -- New Deck 41 11
+Card Value -- 2 -- New Deck 42 1
+Card Value -- 3 -- New Deck 48 34 32
+Card Value -- 1 -- New Deck 39
+Card Value -- 2 -- New Deck 41 11
+Card Value -- 34 -- New Deck 32 24 50 38 7 6 49 45 42 3 44 31 20 4 47 37 40 19 29 26 25 21 15 9 16 13 36 30 35 22 23 5 14 10
+Card Value -- 11 -- New Deck 48 28 33 18 46 27 43 8 17 12 2
+Card Value -- 29 -- New Deck 26 25 21 15 9 16 13 36 30 35 22 23 5 14 10 50 33 38 18 49 43 45 8 42 17 44 2 47 24
+Card Value -- 6 -- New Deck 12 3 48 31 32 20
+Card Value -- 25 -- New Deck 21 15 9 16 13 36 30 35 22 23 5 14 10 50 33 38 18 49 43 45 8 42 17 44 2
+Card Value -- 3 -- New Deck 48 31 32
+Card Value -- 23 -- New Deck 9 50 13 33 31 38 30 49 22 43 20 45 5 42 14 44 10 47 18 24 16 26 8
+Card Value -- 3 -- New Deck 48 21 32
+----------------------------------
+Past Round -- 8 48 17 32 2
+Current Rouand -- 8 48 17 32 2
+----------------------------------
+Card Value -- 25 -- New Deck 21 15 9 16 13 36 30 35 22 23 5 14 10 50 33 38 18 49 43 45 8 42 17 44 2
+Card Value -- 3 -- New Deck 48 31 32
+Card Value -- 29 -- New Deck 6 26 12 25 3 36 4 23 19 50 15 33 32 38 9 49 16 43 28 45 13 42 30 44 35 47 22 40 5
+Card Value -- 14 -- New Deck 31 10 20 18 46 8 37 17 27 2 48 24 21 7
+Card Value -- 26 -- New Deck 12 25 3 36 4 23 19 50 15 33 32 38 9 49 16 43 28 45 13 42 30 44 35 47 22 40
+Card Value -- 10 -- New Deck 20 18 46 8 37 17 27 2 48 24
+Card Value -- 12 -- New Deck 49 3 43 4 28 27 45 19 42 15 44 9
+Card Value -- 8 -- New Deck 48 23 22 17 25 2 37 32
+Card Value -- 9 -- New Deck 47 16 40 13 50 46 33 30 24
+Card Value -- 3 -- New Deck 17 4 32
+Card Value -- 16 -- New Deck 40 13 50 46 33 30 24 18 38 35 12 8 49 48 43 22
+Card Value -- 4 -- New Deck 32 19 20 15
+Card Value -- 26 -- New Deck 16 36 13 50 22 33 5 32 10 38 25 49 18 43 8 45 23 42 17 30 2 44 24 47 21 40
+Card Value -- 6 -- New Deck 35 12 31 3 20 4
+Card Value -- 26 -- New Deck 6 36 12 50 3 22 20 33 4 32 27 38 19 49 15 43 9 45 16 42 13 30 5 44 10 47
+Card Value -- 8 -- New Deck 31 23 46 17 28 2 37 24
+Card Value -- 22 -- New Deck 20 33 4 32 27 38 19 49 15 43 9 45 16 42 13 30 5 44 10 47 36 23
+Card Value -- 2 -- New Deck 37 24
+Card Value -- 15 -- New Deck 42 9 30 16 44 13 47 5 23 10 38 36 49 37 43
+Card Value -- 4 -- New Deck 32 27 20 19
+Card Value -- 2 -- New Deck 33 24
+Card Value -- 5 -- New Deck 31 10 46 36 37
+Card Value -- 3 -- New Deck 43 20 45
+Card Value -- 2 -- New Deck 46 32
+Card Value -- 4 -- New Deck 42 27 30 19
+Card Value -- 6 -- New Deck 22 12 2 3 46 43
+Card Value -- 19 -- New Deck 44 15 47 9 23 16 50 28 17 13 33 31 24 10 38 37 49 5 45
+Card Value -- 3 -- New Deck 46 43 32
+Card Value -- 23 -- New Deck 16 50 28 17 13 33 31 24 10 38 37 49 5 45 36 42 22 27 12 30 2 19 3
+Card Value -- 6 -- New Deck 4 46 44 43 15 20
+Card Value -- 16 -- New Deck 50 28 17 13 33 31 24 10 38 37 49 5 45 36 42 22
+Card Value -- 4 -- New Deck 46 44 43 15
+----------------------------------
+Past Round -- 17 31 15 43 13 44 28
+Current Rouand -- 17 31 15 43 13 44 28
+----------------------------------
+Card Value -- 16 -- New Deck 50 28 17 13 33 31 24 10 38 37 49 5 45 36 42 22
+Card Value -- 4 -- New Deck 46 44 43 15
+Card Value -- 23 -- New Deck 6 16 4 50 46 33 20 31 9 37 17 49 15 45 44 36 24 42 28 22 10 30 13
+Card Value -- 5 -- New Deck 2 43 19 27 3
+Card Value -- 6 -- New Deck 16 4 50 46 33 20
+Card Value -- 2 -- New Deck 43 19
+Card Value -- 16 -- New Deck 31 19 9 4 49 43 45 33 44 17 24 15 42 37 50 36
+Card Value -- 6 -- New Deck 10 2 30 27 13 3
+Card Value -- 19 -- New Deck 9 4 49 43 45 33 44 17 24 15 42 37 50 36 46 22 16 6 31
+Card Value -- 2 -- New Deck 30 27
+Card Value -- 6 -- New Deck 16 4 50 46 33 20
+Card Value -- 2 -- New Deck 43 19
+Card Value -- 16 -- New Deck 31 19 9 4 49 43 45 33 44 17 24 15 42 37 47 28
+Card Value -- 6 -- New Deck 32 2 5 3 36 20
+Card Value -- 9 -- New Deck 4 49 43 45 33 44 17 24 15
+Card Value -- 5 -- New Deck 3 36 20 32 31
+Card Value -- 4 -- New Deck 49 43 45 33
+Card Value -- 3 -- New Deck 36 20 32
+Card Value -- 4 -- New Deck 49 43 45 33
+Card Value -- 3 -- New Deck 36 20 32
+Card Value -- 19 -- New Deck 9 4 49 43 45 33 44 17 24 15 42 37 47 28 38 10 23 22 50
+Card Value -- 2 -- New Deck 5 3
+Card Value -- 9 -- New Deck 4 49 43 45 33 44 17 24 15
+Card Value -- 5 -- New Deck 3 36 20 32 31
+Card Value -- 4 -- New Deck 49 43 45 33
+Card Value -- 3 -- New Deck 36 20 32
+Card Value -- 4 -- New Deck 49 43 45 33
+Card Value -- 3 -- New Deck 36 20 32
+Card Value -- 22 -- New Deck 20 33 4 32 27 38 19 49 15 43 9 45 16 42 13 30 5 44 10 47 25 40
+Card Value -- 2 -- New Deck 37 24
+Card Value -- 15 -- New Deck 42 9 30 16 44 13 47 5 40 10 38 25 49 37 43
+Card Value -- 4 -- New Deck 32 27 20 19
+Card Value -- 26 -- New Deck 8 36 23 50 17 22 2 33 24 32 21 38 7 49 6 43 12 45 3 42 20 30 4 44 27 47
+Card Value -- 9 -- New Deck 37 16 48 13 35 5 31 10 46
+Card Value -- 22 -- New Deck 2 33 24 32 21 38 7 49 6 43 12 45 3 42 20 30 4 44 27 47 36 16
+Card Value -- 5 -- New Deck 31 10 46 37 8
+Card Value -- 7 -- New Deck 49 6 43 12 45 3 42
+Card Value -- 2 -- New Deck 46 24
+Card Value -- 21 -- New Deck 38 7 49 6 43 12 45 3 42 20 30 4 44 27 47 36 16 50 13 22 5
+Card Value -- 8 -- New Deck 48 23 35 17 31 2 46 24
+Card Value -- 12 -- New Deck 45 3 42 20 30 4 44 27 47 36 16 50
+Card Value -- 2 -- New Deck 46 24
+Card Value -- 4 -- New Deck 44 27 47 36
+Card Value -- 3 -- New Deck 46 42 45
+----------------------------------
+Past Round -- 47 44 45 42
+Current Rouand -- 47 44 45 42
+----------------------------------
+Card Value -- 4 -- New Deck 44 27 47 36
+Card Value -- 7 -- New Deck 17 6 46 45 24 3 48
+----------------------------------
+Past Round -- 6 47 46 44 24 17 3
+Current Rouand -- 6 47 46 44 24 17 3
+----------------------------------
+----------------------------------
+Past Round -- 49 2 23 4 43 31 30 7 44 17 27 6 47 3 50 22 46 20 42 35
+Current Rouand -- 49 2 23 4 43 31 30 7 44 17 27 6 47 3 50 22 46 20 42 35
+----------------------------------
+Card Value -- 12 -- New Deck 45 3 42 20 30 4 44 27 47 36 16 50
+Card Value -- 2 -- New Deck 46 24
+Card Value -- 4 -- New Deck 44 27 47 36
+Card Value -- 3 -- New Deck 46 42 45
+----------------------------------
+Past Round -- 47 44 45 42
+Current Rouand -- 47 44 45 42
+----------------------------------
+Card Value -- 22 -- New Deck 5 33 10 21 8 49 35 43 31 12 2 42 37 44 23 27 7 47 17 36 6 50
+Card Value -- 3 -- New Deck 32 20 48
+Card Value -- 22 -- New Deck 3 33 20 49 4 43 16 31 24 42 5 44 10 27 21 47 8 36 35 50 12 45
+Card Value -- 2 -- New Deck 48 37
+----------------------------------
+Past Round -- 10 49 27 43 21 31 8 42 12 44 32 47 2 36 23 50 7 45 17
+Current Rouand -- 10 49 27 43 21 31 8 42 12 44 32 47 2 36 23 50 7 45 17
+----------------------------------
+Card Value -- 22 -- New Deck 2 33 24 32 21 38 7 49 6 43 12 45 3 42 20 30 4 44 27 47 19 40
+Card Value -- 5 -- New Deck 31 10 46 25 28
+Card Value -- 7 -- New Deck 49 6 43 12 45 3 42
+Card Value -- 2 -- New Deck 46 24
+Card Value -- 26 -- New Deck 9 36 16 50 13 22 5 33 10 32 25 38 18 49 8 43 23 45 17 42 2 30 24 44 21 47
+Card Value -- 12 -- New Deck 31 3 46 20 28 4 37 27 48 19 35 15
+Card Value -- 22 -- New Deck 5 33 10 32 25 38 18 49 8 43 23 45 17 42 2 30 24 44 21 47 36 3
+Card Value -- 4 -- New Deck 37 27 48 19
+Card Value -- 5 -- New Deck 49 10 43 25 45
+Card Value -- 3 -- New Deck 48 33 37
+Card Value -- 3 -- New Deck 50 20 22
+Card Value -- 8 -- New Deck 28 23 37 17 48 2 35 24
+----------------------------------
+Past Round -- 22 50 28
+Current Rouand -- 22 50 28
+----------------------------------
+Card Value -- 5 -- New Deck 30 10 44 25 47
+Card Value -- 4 -- New Deck 48 33 35 32
+Card Value -- 8 -- New Deck 50 28 27 2 38 31 49 46
+Card Value -- 15 -- New Deck 36 9 20 16 22 13 4 5 48 30 33 10 32 25 19
+----------------------------------
+Past Round -- 2 32 28 33 9
+Current Rouand -- 2 32 28 33 9
+----------------------------------
+Card Value -- 24 -- New Deck 8 15 50 36 28 9 27 20 38 22 31 13 49 4 46 5 45 33 37 10 42 32 44 19
+Card Value -- 3 -- New Deck 16 2 48
+Card Value -- 15 -- New Deck 50 36 28 9 27 20 38 22 31 13 49 4 46 5 45
+Card Value -- 2 -- New Deck 48 16
+Card Value -- 15 -- New Deck 50 36 28 9 27 20 38 22 31 13 49 4 46 5 45
+Card Value -- 2 -- New Deck 48 43
+Card Value -- 32 -- New Deck 44 19 35 18 47 21 24 3 15 2 50 48 27 25 20 17 38 16 22 8 49 30 46 23 45 43 33 31 37 36 42 28
+Card Value -- 4 -- New Deck 9 5 13 10
+Card Value -- 22 -- New Deck 5 33 10 32 25 38 18 49 8 43 23 45 17 42 2 30 24 44 21 47 7 40
+Card Value -- 4 -- New Deck 37 27 48 19
+Card Value -- 18 -- New Deck 42 8 30 23 44 17 47 2 40 24 27 21 19 7 49 37 45 33
+Card Value -- 5 -- New Deck 32 10 48 43 38
+----------------------------------
+Past Round -- 24 48 21 43 7
+Current Rouand -- 24 48 21 43 7
+----------------------------------
+Card Value -- 8 -- New Deck 37 2 32 27 44 23 38 21
+Card Value -- 7 -- New Deck 48 45 40 33 30 18 24
+----------------------------------
+Past Round -- 24 48 37 45 2 40 32 33 27
+Current Rouand -- 24 48 37 45 2 40 32 33 27
+----------------------------------
+Card Value -- 7 -- New Deck 38 32 33 18 43 27 49
+Card Value -- 5 -- New Deck 48 47 45 17 44
+Card Value -- 5 -- New Deck 18 17 27 10 49
+Card Value -- 8 -- New Deck 25 19 48 38 47 32 45 33
+----------------------------------
+Past Round -- 17 48 27 38 10
+Current Rouand -- 17 48 27 38 10
+----------------------------------
+Card Value -- 2 -- New Deck 5 8
+Card Value -- 7 -- New Deck 25 18 19 17 48 27 38
+Card Value -- 2 -- New Deck 47 27
+Card Value -- 10 -- New Deck 48 42 24 21 45 44 23 7 43 38
+Card Value -- 2 -- New Deck 49 42
+Card Value -- 19 -- New Deck 45 40 44 5 23 17 43 33 38 25 37 32 30 18 48 8 47 7 27
+Card Value -- 7 -- New Deck 42 27 38 10 25 24 49
+Card Value -- 5 -- New Deck 30 19 18 17 47
+Card Value -- 2 -- New Deck 43 37
+Card Value -- 8 -- New Deck 17 10 47 25 45 24 40 23
+Card Value -- 5 -- New Deck 37 33 42 38 40
+Card Value -- 2 -- New Deck 8 7
+Card Value -- 26 -- New Deck 23 36 17 50 2 33 21 32 7 38 6 49 12 43 3 45 20 42 22 30 4 44 27 47 19 40
+Card Value -- 9 -- New Deck 35 16 24 13 31 5 46 10 28
+Card Value -- 3 -- New Deck 45 20 42
+Card Value -- 2 -- New Deck 46 21
+Card Value -- 22 -- New Deck 30 4 44 27 47 19 40 36 16 50 13 33 5 32 10 38 35 49 24 43 31 42
+Card Value -- 7 -- New Deck 23 6 17 12 2 3 46
+Card Value -- 19 -- New Deck 40 36 16 50 13 33 5 32 10 38 35 49 24 43 31 42 30 23 44
+Card Value -- 3 -- New Deck 46 6 4
+Card Value -- 4 -- New Deck 44 27 47 19
+Card Value -- 6 -- New Deck 17 12 2 3 46 45
+----------------------------------
+Past Round -- 47 44 45 12
+Current Rouand -- 47 44 45 12
+----------------------------------
+Card Value -- 19 -- New Deck 40 36 16 50 13 33 5 32 10 38 35 49 24 43 31 42 28 22 7
+Card Value -- 3 -- New Deck 46 45 21
+----------------------------------
+Past Round -- 50 19 38 3 49 20 43 16 42 13 44 5 47 10 28 24 22 21
+Current Rouand -- 50 19 38 3 49 20 43 16 42 13 44 5 47 10 28 24 22 21
+----------------------------------
+Card Value -- 26 -- New Deck 9 36 16 50 13 33 5 32 10 38 25 49 18 43 8 45 23 42 17 30 2 44 21 47 7 40
+Card Value -- 12 -- New Deck 35 3 24 20 31 22 46 4 28 27 37 19
+Card Value -- 3 -- New Deck 50 20 33
+Card Value -- 8 -- New Deck 31 23 46 17 28 2 37 21
+----------------------------------
+Past Round -- 17 50 2
+Current Rouand -- 17 50 2
+----------------------------------
+Card Value -- 4 -- New Deck 38 27 49 19
+Card Value -- 2 -- New Deck 37 21
+Card Value -- 18 -- New Deck 36 24 3 8 50 31 22 17 32 28 4 2 38 37 27 21 49 35
+Card Value -- 5 -- New Deck 16 10 30 25 45
+Card Value -- 17 -- New Deck 32 28 4 2 38 37 27 21 49 35 19 7 43 23 42 20 13
+Card Value -- 3 -- New Deck 25 8 40
+Card Value -- 21 -- New Deck 49 35 19 7 43 23 42 20 13 9 44 33 47 46 18 5 36 16 24 10 50
+Card Value -- 4 -- New Deck 31 2 40 27
+Card Value -- 26 -- New Deck 19 36 15 50 9 33 16 32 13 38 5 49 10 43 25 45 18 42 8 30 23 44 17 47 2 40
+Card Value -- 7 -- New Deck 35 6 24 12 31 3 46
+Card Value -- 23 -- New Deck 44 17 47 2 40 36 6 50 12 33 3 38 24 49 31 10 9 25 16 45 35 42 19
+Card Value -- 5 -- New Deck 46 43 32 18 13
+Card Value -- 3 -- New Deck 38 24 49
+Card Value -- 2 -- New Deck 46 36
+Card Value -- 23 -- New Deck 12 47 30 40 10 35 31 36 9 50 16 44 15 33 5 49 32 45 13 24 8 42 25
+Card Value -- 2 -- New Deck 38 18
+----------------------------------
+Past Round -- 38 13 32 24
+Current Rouand -- 38 13 32 24
+----------------------------------
+----------------------------------
+Past Round -- 46 9 43 16 30 24 32 15 38 5 31 23
+Current Rouand -- 46 9 43 16 30 24 32 15 38 5 31 23
+----------------------------------
+Card Value -- 26 -- New Deck 7 36 6 50 12 33 3 32 20 38 22 49 4 43 27 45 19 42 15 30 9 44 16 47 13 40
+Card Value -- 10 -- New Deck 35 25 24 18 31 8 46 23 28 17
+Card Value -- 26 -- New Deck 10 36 25 50 18 33 8 32 23 38 17 49 2 43 21 45 7 42 6 30 12 44 3 47 20 40
+Card Value -- 4 -- New Deck 35 27 24 19
+Card Value -- 25 -- New Deck 24 50 19 33 15 32 9 38 16 49 13 43 5 45 10 42 18 30 8 44 23 47 17 40 2
+Card Value -- 6 -- New Deck 28 12 37 3 48 20
+----------------------------------
+Past Round -- 24 50 19 33 15 32 9 38 16 49 13 43 5 45 10 42 18 30 8 44 23 47 17 40 2
+Current Rouand -- 24 50 19 33 15 32 9 38 16 49 13 43 5 45 10 42 18 30 8 44 23 47 17 40 2
+----------------------------------
+Card Value -- 26 -- New Deck 21 36 7 25 6 50 12 33 3 32 20 38 22 49 4 43 27 45 24 42 19 30 15 44 9 47
+Card Value -- 5 -- New Deck 37 10 48 18 35
+Card Value -- 20 -- New Deck 38 22 49 4 43 27 45 24 42 19 30 15 44 9 47 36 10 25 18 50
+Card Value -- 6 -- New Deck 21 12 48 33 7 3
+Card Value -- 25 -- New Deck 19 50 15 33 9 32 16 38 13 49 26 43 5 45 10 42 18 30 8 44 23 47 17 40 2
+Card Value -- 7 -- New Deck 28 6 37 12 48 3 35
+Card Value -- 23 -- New Deck 47 17 40 2 50 6 33 12 32 3 38 28 49 37 26 15 45 35 42 19 18 13 44
+Card Value -- 5 -- New Deck 16 10 48 30 43
+Card Value -- 12 -- New Deck 45 3 42 28 18 15 44 35 50 48 32 19
+Card Value -- 2 -- New Deck 40 38
+Card Value -- 6 -- New Deck 44 43 35 30 50 38
+Card Value -- 2 -- New Deck 47 42
+Card Value -- 3 -- New Deck 38 28 49
+Card Value -- 2 -- New Deck 8 6
+Card Value -- 25 -- New Deck 7 50 6 33 12 32 3 38 20 49 22 43 4 45 24 42 19 30 15 44 9 47 16 40 13
+Card Value -- 5 -- New Deck 28 10 37 18 48
+Card Value -- 25 -- New Deck 5 50 10 33 18 32 8 38 23 49 17 43 2 45 21 42 7 30 6 44 12 47 3 40 20
+Card Value -- 4 -- New Deck 28 24 37 19
+----------------------------------
+Past Round -- 28 24 37 19
+Current Rouand -- 28 24 37 19
+----------------------------------
+Card Value -- 25 -- New Deck 4 50 24 33 19 32 15 38 9 49 16 43 13 45 26 42 5 30 10 44 18 47 8 40 23
+Card Value -- 2 -- New Deck 28 21
+----------------------------------
+Past Round -- 28 21
+Current Rouand -- 28 21
+----------------------------------
+Card Value -- 25 -- New Deck 2 50 21 33 7 32 6 38 12 49 3 43 20 45 22 42 4 30 24 44 19 47 15 40 9
+Card Value -- 13 -- New Deck 28 26 37 5 48 10 35 18 27 8 31 23 46
+Card Value -- 22 -- New Deck 42 4 30 24 44 19 47 15 40 9 50 26 33 5 32 10 38 18 49 8 43 23
+Card Value -- 2 -- New Deck 37 21
+Card Value -- 24 -- New Deck 44 19 47 15 40 9 50 26 33 5 32 10 38 18 49 8 43 23 45 28 22 2 42 37
+Card Value -- 7 -- New Deck 35 6 27 12 31 3 46
+Card Value -- 19 -- New Deck 47 15 40 9 50 26 33 5 32 10 38 18 49 8 43 23 45 28 22
+Card Value -- 6 -- New Deck 27 12 31 3 46 20
+Card Value -- 9 -- New Deck 50 26 33 5 32 10 38 18 49
+Card Value -- 3 -- New Deck 46 20 21
+Card Value -- 4 -- New Deck 49 30 45 32
+Card Value -- 12 -- New Deck 48 9 19 3 37 26 27 20 38 33 24 5
+Card Value -- 2 -- New Deck 47 43
+Card Value -- 5 -- New Deck 37 28 26 18 27
+Card Value -- 25 -- New Deck 23 50 17 33 2 32 21 38 7 49 6 43 12 45 3 42 20 30 22 44 4 47 24 40 19
+Card Value -- 9 -- New Deck 28 16 37 13 48 26 35 5 27
+Card Value -- 3 -- New Deck 42 20 30
+Card Value -- 2 -- New Deck 35 21
+Card Value -- 22 -- New Deck 44 4 47 24 40 19 50 16 33 13 32 26 38 5 49 28 43 37 3 2 42 35
+Card Value -- 7 -- New Deck 23 6 17 12 48 45 21
+----------------------------------
+Past Round -- 47 37 24 3 50 2 33 23 38 17 49 12 43 21 42 16 44 6 28 26
+Current Rouand -- 47 37 24 3 50 2 33 23 38 17 49 12 43 21 42 16 44 6 28 26
+----------------------------------
+Card Value -- 4 -- New Deck 47 24 40 19
+Card Value -- 6 -- New Deck 17 12 48 45 21 20
+----------------------------------
+Past Round -- 47 24 40 19
+Current Rouand -- 47 24 40 19
+----------------------------------
+Card Value -- 7 -- New Deck 44 23 4 6 47 17 24
+Card Value -- 3 -- New Deck 32 2 33
+Card Value -- 23 -- New Deck 4 6 47 17 24 12 50 21 26 19 38 20 49 48 43 40 37 13 42 16 35 5 7
+Card Value -- 2 -- New Deck 33 30
+Card Value -- 21 -- New Deck 26 19 38 20 49 48 43 40 37 13 42 16 35 5 7 3 44 32 23 2 47
+Card Value -- 4 -- New Deck 30 6 27 17
+Card Value -- 19 -- New Deck 38 20 49 48 43 40 37 13 42 16 35 5 7 3 44 32 23 2 47
+Card Value -- 6 -- New Deck 27 17 45 24 22 12
+Card Value -- 25 -- New Deck 9 50 16 33 13 32 26 38 5 49 10 43 18 45 8 42 23 30 17 44 2 47 21 40 7
+Card Value -- 12 -- New Deck 28 3 37 20 48 22 35 4 27 24 31 19
+----------------------------------
+Past Round -- 28 3 37 20 48 22 35 4 27 24 31 19
+Current Rouand -- 28 3 37 20 48 22 35 4 27 24 31 19
+----------------------------------
+----------------------------------
+Past Round -- 5 36 10 25 18 50 8 33 23 32 17 38 2 49 21 43 7 45 6 42 12 30 3 44 20 47 22 40 4
+Current Rouand -- 5 36 10 25 18 50 8 33 23 32 17 38 2 49 21 43 7 45 6 42 12 30 3 44 20 47 22 40 4
+----------------------------------
+Card Value -- 26 -- New Deck 12 25 3 36 4 23 19 50 15 33 32 38 9 49 16 43 28 45 13 42 30 44 35 47 22 40
+Card Value -- 10 -- New Deck 20 18 46 8 37 17 27 2 48 24
+Card Value -- 12 -- New Deck 49 3 43 4 28 27 45 19 42 15 44 9
+Card Value -- 8 -- New Deck 48 23 22 17 25 2 37 32
+Card Value -- 9 -- New Deck 47 16 40 13 50 46 33 30 24
+Card Value -- 3 -- New Deck 17 4 32
+Card Value -- 16 -- New Deck 40 13 50 46 33 30 24 18 38 35 12 8 49 48 43 22
+Card Value -- 4 -- New Deck 32 19 20 15
+Card Value -- 29 -- New Deck 16 25 13 36 35 23 22 50 5 33 14 32 26 38 10 49 18 43 8 45 17 42 2 30 24 44 21 47 7
+Card Value -- 12 -- New Deck 46 3 28 4 37 27 48 19 31 15 20 9
+Card Value -- 25 -- New Deck 13 36 35 23 22 50 5 33 14 32 26 38 10 49 18 43 8 45 17 42 2 30 24 44 21
+Card Value -- 3 -- New Deck 28 4 37
+Card Value -- 25 -- New Deck 3 36 4 50 19 33 15 32 9 38 16 49 13 43 35 45 23 42 22 30 5 24 20 44 14
+Card Value -- 10 -- New Deck 37 18 27 8 48 17 31 2 46 21
+----------------------------------
+Past Round -- 3 36 4 50 19 33 15 32 9 38 16 49 13 43 35 45 23 42 22 30 5 24 20 44 14
+Current Rouand -- 3 36 4 50 19 33 15 32 9 38 16 49 13 43 35 45 23 42 22 30 5 24 20 44 14
+----------------------------------
+Card Value -- 24 -- New Deck 20 44 14 47 26 25 10 36 18 50 8 33 17 32 2 38 21 49 7 43 3 35 27 45
+Card Value -- 9 -- New Deck 28 16 37 13 48 23 31 22 46
+Card Value -- 21 -- New Deck 49 7 43 3 35 27 45 44 16 47 13 25 23 36 22 50 28 17 14 38 31
+Card Value -- 10 -- New Deck 46 18 20 8 37 33 48 32 26 2
+Card Value -- 3 -- New Deck 35 27 45
+Card Value -- 8 -- New Deck 37 33 48 32 26 2 18 7
+----------------------------------
+Past Round -- 3 48 16 45 18 38 13 37 22
+Current Rouand -- 3 48 16 45 18 38 13 37 22
+----------------------------------
+Card Value -- 3 -- New Deck 35 27 45
+Card Value -- 8 -- New Deck 37 33 48 32 26 2 18 7
+Card Value -- 21 -- New Deck 16 49 13 46 37 43 22 44 28 32 27 47 17 25 14 36 10 50 20 31 2
+Card Value -- 7 -- New Deck 38 23 18 8 33 3 48
+Card Value -- 3 -- New Deck 44 38 28
+Card Value -- 2 -- New Deck 20 8
+Card Value -- 18 -- New Deck 49 37 23 16 33 32 31 22 43 27 38 36 50 17 28 14 48 13
+Card Value -- 3 -- New Deck 10 2 47
+----------------------------------
+Past Round -- 47 17 36 28
+Current Rouand -- 47 17 36 28
+----------------------------------
+Card Value -- 8 -- New Deck 27 23 36 16 50 46 48 44
+Card Value -- 3 -- New Deck 28 10 43
+Card Value -- 25 -- New Deck 13 36 22 50 28 31 27 21 17 49 14 46 10 37 20 33 18 43 2 44 7 32 23 47 8
+Card Value -- 3 -- New Deck 45 35 38
+Card Value -- 25 -- New Deck 3 36 35 50 26 31 16 21 13 49 22 46 28 37 27 33 17 43 14 44 10 32 20 47 18
+Card Value -- 2 -- New Deck 38 7
+----------------------------------
+Past Round -- 21 35 13 38 22
+Current Rouand -- 21 35 13 38 22
+----------------------------------
+Card Value -- 21 -- New Deck 13 49 22 46 28 37 27 33 17 43 14 44 10 32 20 47 18 25 2 36 7
+Card Value -- 3 -- New Deck 48 35 45
+Card Value -- 7 -- New Deck 49 33 18 14 48 35 27
+Card Value -- 2 -- New Deck 28 25
+Card Value -- 21 -- New Deck 3 49 35 46 26 37 16 33 13 43 22 44 28 32 27 47 17 25 14 36 10
+Card Value -- 2 -- New Deck 45 7
+----------------------------------
+Past Round -- 13 45 22
+Current Rouand -- 13 45 22
+----------------------------------
+----------------------------------
+Past Round -- 2 48 7 45 23 38 8
+Current Rouand -- 2 48 7 45 23 38 8
+----------------------------------
+Card Value -- 24 -- New Deck 9 44 16 47 13 25 23 36 22 50 5 33 20 32 14 38 26 49 10 43 18 35 8 45
+Card Value -- 7 -- New Deck 28 3 37 27 48 4 31
+Card Value -- 25 -- New Deck 23 36 22 50 5 33 20 32 14 38 26 49 10 43 18 35 8 45 17 42 2 30 21 24 7
+Card Value -- 4 -- New Deck 31 19 46 15
+----------------------------------
+Past Round -- 31 19 46 15
+Current Rouand -- 31 19 46 15
+----------------------------------
+Card Value -- 24 -- New Deck 7 44 3 47 27 25 4 36 19 50 15 33 9 32 16 38 13 49 23 43 22 35 5 45
+Card Value -- 10 -- New Deck 28 18 37 8 48 17 31 2 46 21
+Card Value -- 21 -- New Deck 33 7 32 3 38 27 49 4 43 19 35 15 45 9 18 16 47 31 36 28 50
+Card Value -- 5 -- New Deck 48 44 13 8 46
+Card Value -- 4 -- New Deck 36 15 50 9
+Card Value -- 7 -- New Deck 48 19 28 8 13 3 46
+----------------------------------
+Past Round -- 8 50 13 28 3
+Current Rouand -- 8 50 13 28 3
+----------------------------------
+Card Value -- 9 -- New Deck 32 27 49 44 33 16 35 18 47
+Card Value -- 8 -- New Deck 13 3 46 45 43 38 48 36
+----------------------------------
+Past Round -- 13 36 33 49 27 47 3
+Current Rouand -- 13 36 33 49 27 47 3
+----------------------------------
+Card Value -- 13 -- New Deck 47 9 32 3 36 33 50 19 27 16 31 4 49
+Card Value -- 7 -- New Deck 43 38 48 28 18 8 35
+Card Value -- 3 -- New Deck 38 27 49
+Card Value -- 8 -- New Deck 46 25 23 17 22 2 48 33
+----------------------------------
+Past Round -- 22 49 2
+Current Rouand -- 22 49 2
+----------------------------------
+Card Value -- 19 -- New Deck 35 15 45 9 18 16 47 31 36 28 50 37 21 5 32 13 3 8 27
+Card Value -- 2 -- New Deck 48 33
+----------------------------------
+Past Round -- 9 45 18 48 16 47 5
+Current Rouand -- 9 45 18 48 16 47 5
+----------------------------------
+Card Value -- 9 -- New Deck 18 16 47 31 36 28 50 37 21
+Card Value -- 7 -- New Deck 46 38 17 4 48 35 33
+Card Value -- 7 -- New Deck 47 17 31 4 50 33 37
+Card Value -- 3 -- New Deck 36 8 35
+Card Value -- 17 -- New Deck 31 4 50 33 37 15 49 46 23 21 43 18 22 5 45 16 44
+Card Value -- 8 -- New Deck 35 27 28 25 38 19 32 2
+----------------------------------
+Past Round -- 23 31 21 38 22 37 5
+Current Rouand -- 23 31 21 38 22 37 5
+----------------------------------
+Card Value -- 21 -- New Deck 43 18 22 5 45 16 44 13 7 3 47 36 17 8 50 28 33 25 49 32 46
+Card Value -- 9 -- New Deck 35 31 27 4 38 37 19 15 48
+Card Value -- 5 -- New Deck 45 16 44 13 7
+Card Value -- 4 -- New Deck 38 37 19 15
+----------------------------------
+Past Round -- 13 37 7
+Current Rouand -- 13 37 7
+----------------------------------
+Card Value -- 5 -- New Deck 45 16 44 13 7
+Card Value -- 4 -- New Deck 38 37 19 15
+----------------------------------
+Past Round -- 13 37 7
+Current Rouand -- 13 37 7
+----------------------------------
+Card Value -- 2 -- New Deck 21 9
+Card Value -- 3 -- New Deck 27 17 22
+Card Value -- 5 -- New Deck 4 45 38 44 19
+Card Value -- 3 -- New Deck 2 27 21
+Card Value -- 4 -- New Deck 45 38 44 19
+Card Value -- 2 -- New Deck 27 21
+Card Value -- 4 -- New Deck 45 38 44 19
+Card Value -- 2 -- New Deck 27 21
+Card Value -- 24 -- New Deck 23 44 22 47 5 25 20 36 14 50 26 33 10 32 18 38 8 49 17 43 2 35 21 45
+Card Value -- 4 -- New Deck 28 19 37 15
+Card Value -- 19 -- New Deck 47 15 25 23 36 22 50 5 33 20 32 14 38 26 49 10 43 18 35
+Card Value -- 2 -- New Deck 37 21
+Card Value -- 25 -- New Deck 20 36 14 50 26 33 10 32 18 38 8 49 17 43 2 35 21 45 7 42 3 30 27 24 4
+Card Value -- 9 -- New Deck 31 16 46 13 28 23 37 22 48
+Card Value -- 3 -- New Deck 30 27 24
+Card Value -- 8 -- New Deck 26 2 37 35 48 45 18 7
+Card Value -- 13 -- New Deck 33 23 32 22 38 31 49 46 17 14 43 28 21
+Card Value -- 7 -- New Deck 8 3 37 24 35 4 48
+Card Value -- 23 -- New Deck 32 22 38 31 49 46 17 14 43 28 21 10 42 20 30 26 27 2 50 18 13 7 33
+Card Value -- 3 -- New Deck 37 24 35
+Card Value -- 13 -- New Deck 7 33 38 35 49 32 46 24 43 31 28 22 21
+Card Value -- 2 -- New Deck 37 18
+Card Value -- 7 -- New Deck 33 8 23 3 38 35 31
+Card Value -- 10 -- New Deck 45 42 32 27 28 2 21 18 22 13
+----------------------------------
+Past Round -- 35 23 38 3 28 27
+Current Rouand -- 35 23 38 3 28 27
+----------------------------------
+Card Value -- 16 -- New Deck 26 14 50 24 7 10 38 28 35 2 31 21 49 22 48 13
+Card Value -- 3 -- New Deck 18 4 32
+Card Value -- 14 -- New Deck 50 24 7 10 38 28 35 2 31 21 49 22 48 13
+Card Value -- 4 -- New Deck 32 20 23 17
+Card Value -- 25 -- New Deck 9 36 16 50 13 33 23 32 22 38 5 49 20 43 14 35 26 45 10 42 18 30 8 24 17
+Card Value -- 7 -- New Deck 31 3 46 27 28 4 37
+Card Value -- 10 -- New Deck 42 18 30 8 24 17 36 3 50 27
+Card Value -- 5 -- New Deck 23 14 46 35 38
+----------------------------------
+Past Round -- 17 36 3 50 27 42 23 18 14
+Current Rouand -- 17 36 3 50 27 42 23 18 14
+----------------------------------
+Card Value -- 5 -- New Deck 42 23 18 14 50
+Card Value -- 9 -- New Deck 38 20 33 13 46 45 22 16 36
+Card Value -- 3 -- New Deck 43 24 37
+Card Value -- 8 -- New Deck 36 32 33 31 18 17 35 30
+----------------------------------
+Past Round -- 37 33 43 31 36 18
+Current Rouand -- 37 33 43 31 36 18
+----------------------------------
+Card Value -- 13 -- New Deck 50 46 27 22 26 10 49 45 28 16 3 8 43
+Card Value -- 4 -- New Deck 18 5 17 9
+Card Value -- 25 -- New Deck 7 36 3 50 27 33 4 32 19 38 15 49 9 43 16 35 13 45 23 42 22 30 5 24 20
+Card Value -- 10 -- New Deck 31 18 46 8 28 17 37 2 48 21
+----------------------------------
+Past Round -- 4 48 19 31 15 46 9 28 16 37 13
+Current Rouand -- 4 48 19 31 15 46 9 28 16 37 13
+----------------------------------
+----------------------------------
+Past Round -- 45 23 42 22 30 5 24 20 44 14 47 26 25 10 36 18 50 8 33 17 32 2 38 21 49 7 43 3 35 27
+Current Rouand -- 45 23 42 22 30 5 24 20 44 14 47 26 25 10 36 18 50 8 33 17 32 2 38 21 49 7 43 3 35 27
+----------------------------------
+Card Value -- 25 -- New Deck 13 36 35 23 22 50 5 33 14 32 26 38 10 49 18 43 8 45 17 42 2 30 24 44 21
+Card Value -- 3 -- New Deck 28 4 37
+Card Value -- 25 -- New Deck 3 36 4 50 19 33 15 32 9 38 16 49 13 43 35 45 23 42 22 30 5 24 20 44 14
+Card Value -- 8 -- New Deck 48 17 31 2 46 21 28 7
+----------------------------------
+Past Round -- 31 15 46 9 48 16 28 24
+Current Rouand -- 31 15 46 9 48 16 28 24
+----------------------------------
+Card Value -- 24 -- New Deck 20 44 14 47 26 40 10 29 18 25 8 36 17 50 2 33 21 32 7 38 6 49 12 43
+Card Value -- 9 -- New Deck 27 16 48 13 46 23 28 22 37
+Card Value -- 21 -- New Deck 32 7 38 6 49 12 43 44 16 47 13 40 23 29 22 17 14 50 46 33 28
+Card Value -- 10 -- New Deck 37 18 27 25 20 8 48 36 26 2
+Card Value -- 12 -- New Deck 43 44 16 47 13 40 23 29 22 17 14 50
+Card Value -- 8 -- New Deck 48 36 26 2 37 32 18 7
+Card Value -- 2 -- New Deck 50 16
+Card Value -- 7 -- New Deck 48 47 40 32 18 17 43
+----------------------------------
+Past Round -- 43 47 16
+Current Rouand -- 43 47 16
+----------------------------------
+Card Value -- 17 -- New Deck 14 50 46 33 28 38 27 49 20 12 8 44 36 47 2 40 32
+Card Value -- 6 -- New Deck 48 43 26 16 37 13
+----------------------------------
+Past Round -- 12 48 8
+Current Rouand -- 12 48 8
+----------------------------------
+Card Value -- 17 -- New Deck 6 50 43 46 26 33 16 38 13 27 25 49 22 44 28 47 20
+Card Value -- 2 -- New Deck 37 32
+----------------------------------
+Past Round -- 23 37 22 48 20 36 12 32 8
+Current Rouand -- 23 37 22 48 20 36 12 32 8
+----------------------------------
+Card Value -- 12 -- New Deck 43 44 16 47 13 40 23 29 22 17 14 50
+Card Value -- 8 -- New Deck 48 36 26 2 37 32 18 7
+Card Value -- 2 -- New Deck 50 16
+Card Value -- 7 -- New Deck 48 47 40 32 18 17 43
+----------------------------------
+Past Round -- 43 47 16
+Current Rouand -- 43 47 16
+----------------------------------
+Card Value -- 17 -- New Deck 14 50 46 33 28 21 10 38 27 49 20 12 8 44 36 47 2
+Card Value -- 6 -- New Deck 48 43 26 16 37 13
+----------------------------------
+Past Round -- 37 13 48 14 43 28 21 12
+Current Rouand -- 37 13 48 14 43 28 21 12
+----------------------------------
+Card Value -- 21 -- New Deck 17 38 6 49 26 44 16 47 13 40 22 32 14 23 10 29 27 50 20 43 28
+Card Value -- 2 -- New Deck 48 25
+----------------------------------
+Past Round -- 48 25
+Current Rouand -- 48 25
+----------------------------------
+----------------------------------
+Past Round -- 48 20 36 28 37 12
+Current Rouand -- 48 20 36 28 37 12
+----------------------------------
+Card Value -- 25 -- New Deck 8 36 17 50 2 33 21 32 7 38 6 49 12 43 3 35 31 45 4 42 19 30 15 24 9
+Card Value -- 5 -- New Deck 27 20 48 14 46
+Card Value -- 6 -- New Deck 49 12 43 3 35 31
+Card Value -- 2 -- New Deck 48 32
+Card Value -- 19 -- New Deck 30 15 24 9 36 20 50 14 33 27 21 8 6 2 49 48 43 17 45
+Card Value -- 3 -- New Deck 46 35 38
+Card Value -- 15 -- New Deck 33 24 21 9 49 14 48 46 43 27 45 8 36 20 30
+Card Value -- 2 -- New Deck 35 17
+Card Value -- 20 -- New Deck 50 14 33 27 21 8 6 2 49 48 43 17 45 32 42 7 19 3 36 12
+Card Value -- 4 -- New Deck 46 30 35 15
+Card Value -- 2 -- New Deck 49 48
+Card Value -- 9 -- New Deck 30 14 35 33 38 21 24 8 31
+Card Value -- 3 -- New Deck 36 12 20
+Card Value -- 6 -- New Deck 33 17 8 7 31 19
+Card Value -- 32 -- New Deck 7 38 6 49 12 43 3 35 31 45 4 42 19 30 15 24 9 44 16 47 13 40 23 29 22 25 5 36 20 50 14 33
+Card Value -- 10 -- New Deck 37 18 27 8 48 17 46 2 28 21
+Card Value -- 30 -- New Deck 15 24 9 44 16 47 13 40 23 29 22 25 5 36 20 50 14 33 38 18 49 8 43 17 35 2 31 28 45 21
+Card Value -- 6 -- New Deck 48 12 46 3 37 4
+Card Value -- 18 -- New Deck 49 8 43 17 35 2 31 28 45 21 24 12 44 3 47 4 40 15
+Card Value -- 5 -- New Deck 46 20 37 14 48
+----------------------------------
+Past Round -- 46 8 48 35 37 20 31 24
+Current Rouand -- 46 8 48 35 37 20 31 24
+----------------------------------
+Card Value -- 12 -- New Deck 44 3 47 4 40 15 29 9 25 16 36 13
+Card Value -- 2 -- New Deck 48 45
+Card Value -- 13 -- New Deck 50 23 33 22 18 5 49 46 43 37 17 14 31
+Card Value -- 3 -- New Deck 21 4 24
+Card Value -- 23 -- New Deck 33 22 18 5 49 46 43 37 17 14 31 20 28 8 47 35 40 38 29 2 13 3 50
+Card Value -- 4 -- New Deck 24 15 12 9
+Card Value -- 20 -- New Deck 28 8 47 35 40 38 29 2 13 3 50 21 23 4 33 24 22 15 18 12
+Card Value -- 5 -- New Deck 44 43 45 17 36
+Card Value -- 18 -- New Deck 12 47 45 35 17 40 36 29 28 13 8 50 38 23 2 33 3 22
+Card Value -- 4 -- New Deck 43 24 44 15
+Card Value -- 4 -- New Deck 33 24 22 15
+Card Value -- 2 -- New Deck 43 13
+Card Value -- 22 -- New Deck 15 18 12 49 48 46 25 37 16 31 9 20 5 47 45 35 17 40 36 38 14 50
+Card Value -- 8 -- New Deck 3 29 21 28 23 2 4 43
+Card Value -- 15 -- New Deck 18 12 49 48 46 25 37 16 31 9 20 5 47 45 35
+Card Value -- 3 -- New Deck 29 21 28
+Card Value -- 15 -- New Deck 18 12 49 48 46 25 37 16 31 9 20 5 47 45 35
+Card Value -- 3 -- New Deck 29 21 28
+Card Value -- 25 -- New Deck 37 16 31 9 20 5 47 45 35 17 40 36 38 14 50 44 24 13 22 8 15 3 49 28 48
+Card Value -- 4 -- New Deck 43 33 29 18
+Card Value -- 8 -- New Deck 43 17 35 2 31 28 45 21
+Card Value -- 5 -- New Deck 27 20 48 14 46
+----------------------------------
+Past Round -- 43 14 45 27 35 28
+Current Rouand -- 43 14 45 27 35 28
+----------------------------------
+Card Value -- 12 -- New Deck 44 3 47 4 40 19 29 15 25 9 36 16
+Card Value -- 2 -- New Deck 46 31
+Card Value -- 19 -- New Deck 29 15 25 9 36 16 50 13 33 23 49 37 8 5 43 27 45 22 21
+Card Value -- 7 -- New Deck 48 30 35 6 46 44 31
+Card Value -- 9 -- New Deck 36 16 50 13 33 23 49 37 8
+Card Value -- 6 -- New Deck 46 44 31 48 29 30
+----------------------------------
+Past Round -- 13 48 23 44 8
+Current Rouand -- 13 48 23 44 8
+----------------------------------
+Card Value -- 16 -- New Deck 21 13 50 25 31 8 29 5 49 44 35 22 43 30 36 9
+Card Value -- 6 -- New Deck 46 33 27 15 48 37
+Card Value -- 8 -- New Deck 49 33 29 27 50 46 35 25
+Card Value -- 5 -- New Deck 21 13 48 22 44
+----------------------------------
+Past Round -- 44 48 29
+Current Rouand -- 44 48 29
+----------------------------------
+Card Value -- 8 -- New Deck 35 5 45 30 36 22 50 23
+Card Value -- 6 -- New Deck 48 21 33 15 44 31
+Card Value -- 13 -- New Deck 49 48 46 35 29 21 27 5 45 31 33 22 50
+Card Value -- 8 -- New Deck 36 6 37 30 16 15 44 23
+Card Value -- 9 -- New Deck 36 16 50 13 33 23 49 37 8
+Card Value -- 6 -- New Deck 46 44 31 3 28 4
+Card Value -- 13 -- New Deck 33 23 49 37 8 5 43 27 45 22 21 18 42
+Card Value -- 3 -- New Deck 28 4 48
+Card Value -- 23 -- New Deck 49 37 8 5 43 27 45 22 21 18 42 20 24 14 12 2 47 38 40 17 19 7 9
+Card Value -- 4 -- New Deck 48 29 30 15
+Card Value -- 20 -- New Deck 24 14 12 2 47 38 40 17 19 7 9 6 50 31 13 3 33 28 23 4
+Card Value -- 8 -- New Deck 15 5 46 45 36 22 44 21
+Card Value -- 14 -- New Deck 12 2 47 38 40 17 19 7 9 6 50 31 13 3
+Card Value -- 5 -- New Deck 46 45 36 22 44
+Card Value -- 9 -- New Deck 6 50 31 13 3 47 36 38 22
+Card Value -- 2 -- New Deck 44 40
+----------------------------------
+Past Round -- 44 6
+Current Rouand -- 44 6
+----------------------------------
+----------------------------------
+Past Round -- 9 45 2 44 40 46 7 31 6 17 3
+Current Rouand -- 9 45 2 44 40 46 7 31 6 17 3
+----------------------------------
+Card Value -- 6 -- New Deck 50 31 13 3 33 28
+Card Value -- 2 -- New Deck 44 40
+Card Value -- 4 -- New Deck 24 15 14 5
+Card Value -- 7 -- New Deck 45 9 40 31 21 13 17
+Card Value -- 9 -- New Deck 47 21 36 13 38 17 22 3 50
+Card Value -- 5 -- New Deck 46 6 33 2 45
+Card Value -- 13 -- New Deck 38 17 22 3 50 7 44 4 9 5 47 46 21
+Card Value -- 2 -- New Deck 45 28
+Card Value -- 5 -- New Deck 47 46 21 50 28
+Card Value -- 3 -- New Deck 17 7 45
+Card Value -- 5 -- New Deck 3 47 17 46 7
+Card Value -- 4 -- New Deck 38 9 45 21
+----------------------------------
+Past Round -- 3 47 17 46 7
+Current Rouand -- 3 47 17 46 7
+----------------------------------
+----------------------------------
+Past Round -- 5 45 4 38 9
+Current Rouand -- 5 45 4 38 9
+----------------------------------
+Card Value -- 4 -- New Deck 9 5 47 46
+Card Value -- 12 -- New Deck 31 15 45 38 28 17 24 22 19 3 23 7
+Card Value -- 2 -- New Deck 50 40
+Card Value -- 3 -- New Deck 23 7 31
+Card Value -- 12 -- New Deck 47 45 46 38 36 24 33 22 2 3 50 23
+Card Value -- 5 -- New Deck 28 21 17 6 19
+Card Value -- 14 -- New Deck 12 2 47 38 40 17 19 7 9 6 50 31 13 3
+Card Value -- 5 -- New Deck 46 45 36 22 44
+Card Value -- 9 -- New Deck 6 50 31 13 3 47 36 38 22
+Card Value -- 2 -- New Deck 44 40
+----------------------------------
+Past Round -- 44 6
+Current Rouand -- 44 6
+----------------------------------
+----------------------------------
+Past Round -- 9 45 2 44 40 46 7 31 6 17 3
+Current Rouand -- 9 45 2 44 40 46 7 31 6 17 3
+----------------------------------
+Card Value -- 6 -- New Deck 50 31 13 3 33 28
+Card Value -- 2 -- New Deck 44 40
+Card Value -- 4 -- New Deck 49 48 37 29
+Card Value -- 7 -- New Deck 45 9 40 31 21 13 17
+----------------------------------
+Past Round -- 48 9 49 21 45 13
+Current Rouand -- 48 9 49 21 45 13
+----------------------------------
+Card Value -- 25 -- New Deck 18 16 42 30 20 8 24 15 14 5 47 36 38 22 6 2 50 44 28 19 23 12 4 7 49
+Card Value -- 3 -- New Deck 46 33 40
+Card Value -- 4 -- New Deck 7 49 42 40
+Card Value -- 6 -- New Deck 33 2 46 44 36 28
+Card Value -- 8 -- New Deck 38 15 50 5 23 22 4 6
+Card Value -- 12 -- New Deck 33 7 46 42 44 40 36 20 28 18 30 24
+Card Value -- 5 -- New Deck 28 23 50 36 42
+Card Value -- 6 -- New Deck 30 15 24 7 44 38
+----------------------------------
+Past Round -- 50 7 36 30
+Current Rouand -- 50 7 36 30
+----------------------------------
+Card Value -- 4 -- New Deck 46 33 40 20
+Card Value -- 6 -- New Deck 30 23 28 15 42 24
+Card Value -- 5 -- New Deck 50 40 46 22 49
+Card Value -- 2 -- New Deck 24 14
+Card Value -- 2 -- New Deck 50 24
+Card Value -- 4 -- New Deck 7 6 42 33
+Card Value -- 8 -- New Deck 49 16 36 12 47 44 20 15
+Card Value -- 5 -- New Deck 42 40 33 14 38
+Card Value -- 6 -- New Deck 46 28 19 18 8 5
+Card Value -- 2 -- New Deck 20 4
+Card Value -- 2 -- New Deck 50 44
+Card Value -- 8 -- New Deck 46 24 18 15 33 14 16 5
+Card Value -- 7 -- New Deck 49 45 48 9 43 21 35
+Card Value -- 5 -- New Deck 29 6 33 23 14
+Card Value -- 30 -- New Deck 15 24 9 44 16 47 13 40 23 29 22 25 5 36 20 50 14 33 26 32 10 38 18 49 8 43 17 35 2 31
+Card Value -- 6 -- New Deck 48 12 46 3 37 4
+Card Value -- 4 -- New Deck 40 15 29 9
+Card Value -- 2 -- New Deck 48 24
+Card Value -- 16 -- New Deck 36 13 50 23 33 22 32 5 38 20 49 14 43 26 35 10
+Card Value -- 3 -- New Deck 2 4 48
+Card Value -- 13 -- New Deck 50 23 33 22 32 5 38 20 49 14 43 26 35
+Card Value -- 4 -- New Deck 48 40 24 15
+Card Value -- 10 -- New Deck 31 18 12 8 47 37 25 17 16 3
+Card Value -- 5 -- New Deck 44 38 23 14 46
+----------------------------------
+Past Round -- 46 17 37 18 47 16 25 23
+Current Rouand -- 46 17 37 18 47 16 25 23
+----------------------------------
+Card Value -- 4 -- New Deck 50 48 33 24
+Card Value -- 12 -- New Deck 14 8 43 37 32 25 26 17 44 16 31 3
+Card Value -- 9 -- New Deck 49 40 35 29 10 5 47 46 4
+Card Value -- 17 -- New Deck 44 16 31 3 38 36 18 2 23 13 43 33 37 24 32 22 25
+Card Value -- 2 -- New Deck 49 13
+Card Value -- 5 -- New Deck 23 4 37 16 32
+Card Value -- 13 -- New Deck 44 43 40 33 35 24 29 22 47 38 18 10 46
+Card Value -- 4 -- New Deck 37 16 32 31
+Card Value -- 12 -- New Deck 50 14 48 8 9 17 49 44 40 16 35 31
+Card Value -- 13 -- New Deck 43 33 37 24 32 22 25 15 26 20 38 10 36
+----------------------------------
+Past Round -- 15 38 10
+Current Rouand -- 15 38 10
+----------------------------------
+Card Value -- 3 -- New Deck 47 18 46
+Card Value -- 5 -- New Deck 23 4 33 14 24
+Card Value -- 18 -- New Deck 46 2 12 13 50 43 48 37 49 25 44 15 40 26 31 10 3 5
+Card Value -- 4 -- New Deck 33 14 24 8
+Card Value -- 13 -- New Deck 50 43 48 37 49 25 44 15 40 26 31 10 3
+Card Value -- 8 -- New Deck 32 9 22 17 20 16 38 35
+Card Value -- 10 -- New Deck 3 5 47 23 18 4 46 33 13 8
+Card Value -- 2 -- New Deck 24 12
+Card Value -- 24 -- New Deck 12 44 3 47 4 40 19 29 15 25 9 36 16 50 13 33 23 32 22 38 5 49 20 43
+Card Value -- 2 -- New Deck 48 21
+Card Value -- 16 -- New Deck 32 13 38 23 49 22 43 5 21 20 15 3 50 44 33 12
+Card Value -- 4 -- New Deck 48 25 40 19
+Card Value -- 4 -- New Deck 23 19 49 47
+Card Value -- 5 -- New Deck 48 21 32 20 25
+----------------------------------
+Past Round -- 48 19
+Current Rouand -- 48 19
+----------------------------------
+Card Value -- 15 -- New Deck 50 13 40 3 44 36 38 33 49 21 32 19 47 22 20
+Card Value -- 4 -- New Deck 23 5 48 29
+Card Value -- 25 -- New Deck 9 36 16 50 13 33 23 32 22 38 5 49 20 43 14 35 26 31 10 28 27 45 18 42 8
+Card Value -- 3 -- New Deck 37 4 48
+Card Value -- 13 -- New Deck 16 4 50 48 35 14 22 5 49 45 31 28 38
+Card Value -- 10 -- New Deck 42 36 32 9 43 26 23 8 33 18
+Card Value -- 5 -- New Deck 49 45 31 28 38
+Card Value -- 8 -- New Deck 33 18 42 16 36 4 43 35
+----------------------------------
+Past Round -- 18 43 28 42 16
+Current Rouand -- 18 43 28 42 16
+----------------------------------
+----------------------------------
+Past Round -- 42 31 43 9 32 28
+Current Rouand -- 42 31 43 9 32 28
+----------------------------------
+Card Value -- 5 -- New Deck 49 45 31 28 38
+Card Value -- 8 -- New Deck 33 18 42 16 36 4 43 35
+----------------------------------
+Past Round -- 18 43 28 42 16
+Current Rouand -- 18 43 28 42 16
+----------------------------------
+Card Value -- 36 -- New Deck 16 50 13 33 23 32 22 38 5 49 20 43 14 35 26 31 10 28 27 45 18 42 8 30 17 24 2 44 21 47 7 40 6 29 12 25
+Card Value -- 4 -- New Deck 48 19 46 15
+Card Value -- 26 -- New Deck 42 10 30 27 24 18 44 8 47 17 40 2 29 21 25 7 50 48 19 6 15 12 49 33 23 16
+Card Value -- 5 -- New Deck 46 31 43 20 38
+Card Value -- 15 -- New Deck 12 49 33 23 16 27 20 44 42 47 10 40 30 29 24
+Card Value -- 2 -- New Deck 46 21
+----------------------------------
+Past Round -- 46 12
+Current Rouand -- 46 12
+----------------------------------
+Card Value -- 23 -- New Deck 7 27 6 44 12 42 38 47 16 40 20 29 10 50 24 48 25 19 18 15 8 49 43
+Card Value -- 2 -- New Deck 30 21
+----------------------------------
+Past Round -- 30 7 46 6
+Current Rouand -- 30 7 46 6
+----------------------------------
+Card Value -- 2 -- New Deck 29 21
+Card Value -- 10 -- New Deck 43 30 38 24 28 18 14 8 42 17
+Card Value -- 6 -- New Deck 15 12 49 33 23 16
+Card Value -- 8 -- New Deck 42 17 10 2 43 29 30 21
+Card Value -- 5 -- New Deck 27 20 44 22 47
+Card Value -- 7 -- New Deck 42 15 17 12 43 23 29
+Card Value -- 31 -- New Deck 10 28 27 45 18 42 8 30 17 24 2 44 21 47 7 40 6 29 12 25 3 36 4 50 19 33 15 32 9 38 16
+Card Value -- 5 -- New Deck 37 20 48 14 46
+Card Value -- 21 -- New Deck 47 7 40 6 29 12 25 3 36 4 50 19 33 15 32 9 38 16 28 20 45
+Card Value -- 8 -- New Deck 48 30 27 17 46 24 18 2
+Card Value -- 3 -- New Deck 36 4 50
+Card Value -- 2 -- New Deck 48 47
+Card Value -- 15 -- New Deck 32 9 38 16 28 20 45 40 27 25 18 3 2 50 30
+Card Value -- 6 -- New Deck 46 29 24 12 48 36
+----------------------------------
+Past Round -- 40 24 50 16 30 27
+Current Rouand -- 40 24 50 16 30 27
+----------------------------------
+Card Value -- 3 -- New Deck 2 50 30
+Card Value -- 9 -- New Deck 48 28 36 20 47 45 46 27 32
+----------------------------------
+Past Round -- 50 25 24 2 38 7 40 17 33 15 28 27
+Current Rouand -- 50 25 24 2 38 7 40 17 33 15 28 27
+----------------------------------
+Card Value -- 3 -- New Deck 36 4 50
+Card Value -- 2 -- New Deck 48 47
+Card Value -- 19 -- New Deck 33 15 32 9 38 16 28 20 45 14 42 37 44 10 21 8 40 27 25
+Card Value -- 7 -- New Deck 17 6 46 29 24 12 48
+Card Value -- 6 -- New Deck 38 24 16 12 45 32
+Card Value -- 8 -- New Deck 48 27 37 25 46 33 29 15
+Card Value -- 15 -- New Deck 32 9 38 16 28 20 45 14 42 37 44 10 21 8 40
+Card Value -- 6 -- New Deck 46 29 24 12 48 36
+Card Value -- 16 -- New Deck 28 20 45 14 42 37 44 10 21 8 40 27 25 18 3 2
+Card Value -- 12 -- New Deck 48 36 47 4 7 19 6 15 46 32 29 9
+Card Value -- 7 -- New Deck 37 19 44 6 40 29 27
+Card Value -- 10 -- New Deck 46 21 32 8 48 25 28 18 36 3
+Card Value -- 3 -- New Deck 44 37 29
+Card Value -- 8 -- New Deck 6 48 40 28 27 36 32 46
+----------------------------------
+Past Round -- 19 44 6
+Current Rouand -- 19 44 6
+----------------------------------
+Card Value -- 6 -- New Deck 40 29 27 9 42 15
+Card Value -- 8 -- New Deck 48 25 28 18 36 3 20 2
+Card Value -- 3 -- New Deck 10 2 32
+Card Value -- 19 -- New Deck 8 6 48 40 28 27 18 9 20 7 47 44 45 29 46 42 37 36 21
+Card Value -- 2 -- New Deck 32 10
+Card Value -- 6 -- New Deck 48 40 28 27 18 9
+Card Value -- 2 -- New Deck 32 14
+Card Value -- 6 -- New Deck 48 40 28 27 18 9
+Card Value -- 14 -- New Deck 42 37 44 10 21 8 40 27 25 18 3 2 50 30
+Card Value -- 4 -- New Deck 7 19 6 15
+Card Value -- 7 -- New Deck 37 19 44 6 40 29 27
+Card Value -- 8 -- New Deck 48 3 28 2 47 33 45 17
+Card Value -- 6 -- New Deck 40 29 27 19 3 44
+Card Value -- 2 -- New Deck 47 33
+----------------------------------
+Past Round -- 44 28
+Current Rouand -- 44 28
+----------------------------------
+Card Value -- 19 -- New Deck 44 6 40 29 27 9 25 12 18 16 50 36 30 20 38 15 24 10 42
+Card Value -- 3 -- New Deck 28 2 47
+Card Value -- 6 -- New Deck 40 29 27 9 25 12
+Card Value -- 2 -- New Deck 47 33
+Card Value -- 12 -- New Deck 18 16 50 36 30 20 38 15 24 10 42 32
+Card Value -- 14 -- New Deck 21 4 48 37 2 6 47 40 33 29 45 27 17 9
+Card Value -- 4 -- New Deck 50 48 30 2
+Card Value -- 9 -- New Deck 21 18 37 36 47 38 40 15 33
+----------------------------------
+Past Round -- 21 38 15
+Current Rouand -- 21 38 15
+----------------------------------
+Card Value -- 2 -- New Deck 48 47
+Card Value -- 4 -- New Deck 24 9 42 18
+Card Value -- 16 -- New Deck 50 36 30 20 38 15 24 10 42 32 7 8 19 3 44 28
+Card Value -- 4 -- New Deck 48 37 2 6
+Card Value -- 20 -- New Deck 38 15 24 10 42 32 7 8 19 3 44 28 12 14 16 4 50 48 30 2
+Card Value -- 6 -- New Deck 47 40 33 29 45 27
+Card Value -- 2 -- New Deck 32 27
+Card Value -- 8 -- New Deck 40 19 15 3 29 12 45 16
+Card Value -- 4 -- New Deck 48 38 27 8
+Card Value -- 7 -- New Deck 32 15 28 3 45 24 14
+----------------------------------
+Past Round -- 28 27
+Current Rouand -- 28 27
+----------------------------------
+Card Value -- 8 -- New Deck 19 2 44 40 33 29 50 16
+Card Value -- 3 -- New Deck 45 24 14
+----------------------------------
+Past Round -- 2 45 40
+Current Rouand -- 2 45 40
+----------------------------------
+Card Value -- 10 -- New Deck 47 30 4 7 48 32 38 15 8 3
+Card Value -- 2 -- New Deck 19 16
+Card Value -- 7 -- New Deck 8 19 3 44 28 12 14
+Card Value -- 17 -- New Deck 9 46 25 21 18 37 36 47 38 40 15 33 24 29 10 45 42
+Card Value -- 8 -- New Deck 19 3 44 28 12 14 16 4
+Card Value -- 9 -- New Deck 46 25 21 18 37 36 47 38 40
+----------------------------------
+Past Round -- 28 19 44 3 40 37
+Current Rouand -- 28 19 44 3 40 37
+----------------------------------
+Card Value -- 6 -- New Deck 32 27 8 9 44 21
+Card Value -- 10 -- New Deck 45 42 17 7 46 19 25 3 37 12
+Card Value -- 8 -- New Deck 9 44 21 28 18 50 40 48
+Card Value -- 17 -- New Deck 7 46 19 25 3 37 12 36 14 47 16 38 4 33 30 24 2
+----------------------------------
+Past Round -- 4 48 2 50 9 40 7
+Current Rouand -- 4 48 2 50 9 40 7
+----------------------------------
+Card Value -- 9 -- New Deck 44 21 28 18 50 40 48 15 8
+Card Value -- 7 -- New Deck 46 19 25 3 37 12 36
+Card Value -- 15 -- New Deck 8 17 9 7 21 19 28 25 18 3 50 37 40 12 48
+Card Value -- 14 -- New Deck 47 16 38 4 33 30 24 2 29 20 10 6 45 32
+Card Value -- 7 -- New Deck 21 19 28 25 18 3 50
+Card Value -- 4 -- New Deck 33 30 24 2
+----------------------------------
+Past Round -- 28 24 25 2 50 30
+Current Rouand -- 28 24 25 2 50 30
+----------------------------------
+Card Value -- 7 -- New Deck 4 28 24 25 2 50 10
+Card Value -- 9 -- New Deck 33 21 30 19 29 18 20 3 45
+Card Value -- 3 -- New Deck 19 4 50
+Card Value -- 2 -- New Deck 20 10
+Card Value -- 4 -- New Deck 50 30 3 2
+Card Value -- 10 -- New Deck 45 21 33 25 24 18 29 28 20 19
+Card Value -- 17 -- New Deck 12 28 4 25 24 50 2 37 10 48 6 40 38 47 8 32 16
+Card Value -- 7 -- New Deck 33 9 30 21 29 19 20
+Card Value -- 6 -- New Deck 40 38 47 8 32 16
+Card Value -- 4 -- New Deck 29 24 20 2
+Card Value -- 8 -- New Deck 32 16 28 9 25 21 50 19
+Card Value -- 2 -- New Deck 12 10
+Card Value -- 17 -- New Deck 7 28 9 25 21 50 19 37 18 48 3 40 12 38 30 47 4
+Card Value -- 2 -- New Deck 45 10
+----------------------------------
+Past Round -- 45 4 30 28
+Current Rouand -- 45 4 30 28
+----------------------------------
+Card Value -- 17 -- New Deck 2 28 10 25 6 50 8 37 16 48 7 40 9 38 21 30 20
+Card Value -- 3 -- New Deck 29 12 45
+Card Value -- 6 -- New Deck 50 8 37 16 48 7
+Card Value -- 2 -- New Deck 45 10
+----------------------------------
+Past Round -- 33 3 29 12 45 4
+Current Rouand -- 33 3 29 12 45 4
+----------------------------------
+Card Value -- 7 -- New Deck 21 19 28 25 18 3 50
+Card Value -- 4 -- New Deck 33 30 24 2
+----------------------------------
+Past Round -- 28 24 25 2 50 30
+Current Rouand -- 28 24 25 2 50 30
+----------------------------------
+Card Value -- 4 -- New Deck 28 24 25 2
+Card Value -- 9 -- New Deck 33 21 30 19 29 18 20 3 45
+Card Value -- 2 -- New Deck 50 10
+Card Value -- 19 -- New Deck 29 18 20 3 45 40 32 12 46 15 44 14 47 17 38 7 9 4 33
+----------------------------------
+Past Round -- 46 10 50 3 44 15 38 29
+Current Rouand -- 46 10 50 3 44 15 38 29
+----------------------------------
+Card Value -- 10 -- New Deck 37 6 48 42 36 27 16 8 24 21
+Card Value -- 18 -- New Deck 20 3 45 40 32 12 46 15 44 14 47 17 38 7 9 4 33 28
+Card Value -- 6 -- New Deck 48 42 36 27 16 8
+Card Value -- 3 -- New Deck 45 40 32
+Card Value -- 3 -- New Deck 48 45 42
+Card Value -- 7 -- New Deck 9 4 33 28 46 16 15
+----------------------------------
+Past Round -- 48 45 42 9
+Current Rouand -- 48 45 42 9
+----------------------------------
+Card Value -- 12 -- New Deck 21 14 20 17 3 7 48 9 45 4 42 33
+Card Value -- 8 -- New Deck 44 24 47 37 38 6 46 36
+Card Value -- 14 -- New Deck 48 37 46 17 45 38 44 3 42 36 24 9 33 21
+Card Value -- 4 -- New Deck 47 7 20 6
+Card Value -- 7 -- New Deck 48 9 45 4 42 33 40
+Card Value -- 6 -- New Deck 46 36 44 21 24 14
+Card Value -- 8 -- New Deck 7 6 48 46 45 44 42 24
+Card Value -- 9 -- New Deck 21 4 47 40 37 32 17 16 38
+Card Value -- 6 -- New Deck 48 46 45 44 42 24
+Card Value -- 4 -- New Deck 47 40 37 32
+Card Value -- 6 -- New Deck 48 46 45 44 42 24
+Card Value -- 4 -- New Deck 47 40 37 32
+Card Value -- 3 -- New Deck 8 9 6
+Card Value -- 7 -- New Deck 38 33 27 14 36 28 21
+Card Value -- 6 -- New Deck 48 42 36 27 16 8
+Card Value -- 3 -- New Deck 45 40 32
+Card Value -- 10 -- New Deck 18 37 20 6 3 48 45 42 40 36
+Card Value -- 9 -- New Deck 4 33 28 30 25 46 16 15 8
+----------------------------------
+Past Round -- 18 30 4
+Current Rouand -- 18 30 4
+----------------------------------
+Card Value -- 18 -- New Deck 37 20 6 3 48 45 42 40 36 32 27 12 21 14 19 17 50 38
+Card Value -- 4 -- New Deck 33 28 30 25
+Card Value -- 12 -- New Deck 21 14 19 17 50 38 29 7 10 9 18 4
+Card Value -- 2 -- New Deck 28 20
+Card Value -- 17 -- New Deck 50 38 29 7 10 9 18 4 37 33 48 46 45 16 42 15 40
+Card Value -- 6 -- New Deck 25 3 44 36 47 27
+----------------------------------
+Past Round -- 42 7 44 10
+Current Rouand -- 42 7 44 10
+----------------------------------
+Card Value -- 15 -- New Deck 40 8 32 24 12 2 17 6 50 25 38 3 37 20 33
+Card Value -- 7 -- New Deck 47 10 27 9 28 18 21
+Card Value -- 6 -- New Deck 50 28 40 3 37 24
+Card Value -- 2 -- New Deck 47 32
+Card Value -- 8 -- New Deck 32 24 12 2 17 6 50 25
+Card Value -- 10 -- New Deck 27 9 28 18 21 4 29 16 47 40
+Card Value -- 6 -- New Deck 50 25 32 27 24 9
+Card Value -- 4 -- New Deck 29 16 47 40
+----------------------------------
+Past Round -- 47 24 32 9
+Current Rouand -- 47 24 32 9
+----------------------------------
+Card Value -- 4 -- New Deck 50 29 25 16
+Card Value -- 2 -- New Deck 21 17
+Card Value -- 6 -- New Deck 50 40 18 4 28 27
+Card Value -- 2 -- New Deck 24 21
+Card Value -- 9 -- New Deck 29 6 28 12 16 2 18 17 50
+Card Value -- 4 -- New Deck 40 27 24 21
+----------------------------------
+Past Round -- 50 18 28 6
+Current Rouand -- 50 18 28 6
+----------------------------------
+Card Value -- 2 -- New Deck 50 21
+Card Value -- 4 -- New Deck 47 28 40 32
+Card Value -- 6 -- New Deck 50 25 38 3 37 20
+Card Value -- 4 -- New Deck 29 16 47 40
+----------------------------------
+Past Round -- 37 20 50 29 25 16
+Current Rouand -- 37 20 50 29 25 16
+----------------------------------
+Card Value -- 14 -- New Deck 48 30 46 19 45 44 42 36 15 7 8 10 32 27
+Card Value -- 2 -- New Deck 21 17
+Card Value -- 4 -- New Deck 50 29 25 16
+Card Value -- 7 -- New Deck 47 8 42 10 46 32 36
+Card Value -- 16 -- New Deck 37 28 20 12 33 18 14 2 48 21 30 17 45 40 44 3
+Card Value -- 10 -- New Deck 46 32 36 27 38 24 15 9 19 6
+Card Value -- 2 -- New Deck 48 21
+Card Value -- 9 -- New Deck 19 6 46 37 32 28 36 20 27
+----------------------------------
+Past Round -- 48 36 46 20
+Current Rouand -- 48 36 46 20
+----------------------------------
+Card Value -- 9 -- New Deck 48 19 21 6 45 32 40 28 44
+Card Value -- 12 -- New Deck 38 33 24 18 15 14 46 30 37 17 20 3
+----------------------------------
+Past Round -- 3 46 19 40 21 33 18
+Current Rouand -- 3 46 19 40 21 33 18
+----------------------------------
+Card Value -- 9 -- New Deck 38 19 45 21 33 14 44 40 18
+Card Value -- 2 -- New Deck 46 32
+Card Value -- 14 -- New Deck 44 40 18 17 37 30 48 28 20 3 27 15 45 36
+Card Value -- 6 -- New Deck 2 9 46 38 32 19
+Card Value -- 12 -- New Deck 14 6 44 2 40 9 37 32 30 19 48 24
+Card Value -- 3 -- New Deck 38 27 17
+----------------------------------
+Past Round -- 27 17 38 14
+Current Rouand -- 27 17 38 14
+----------------------------------
+Card Value -- 2 -- New Deck 20 9
+Card Value -- 3 -- New Deck 21 17 45
+Card Value -- 2 -- New Deck 48 21
+Card Value -- 6 -- New Deck 44 33 38 32 14 3
+Card Value -- 17 -- New Deck 19 9 46 45 40 30 28 12 24 18 27 15 2 6 48 44 36
+Card Value -- 3 -- New Deck 33 21 38
+Card Value -- 3 -- New Deck 46 38 45
+Card Value -- 2 -- New Deck 12 6
+Card Value -- 14 -- New Deck 2 48 21 30 17 45 40 44 3 4 7 50 47 29
+Card Value -- 15 -- New Deck 9 19 6 42 25 46 37 32 28 36 20 27 12 38 33
+Card Value -- 2 -- New Deck 48 21
+Card Value -- 9 -- New Deck 19 6 42 25 46 37 32 28 36
+----------------------------------
+Past Round -- 42 28 48 36 32 25
+Current Rouand -- 42 28 48 36 32 25
+----------------------------------
+----------------------------------
+Past Round -- 21 44 2 50 9 47 25 48 19 37 6
+Current Rouand -- 21 44 2 50 9 47 25 48 19 37 6
+----------------------------------
+Card Value -- 2 -- New Deck 48 21
+Card Value -- 9 -- New Deck 19 6 42 25 46 37 32 28 36
+----------------------------------
+Past Round -- 42 28 48 36 32 25
+Current Rouand -- 42 28 48 36 32 25
+----------------------------------
+Card Value -- 10 -- New Deck 14 15 2 9 48 19 21 6 40 37
+Card Value -- 18 -- New Deck 42 30 25 17 46 45 28 3 36 4 20 7 38 29 33 8 24 16
+Card Value -- 4 -- New Deck 48 20 46 7
+Card Value -- 16 -- New Deck 42 14 30 15 25 2 17 9 45 19 28 21 38 6 29 3
+Card Value -- 8 -- New Deck 37 24 4 16 48 42 20 14
+Card Value -- 9 -- New Deck 45 19 28 21 38 6 29 3 15
+----------------------------------
+Past Round -- 42 4 24 20 48 19 37 21 38 6 28 16
+Current Rouand -- 42 4 24 20 48 19 37 21 38 6 28 16
+----------------------------------
+Card Value -- 14 -- New Deck 46 30 40 25 33 2 36 17 8 9 24 19 48 38
+Card Value -- 3 -- New Deck 15 7 45
+----------------------------------
+Past Round -- 46 15 30 7 36 25 24 2 48 17 38 33
+Current Rouand -- 46 15 30 7 36 25 24 2 48 17 38 33
+----------------------------------
+Card Value -- 2 -- New Deck 36 17
+Card Value -- 4 -- New Deck 21 16 29 20
+Card Value -- 9 -- New Deck 48 19 21 6 40 37 44 32 50
+Card Value -- 17 -- New Deck 46 45 28 3 36 4 20 7 38 29 33 8 24 16 42 14 30
+Card Value -- 6 -- New Deck 40 37 44 32 50 48
+Card Value -- 3 -- New Deck 36 4 20
+Card Value -- 6 -- New Deck 3 40 36 37 4 44
+Card Value -- 8 -- New Deck 24 16 42 14 30 45 19 28
+Card Value -- 16 -- New Deck 37 14 20 19 32 28 50 8 38 6 48 24 29 3 46 42
+Card Value -- 4 -- New Deck 45 44 21 7
+Card Value -- 7 -- New Deck 50 44 38 21 48 45 46
+Card Value -- 6 -- New Deck 32 24 37 29 28 3
+Card Value -- 7 -- New Deck 50 45 48 21 24 20 46
+Card Value -- 6 -- New Deck 36 29 32 3 44 16
+Card Value -- 16 -- New Deck 46 38 33 4 28 24 50 40 36 8 45 42 29 19 48 37
+Card Value -- 6 -- New Deck 44 21 7 3 30 20
+Card Value -- 6 -- New Deck 40 37 44 32 50 27
+Card Value -- 3 -- New Deck 36 4 20
+Card Value -- 12 -- New Deck 10 18 9 17 48 46 6 3 40 36 37 4
+Card Value -- 8 -- New Deck 24 16 42 14 30 15 25 2
+Card Value -- 3 -- New Deck 40 36 37
+Card Value -- 2 -- New Deck 24 10
+Card Value -- 6 -- New Deck 48 9 30 4 46 25
+Card Value -- 3 -- New Deck 17 2 15
+Card Value -- 9 -- New Deck 30 4 46 25 40 37 24 14 36
+Card Value -- 2 -- New Deck 15 10
+Card Value -- 17 -- New Deck 48 46 6 3 40 36 37 4 44 20 32 7 50 38 47 33 12
+Card Value -- 14 -- New Deck 30 15 25 2 45 19 28 21 29 27 24 10 42 9
+Card Value -- 3 -- New Deck 40 36 37
+Card Value -- 2 -- New Deck 45 19
+Card Value -- 7 -- New Deck 50 38 47 33 12 48 30
+Card Value -- 10 -- New Deck 42 9 25 6 2 3 45 40 21 4
+----------------------------------
+Past Round -- 45 9
+Current Rouand -- 45 9
+----------------------------------
+Card Value -- 12 -- New Deck 48 30 46 15 36 19 37 28 44 29 32 24
+Card Value -- 2 -- New Deck 3 45
+----------------------------------
+Past Round -- 2 40 3 45 19
+Current Rouand -- 2 40 3 45 19
+----------------------------------
+Card Value -- 3 -- New Deck 40 36 37
+Card Value -- 2 -- New Deck 45 19
+Card Value -- 7 -- New Deck 50 38 47 33 12 8 18
+Card Value -- 10 -- New Deck 42 9 25 6 2 3 45 40 21 4
+Card Value -- 8 -- New Deck 18 50 42 38 9 47 25 33
+Card Value -- 3 -- New Deck 45 40 21
+Card Value -- 8 -- New Deck 6 50 12 42 2 38 3 47
+Card Value -- 4 -- New Deck 25 18 45 9
+----------------------------------
+Past Round -- 4 45 18
+Current Rouand -- 4 45 18
+----------------------------------
+Card Value -- 12 -- New Deck 8 18 16 17 14 48 30 46 15 36 19 37
+Card Value -- 2 -- New Deck 3 45
+Card Value -- 8 -- New Deck 18 16 17 14 48 30 46 15
+Card Value -- 3 -- New Deck 45 40 21
+----------------------------------
+Past Round -- 14 48 30 46 15
+Current Rouand -- 14 48 30 46 15
+----------------------------------
+Card Value -- 14 -- New Deck 48 30 46 15 36 19 37 28 44 29 32 24 7 10
+Card Value -- 4 -- New Deck 27 20 45 18
+Card Value -- 3 -- New Deck 14 4 48
+Card Value -- 6 -- New Deck 40 12 33 2 38 8
+----------------------------------
+Past Round -- 48 33
+Current Rouand -- 48 33
+----------------------------------
+Card Value -- 27 -- New Deck 30 20 46 45 19 16 37 21 28 17 44 18 29 15 50 36 42 24 9 7 47 32 25 10 3 6 48
+Card Value -- 2 -- New Deck 38 8
+Card Value -- 2 -- New Deck 20 8
+Card Value -- 3 -- New Deck 7 6 29
+Card Value -- 25 -- New Deck 3 36 4 50 19 33 15 32 9 38 16 49 13 43 23 35 22 31 5 28 20 45 14 42 26
+Card Value -- 2 -- New Deck 37 21
+----------------------------------
+Past Round -- 37 21
+Current Rouand -- 37 21
+----------------------------------
+Card Value -- 33 -- New Deck 15 32 9 38 16 49 13 43 23 35 22 31 5 28 20 45 14 42 26 30 10 44 18 47 8 40 17 29 24 25 2 36 21
+Card Value -- 6 -- New Deck 46 12 37 3 48 4
+----------------------------------
+Past Round -- 46 15 37 9 48 16
+Current Rouand -- 46 15 37 9 48 16
+----------------------------------
+Card Value -- 35 -- New Deck 15 31 9 28 16 45 13 42 23 30 22 44 5 47 20 40 14 29 26 25 10 36 18 50 8 33 17 32 24 38 2 49 21 43 7
+Card Value -- 6 -- New Deck 27 12 46 3 37 4
+Card Value -- 28 -- New Deck 16 45 13 42 23 30 22 44 5 47 20 40 14 29 26 25 10 36 18 50 8 33 17 32 24 38 2 49
+Card Value -- 3 -- New Deck 37 4 27
+Card Value -- 25 -- New Deck 10 36 18 50 8 33 17 32 24 38 2 49 21 43 7 31 12 28 3 45 4 42 15 30 9
+Card Value -- 5 -- New Deck 46 20 37 14 27
+Card Value -- 12 -- New Deck 28 3 45 4 42 15 30 9 36 20 50 14
+Card Value -- 2 -- New Deck 33 21
+Card Value -- 9 -- New Deck 36 20 50 14 17 10 24 18 38
+Card Value -- 3 -- New Deck 7 4 28
+Card Value -- 28 -- New Deck 3 45 4 42 15 30 9 44 16 47 13 40 23 29 22 25 5 36 20 50 14 33 26 32 10 38 18 49
+Card Value -- 2 -- New Deck 46 21
+Card Value -- 15 -- New Deck 47 9 40 16 29 13 25 23 36 22 50 5 33 20 32
+Card Value -- 3 -- New Deck 46 30 42
+Card Value -- 16 -- New Deck 29 13 25 23 36 22 50 5 33 20 32 14 38 26 49 10
+Card Value -- 4 -- New Deck 45 44 30 9
+Card Value -- 10 -- New Deck 23 9 50 44 33 30 38 29 26 22
+Card Value -- 5 -- New Deck 25 20 45 32 36
+Card Value -- 9 -- New Deck 45 29 30 21 15 13 49 44 33
+Card Value -- 3 -- New Deck 14 4 40
+Card Value -- 21 -- New Deck 32 15 47 30 16 13 46 33 20 5 50 38 42 23 45 40 49 25 26 9 44
+Card Value -- 3 -- New Deck 22 14 36
+----------------------------------
+Past Round -- 27 12 46 3 37 4
+Current Rouand -- 27 12 46 3 37 4
+----------------------------------
+Card Value -- 28 -- New Deck 16 45 13 42 23 30 22 44 5 47 20 40 14 29 26 25 10 36 18 50 8 33 17 32 24 38 2 49
+Card Value -- 3 -- New Deck 37 4 48
+Card Value -- 14 -- New Deck 5 50 47 32 20 24 10 49 29 45 18 42 8 22
+Card Value -- 2 -- New Deck 26 4
+----------------------------------
+Past Round -- 16 26 13 29 5 48 25 37 10
+Current Rouand -- 16 26 13 29 5 48 25 37 10
+----------------------------------
+Card Value -- 28 -- New Deck 3 45 4 42 19 30 15 44 9 47 16 40 13 29 23 25 22 36 5 50 20 33 14 32 26 38 10 49
+Card Value -- 2 -- New Deck 27 21
+Card Value -- 30 -- New Deck 15 44 9 47 16 40 13 29 23 25 22 36 5 50 20 33 14 32 26 38 10 49 18 43 8 35 17 31 24 28
+Card Value -- 6 -- New Deck 48 12 27 3 46 4
+Card Value -- 9 -- New Deck 36 16 50 13 33 23 32 22 38
+Card Value -- 3 -- New Deck 46 40 24
+Card Value -- 13 -- New Deck 33 23 32 22 38 5 49 20 43 14 35 26 31
+Card Value -- 4 -- New Deck 48 29 44 15
+----------------------------------
+Past Round -- 35 33 49 31 26 23
+Current Rouand -- 35 33 49 31 26 23
+----------------------------------
+Card Value -- 8 -- New Deck 47 27 25 17 9 3 50 24
+Card Value -- 5 -- New Deck 48 43 33 14 44
+----------------------------------
+Past Round -- 25 33 9 48 3
+Current Rouand -- 25 33 9 48 3
+----------------------------------
+Card Value -- 17 -- New Deck 9 3 50 24 13 4 22 15 49 40 20 16 35 29 26 23 8
+Card Value -- 14 -- New Deck 44 31 32 10 46 28 38 18 36 12 48 47 43 27
+----------------------------------
+Past Round -- 10 50 12 36 27 35 23 49 9 40 3
+Current Rouand -- 10 50 12 36 27 35 23 49 9 40 3
+----------------------------------
+Card Value -- 15 -- New Deck 49 40 20 16 35 29 26 23 8 5 17 14 50 32 24
+Card Value -- 18 -- New Deck 36 12 48 47 43 27 33 25 44 9 31 3 46 13 28 4 38 22
+Card Value -- 5 -- New Deck 17 14 50 32 24
+Card Value -- 9 -- New Deck 31 3 46 13 28 4 38 22 48
+Card Value -- 5 -- New Deck 9 14 3 50 46
+Card Value -- 16 -- New Deck 43 35 33 26 25 23 44 8 31 17 28 24 38 36 48 12
+----------------------------------
+Past Round -- 50 25 36 23 35 8 46 17 31 28
+Current Rouand -- 50 25 36 23 35 8 46 17 31 28
+----------------------------------
+----------------------------------
+Past Round -- 16 50 26 46 25 32 23 49 8 40 17 29 24
+Current Rouand -- 16 50 26 46 25 32 23 49 8 40 17 29 24
+----------------------------------
+Card Value -- 5 -- New Deck 17 14 50 32 24
+Card Value -- 9 -- New Deck 31 3 46 13 28 4 38 22 48
+Card Value -- 14 -- New Deck 50 32 24 10 15 18 49 36 40 12 29 27 5 9
+Card Value -- 3 -- New Deck 46 13 28
+----------------------------------
+Past Round -- 28 24
+Current Rouand -- 28 24
+----------------------------------
+Card Value -- 10 -- New Deck 15 18 49 36 40 12 29 27 5 9
+Card Value -- 4 -- New Deck 38 22 48 20
+Card Value -- 12 -- New Deck 29 27 5 9 14 3 50 46 32 13 10 4
+Card Value -- 16 -- New Deck 43 35 33 26 25 23 44 8 31 17 28 24 38 15 22 18
+Card Value -- 8 -- New Deck 32 31 50 38 44 15 46 22
+Card Value -- 18 -- New Deck 43 29 35 27 33 5 26 9 25 14 23 3 17 13 28 10 24 4
+Card Value -- 5 -- New Deck 46 26 22 9 31
+Card Value -- 4 -- New Deck 43 32 24 15
+----------------------------------
+Past Round -- 9 32 31
+Current Rouand -- 9 32 31
+----------------------------------
+Card Value -- 14 -- New Deck 31 23 29 3 50 17 35 13 38 28 27 10 44 24
+Card Value -- 5 -- New Deck 43 22 15 9 32
+----------------------------------
+Past Round -- 43 31 32 13
+Current Rouand -- 43 31 32 13
+----------------------------------
+Card Value -- 5 -- New Deck 23 22 29 15 50
+Card Value -- 4 -- New Deck 35 26 24 8
+----------------------------------
+Past Round -- 26 22
+Current Rouand -- 26 22
+----------------------------------
+Card Value -- 13 -- New Deck 10 4 49 48 36 20 12 16 50 44 46 8 32
+Card Value -- 17 -- New Deck 28 24 38 15 22 18 47 40 43 29 35 27 33 5 26 9 25
+Card Value -- 15 -- New Deck 36 22 20 18 50 43 44 29 46 35 31 5 17 9 49
+Card Value -- 3 -- New Deck 28 10 24
+Card Value -- 22 -- New Deck 20 18 50 43 44 29 46 35 31 5 17 9 49 25 38 14 48 23 15 3 36 28
+Card Value -- 10 -- New Deck 24 4 47 12 40 16 27 8 33 32
+Card Value -- 18 -- New Deck 50 43 44 29 46 35 31 5 17 9 49 25 38 14 48 23 15 3
+Card Value -- 4 -- New Deck 47 12 40 16
+Card Value -- 14 -- New Deck 48 23 15 3 36 28 18 4 50 47 43 12 44 40
+Card Value -- 5 -- New Deck 24 17 20 9 31
+Card Value -- 18 -- New Deck 50 43 44 29 46 35 31 5 17 9 49 25 38 14 48 23 15 3
+Card Value -- 4 -- New Deck 47 12 40 16
+Card Value -- 23 -- New Deck 15 3 36 28 22 10 18 4 50 47 43 12 44 40 29 16 46 27 35 8 49 24 25
+Card Value -- 5 -- New Deck 26 17 13 9 31
+Card Value -- 27 -- New Deck 35 8 49 24 25 20 38 33 48 32 23 5 36 13 28 9 50 17 47 3 43 31 44 14 40 10 29
+Card Value -- 4 -- New Deck 22 12 18 16
+Card Value -- 29 -- New Deck 19 25 15 36 9 50 16 33 13 32 23 38 22 49 5 43 20 35 14 31 26 28 10 45 18 42 8 30 17
+Card Value -- 7 -- New Deck 46 6 37 12 48 3 27
+Card Value -- 25 -- New Deck 15 36 9 50 16 33 13 32 23 38 22 49 5 43 20 35 14 31 26 28 10 45 18 42 8
+Card Value -- 6 -- New Deck 37 12 48 3 27 46
+----------------------------------
+Past Round -- 37 13 48 23 27 22 46 5
+Current Rouand -- 37 13 48 23 27 22 46 5
+----------------------------------
+Card Value -- 22 -- New Deck 49 5 43 20 35 14 31 26 28 10 45 18 42 8 30 17 25 6 36 12 50 3
+Card Value -- 9 -- New Deck 27 16 46 33 19 13 37 32 48
+Card Value -- 10 -- New Deck 35 18 45 8 30 17 36 25 50 6
+Card Value -- 16 -- New Deck 3 46 27 43 19 42 14 33 13 37 5 31 20 32 26 48
+Card Value -- 6 -- New Deck 42 35 13 3 33 20
+Card Value -- 5 -- New Deck 26 25 37 17 31
+----------------------------------
+Past Round -- 17 35 3 33 20 42 25
+Current Rouand -- 17 35 3 33 20 42 25
+----------------------------------
+Card Value -- 8 -- New Deck 50 45 46 37 14 13 36 17
+Card Value -- 5 -- New Deck 43 42 30 25 48
+----------------------------------
+Past Round -- 48 25 42 14
+Current Rouand -- 48 25 42 14
+----------------------------------
+Card Value -- 5 -- New Deck 50 43 45 42 46
+Card Value -- 3 -- New Deck 33 26 48
+Card Value -- 6 -- New Deck 37 14 25 8 50 45
+Card Value -- 5 -- New Deck 13 3 35 33 48
+Card Value -- 14 -- New Deck 25 8 50 45 43 27 26 20 46 18 19 17 6 5
+Card Value -- 3 -- New Deck 35 33 48
+----------------------------------
+Past Round -- 10 32 16 48 3 46 27 43 19 42 14 33 13 37 5 31 26
+Current Rouand -- 10 32 16 48 3 46 27 43 19 42 14 33 13 37 5 31 26
+----------------------------------
+Card Value -- 18 -- New Deck 42 8 30 17 25 6 36 12 50 3 23 15 22 9 49 27 35 19
+Card Value -- 5 -- New Deck 46 43 33 20 37
+----------------------------------
+Past Round -- 15 22 9 49 27 35 19 50 8
+Current Rouand -- 15 22 9 49 27 35 19 50 8
+----------------------------------
+Card Value -- 15 -- New Deck 22 9 49 27 35 19 14 13 45 16 18 5 36 32 50
+Card Value -- 10 -- New Deck 46 42 43 8 33 30 20 17 37 25
+----------------------------------
+Past Round -- 8 37 9 42 30 46 20
+Current Rouand -- 8 37 9 42 30 46 20
+----------------------------------
+Card Value -- 13 -- New Deck 45 16 18 5 36 32 50 48 15 10 49 43 27
+Card Value -- 17 -- New Deck 37 25 31 6 26 12 28 3 38 23 46 22 42 9 30 19 20
+Card Value -- 5 -- New Deck 36 32 50 48 15
+Card Value -- 6 -- New Deck 26 12 28 3 38 23
+----------------------------------
+Past Round -- 3 38 23
+Current Rouand -- 3 38 23
+----------------------------------
+Card Value -- 22 -- New Deck 45 9 37 30 36 25 26 16 32 31 50 38 28 15 48 23 49 42 46 27 43 19
+Card Value -- 5 -- New Deck 20 6 18 12 10
+Card Value -- 5 -- New Deck 36 32 50 48 15
+Card Value -- 6 -- New Deck 26 12 28 3 38 23
+----------------------------------
+Past Round -- 3 38 23
+Current Rouand -- 3 38 23
+----------------------------------
+Card Value -- 8 -- New Deck 35 33 13 17 45 37 5 6
+Card Value -- 9 -- New Deck 30 19 20 14 25 16 31 18 38
+----------------------------------
+Past Round -- 30 19 20 18 33 14 45 16 37 13 35 25
+Current Rouand -- 30 19 20 18 33 14 45 16 37 13 35 25
+----------------------------------
+Card Value -- 12 -- New Deck 50 28 48 3 49 46 43 22 8 9 35 30
+Card Value -- 10 -- New Deck 42 27 20 13 31 5 18 6 38 36
+Card Value -- 30 -- New Deck 33 19 17 14 45 25 37 16 26 15 32 23 12 10 50 42 28 27 48 20 49 31 46 5 43 18 22 6 35 13
+Card Value -- 3 -- New Deck 38 8 36
+----------------------------------
+Past Round -- 12 36 10
+Current Rouand -- 12 36 10
+----------------------------------
+Card Value -- 25 -- New Deck 15 36 9 50 16 33 13 32 23 38 22 49 5 43 20 35 14 31 26 28 10 45 18 42 8
+Card Value -- 6 -- New Deck 37 12 48 3 27 4
+----------------------------------
+Past Round -- 15 36 9 50 16 33 13 32 23 38 22 49 5 43 20 35 14 31 26 28 10 45 18 42 8
+Current Rouand -- 15 36 9 50 16 33 13 32 23 38 22 49 5 43 20 35 14 31 26 28 10 45 18 42 8
+----------------------------------
+Card Value -- 33 -- New Deck 13 32 23 38 22 49 5 43 20 35 14 31 26 28 10 45 18 42 8 30 17 44 24 47 2 40 21 29 7 25 6 36 12
+Card Value -- 4 -- New Deck 46 19 37 15
+Card Value -- 25 -- New Deck 6 36 12 32 19 38 15 49 13 43 23 35 22 31 5 28 20 45 14 42 26 30 10 44 18
+Card Value -- 2 -- New Deck 37 21
+----------------------------------
+Past Round -- 37 21
+Current Rouand -- 37 21
+----------------------------------
+----------------------------------
+Past Round -- 46 19 37 15
+Current Rouand -- 46 19 37 15
+----------------------------------
+----------------------------------
+Past Round -- 46 18 37 8 48 17 27 24
+Current Rouand -- 46 18 37 8 48 17 27 24
+----------------------------------
+Card Value -- 3 -- New Deck 44 31 20
+Card Value -- 12 -- New Deck 2 1 41 39 48 32 28 24 46 7 27 6
+----------------------------------
+Past Round -- 1 44 39
+Current Rouand -- 1 44 39
+----------------------------------
+Card Value -- 31 -- New Deck 20 4 47 37 40 19 29 26 25 21 15 9 16 13 36 30 35 22 23 5 14 10 34 11 50 33 38 18 49 43 45
+Card Value -- 1 -- New Deck 41
+Card Value -- 26 -- New Deck 25 21 15 9 16 13 36 30 35 22 23 5 14 10 34 11 50 33 38 18 49 43 45 8 42 17
+Card Value -- 7 -- New Deck 27 6 41 20 39 4 48
+Card Value -- 21 -- New Deck 15 9 16 13 36 30 35 22 23 5 14 10 34 11 50 33 38 18 49 43 45
+Card Value -- 6 -- New Deck 41 20 39 4 48 27
+Card Value -- 13 -- New Deck 36 30 35 22 23 5 14 10 34 11 50 33 38
+Card Value -- 4 -- New Deck 48 27 41 15
+----------------------------------
+Past Round -- 10 50 34 36 23 33 11
+Current Rouand -- 10 50 34 36 23 33 11
+----------------------------------
+Card Value -- 16 -- New Deck 15 41 9 38 22 30 18 49 5 39 14 43 27 45 10 50
+Card Value -- 4 -- New Deck 48 34 33 23
+Card Value -- 16 -- New Deck 4 41 34 38 23 30 20 49 13 39 15 43 9 45 22 50
+Card Value -- 5 -- New Deck 33 14 36 27 35
+----------------------------------
+Past Round -- 9 48 22 33 18 36 5 35 14
+Current Rouand -- 9 48 22 33 18 36 5 35 14
+----------------------------------
+Card Value -- 13 -- New Deck 36 30 35 22 23 5 14 10 34 11 50 33 38
+Card Value -- 4 -- New Deck 48 27 25 41
+----------------------------------
+Past Round -- 48 25 41 5 38 30
+Current Rouand -- 48 25 41 5 38 30
+----------------------------------
+Card Value -- 14 -- New Deck 9 34 16 50 36 38 22 49 5 43 39 45 10 42
+Card Value -- 6 -- New Deck 18 13 48 4 41 27
+Card Value -- 9 -- New Deck 43 16 45 36 42 5 50 48 18
+Card Value -- 4 -- New Deck 41 38 34 27
+Card Value -- 14 -- New Deck 6 34 13 50 4 38 27 49 25 43 15 39 18 45
+Card Value -- 10 -- New Deck 41 11 36 30 33 8 20 17 48 21
+Card Value -- 11 -- New Deck 50 30 38 8 27 20 49 17 43 21 39
+Card Value -- 4 -- New Deck 48 25 41 15
+----------------------------------
+Past Round -- 17 48 21 41 6 36 13 33 4
+Current Rouand -- 17 48 21 41 6 36 13 33 4
+----------------------------------
+Card Value -- 21 -- New Deck 15 9 16 13 36 30 35 22 23 5 14 10 34 11 50 33 38 18 49 43 45
+Card Value -- 6 -- New Deck 41 20 39 4 48 47
+Card Value -- 13 -- New Deck 36 30 35 22 23 5 14 10 34 11 50 33 38
+Card Value -- 4 -- New Deck 48 47 41 15
+----------------------------------
+Past Round -- 22 5 50 14 48 30 33 10 38 34 36 35
+Current Rouand -- 22 5 50 14 48 30 33 10 38 34 36 35
+----------------------------------
+----------------------------------
+Past Round -- 20 48 9 34 5
+Current Rouand -- 20 48 9 34 5
+----------------------------------
+Card Value -- 13 -- New Deck 36 30 35 22 23 5 14 10 34 11 50 33 38
+Card Value -- 4 -- New Deck 48 47 24 19
+----------------------------------
+Past Round -- 50 23 36 33 34 30
+Current Rouand -- 50 23 36 33 34 30
+----------------------------------
+Card Value -- 11 -- New Deck 50 33 38 18 49 43 45 8 42 17 3
+Card Value -- 15 -- New Deck 20 9 39 16 48 36 47 30 46 23 29 5 27 14 25
+Card Value -- 18 -- New Deck 49 43 45 8 42 17 3 12 44 2 31 1 37 32 40 28 26 7
+Card Value -- 16 -- New Deck 48 36 47 30 46 23 29 5 27 14 25 10 41 34 39 38
+Card Value -- 12 -- New Deck 44 2 31 1 37 32 40 28 26 7 49 48
+Card Value -- 5 -- New Deck 27 14 25 10 41
+Card Value -- 2 -- New Deck 31 1
+Card Value -- 14 -- New Deck 25 10 41 34 39 38 47 45 30 8 46 42 23 17
+Card Value -- 1 -- New Deck 31
+Card Value -- 10 -- New Deck 41 34 39 38 47 45 30 8 46 42
+Card Value -- 1 -- New Deck 37
+Card Value -- 10 -- New Deck 41 34 39 38 47 45 30 8 46 42
+Card Value -- 5 -- New Deck 44 27 31 25 40
+Card Value -- 17 -- New Deck 29 3 14 2 10 1 41 37 34 32 38 28 47 26 45 7 46
+Card Value -- 3 -- New Deck 44 32 34
+Card Value -- 14 -- New Deck 28 25 47 2 45 10 46 1 41 40 29 26 27 7
+----------------------------------
+Past Round -- 26 44 7
+Current Rouand -- 26 44 7
+----------------------------------
+Card Value -- 14 -- New Deck 25 2 40 10 39 1 49 41 48 34 44 38 29 28
+Card Value -- 7 -- New Deck 46 43 42 36 23 12 17
+----------------------------------
+Past Round -- 39 28 48 17 44 25 49 2 38 36
+Current Rouand -- 39 28 48 17 44 25 49 2 38 36
+----------------------------------
+Card Value -- 1 -- New Deck 49
+Card Value -- 12 -- New Deck 17 5 37 30 32 8 47 27 26 3 45 31
+----------------------------------
+Past Round -- 49 17
+Current Rouand -- 49 17
+----------------------------------
+Card Value -- 7 -- New Deck 39 23 1 12 49 17 41
+Card Value -- 3 -- New Deck 45 31 46
+Card Value -- 3 -- New Deck 49 43 17
+Card Value -- 1 -- New Deck 25
+Card Value -- 8 -- New Deck 32 31 23 7 49 41 25 2
+Card Value -- 14 -- New Deck 46 27 42 3 17 1 47 43 37 12 45 36 30 5
+Card Value -- 2 -- New Deck 49 37
+Card Value -- 3 -- New Deck 46 41 32
+Card Value -- 3 -- New Deck 49 46 47
+Card Value -- 12 -- New Deck 43 17 45 30 36 5 41 37 42 25 27 7
+Card Value -- 1 -- New Deck 3
+Card Value -- 5 -- New Deck 41 37 42 25 27
+Card Value -- 7 -- New Deck 49 41 25 2 48 34 40
+Card Value -- 3 -- New Deck 17 1 47
+Card Value -- 17 -- New Deck 41 1 48 37 34 12 44 30 38 5 39 28 29 26 27 23 49
+Card Value -- 2 -- New Deck 45 40
+Card Value -- 12 -- New Deck 44 30 38 5 39 28 29 26 27 23 49 48
+Card Value -- 1 -- New Deck 41
+Card Value -- 12 -- New Deck 44 30 38 5 39 28 29 26 27 23 49 43
+Card Value -- 8 -- New Deck 32 14 42 31 47 7 25 3
+Card Value -- 7 -- New Deck 49 44 38 25 42 39 28
+Card Value -- 5 -- New Deck 47 43 29 27 32
+Card Value -- 10 -- New Deck 12 8 44 32 30 14 28 7 29 25
+Card Value -- 5 -- New Deck 47 39 45 27 41
+Card Value -- 7 -- New Deck 29 25 26 3 49 40 43
+Card Value -- 17 -- New Deck 34 2 38 36 5 10 47 12 39 8 45 44 41 30 23 14 46
+Card Value -- 3 -- New Deck 49 39 36
+Card Value -- 5 -- New Deck 44 40 41 10 30
+Card Value -- 2 -- New Deck 3 5
+Card Value -- 10 -- New Deck 30 25 23 12 46 8 29 14 47 34
+Card Value -- 8 -- New Deck 46 38 41 36 49 12 14 10
+Card Value -- 2 -- New Deck 45 39
+Card Value -- 10 -- New Deck 47 43 30 23 8 2 46 45 36 3
+Card Value -- 5 -- New Deck 40 26 39 38 44
+----------------------------------
+Past Round -- 2 44 3
+Current Rouand -- 2 44 3
+----------------------------------
+Card Value -- 1 -- New Deck 48
+Card Value -- 12 -- New Deck 39 8 45 44 41 30 23 14 46 28 34 29
+----------------------------------
+Past Round -- 48 8 44 30 39 34
+Current Rouand -- 48 8 44 30 39 34
+----------------------------------
+Card Value -- 3 -- New Deck 48 47 49
+Card Value -- 7 -- New Deck 46 25 28 2 29 5 26
+Card Value -- 5 -- New Deck 40 26 30 10 38
+Card Value -- 3 -- New Deck 39 7 14
+Card Value -- 10 -- New Deck 38 36 27 1 48 45 46 42 47 37
+Card Value -- 2 -- New Deck 43 32
+Card Value -- 12 -- New Deck 44 2 31 1 37 32 40 28 26 7 21 6
+Card Value -- 5 -- New Deck 27 14 25 10 41
+----------------------------------
+Past Round -- 6 44 27 31 25 32 14 40 2 28 10 26 1
+Current Rouand -- 6 44 27 31 25 32 14 40 2 28 10 26 1
+----------------------------------
+Card Value -- 2 -- New Deck 31 1
+Card Value -- 14 -- New Deck 25 10 41 34 39 38 47 45 30 8 46 42 23 17
+Card Value -- 1 -- New Deck 31
+Card Value -- 10 -- New Deck 41 34 39 38 47 45 30 8 46 42
+Card Value -- 1 -- New Deck 37
+Card Value -- 10 -- New Deck 41 34 39 38 47 45 30 8 46 42
+Card Value -- 6 -- New Deck 13 4 35 24 22 19
+Card Value -- 8 -- New Deck 46 42 23 17 29 3 14 2
+Card Value -- 3 -- New Deck 35 14 23
+Card Value -- 4 -- New Deck 29 22 46 24
+----------------------------------
+Past Round -- 35 24 29 22
+Current Rouand -- 35 24 29 22
+----------------------------------
+Card Value -- 24 -- New Deck 22 19 11 15 50 20 33 9 18 16 49 48 43 36 12 5 44 27 31 25 40 39 35 23
+Card Value -- 17 -- New Deck 29 3 14 2 10 1 41 37 34 32 38 28 47 26 45 7 30
+Card Value -- 19 -- New Deck 11 15 50 20 33 9 18 16 49 48 43 36 12 5 44 27 31 25 40
+Card Value -- 3 -- New Deck 14 2 10
+Card Value -- 15 -- New Deck 50 20 33 9 18 16 49 48 43 36 12 5 44 27 31
+Card Value -- 2 -- New Deck 10 14
+Card Value -- 11 -- New Deck 15 50 20 33 9 18 16 49 48 43 36
+Card Value -- 14 -- New Deck 2 10 1 41 37 34 32 38 28 47 26 45 7 30
+Card Value -- 2 -- New Deck 50 10
+Card Value -- 7 -- New Deck 30 41 33 37 9 34 18
+----------------------------------
+Past Round -- 50 10
+Current Rouand -- 50 10
+----------------------------------
+----------------------------------
+Past Round -- 9 47 18 43 16 45 15 41 10 37 20
+Current Rouand -- 9 47 18 43 16 45 15 41 10 37 20
+----------------------------------
+Card Value -- 15 -- New Deck 50 20 33 9 18 16 49 48 43 36 12 5 44 27 31
+Card Value -- 2 -- New Deck 10 1
+Card Value -- 20 -- New Deck 33 9 18 16 49 48 43 36 12 5 44 27 31 25 40 39 35 23 19 3
+Card Value -- 1 -- New Deck 41
+----------------------------------
+Past Round -- 41 23 39 19
+Current Rouand -- 41 23 39 19
+----------------------------------
+Card Value -- 5 -- New Deck 44 27 31 25 40
+Card Value -- 7 -- New Deck 30 29 22 41 33 37 9
+Card Value -- 5 -- New Deck 7 44 30 31 22
+Card Value -- 11 -- New Deck 47 14 43 15 45 2 29 10 27 20 41
+Card Value -- 2 -- New Deck 41 10
+Card Value -- 7 -- New Deck 47 44 31 27 30 29 20
+Card Value -- 19 -- New Deck 18 50 12 49 25 38 34 48 23 36 3 26 16 44 14 31 15 40 2
+Card Value -- 1 -- New Deck 32
+Card Value -- 12 -- New Deck 49 25 38 34 48 23 36 3 26 16 44 14
+Card Value -- 11 -- New Deck 5 47 7 43 30 45 22 41 9 32 18
+----------------------------------
+Past Round -- 49 25 38 34 48 23 36 3 26 16 44 14
+Current Rouand -- 49 25 38 34 48 23 36 3 26 16 44 14
+----------------------------------
+Card Value -- 26 -- New Deck 16 44 14 31 15 40 2 33 29 39 10 37 27 35 20 19 1 50 28 12 11 49 5 38 7 48
+Card Value -- 9 -- New Deck 32 18 47 25 43 34 45 23 41
+Card Value -- 1 -- New Deck 50
+Card Value -- 2 -- New Deck 41 29
+Card Value -- 11 -- New Deck 49 5 38 7 48 44 18 31 25 40 34
+Card Value -- 10 -- New Deck 47 37 43 35 45 19 29 28 16 12
+Card Value -- 25 -- New Deck 11 40 10 33 19 39 28 38 29 27 16 20 12 50 5 41 7 35 32 49 18 47 23 48 14
+Card Value -- 1 -- New Deck 34
+Card Value -- 25 -- New Deck 10 40 27 39 19 38 16 50 20 29 12 41 5 35 7 49 32 47 18 48 23 45 14 44 15
+Card Value -- 1 -- New Deck 43
+----------------------------------
+Past Round -- 2 34 11 43 10 31 27 37 19
+Current Rouand -- 2 34 11 43 10 31 27 37 19
+----------------------------------
+Card Value -- 19 -- New Deck 15 50 2 49 10 38 27 48 20 36 1 44 12 31 11 40 5 33 7
+Card Value -- 9 -- New Deck 32 18 47 25 43 34 45 23 41
+Card Value -- 12 -- New Deck 31 11 40 5 33 7 50 18 49 25 38 34
+Card Value -- 2 -- New Deck 43 10
+Card Value -- 11 -- New Deck 40 5 33 7 50 18 49 25 38 34 48
+Card Value -- 10 -- New Deck 45 27 41 20 15 1 47 44 43 31
+----------------------------------
+Past Round -- 41 38 44 27 43 18
+Current Rouand -- 41 38 44 27 43 18
+----------------------------------
+Card Value -- 10 -- New Deck 50 15 18 1 49 47 34 31 48 45
+Card Value -- 7 -- New Deck 44 25 43 38 40 23 41
+Card Value -- 19 -- New Deck 9 50 18 49 25 38 34 48 23 36 3 44 16 31 14 40 15 33 2
+Card Value -- 1 -- New Deck 29
+----------------------------------
+Past Round -- 29 12 32 11 47 5 43 7 45 30 41 22 28 26
+Current Rouand -- 29 12 32 11 47 5 43 7 45 30 41 22 28 26
+----------------------------------
+Card Value -- 19 -- New Deck 11 15 50 20 33 9 18 16 49 48 43 36 12 5 44 27 31 25 40
+Card Value -- 3 -- New Deck 14 2 10
+Card Value -- 15 -- New Deck 50 20 33 9 18 16 49 48 43 36 12 5 44 27 31
+Card Value -- 2 -- New Deck 10 14
+Card Value -- 11 -- New Deck 15 50 20 33 9 18 16 49 48 43 36
+Card Value -- 14 -- New Deck 2 10 1 41 37 34 32 38 28 47 26 45 7 30
+Card Value -- 2 -- New Deck 50 10
+Card Value -- 7 -- New Deck 30 41 33 37 9 34 18
+----------------------------------
+Past Round -- 50 10
+Current Rouand -- 50 10
+----------------------------------
+----------------------------------
+Past Round -- 9 47 18 43 16 45 15 41 10 37 20
+Current Rouand -- 9 47 18 43 16 45 15 41 10 37 20
+----------------------------------
+Card Value -- 15 -- New Deck 50 20 33 9 18 16 49 48 43 36 12 5 44 27 31
+Card Value -- 2 -- New Deck 10 1
+Card Value -- 20 -- New Deck 33 9 18 16 49 48 43 36 12 5 44 27 31 25 40 39 35 23 24 17
+Card Value -- 1 -- New Deck 41
+----------------------------------
+Past Round -- 41 23 39 24
+Current Rouand -- 41 23 39 24
+----------------------------------
+Card Value -- 5 -- New Deck 44 27 31 25 40
+Card Value -- 7 -- New Deck 30 21 8 6 46 13 42
+Card Value -- 25 -- New Deck 40 39 35 23 24 17 19 3 11 14 15 2 50 10 20 1 49 38 48 28 36 26 44 30 27
+Card Value -- 6 -- New Deck 46 13 42 4 29 22
+Card Value -- 23 -- New Deck 24 17 19 3 11 14 15 2 50 10 20 1 49 38 48 28 36 26 44 30 27 39 13
+Card Value -- 4 -- New Deck 29 22 46 40
+Card Value -- 1 -- New Deck 49
+Card Value -- 3 -- New Deck 29 11 24
+----------------------------------
+Past Round -- 4 35 3 30 11 42 36 46 14
+Current Rouand -- 4 35 3 30 11 42 36 46 14
+----------------------------------
+Card Value -- 23 -- New Deck 24 17 19 3 11 14 15 2 50 10 20 1 49 38 48 28 36 26 44 30 27 21 31
+Card Value -- 4 -- New Deck 29 22 41 33
+Card Value -- 1 -- New Deck 49
+Card Value -- 3 -- New Deck 29 11 24
+Card Value -- 21 -- New Deck 10 50 20 41 33 49 1 38 3 48 29 28 11 36 24 26 14 44 22 30 15
+Card Value -- 2 -- New Deck 31 19
+Card Value -- 14 -- New Deck 15 2 50 10 20 1 49 38 48 28 36 26 44 30
+Card Value -- 9 -- New Deck 34 18 32 16 47 43 45 12 7
+----------------------------------
+Past Round -- 47 32 28 26
+Current Rouand -- 47 32 28 26
+----------------------------------
+Card Value -- 2 -- New Deck 50 10
+Card Value -- 18 -- New Deck 32 16 47 43 45 12 7 5 46 40 42 35 29 24 22 17 41 19
+Card Value -- 10 -- New Deck 20 1 49 38 48 28 36 26 44 30
+Card Value -- 16 -- New Deck 47 43 45 12 7 5 46 40 42 35 29 24 22 17 41 19
+Card Value -- 28 -- New Deck 36 26 44 30 27 21 31 8 25 6 39 13 23 4 14 9 2 18 50 32 10 16 49 45 38 12 48 7
+Card Value -- 5 -- New Deck 46 40 42 35 29
+----------------------------------
+Past Round -- 16 46 12 36 7 31 8 40 26 35 6
+Current Rouand -- 16 46 12 36 7 31 8 40 26 35 6
+----------------------------------
+Card Value -- 8 -- New Deck 25 6 39 13 23 4 14 9
+Card Value -- 17 -- New Deck 41 19 33 3 37 11 34 15 47 20 43 1 46 36 40 26 35
+Card Value -- 4 -- New Deck 14 9 39 33
+Card Value -- 11 -- New Deck 34 15 47 20 43 1 46 36 40 26 35
+Card Value -- 6 -- New Deck 39 13 23 4 14 9
+Card Value -- 19 -- New Deck 33 3 37 11 34 15 47 20 43 1 46 36 40 26 35 30 29 27 24
+Card Value -- 4 -- New Deck 14 9 39 33
+Card Value -- 11 -- New Deck 34 15 47 20 43 1 46 36 40 26 35
+Card Value -- 13 -- New Deck 23 4 14 9 2 18 50 32 10 16 49 45 38
+Card Value -- 3 -- New Deck 37 11 34
+Card Value -- 4 -- New Deck 14 9 2 18
+Card Value -- 11 -- New Deck 34 15 47 20 43 1 46 36 40 26 35
+Card Value -- 9 -- New Deck 2 18 50 32 10 16 49 45 38
+Card Value -- 15 -- New Deck 47 20 43 1 46 36 40 26 35 30 29 27 24 21 17
+Card Value -- 10 -- New Deck 49 30 47 16 38 35 50 29 40 1
+Card Value -- 2 -- New Deck 45 43
+Card Value -- 18 -- New Deck 50 32 10 16 49 45 38 12 48 7 28 5 44 42 31 22 39 33
+Card Value -- 20 -- New Deck 43 1 46 36 40 26 35 30 29 27 24 21 17 8 41 25 19 6 37 23
+Card Value -- 1 -- New Deck 49
+Card Value -- 10 -- New Deck 36 16 30 12 27 7 21 5 41 31
+----------------------------------
+Past Round -- 49 12 36 7 30 21
+Current Rouand -- 49 12 36 7 30 21
+----------------------------------
+Card Value -- 29 -- New Deck 28 24 44 17 42 8 39 19 33 6 50 37 43 23 1 10 49 36 40 16 45 30 26 12 38 27 35 7 48
+Card Value -- 5 -- New Deck 41 31 25 22 46
+Card Value -- 1 -- New Deck 10
+Card Value -- 8 -- New Deck 31 19 22 6 46 37 41 23
+Card Value -- 8 -- New Deck 38 1 35 10 48 16 44 41
+Card Value -- 6 -- New Deck 46 26 40 23 36 12
+Card Value -- 10 -- New Deck 49 36 40 16 45 30 26 12 38 27
+Card Value -- 8 -- New Deck 41 39 28 19 24 6 46 43
+Card Value -- 7 -- New Deck 48 21 29 5 44 25 33
+Card Value -- 1 -- New Deck 39
+Card Value -- 8 -- New Deck 49 41 40 28 45 24 30 6
+Card Value -- 5 -- New Deck 46 44 26 25 43
+----------------------------------
+Past Round -- 44 41
+Current Rouand -- 44 41
+----------------------------------
+Card Value -- 12 -- New Deck 50 42 37 36 8 5 49 46 40 26 28 25
+Card Value -- 6 -- New Deck 44 7 41 1 38 29
+Card Value -- 25 -- New Deck 45 43 27 21 23 17 35 16 32 10 48 33 39 24 31 22 12 6 50 44 42 7 36 1 49
+Card Value -- 8 -- New Deck 29 5 41 40 37 26 38 28
+Card Value -- 29 -- New Deck 43 5 48 40 33 21 39 37 24 23 31 26 22 17 50 28 44 16 42 41 36 27 49 38 30 12 46 35 19
+Card Value -- 1 -- New Deck 32
+Card Value -- 5 -- New Deck 44 42 31 22 39
+Card Value -- 21 -- New Deck 17 8 41 25 19 6 37 23 11 4 34 14 47 2 46 10 36 16 30 12 27
+Card Value -- 6 -- New Deck 42 36 34 4 37 30
+Card Value -- 2 -- New Deck 41 39
+Card Value -- 4 -- New Deck 37 30 19 14
+Card Value -- 10 -- New Deck 22 16 17 12 47 44 46 25 23 8
+Card Value -- 12 -- New Deck 41 25 34 23 31 8 37 27 22 11 19 10
+Card Value -- 6 -- New Deck 44 2 46 42 39 30
+Card Value -- 10 -- New Deck 17 4 25 2 37 36 27 16 19 6
+Card Value -- 12 -- New Deck 44 41 46 34 42 23 39 31 30 8 47 22
+Card Value -- 9 -- New Deck 15 18 20 50 43 32 1 49 40
+Card Value -- 11 -- New Deck 4 34 14 47 2 46 10 36 16 30 12
+Card Value -- 2 -- New Deck 49 36
+Card Value -- 1 -- New Deck 30
+Card Value -- 15 -- New Deck 18 20 50 43 32 1 49 40 45 26 38 35 48 29 28
+Card Value -- 4 -- New Deck 34 14 47 2
+Card Value -- 20 -- New Deck 50 43 32 1 49 40 45 26 38 35 48 29 28 24 44 17 42 8 39 19
+Card Value -- 14 -- New Deck 47 2 46 10 36 16 30 12 27 7 21 5 41 31
+Card Value -- 1 -- New Deck 49
+Card Value -- 10 -- New Deck 36 16 30 12 27 7 21 5 41 31
+----------------------------------
+Past Round -- 49 12 36 7 30 21
+Current Rouand -- 49 12 36 7 30 21
+----------------------------------
+Card Value -- 16 -- New Deck 45 30 26 12 38 27 35 7 48 21 29 5 42 41 39 31
+Card Value -- 2 -- New Deck 28 1
+Card Value -- 1 -- New Deck 49
+Card Value -- 10 -- New Deck 36 16 30 12 27 7 21 5 41 31
+----------------------------------
+Past Round -- 49 12 36 7 30 21
+Current Rouand -- 49 12 36 7 30 21
+----------------------------------
+Card Value -- 26 -- New Deck 38 35 48 29 28 24 44 17 42 8 39 19 33 6 9 11 15 4 20 14 50 47 43 2 1 10
+Card Value -- 12 -- New Deck 27 7 21 5 41 31 25 22 37 13 23 3
+Card Value -- 19 -- New Deck 33 6 9 11 15 4 20 14 50 47 43 2 1 10 38 27 35 7 48
+Card Value -- 3 -- New Deck 41 28 31
+Card Value -- 6 -- New Deck 50 9 47 41 43 11
+Card Value -- 1 -- New Deck 28
+Card Value -- 20 -- New Deck 14 50 47 43 2 1 10 38 27 35 7 48 21 29 5 44 25 42 37 39
+Card Value -- 13 -- New Deck 8 41 33 28 6 31 9 24 11 22 15 17 4
+Card Value -- 14 -- New Deck 50 47 43 2 1 10 38 27 35 7 48 21 29 5
+Card Value -- 8 -- New Deck 41 33 28 6 31 9 24 11
+Card Value -- 7 -- New Deck 48 21 29 5 50 41 47
+Card Value -- 2 -- New Deck 31 1
+Card Value -- 2 -- New Deck 1 10
+Card Value -- 6 -- New Deck 31 9 24 11 22 15
+Card Value -- 10 -- New Deck 38 27 35 7 48 21 29 5 44 25
+Card Value -- 9 -- New Deck 24 11 22 15 17 4 6 2 31
+Card Value -- 5 -- New Deck 44 25 38 24 27
+Card Value -- 2 -- New Deck 31 15
+Card Value -- 21 -- New Deck 29 5 44 25 42 37 39 14 8 50 41 47 33 43 28 10 9 38 24 27 11
+Card Value -- 4 -- New Deck 6 2 31 1
+Card Value -- 5 -- New Deck 44 25 42 37 39
+Card Value -- 2 -- New Deck 31 1
+Card Value -- 5 -- New Deck 44 25 42 37 39
+Card Value -- 2 -- New Deck 31 1
+Card Value -- 25 -- New Deck 42 37 39 14 8 50 41 47 33 43 28 10 9 38 24 27 11 35 22 48 17 21 4 29 6
+Card Value -- 1 -- New Deck 15
+Card Value -- 14 -- New Deck 50 47 43 2 1 10 38 27 35 7 48 21 29 5
+Card Value -- 8 -- New Deck 41 33 28 6 31 9 24 11
+Card Value -- 7 -- New Deck 48 21 29 5 50 41 47
+Card Value -- 2 -- New Deck 31 1
+Card Value -- 2 -- New Deck 1 10
+Card Value -- 6 -- New Deck 31 9 24 11 22 15
+Card Value -- 10 -- New Deck 38 27 35 7 48 21 29 5 44 25
+Card Value -- 9 -- New Deck 24 11 22 15 17 4 6 2 31
+Card Value -- 5 -- New Deck 44 25 38 24 27
+Card Value -- 2 -- New Deck 31 15
+Card Value -- 21 -- New Deck 29 5 44 25 42 37 39 23 19 3 20 13 14 8 50 41 47 33 43 28 10
+Card Value -- 4 -- New Deck 6 2 31 1
+Card Value -- 5 -- New Deck 44 25 42 37 39
+Card Value -- 2 -- New Deck 31 1
+Card Value -- 5 -- New Deck 44 25 42 37 39
+Card Value -- 2 -- New Deck 31 1
+Card Value -- 25 -- New Deck 42 37 39 23 19 3 20 13 14 8 50 41 47 33 43 28 10 9 38 24 27 11 35 22 48
+Card Value -- 1 -- New Deck 15
+Card Value -- 29 -- New Deck 28 24 44 17 42 8 39 19 33 6 9 11 15 4 20 14 50 47 43 2 1 10 49 36 40 16 45 30 26
+Card Value -- 5 -- New Deck 41 31 25 22 37
+Card Value -- 15 -- New Deck 4 20 14 50 47 43 2 1 10 49 36 40 16 45 30
+Card Value -- 8 -- New Deck 31 19 22 6 17 9 41 11
+----------------------------------
+Past Round -- 1 31 10 41 16
+Current Rouand -- 1 31 10 41 16
+----------------------------------
+Card Value -- 26 -- New Deck 44 25 42 37 39 28 33 24 15 8 20 19 50 6 47 17 43 9 49 4 36 22 40 14 45 2
+Card Value -- 1 -- New Deck 31
+Card Value -- 19 -- New Deck 33 6 9 11 15 4 20 14 50 47 43 2 1 10 49 36 40 16 45
+Card Value -- 3 -- New Deck 34 18 46
+Card Value -- 6 -- New Deck 50 9 47 34 43 11
+Card Value -- 1 -- New Deck 18
+Card Value -- 15 -- New Deck 6 1 50 18 47 46 43 33 49 10 40 36 45 16 20
+Card Value -- 4 -- New Deck 34 14 11 2
+Card Value -- 2 -- New Deck 1 10
+Card Value -- 8 -- New Deck 34 33 18 6 46 9 32 11
+Card Value -- 16 -- New Deck 45 30 26 12 38 27 35 7 48 21 29 5 44 25 42 37
+Card Value -- 9 -- New Deck 32 11 41 15 28 4 31 20 24
+----------------------------------
+Past Round -- 21 41 15 31 5
+Current Rouand -- 21 41 15 31 5
+----------------------------------
+Card Value -- 30 -- New Deck 26 12 38 27 35 7 48 21 29 5 44 25 42 37 39 23 19 3 50 22 47 17 43 13 49 18 36 6 16 9
+Card Value -- 11 -- New Deck 41 15 28 4 31 20 24 14 8 2 34
+Card Value -- 27 -- New Deck 35 7 48 21 29 5 44 25 42 37 39 23 19 3 50 22 47 17 43 13 49 18 36 6 16 9 38
+Card Value -- 4 -- New Deck 31 20 24 14
+Card Value -- 29 -- New Deck 5 44 25 42 37 39 23 19 3 50 22 47 17 43 13 49 18 36 6 16 9 38 28 27 4 35 31 48 24
+Card Value -- 8 -- New Deck 2 34 41 26 15 12 20 7
+Card Value -- 5 -- New Deck 44 25 42 37 39
+Card Value -- 2 -- New Deck 34 41
+----------------------------------
+Past Round -- 7 41 25
+Current Rouand -- 7 41 25
+----------------------------------
+Card Value -- 5 -- New Deck 44 25 42 37 39
+Card Value -- 2 -- New Deck 34 41
+----------------------------------
+Past Round -- 7 41 25
+Current Rouand -- 7 41 25
+----------------------------------
+Card Value -- 12 -- New Deck 38 27 35 7 48 21 29 5 44 25 42 37
+Card Value -- 15 -- New Deck 28 4 31 20 24 14 8 2 34 1 33 10 46 40 41
+Card Value -- 5 -- New Deck 44 25 42 37 38
+Card Value -- 2 -- New Deck 34 1
+Card Value -- 5 -- New Deck 2 44 34 25 1
+Card Value -- 4 -- New Deck 46 31 40 24
+----------------------------------
+Past Round -- 24 44 2
+Current Rouand -- 24 44 2
+----------------------------------
+Card Value -- 5 -- New Deck 4 44 31 25 24
+Card Value -- 1 -- New Deck 41
+Card Value -- 5 -- New Deck 1 44 33 31 20
+Card Value -- 4 -- New Deck 46 24 40 21
+----------------------------------
+Past Round -- 21 44 1
+Current Rouand -- 21 44 1
+----------------------------------
+Card Value -- 5 -- New Deck 4 44 24 31 21
+Card Value -- 1 -- New Deck 40
+----------------------------------
+Past Round -- 44 4 31 24 42 21 35 14 48 8 33 2 29 28
+Current Rouand -- 44 4 31 24 42 21 35 14 48 8 33 2 29 28
+----------------------------------
+Card Value -- 27 -- New Deck 35 7 48 21 29 5 44 25 42 37 39 23 19 3 50 22 47 17 43 13 49 18 36 6 16 9 45
+Card Value -- 4 -- New Deck 31 20 24 14
+Card Value -- 29 -- New Deck 5 44 25 42 37 39 23 19 3 50 22 47 17 43 13 49 18 36 6 16 9 45 32 30 11 12 15 38 28
+Card Value -- 8 -- New Deck 2 34 1 33 10 46 40 41
+Card Value -- 5 -- New Deck 44 25 42 37 39
+Card Value -- 2 -- New Deck 34 1
+Card Value -- 25 -- New Deck 42 37 39 23 19 3 50 22 47 17 43 13 49 18 36 6 16 9 45 32 30 11 12 15 38
+Card Value -- 1 -- New Deck 33
+Card Value -- 12 -- New Deck 15 38 28 5 2 44 34 25 1 42 33 37
+Card Value -- 6 -- New Deck 17 16 46 9 40 32
+Card Value -- 2 -- New Deck 25 15
+Card Value -- 1 -- New Deck 17
+Card Value -- 5 -- New Deck 2 44 34 25 1
+Card Value -- 9 -- New Deck 40 32 41 11 6 12 17 15 46
+Card Value -- 1 -- New Deck 44
+Card Value -- 6 -- New Deck 12 17 15 46 40 2
+Card Value -- 1 -- New Deck 42
+Card Value -- 6 -- New Deck 12 17 15 46 28 9
+Card Value -- 3 -- New Deck 36 22 45
+Card Value -- 6 -- New Deck 1 46 10 40 23 41
+----------------------------------
+Past Round -- 22 46 40
+Current Rouand -- 22 46 40
+----------------------------------
+Card Value -- 23 -- New Deck 38 19 44 22 25 13 42 18 33 16 37 32 50 11 39 12 47 17 43 15 49 28 36
+Card Value -- 9 -- New Deck 3 41 6 46 1 40 10 34 30
+Card Value -- 19 -- New Deck 50 22 39 13 47 18 43 16 49 32 36 11 38 34 44 41 42 40 33
+Card Value -- 6 -- New Deck 46 25 15 1 28 10
+Card Value -- 13 -- New Deck 47 18 43 16 49 32 36 11 38 34 44 41 42
+Card Value -- 1 -- New Deck 28
+Card Value -- 13 -- New Deck 47 18 43 16 49 32 36 11 38 34 44 41 42
+Card Value -- 1 -- New Deck 28
+Card Value -- 25 -- New Deck 13 42 18 33 16 37 32 50 11 39 12 47 17 43 15 49 28 36 5 45 2 23 9 38 3
+Card Value -- 1 -- New Deck 40
+Card Value -- 25 -- New Deck 1 42 10 33 30 37 19 50 22 39 13 47 18 43 16 49 32 36 11 45 12 23 17 38 15
+Card Value -- 5 -- New Deck 41 2 46 9 40
+Card Value -- 19 -- New Deck 50 22 39 13 47 18 43 16 49 32 36 11 45 12 23 17 38 15 42
+Card Value -- 1 -- New Deck 46
+Card Value -- 23 -- New Deck 10 38 30 44 19 25 22 42 13 33 18 37 16 50 32 39 11 47 12 43 17 49 15
+Card Value -- 2 -- New Deck 34 9
+----------------------------------
+Past Round -- 34 9
+Current Rouand -- 34 9
+----------------------------------
+Card Value -- 25 -- New Deck 22 42 13 33 18 37 16 50 32 39 11 47 12 43 17 49 15 36 28 45 5 23 2 38 9
+Card Value -- 6 -- New Deck 40 1 34 10 41 30
+----------------------------------
+Past Round -- 41 22 40 13 34 18 30 23
+Current Rouand -- 41 22 40 13 34 18 30 23
+----------------------------------
+----------------------------------
+Past Round -- 19 41 22 46 13 40 18 34 16
+Current Rouand -- 19 41 22 46 13 40 18 34 16
+----------------------------------
+Card Value -- 5 -- New Deck 44 25 42 37 39
+Card Value -- 2 -- New Deck 34 1
+Card Value -- 25 -- New Deck 42 37 39 23 19 3 50 22 47 17 43 13 49 18 36 6 16 9 45 32 30 11 12 15 38
+Card Value -- 1 -- New Deck 33
+Card Value -- 22 -- New Deck 47 17 43 13 49 18 36 6 16 9 45 32 30 11 12 15 38 28 27 4 35 31
+Card Value -- 7 -- New Deck 46 39 40 23 41 19 26
+Card Value -- 12 -- New Deck 15 38 28 27 4 35 31 47 46 43 40 49
+Card Value -- 6 -- New Deck 17 16 23 9 39 11
+Card Value -- 6 -- New Deck 16 9 45 32 30 11
+Card Value -- 3 -- New Deck 39 17 23
+----------------------------------
+Past Round -- 9 45 11
+Current Rouand -- 9 45 11
+----------------------------------
+Card Value -- 33 -- New Deck 37 10 50 20 22 7 47 46 43 40 49 41 36 26 6 3 45 23 32 13 30 19 38 17 28 9 27 18 31 12 48 16 24
+Card Value -- 2 -- New Deck 39 25
+Card Value -- 20 -- New Deck 22 7 47 46 43 40 49 41 36 26 6 3 45 23 32 13 30 19 38 17
+Card Value -- 1 -- New Deck 39
+Winning Deck -- 36 26 6 3 45 23 32 13 30 19 38 17 28 9 27 18 31 12 48 16 24 15 21 11 14 4 44 35 34 8 42 29 33 2 50 5 20 1 47 25 46 10 43 39 40 22 49 37 41 7
