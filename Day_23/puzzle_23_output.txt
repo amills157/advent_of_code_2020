@@ -1,0 +1,1807 @@
+------------------
+Before Move t -- 219347865
+Before Move c -- 219347865
+After Move 1 t -- 219347865
+After Move 1 c -- 219347865
+After Move 2 t -- 219347865
+After Move 2 c -- 219347865
+Dest Value 8
+Dest Index 6
+Before Place Down c -- 219347865
+Before Place Down t -- 219347865
+After Place Down c -- 219347865
+After Place Down t -- 247847865
+Before Switch t -- 247819365
+Before Switch c -- 219347865
+After Switch t -- 219347865
+AfterS witch c -- 247819365
+------------------
+------------------
+Before Move t -- 219347865
+Before Move c -- 247819365
+After Move 1 t -- 478193655
+After Move 1 c -- 247819365
+After Move 2 t -- 478193652
+After Move 2 c -- 247819365
+Dest Value 3
+Dest Index 5
+Before Place Down c -- 478193652
+Before Place Down t -- 478193652
+After Place Down c -- 478193652
+After Place Down t -- 493193652
+Before Switch t -- 493781652
+Before Switch c -- 478193652
+After Switch t -- 478193652
+AfterS witch c -- 493781652
+------------------
+------------------
+Before Move t -- 478193652
+Before Move c -- 493781652
+After Move 1 t -- 937816522
+After Move 1 c -- 493781652
+After Move 2 t -- 937816524
+After Move 2 c -- 493781652
+Dest Value 6
+Dest Index 5
+Before Place Down c -- 937816524
+Before Place Down t -- 937816524
+After Place Down c -- 937816524
+After Place Down t -- 916816524
+Before Switch t -- 916378524
+Before Switch c -- 937816524
+After Switch t -- 937816524
+AfterS witch c -- 916378524
+------------------
+------------------
+Before Move t -- 937816524
+Before Move c -- 916378524
+After Move 1 t -- 163785244
+After Move 1 c -- 916378524
+After Move 2 t -- 163785249
+After Move 2 c -- 916378524
+Dest Value 9
+Dest Index 8
+Before Place Down c -- 163785249
+Before Place Down t -- 163785249
+After Place Down c -- 163785249
+After Place Down t -- 185249249
+Before Switch t -- 185249637
+Before Switch c -- 163785249
+After Switch t -- 163785249
+AfterS witch c -- 185249637
+------------------
+------------------
+Before Move t -- 163785249
+Before Move c -- 185249637
+After Move 1 t -- 852496379
+After Move 1 c -- 185249637
+After Move 2 t -- 852496371
+After Move 2 c -- 185249637
+Dest Value 7
+Dest Index 7
+Before Place Down c -- 852496371
+Before Place Down t -- 852496371
+After Place Down c -- 852496371
+After Place Down t -- 896376371
+Before Switch t -- 896375241
+Before Switch c -- 852496371
+After Switch t -- 852496371
+AfterS witch c -- 896375241
+------------------
+------------------
+Before Move t -- 852496371
+Before Move c -- 896375241
+After Move 1 t -- 963752411
+After Move 1 c -- 896375241
+After Move 2 t -- 963752418
+After Move 2 c -- 896375241
+Dest Value 8
+Dest Index 8
+Before Place Down c -- 963752418
+Before Place Down t -- 963752418
+After Place Down c -- 963752418
+After Place Down t -- 952418418
+Before Switch t -- 952418637
+Before Switch c -- 963752418
+After Switch t -- 963752418
+AfterS witch c -- 952418637
+------------------
+------------------
+Before Move t -- 963752418
+Before Move c -- 952418637
+After Move 1 t -- 524186378
+After Move 1 c -- 952418637
+After Move 2 t -- 524186379
+After Move 2 c -- 952418637
+Dest Value 3
+Dest Index 6
+Before Place Down c -- 524186379
+Before Place Down t -- 524186379
+After Place Down c -- 524186379
+After Place Down t -- 586386379
+Before Switch t -- 586324179
+Before Switch c -- 524186379
+After Switch t -- 524186379
+AfterS witch c -- 586324179
+------------------
+------------------
+Before Move t -- 524186379
+Before Move c -- 586324179
+After Move 1 t -- 863241799
+After Move 1 c -- 586324179
+After Move 2 t -- 863241795
+After Move 2 c -- 586324179
+Dest Value 7
+Dest Index 6
+Before Place Down c -- 863241795
+Before Place Down t -- 863241795
+After Place Down c -- 863241795
+After Place Down t -- 841741795
+Before Switch t -- 841763295
+Before Switch c -- 863241795
+After Switch t -- 863241795
+AfterS witch c -- 841763295
+------------------
+------------------
+Before Move t -- 863241795
+Before Move c -- 841763295
+After Move 1 t -- 417632955
+After Move 1 c -- 841763295
+After Move 2 t -- 417632958
+After Move 2 c -- 841763295
+Dest Value 3
+Dest Index 4
+Before Place Down c -- 417632958
+Before Place Down t -- 417632958
+After Place Down c -- 417632958
+After Place Down t -- 437632958
+Before Switch t -- 431762958
+Before Switch c -- 417632958
+After Switch t -- 417632958
+AfterS witch c -- 431762958
+------------------
+------------------
+Before Move t -- 417632958
+Before Move c -- 431762958
+After Move 1 t -- 317629588
+After Move 1 c -- 431762958
+After Move 2 t -- 317629584
+After Move 2 c -- 431762958
+Dest Value 2
+Dest Index 4
+Before Place Down c -- 317629584
+Before Place Down t -- 317629584
+After Place Down c -- 317629584
+After Place Down t -- 327629584
+Before Switch t -- 321769584
+Before Switch c -- 317629584
+After Switch t -- 317629584
+AfterS witch c -- 321769584
+------------------
+------------------
+Before Move t -- 317629584
+Before Move c -- 321769584
+After Move 1 t -- 217695844
+After Move 1 c -- 321769584
+After Move 2 t -- 217695843
+After Move 2 c -- 321769584
+Dest Value 9
+Dest Index 4
+Before Place Down c -- 217695843
+Before Place Down t -- 217695843
+After Place Down c -- 217695843
+After Place Down t -- 297695843
+Before Switch t -- 291765843
+Before Switch c -- 217695843
+After Switch t -- 217695843
+AfterS witch c -- 291765843
+------------------
+------------------
+Before Move t -- 217695843
+Before Move c -- 291765843
+After Move 1 t -- 917658433
+After Move 1 c -- 291765843
+After Move 2 t -- 917658432
+After Move 2 c -- 291765843
+Dest Value 8
+Dest Index 5
+Before Place Down c -- 917658432
+Before Place Down t -- 917658432
+After Place Down c -- 917658432
+After Place Down t -- 958658432
+Before Switch t -- 958176432
+Before Switch c -- 917658432
+After Switch t -- 917658432
+AfterS witch c -- 958176432
+------------------
+------------------
+Before Move t -- 917658432
+Before Move c -- 958176432
+After Move 1 t -- 581764322
+After Move 1 c -- 958176432
+After Move 2 t -- 581764329
+After Move 2 c -- 958176432
+Dest Value 4
+Dest Index 5
+Before Place Down c -- 581764329
+Before Place Down t -- 581764329
+After Place Down c -- 581764329
+After Place Down t -- 564764329
+Before Switch t -- 564817329
+Before Switch c -- 581764329
+After Switch t -- 581764329
+AfterS witch c -- 564817329
+------------------
+------------------
+Before Move t -- 581764329
+Before Move c -- 564817329
+After Move 1 t -- 648173299
+After Move 1 c -- 564817329
+After Move 2 t -- 648173295
+After Move 2 c -- 564817329
+Dest Value 5
+Dest Index 8
+Before Place Down c -- 648173295
+Before Place Down t -- 648173295
+After Place Down c -- 648173295
+After Place Down t -- 673295295
+Before Switch t -- 673295481
+Before Switch c -- 648173295
+After Switch t -- 648173295
+AfterS witch c -- 673295481
+------------------
+------------------
+Before Move t -- 648173295
+Before Move c -- 673295481
+After Move 1 t -- 732954815
+After Move 1 c -- 673295481
+After Move 2 t -- 732954816
+After Move 2 c -- 673295481
+Dest Value 6
+Dest Index 8
+Before Place Down c -- 732954816
+Before Place Down t -- 732954816
+After Place Down c -- 732954816
+After Place Down t -- 754816816
+Before Switch t -- 754816329
+Before Switch c -- 732954816
+After Switch t -- 732954816
+AfterS witch c -- 754816329
+------------------
+------------------
+Before Move t -- 732954816
+Before Move c -- 754816329
+After Move 1 t -- 548163296
+After Move 1 c -- 754816329
+After Move 2 t -- 548163297
+After Move 2 c -- 754816329
+Dest Value 3
+Dest Index 5
+Before Place Down c -- 548163297
+Before Place Down t -- 548163297
+After Place Down c -- 548163297
+After Place Down t -- 563163297
+Before Switch t -- 563481297
+Before Switch c -- 548163297
+After Switch t -- 548163297
+AfterS witch c -- 563481297
+------------------
+------------------
+Before Move t -- 548163297
+Before Move c -- 563481297
+After Move 1 t -- 634812977
+After Move 1 c -- 563481297
+After Move 2 t -- 634812975
+After Move 2 c -- 563481297
+Dest Value 5
+Dest Index 8
+Before Place Down c -- 634812975
+Before Place Down t -- 634812975
+After Place Down c -- 634812975
+After Place Down t -- 612975975
+Before Switch t -- 612975348
+Before Switch c -- 634812975
+After Switch t -- 634812975
+AfterS witch c -- 612975348
+------------------
+------------------
+Before Move t -- 634812975
+Before Move c -- 612975348
+After Move 1 t -- 129753485
+After Move 1 c -- 612975348
+After Move 2 t -- 129753486
+After Move 2 c -- 612975348
+Dest Value 8
+Dest Index 7
+Before Place Down c -- 129753486
+Before Place Down t -- 129753486
+After Place Down c -- 129753486
+After Place Down t -- 153483486
+Before Switch t -- 153482976
+Before Switch c -- 129753486
+After Switch t -- 129753486
+AfterS witch c -- 153482976
+------------------
+------------------
+Before Move t -- 129753486
+Before Move c -- 153482976
+After Move 1 t -- 534829766
+After Move 1 c -- 153482976
+After Move 2 t -- 534829761
+After Move 2 c -- 153482976
+Dest Value 2
+Dest Index 4
+Before Place Down c -- 534829761
+Before Place Down t -- 534829761
+After Place Down c -- 534829761
+After Place Down t -- 524829761
+Before Switch t -- 523489761
+Before Switch c -- 534829761
+After Switch t -- 534829761
+AfterS witch c -- 523489761
+------------------
+------------------
+Before Move t -- 534829761
+Before Move c -- 523489761
+After Move 1 t -- 234897611
+After Move 1 c -- 523489761
+After Move 2 t -- 234897615
+After Move 2 c -- 523489761
+Dest Value 1
+Dest Index 7
+Before Place Down c -- 234897615
+Before Place Down t -- 234897615
+After Place Down c -- 234897615
+After Place Down t -- 297617615
+Before Switch t -- 297613485
+Before Switch c -- 234897615
+After Switch t -- 234897615
+AfterS witch c -- 297613485
+------------------
+------------------
+Before Move t -- 234897615
+Before Move c -- 297613485
+After Move 1 t -- 976134855
+After Move 1 c -- 297613485
+After Move 2 t -- 976134852
+After Move 2 c -- 297613485
+Dest Value 8
+Dest Index 6
+Before Place Down c -- 976134852
+Before Place Down t -- 976134852
+After Place Down c -- 976134852
+After Place Down t -- 934834852
+Before Switch t -- 934876152
+Before Switch c -- 976134852
+After Switch t -- 976134852
+AfterS witch c -- 934876152
+------------------
+------------------
+Before Move t -- 976134852
+Before Move c -- 934876152
+After Move 1 t -- 348761522
+After Move 1 c -- 934876152
+After Move 2 t -- 348761529
+After Move 2 c -- 934876152
+Dest Value 2
+Dest Index 7
+Before Place Down c -- 348761529
+Before Place Down t -- 348761529
+After Place Down c -- 348761529
+After Place Down t -- 361521529
+Before Switch t -- 361524879
+Before Switch c -- 348761529
+After Switch t -- 348761529
+AfterS witch c -- 361524879
+------------------
+------------------
+Before Move t -- 348761529
+Before Move c -- 361524879
+After Move 1 t -- 615248799
+After Move 1 c -- 361524879
+After Move 2 t -- 615248793
+After Move 2 c -- 361524879
+Dest Value 4
+Dest Index 4
+Before Place Down c -- 615248793
+Before Place Down t -- 615248793
+After Place Down c -- 615248793
+After Place Down t -- 645248793
+Before Switch t -- 641528793
+Before Switch c -- 615248793
+After Switch t -- 615248793
+AfterS witch c -- 641528793
+------------------
+------------------
+Before Move t -- 615248793
+Before Move c -- 641528793
+After Move 1 t -- 415287933
+After Move 1 c -- 641528793
+After Move 2 t -- 415287936
+After Move 2 c -- 641528793
+Dest Value 3
+Dest Index 7
+Before Place Down c -- 415287936
+Before Place Down t -- 415287936
+After Place Down c -- 415287936
+After Place Down t -- 487937936
+Before Switch t -- 487931526
+Before Switch c -- 415287936
+After Switch t -- 415287936
+AfterS witch c -- 487931526
+------------------
+------------------
+Before Move t -- 415287936
+Before Move c -- 487931526
+After Move 1 t -- 879315266
+After Move 1 c -- 487931526
+After Move 2 t -- 879315264
+After Move 2 c -- 487931526
+Dest Value 6
+Dest Index 7
+Before Place Down c -- 879315264
+Before Place Down t -- 879315264
+After Place Down c -- 879315264
+After Place Down t -- 815265264
+Before Switch t -- 815267934
+Before Switch c -- 879315264
+After Switch t -- 879315264
+AfterS witch c -- 815267934
+------------------
+------------------
+Before Move t -- 879315264
+Before Move c -- 815267934
+After Move 1 t -- 152679344
+After Move 1 c -- 815267934
+After Move 2 t -- 152679348
+After Move 2 c -- 815267934
+Dest Value 9
+Dest Index 5
+Before Place Down c -- 152679348
+Before Place Down t -- 152679348
+After Place Down c -- 152679348
+After Place Down t -- 179679348
+Before Switch t -- 179526348
+Before Switch c -- 152679348
+After Switch t -- 152679348
+AfterS witch c -- 179526348
+------------------
+------------------
+Before Move t -- 152679348
+Before Move c -- 179526348
+After Move 1 t -- 795263488
+After Move 1 c -- 179526348
+After Move 2 t -- 795263481
+After Move 2 c -- 179526348
+Dest Value 6
+Dest Index 4
+Before Place Down c -- 795263481
+Before Place Down t -- 795263481
+After Place Down c -- 795263481
+After Place Down t -- 765263481
+Before Switch t -- 769523481
+Before Switch c -- 795263481
+After Switch t -- 795263481
+AfterS witch c -- 769523481
+------------------
+------------------
+Before Move t -- 795263481
+Before Move c -- 769523481
+After Move 1 t -- 695234811
+After Move 1 c -- 769523481
+After Move 2 t -- 695234817
+After Move 2 c -- 769523481
+Dest Value 4
+Dest Index 5
+Before Place Down c -- 695234817
+Before Place Down t -- 695234817
+After Place Down c -- 695234817
+After Place Down t -- 634234817
+Before Switch t -- 634952817
+Before Switch c -- 695234817
+After Switch t -- 695234817
+AfterS witch c -- 634952817
+------------------
+------------------
+Before Move t -- 695234817
+Before Move c -- 634952817
+After Move 1 t -- 349528177
+After Move 1 c -- 634952817
+After Move 2 t -- 349528176
+After Move 2 c -- 634952817
+Dest Value 2
+Dest Index 4
+Before Place Down c -- 349528176
+Before Place Down t -- 349528176
+After Place Down c -- 349528176
+After Place Down t -- 329528176
+Before Switch t -- 324958176
+Before Switch c -- 349528176
+After Switch t -- 349528176
+AfterS witch c -- 324958176
+------------------
+------------------
+Before Move t -- 349528176
+Before Move c -- 324958176
+After Move 1 t -- 249581766
+After Move 1 c -- 324958176
+After Move 2 t -- 249581763
+After Move 2 c -- 324958176
+Dest Value 1
+Dest Index 5
+Before Place Down c -- 249581763
+Before Place Down t -- 249581763
+After Place Down c -- 249581763
+After Place Down t -- 281581763
+Before Switch t -- 281495763
+Before Switch c -- 249581763
+After Switch t -- 249581763
+AfterS witch c -- 281495763
+------------------
+------------------
+Before Move t -- 249581763
+Before Move c -- 281495763
+After Move 1 t -- 814957633
+After Move 1 c -- 281495763
+After Move 2 t -- 814957632
+After Move 2 c -- 281495763
+Dest Value 7
+Dest Index 5
+Before Place Down c -- 814957632
+Before Place Down t -- 814957632
+After Place Down c -- 814957632
+After Place Down t -- 857957632
+Before Switch t -- 857149632
+Before Switch c -- 814957632
+After Switch t -- 814957632
+AfterS witch c -- 857149632
+------------------
+------------------
+Before Move t -- 814957632
+Before Move c -- 857149632
+After Move 1 t -- 571496322
+After Move 1 c -- 857149632
+After Move 2 t -- 571496328
+After Move 2 c -- 857149632
+Dest Value 3
+Dest Index 6
+Before Place Down c -- 571496328
+Before Place Down t -- 571496328
+After Place Down c -- 571496328
+After Place Down t -- 596396328
+Before Switch t -- 596371428
+Before Switch c -- 571496328
+After Switch t -- 571496328
+AfterS witch c -- 596371428
+------------------
+------------------
+Before Move t -- 571496328
+Before Move c -- 596371428
+After Move 1 t -- 963714288
+After Move 1 c -- 596371428
+After Move 2 t -- 963714285
+After Move 2 c -- 596371428
+Dest Value 8
+Dest Index 7
+Before Place Down c -- 963714285
+Before Place Down t -- 963714285
+After Place Down c -- 963714285
+After Place Down t -- 914284285
+Before Switch t -- 914286375
+Before Switch c -- 963714285
+After Switch t -- 963714285
+AfterS witch c -- 914286375
+------------------
+------------------
+Before Move t -- 963714285
+Before Move c -- 914286375
+After Move 1 t -- 142863755
+After Move 1 c -- 914286375
+After Move 2 t -- 142863759
+After Move 2 c -- 914286375
+Dest Value 9
+Dest Index 8
+Before Place Down c -- 142863759
+Before Place Down t -- 142863759
+After Place Down c -- 142863759
+After Place Down t -- 163759759
+Before Switch t -- 163759428
+Before Switch c -- 142863759
+After Switch t -- 142863759
+AfterS witch c -- 163759428
+------------------
+------------------
+Before Move t -- 142863759
+Before Move c -- 163759428
+After Move 1 t -- 637594289
+After Move 1 c -- 163759428
+After Move 2 t -- 637594281
+After Move 2 c -- 163759428
+Dest Value 4
+Dest Index 5
+Before Place Down c -- 637594281
+Before Place Down t -- 637594281
+After Place Down c -- 637594281
+After Place Down t -- 694594281
+Before Switch t -- 694375281
+Before Switch c -- 637594281
+After Switch t -- 637594281
+AfterS witch c -- 694375281
+------------------
+------------------
+Before Move t -- 637594281
+Before Move c -- 694375281
+After Move 1 t -- 943752811
+After Move 1 c -- 694375281
+After Move 2 t -- 943752816
+After Move 2 c -- 694375281
+Dest Value 8
+Dest Index 6
+Before Place Down c -- 943752816
+Before Place Down t -- 943752816
+After Place Down c -- 943752816
+After Place Down t -- 952852816
+Before Switch t -- 952843716
+Before Switch c -- 943752816
+After Switch t -- 943752816
+AfterS witch c -- 952843716
+------------------
+------------------
+Before Move t -- 943752816
+Before Move c -- 952843716
+After Move 1 t -- 528437166
+After Move 1 c -- 952843716
+After Move 2 t -- 528437169
+After Move 2 c -- 952843716
+Dest Value 3
+Dest Index 4
+Before Place Down c -- 528437169
+Before Place Down t -- 528437169
+After Place Down c -- 528437169
+After Place Down t -- 538437169
+Before Switch t -- 532847169
+Before Switch c -- 528437169
+After Switch t -- 528437169
+AfterS witch c -- 532847169
+------------------
+------------------
+Before Move t -- 528437169
+Before Move c -- 532847169
+After Move 1 t -- 328471699
+After Move 1 c -- 532847169
+After Move 2 t -- 328471695
+After Move 2 c -- 532847169
+Dest Value 1
+Dest Index 5
+Before Place Down c -- 328471695
+Before Place Down t -- 328471695
+After Place Down c -- 328471695
+After Place Down t -- 371471695
+Before Switch t -- 371284695
+Before Switch c -- 328471695
+After Switch t -- 328471695
+AfterS witch c -- 371284695
+------------------
+------------------
+Before Move t -- 328471695
+Before Move c -- 371284695
+After Move 1 t -- 712846955
+After Move 1 c -- 371284695
+After Move 2 t -- 712846953
+After Move 2 c -- 371284695
+Dest Value 6
+Dest Index 5
+Before Place Down c -- 712846953
+Before Place Down t -- 712846953
+After Place Down c -- 712846953
+After Place Down t -- 746846953
+Before Switch t -- 746128953
+Before Switch c -- 712846953
+After Switch t -- 712846953
+AfterS witch c -- 746128953
+------------------
+------------------
+Before Move t -- 712846953
+Before Move c -- 746128953
+After Move 1 t -- 461289533
+After Move 1 c -- 746128953
+After Move 2 t -- 461289537
+After Move 2 c -- 746128953
+Dest Value 3
+Dest Index 7
+Before Place Down c -- 461289537
+Before Place Down t -- 461289537
+After Place Down c -- 461289537
+After Place Down t -- 489539537
+Before Switch t -- 489536127
+Before Switch c -- 461289537
+After Switch t -- 461289537
+AfterS witch c -- 489536127
+------------------
+------------------
+Before Move t -- 461289537
+Before Move c -- 489536127
+After Move 1 t -- 895361277
+After Move 1 c -- 489536127
+After Move 2 t -- 895361274
+After Move 2 c -- 489536127
+Dest Value 7
+Dest Index 7
+Before Place Down c -- 895361274
+Before Place Down t -- 895361274
+After Place Down c -- 895361274
+After Place Down t -- 861271274
+Before Switch t -- 861279534
+Before Switch c -- 895361274
+After Switch t -- 895361274
+AfterS witch c -- 861279534
+------------------
+------------------
+Before Move t -- 895361274
+Before Move c -- 861279534
+After Move 1 t -- 612795344
+After Move 1 c -- 861279534
+After Move 2 t -- 612795348
+After Move 2 c -- 861279534
+Dest Value 5
+Dest Index 5
+Before Place Down c -- 612795348
+Before Place Down t -- 612795348
+After Place Down c -- 612795348
+After Place Down t -- 695795348
+Before Switch t -- 695127348
+Before Switch c -- 612795348
+After Switch t -- 612795348
+AfterS witch c -- 695127348
+------------------
+------------------
+Before Move t -- 612795348
+Before Move c -- 695127348
+After Move 1 t -- 951273488
+After Move 1 c -- 695127348
+After Move 2 t -- 951273486
+After Move 2 c -- 695127348
+Dest Value 8
+Dest Index 7
+Before Place Down c -- 951273486
+Before Place Down t -- 951273486
+After Place Down c -- 951273486
+After Place Down t -- 973483486
+Before Switch t -- 973485126
+Before Switch c -- 951273486
+After Switch t -- 951273486
+AfterS witch c -- 973485126
+------------------
+------------------
+Before Move t -- 951273486
+Before Move c -- 973485126
+After Move 1 t -- 734851266
+After Move 1 c -- 973485126
+After Move 2 t -- 734851269
+After Move 2 c -- 973485126
+Dest Value 6
+Dest Index 7
+Before Place Down c -- 734851269
+Before Place Down t -- 734851269
+After Place Down c -- 734851269
+After Place Down t -- 751261269
+Before Switch t -- 751263489
+Before Switch c -- 734851269
+After Switch t -- 734851269
+AfterS witch c -- 751263489
+------------------
+------------------
+Before Move t -- 734851269
+Before Move c -- 751263489
+After Move 1 t -- 512634899
+After Move 1 c -- 751263489
+After Move 2 t -- 512634897
+After Move 2 c -- 751263489
+Dest Value 4
+Dest Index 5
+Before Place Down c -- 512634897
+Before Place Down t -- 512634897
+After Place Down c -- 512634897
+After Place Down t -- 534634897
+Before Switch t -- 534126897
+Before Switch c -- 512634897
+After Switch t -- 512634897
+AfterS witch c -- 534126897
+------------------
+------------------
+Before Move t -- 512634897
+Before Move c -- 534126897
+After Move 1 t -- 341268977
+After Move 1 c -- 534126897
+After Move 2 t -- 341268975
+After Move 2 c -- 534126897
+Dest Value 9
+Dest Index 6
+Before Place Down c -- 341268975
+Before Place Down t -- 341268975
+After Place Down c -- 341268975
+After Place Down t -- 368968975
+Before Switch t -- 368941275
+Before Switch c -- 341268975
+After Switch t -- 341268975
+AfterS witch c -- 368941275
+------------------
+------------------
+Before Move t -- 341268975
+Before Move c -- 368941275
+After Move 1 t -- 689412755
+After Move 1 c -- 368941275
+After Move 2 t -- 689412753
+After Move 2 c -- 368941275
+Dest Value 5
+Dest Index 7
+Before Place Down c -- 689412753
+Before Place Down t -- 689412753
+After Place Down c -- 689412753
+After Place Down t -- 612752753
+Before Switch t -- 612758943
+Before Switch c -- 689412753
+After Switch t -- 689412753
+AfterS witch c -- 612758943
+------------------
+------------------
+Before Move t -- 689412753
+Before Move c -- 612758943
+After Move 1 t -- 127589433
+After Move 1 c -- 612758943
+After Move 2 t -- 127589436
+After Move 2 c -- 612758943
+Dest Value 9
+Dest Index 5
+Before Place Down c -- 127589436
+Before Place Down t -- 127589436
+After Place Down c -- 127589436
+After Place Down t -- 189589436
+Before Switch t -- 189275436
+Before Switch c -- 127589436
+After Switch t -- 127589436
+AfterS witch c -- 189275436
+------------------
+------------------
+Before Move t -- 127589436
+Before Move c -- 189275436
+After Move 1 t -- 892754366
+After Move 1 c -- 189275436
+After Move 2 t -- 892754361
+After Move 2 c -- 189275436
+Dest Value 6
+Dest Index 7
+Before Place Down c -- 892754361
+Before Place Down t -- 892754361
+After Place Down c -- 892754361
+After Place Down t -- 854364361
+Before Switch t -- 854369271
+Before Switch c -- 892754361
+After Switch t -- 892754361
+AfterS witch c -- 854369271
+------------------
+------------------
+Before Move t -- 892754361
+Before Move c -- 854369271
+After Move 1 t -- 543692711
+After Move 1 c -- 854369271
+After Move 2 t -- 543692718
+After Move 2 c -- 854369271
+Dest Value 2
+Dest Index 5
+Before Place Down c -- 543692718
+Before Place Down t -- 543692718
+After Place Down c -- 543692718
+After Place Down t -- 592692718
+Before Switch t -- 592436718
+Before Switch c -- 543692718
+After Switch t -- 543692718
+AfterS witch c -- 592436718
+------------------
+------------------
+Before Move t -- 543692718
+Before Move c -- 592436718
+After Move 1 t -- 924367188
+After Move 1 c -- 592436718
+After Move 2 t -- 924367185
+After Move 2 c -- 592436718
+Dest Value 8
+Dest Index 7
+Before Place Down c -- 924367185
+Before Place Down t -- 924367185
+After Place Down c -- 924367185
+After Place Down t -- 967187185
+Before Switch t -- 967182435
+Before Switch c -- 924367185
+After Switch t -- 924367185
+AfterS witch c -- 967182435
+------------------
+------------------
+Before Move t -- 924367185
+Before Move c -- 967182435
+After Move 1 t -- 671824355
+After Move 1 c -- 967182435
+After Move 2 t -- 671824359
+After Move 2 c -- 967182435
+Dest Value 5
+Dest Index 7
+Before Place Down c -- 671824359
+Before Place Down t -- 671824359
+After Place Down c -- 671824359
+After Place Down t -- 624354359
+Before Switch t -- 624357189
+Before Switch c -- 671824359
+After Switch t -- 671824359
+AfterS witch c -- 624357189
+------------------
+------------------
+Before Move t -- 671824359
+Before Move c -- 624357189
+After Move 1 t -- 243571899
+After Move 1 c -- 624357189
+After Move 2 t -- 243571896
+After Move 2 c -- 624357189
+Dest Value 1
+Dest Index 5
+Before Place Down c -- 243571896
+Before Place Down t -- 243571896
+After Place Down c -- 243571896
+After Place Down t -- 271571896
+Before Switch t -- 271435896
+Before Switch c -- 243571896
+After Switch t -- 243571896
+AfterS witch c -- 271435896
+------------------
+------------------
+Before Move t -- 243571896
+Before Move c -- 271435896
+After Move 1 t -- 714358966
+After Move 1 c -- 271435896
+After Move 2 t -- 714358962
+After Move 2 c -- 271435896
+Dest Value 6
+Dest Index 7
+Before Place Down c -- 714358962
+Before Place Down t -- 714358962
+After Place Down c -- 714358962
+After Place Down t -- 758968962
+Before Switch t -- 758961432
+Before Switch c -- 714358962
+After Switch t -- 714358962
+AfterS witch c -- 758961432
+------------------
+------------------
+Before Move t -- 714358962
+Before Move c -- 758961432
+After Move 1 t -- 589614322
+After Move 1 c -- 758961432
+After Move 2 t -- 589614327
+After Move 2 c -- 758961432
+Dest Value 4
+Dest Index 5
+Before Place Down c -- 589614327
+Before Place Down t -- 589614327
+After Place Down c -- 589614327
+After Place Down t -- 514614327
+Before Switch t -- 514896327
+Before Switch c -- 589614327
+After Switch t -- 589614327
+AfterS witch c -- 514896327
+------------------
+------------------
+Before Move t -- 589614327
+Before Move c -- 514896327
+After Move 1 t -- 148963277
+After Move 1 c -- 514896327
+After Move 2 t -- 148963275
+After Move 2 c -- 514896327
+Dest Value 7
+Dest Index 7
+Before Place Down c -- 148963275
+Before Place Down t -- 148963275
+After Place Down c -- 148963275
+After Place Down t -- 163273275
+Before Switch t -- 163274895
+Before Switch c -- 148963275
+After Switch t -- 148963275
+AfterS witch c -- 163274895
+------------------
+------------------
+Before Move t -- 148963275
+Before Move c -- 163274895
+After Move 1 t -- 632748955
+After Move 1 c -- 163274895
+After Move 2 t -- 632748951
+After Move 2 c -- 163274895
+Dest Value 5
+Dest Index 7
+Before Place Down c -- 632748951
+Before Place Down t -- 632748951
+After Place Down c -- 632748951
+After Place Down t -- 648958951
+Before Switch t -- 648953271
+Before Switch c -- 632748951
+After Switch t -- 632748951
+AfterS witch c -- 648953271
+------------------
+------------------
+Before Move t -- 632748951
+Before Move c -- 648953271
+After Move 1 t -- 489532711
+After Move 1 c -- 648953271
+After Move 2 t -- 489532716
+After Move 2 c -- 648953271
+Dest Value 3
+Dest Index 4
+Before Place Down c -- 489532716
+Before Place Down t -- 489532716
+After Place Down c -- 489532716
+After Place Down t -- 439532716
+Before Switch t -- 438952716
+Before Switch c -- 489532716
+After Switch t -- 489532716
+AfterS witch c -- 438952716
+------------------
+------------------
+Before Move t -- 489532716
+Before Move c -- 438952716
+After Move 1 t -- 389527166
+After Move 1 c -- 438952716
+After Move 2 t -- 389527164
+After Move 2 c -- 438952716
+Dest Value 2
+Dest Index 4
+Before Place Down c -- 389527164
+Before Place Down t -- 389527164
+After Place Down c -- 389527164
+After Place Down t -- 329527164
+Before Switch t -- 328957164
+Before Switch c -- 389527164
+After Switch t -- 389527164
+AfterS witch c -- 328957164
+------------------
+------------------
+Before Move t -- 389527164
+Before Move c -- 328957164
+After Move 1 t -- 289571644
+After Move 1 c -- 328957164
+After Move 2 t -- 289571643
+After Move 2 c -- 328957164
+Dest Value 1
+Dest Index 5
+Before Place Down c -- 289571643
+Before Place Down t -- 289571643
+After Place Down c -- 289571643
+After Place Down t -- 271571643
+Before Switch t -- 271895643
+Before Switch c -- 289571643
+After Switch t -- 289571643
+AfterS witch c -- 271895643
+------------------
+------------------
+Before Move t -- 289571643
+Before Move c -- 271895643
+After Move 1 t -- 718956433
+After Move 1 c -- 271895643
+After Move 2 t -- 718956432
+After Move 2 c -- 271895643
+Dest Value 6
+Dest Index 5
+Before Place Down c -- 718956432
+Before Place Down t -- 718956432
+After Place Down c -- 718956432
+After Place Down t -- 756956432
+Before Switch t -- 756189432
+Before Switch c -- 718956432
+After Switch t -- 718956432
+AfterS witch c -- 756189432
+------------------
+------------------
+Before Move t -- 718956432
+Before Move c -- 756189432
+After Move 1 t -- 561894322
+After Move 1 c -- 756189432
+After Move 2 t -- 561894327
+After Move 2 c -- 756189432
+Dest Value 4
+Dest Index 5
+Before Place Down c -- 561894327
+Before Place Down t -- 561894327
+After Place Down c -- 561894327
+After Place Down t -- 594894327
+Before Switch t -- 594618327
+Before Switch c -- 561894327
+After Switch t -- 561894327
+AfterS witch c -- 594618327
+------------------
+------------------
+Before Move t -- 561894327
+Before Move c -- 594618327
+After Move 1 t -- 946183277
+After Move 1 c -- 594618327
+After Move 2 t -- 946183275
+After Move 2 c -- 594618327
+Dest Value 8
+Dest Index 4
+Before Place Down c -- 946183275
+Before Place Down t -- 946183275
+After Place Down c -- 946183275
+After Place Down t -- 986183275
+Before Switch t -- 984613275
+Before Switch c -- 946183275
+After Switch t -- 946183275
+AfterS witch c -- 984613275
+------------------
+------------------
+Before Move t -- 946183275
+Before Move c -- 984613275
+After Move 1 t -- 846132755
+After Move 1 c -- 984613275
+After Move 2 t -- 846132759
+After Move 2 c -- 984613275
+Dest Value 7
+Dest Index 6
+Before Place Down c -- 846132759
+Before Place Down t -- 846132759
+After Place Down c -- 846132759
+After Place Down t -- 832732759
+Before Switch t -- 832746159
+Before Switch c -- 846132759
+After Switch t -- 846132759
+AfterS witch c -- 832746159
+------------------
+------------------
+Before Move t -- 846132759
+Before Move c -- 832746159
+After Move 1 t -- 327461599
+After Move 1 c -- 832746159
+After Move 2 t -- 327461598
+After Move 2 c -- 832746159
+Dest Value 1
+Dest Index 5
+Before Place Down c -- 327461598
+Before Place Down t -- 327461598
+After Place Down c -- 327461598
+After Place Down t -- 361461598
+Before Switch t -- 361274598
+Before Switch c -- 327461598
+After Switch t -- 327461598
+AfterS witch c -- 361274598
+------------------
+------------------
+Before Move t -- 327461598
+Before Move c -- 361274598
+After Move 1 t -- 612745988
+After Move 1 c -- 361274598
+After Move 2 t -- 612745983
+After Move 2 c -- 361274598
+Dest Value 5
+Dest Index 5
+Before Place Down c -- 612745983
+Before Place Down t -- 612745983
+After Place Down c -- 612745983
+After Place Down t -- 645745983
+Before Switch t -- 645127983
+Before Switch c -- 612745983
+After Switch t -- 612745983
+AfterS witch c -- 645127983
+------------------
+------------------
+Before Move t -- 612745983
+Before Move c -- 645127983
+After Move 1 t -- 451279833
+After Move 1 c -- 645127983
+After Move 2 t -- 451279836
+After Move 2 c -- 645127983
+Dest Value 3
+Dest Index 7
+Before Place Down c -- 451279836
+Before Place Down t -- 451279836
+After Place Down c -- 451279836
+After Place Down t -- 479839836
+Before Switch t -- 479835126
+Before Switch c -- 451279836
+After Switch t -- 451279836
+AfterS witch c -- 479835126
+------------------
+------------------
+Before Move t -- 451279836
+Before Move c -- 479835126
+After Move 1 t -- 798351266
+After Move 1 c -- 479835126
+After Move 2 t -- 798351264
+After Move 2 c -- 479835126
+Dest Value 6
+Dest Index 7
+Before Place Down c -- 798351264
+Before Place Down t -- 798351264
+After Place Down c -- 798351264
+After Place Down t -- 751261264
+Before Switch t -- 751269834
+Before Switch c -- 798351264
+After Switch t -- 798351264
+AfterS witch c -- 751269834
+------------------
+------------------
+Before Move t -- 798351264
+Before Move c -- 751269834
+After Move 1 t -- 512698344
+After Move 1 c -- 751269834
+After Move 2 t -- 512698347
+After Move 2 c -- 751269834
+Dest Value 4
+Dest Index 7
+Before Place Down c -- 512698347
+Before Place Down t -- 512698347
+After Place Down c -- 512698347
+After Place Down t -- 598348347
+Before Switch t -- 598341267
+Before Switch c -- 512698347
+After Switch t -- 512698347
+AfterS witch c -- 598341267
+------------------
+------------------
+Before Move t -- 512698347
+Before Move c -- 598341267
+After Move 1 t -- 983412677
+After Move 1 c -- 598341267
+After Move 2 t -- 983412675
+After Move 2 c -- 598341267
+Dest Value 7
+Dest Index 7
+Before Place Down c -- 983412675
+Before Place Down t -- 983412675
+After Place Down c -- 983412675
+After Place Down t -- 912672675
+Before Switch t -- 912678345
+Before Switch c -- 983412675
+After Switch t -- 983412675
+AfterS witch c -- 912678345
+------------------
+------------------
+Before Move t -- 983412675
+Before Move c -- 912678345
+After Move 1 t -- 126783455
+After Move 1 c -- 912678345
+After Move 2 t -- 126783459
+After Move 2 c -- 912678345
+Dest Value 9
+Dest Index 8
+Before Place Down c -- 126783459
+Before Place Down t -- 126783459
+After Place Down c -- 126783459
+After Place Down t -- 183459459
+Before Switch t -- 183459267
+Before Switch c -- 126783459
+After Switch t -- 126783459
+AfterS witch c -- 183459267
+------------------
+------------------
+Before Move t -- 126783459
+Before Move c -- 183459267
+After Move 1 t -- 834592679
+After Move 1 c -- 183459267
+After Move 2 t -- 834592671
+After Move 2 c -- 183459267
+Dest Value 7
+Dest Index 7
+Before Place Down c -- 834592671
+Before Place Down t -- 834592671
+After Place Down c -- 834592671
+After Place Down t -- 892672671
+Before Switch t -- 892673451
+Before Switch c -- 834592671
+After Switch t -- 834592671
+AfterS witch c -- 892673451
+------------------
+------------------
+Before Move t -- 834592671
+Before Move c -- 892673451
+After Move 1 t -- 926734511
+After Move 1 c -- 892673451
+After Move 2 t -- 926734518
+After Move 2 c -- 892673451
+Dest Value 8
+Dest Index 8
+Before Place Down c -- 926734518
+Before Place Down t -- 926734518
+After Place Down c -- 926734518
+After Place Down t -- 934518518
+Before Switch t -- 934518267
+Before Switch c -- 926734518
+After Switch t -- 926734518
+AfterS witch c -- 934518267
+------------------
+------------------
+Before Move t -- 926734518
+Before Move c -- 934518267
+After Move 1 t -- 345182678
+After Move 1 c -- 934518267
+After Move 2 t -- 345182679
+After Move 2 c -- 934518267
+Dest Value 2
+Dest Index 5
+Before Place Down c -- 345182679
+Before Place Down t -- 345182679
+After Place Down c -- 345182679
+After Place Down t -- 382182679
+Before Switch t -- 382451679
+Before Switch c -- 345182679
+After Switch t -- 345182679
+AfterS witch c -- 382451679
+------------------
+------------------
+Before Move t -- 345182679
+Before Move c -- 382451679
+After Move 1 t -- 824516799
+After Move 1 c -- 382451679
+After Move 2 t -- 824516793
+After Move 2 c -- 382451679
+Dest Value 7
+Dest Index 6
+Before Place Down c -- 824516793
+Before Place Down t -- 824516793
+After Place Down c -- 824516793
+After Place Down t -- 816716793
+Before Switch t -- 816724593
+Before Switch c -- 824516793
+After Switch t -- 824516793
+AfterS witch c -- 816724593
+------------------
+------------------
+Before Move t -- 824516793
+Before Move c -- 816724593
+After Move 1 t -- 167245933
+After Move 1 c -- 816724593
+After Move 2 t -- 167245938
+After Move 2 c -- 816724593
+Dest Value 9
+Dest Index 6
+Before Place Down c -- 167245938
+Before Place Down t -- 167245938
+After Place Down c -- 167245938
+After Place Down t -- 145945938
+Before Switch t -- 145967238
+Before Switch c -- 167245938
+After Switch t -- 167245938
+AfterS witch c -- 145967238
+------------------
+------------------
+Before Move t -- 167245938
+Before Move c -- 145967238
+After Move 1 t -- 459672388
+After Move 1 c -- 145967238
+After Move 2 t -- 459672381
+After Move 2 c -- 145967238
+Dest Value 3
+Dest Index 6
+Before Place Down c -- 459672381
+Before Place Down t -- 459672381
+After Place Down c -- 459672381
+After Place Down t -- 472372381
+Before Switch t -- 472359681
+Before Switch c -- 459672381
+After Switch t -- 459672381
+AfterS witch c -- 472359681
+------------------
+------------------
+Before Move t -- 459672381
+Before Move c -- 472359681
+After Move 1 t -- 723596811
+After Move 1 c -- 472359681
+After Move 2 t -- 723596814
+After Move 2 c -- 472359681
+Dest Value 6
+Dest Index 5
+Before Place Down c -- 723596814
+Before Place Down t -- 723596814
+After Place Down c -- 723596814
+After Place Down t -- 796596814
+Before Switch t -- 796235814
+Before Switch c -- 723596814
+After Switch t -- 723596814
+AfterS witch c -- 796235814
+------------------
+------------------
+Before Move t -- 723596814
+Before Move c -- 796235814
+After Move 1 t -- 962358144
+After Move 1 c -- 796235814
+After Move 2 t -- 962358147
+After Move 2 c -- 796235814
+Dest Value 8
+Dest Index 5
+Before Place Down c -- 962358147
+Before Place Down t -- 962358147
+After Place Down c -- 962358147
+After Place Down t -- 958358147
+Before Switch t -- 958623147
+Before Switch c -- 962358147
+After Switch t -- 962358147
+AfterS witch c -- 958623147
+------------------
+------------------
+Before Move t -- 962358147
+Before Move c -- 958623147
+After Move 1 t -- 586231477
+After Move 1 c -- 958623147
+After Move 2 t -- 586231479
+After Move 2 c -- 958623147
+Dest Value 4
+Dest Index 6
+Before Place Down c -- 586231479
+Before Place Down t -- 586231479
+After Place Down c -- 586231479
+After Place Down t -- 531431479
+Before Switch t -- 531486279
+Before Switch c -- 586231479
+After Switch t -- 586231479
+AfterS witch c -- 531486279
+------------------
+------------------
+Before Move t -- 586231479
+Before Move c -- 531486279
+After Move 1 t -- 314862799
+After Move 1 c -- 531486279
+After Move 2 t -- 314862795
+After Move 2 c -- 531486279
+Dest Value 2
+Dest Index 5
+Before Place Down c -- 314862795
+Before Place Down t -- 314862795
+After Place Down c -- 314862795
+After Place Down t -- 362862795
+Before Switch t -- 362148795
+Before Switch c -- 314862795
+After Switch t -- 314862795
+AfterS witch c -- 362148795
+------------------
+------------------
+Before Move t -- 314862795
+Before Move c -- 362148795
+After Move 1 t -- 621487955
+After Move 1 c -- 362148795
+After Move 2 t -- 621487953
+After Move 2 c -- 362148795
+Dest Value 5
+Dest Index 7
+Before Place Down c -- 621487953
+Before Place Down t -- 621487953
+After Place Down c -- 621487953
+After Place Down t -- 687957953
+Before Switch t -- 687952143
+Before Switch c -- 621487953
+After Switch t -- 621487953
+AfterS witch c -- 687952143
+------------------
+------------------
+Before Move t -- 621487953
+Before Move c -- 687952143
+After Move 1 t -- 879521433
+After Move 1 c -- 687952143
+After Move 2 t -- 879521436
+After Move 2 c -- 687952143
+Dest Value 6
+Dest Index 8
+Before Place Down c -- 879521436
+Before Place Down t -- 879521436
+After Place Down c -- 879521436
+After Place Down t -- 821436436
+Before Switch t -- 821436795
+Before Switch c -- 879521436
+After Switch t -- 879521436
+AfterS witch c -- 821436795
+------------------
+------------------
+Before Move t -- 879521436
+Before Move c -- 821436795
+After Move 1 t -- 214367956
+After Move 1 c -- 821436795
+After Move 2 t -- 214367958
+After Move 2 c -- 821436795
+Dest Value 9
+Dest Index 6
+Before Place Down c -- 214367958
+Before Place Down t -- 214367958
+After Place Down c -- 214367958
+After Place Down t -- 267967958
+Before Switch t -- 267914358
+Before Switch c -- 214367958
+After Switch t -- 214367958
+AfterS witch c -- 267914358
+------------------
+------------------
+Before Move t -- 214367958
+Before Move c -- 267914358
+After Move 1 t -- 679143588
+After Move 1 c -- 267914358
+After Move 2 t -- 679143582
+After Move 2 c -- 267914358
+Dest Value 5
+Dest Index 6
+Before Place Down c -- 679143582
+Before Place Down t -- 679143582
+After Place Down c -- 679143582
+After Place Down t -- 643543582
+Before Switch t -- 643579182
+Before Switch c -- 679143582
+After Switch t -- 679143582
+AfterS witch c -- 643579182
+------------------
+------------------
+Before Move t -- 679143582
+Before Move c -- 643579182
+After Move 1 t -- 435791822
+After Move 1 c -- 643579182
+After Move 2 t -- 435791826
+After Move 2 c -- 643579182
+Dest Value 2
+Dest Index 7
+Before Place Down c -- 435791826
+Before Place Down t -- 435791826
+After Place Down c -- 435791826
+After Place Down t -- 491821826
+Before Switch t -- 491823576
+Before Switch c -- 435791826
+After Switch t -- 435791826
+AfterS witch c -- 491823576
+------------------
+------------------
+Before Move t -- 435791826
+Before Move c -- 491823576
+After Move 1 t -- 918235766
+After Move 1 c -- 491823576
+After Move 2 t -- 918235764
+After Move 2 c -- 491823576
+Dest Value 7
+Dest Index 6
+Before Place Down c -- 918235764
+Before Place Down t -- 918235764
+After Place Down c -- 918235764
+After Place Down t -- 935735764
+Before Switch t -- 935718264
+Before Switch c -- 918235764
+After Switch t -- 918235764
+AfterS witch c -- 935718264
+------------------
+------------------
+Before Move t -- 918235764
+Before Move c -- 935718264
+After Move 1 t -- 357182644
+After Move 1 c -- 935718264
+After Move 2 t -- 357182649
+After Move 2 c -- 935718264
+Dest Value 2
+Dest Index 5
+Before Place Down c -- 357182649
+Before Place Down t -- 357182649
+After Place Down c -- 357182649
+After Place Down t -- 382182649
+Before Switch t -- 382571649
+Before Switch c -- 357182649
+After Switch t -- 357182649
+AfterS witch c -- 382571649
+------------------
+------------------
+Before Move t -- 357182649
+Before Move c -- 382571649
+After Move 1 t -- 825716499
+After Move 1 c -- 382571649
+After Move 2 t -- 825716493
+After Move 2 c -- 382571649
+Dest Value 6
+Dest Index 5
+Before Place Down c -- 825716493
+Before Place Down t -- 825716493
+After Place Down c -- 825716493
+After Place Down t -- 816716493
+Before Switch t -- 816257493
+Before Switch c -- 825716493
+After Switch t -- 825716493
+AfterS witch c -- 816257493
+------------------
+------------------
+Before Move t -- 825716493
+Before Move c -- 816257493
+After Move 1 t -- 162574933
+After Move 1 c -- 816257493
+After Move 2 t -- 162574938
+After Move 2 c -- 816257493
+Dest Value 9
+Dest Index 6
+Before Place Down c -- 162574938
+Before Place Down t -- 162574938
+After Place Down c -- 162574938
+After Place Down t -- 174974938
+Before Switch t -- 174962538
+Before Switch c -- 162574938
+After Switch t -- 162574938
+AfterS witch c -- 174962538
+------------------
+------------------
+Before Move t -- 162574938
+Before Move c -- 174962538
+After Move 1 t -- 749625388
+After Move 1 c -- 174962538
+After Move 2 t -- 749625381
+After Move 2 c -- 174962538
+Dest Value 5
+Dest Index 5
+Before Place Down c -- 749625381
+Before Place Down t -- 749625381
+After Place Down c -- 749625381
+After Place Down t -- 725625381
+Before Switch t -- 725496381
+Before Switch c -- 749625381
+After Switch t -- 749625381
+AfterS witch c -- 725496381
+------------------
+------------------
+Before Move t -- 749625381
+Before Move c -- 725496381
+After Move 1 t -- 254963811
+After Move 1 c -- 725496381
+After Move 2 t -- 254963817
+After Move 2 c -- 725496381
+Dest Value 1
+Dest Index 7
+Before Place Down c -- 254963817
+Before Place Down t -- 254963817
+After Place Down c -- 254963817
+After Place Down t -- 263813817
+Before Switch t -- 263815497
+Before Switch c -- 254963817
+After Switch t -- 254963817
+AfterS witch c -- 263815497
+------------------
+------------------
+Before Move t -- 254963817
+Before Move c -- 263815497
+After Move 1 t -- 638154977
+After Move 1 c -- 263815497
+After Move 2 t -- 638154972
+After Move 2 c -- 263815497
+Dest Value 5
+Dest Index 4
+Before Place Down c -- 638154972
+Before Place Down t -- 638154972
+After Place Down c -- 638154972
+After Place Down t -- 658154972
+Before Switch t -- 653814972
+Before Switch c -- 638154972
+After Switch t -- 638154972
+AfterS witch c -- 653814972
+------------------
+------------------
+Before Move t -- 638154972
+Before Move c -- 653814972
+After Move 1 t -- 538149722
+After Move 1 c -- 653814972
+After Move 2 t -- 538149726
+After Move 2 c -- 653814972
+Dest Value 4
+Dest Index 4
+Before Place Down c -- 538149726
+Before Place Down t -- 538149726
+After Place Down c -- 538149726
+After Place Down t -- 548149726
+Before Switch t -- 543819726
+Before Switch c -- 538149726
+After Switch t -- 538149726
+AfterS witch c -- 543819726
+------------------
+------------------
+Before Move t -- 538149726
+Before Move c -- 543819726
+After Move 1 t -- 438197266
+After Move 1 c -- 543819726
+After Move 2 t -- 438197265
+After Move 2 c -- 543819726
+Dest Value 2
+Dest Index 6
+Before Place Down c -- 438197265
+Before Place Down t -- 438197265
+After Place Down c -- 438197265
+After Place Down t -- 497297265
+Before Switch t -- 497238165
+Before Switch c -- 438197265
+After Switch t -- 438197265
+AfterS witch c -- 497238165
+------------------
+------------------
+Before Move t -- 438197265
+Before Move c -- 497238165
+After Move 1 t -- 972381655
+After Move 1 c -- 497238165
+After Move 2 t -- 972381654
+After Move 2 c -- 497238165
+Dest Value 8
+Dest Index 4
+Before Place Down c -- 972381654
+Before Place Down t -- 972381654
+After Place Down c -- 972381654
+After Place Down t -- 982381654
+Before Switch t -- 987231654
+Before Switch c -- 972381654
+After Switch t -- 972381654
+AfterS witch c -- 987231654
+------------------
+------------------
+Before Move t -- 972381654
+Before Move c -- 987231654
+After Move 1 t -- 872316544
+After Move 1 c -- 987231654
+After Move 2 t -- 872316549
+After Move 2 c -- 987231654
+Dest Value 6
+Dest Index 5
+Before Place Down c -- 872316549
+Before Place Down t -- 872316549
+After Place Down c -- 872316549
+After Place Down t -- 816316549
+Before Switch t -- 816723549
+Before Switch c -- 872316549
+After Switch t -- 872316549
+AfterS witch c -- 816723549
+------------------
+------------------
+Before Move t -- 872316549
+Before Move c -- 816723549
+After Move 1 t -- 167235499
+After Move 1 c -- 816723549
+After Move 2 t -- 167235498
+After Move 2 c -- 816723549
+Dest Value 9
+Dest Index 7
+Before Place Down c -- 167235498
+Before Place Down t -- 167235498
+After Place Down c -- 167235498
+After Place Down t -- 135495498
+Before Switch t -- 135496728
+Before Switch c -- 167235498
+After Switch t -- 167235498
+AfterS witch c -- 135496728
+------------------
+------------------
+Before Move t -- 167235498
+Before Move c -- 135496728
+After Move 1 t -- 354967288
+After Move 1 c -- 135496728
+After Move 2 t -- 354967281
+After Move 2 c -- 135496728
+Dest Value 2
+Dest Index 6
+Before Place Down c -- 354967281
+Before Place Down t -- 354967281
+After Place Down c -- 354967281
+After Place Down t -- 367267281
+Before Switch t -- 367254981
+Before Switch c -- 354967281
+After Switch t -- 354967281
+AfterS witch c -- 367254981
+------------------
+------------------
+Before Move t -- 354967281
+Before Move c -- 367254981
+After Move 1 t -- 672549811
+After Move 1 c -- 367254981
+After Move 2 t -- 672549813
+After Move 2 c -- 367254981
+Dest Value 4
+Dest Index 4
+Before Place Down c -- 672549813
+Before Place Down t -- 672549813
+After Place Down c -- 672549813
+After Place Down t -- 642549813
+Before Switch t -- 647259813
+Before Switch c -- 672549813
+After Switch t -- 672549813
+AfterS witch c -- 647259813
+------------------
+------------------
+Before Move t -- 672549813
+Before Move c -- 647259813
+After Move 1 t -- 132549813
+After Move 1 c -- 647259813
+After Move 2 t -- 136472598
+After Move 2 c -- 647259813
